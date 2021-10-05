@@ -1,0 +1,48 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schooladvies"
+    id="id-e3c44a1400b2390142bff8db73bf5ebb"
+    documentation="Schooladvies is advies voor het voortgezet onderwijs voor een leerling in leerjaar 8 van het (speciaal) basisonderwijs">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="607b7431-32a0-4bc09-1532-e70a11d9d14"/>
+  <properties
+      key="Original ID"
+      value="id-607b743132a04bc091532e70a11d9d14"/>
+  <properties
+      key="Semanticsearch"
+      value="schooladvies"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Afgeleid van"
+      value="https://duo.nl/open_onderwijsdata/begrippen/begrippenlijst.jsp"/>
+  <properties
+      key="Sector"
+      value="PO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

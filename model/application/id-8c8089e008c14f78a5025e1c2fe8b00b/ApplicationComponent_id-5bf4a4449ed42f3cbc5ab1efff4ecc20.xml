@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nummervoorziening"
+    id="id-5bf4a4449ed42f3cbc5ab1efff4ecc20"
+    documentation="De Nummervoorziening zorgt ervoor dat betekenisloze identificatienummers uitgewisseld kunnen worden binnen de onderwijsketen, zonder dat er persoonsgegevens van leerlingen gedeeld worden met en tussen partijen in de leermiddelenketen.">
+  <properties
+      key="Object ID"
+      value="f090b12d-ad54-45a2-a6a6-d09ac637e1cf"/>
+  <properties
+      key="Original ID"
+      value="f090b12d-ad54-45a2-a6a6-d09ac637e1cf"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Landelijke voorziening"/>
+  <properties
+      key="Semanticsearch"
+      value="nummervoorziening"/>
+</archimate:ApplicationComponent>

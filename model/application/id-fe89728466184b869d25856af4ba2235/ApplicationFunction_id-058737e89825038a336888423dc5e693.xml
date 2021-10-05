@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer toetsen en items"
+    id="id-058737e89825038a336888423dc5e693"
+    documentation="Maken van opgaven&#xA;Importeren, exporteren van opgaven">
+  <properties
+      key="Object ID"
+      value="8f05470a-1243-44b3-8651-d4969c37f77f"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-8f05470a-1243-44b3-8651-d4969c37f77f"/>
+  <properties
+      key="Semanticsearch"
+      value="beheer toetsen en items"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

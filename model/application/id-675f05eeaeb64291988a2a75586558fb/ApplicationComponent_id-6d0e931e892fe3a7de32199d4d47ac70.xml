@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkplekbeheersysteem"
+    id="id-6d0e931e892fe3a7de32199d4d47ac70"
+    documentation="Systeem met behulp waarvan werkplekken worden beheerd.&#xA;Denk aan:- Applicatiedistributie Policies instellen&#xA;- Imagebeheer Beheer op afstand&#xA;- Updates en patches Aan- uitzetten op afstand&#xA;Bijvoorbeeld: Scense MS Software center Symantic client management suit">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="a730260c-9591-4f1b8-b161-9b371fb929b"/>
+  <properties
+      key="Original ID"
+      value="id-a730260c95914f1b8b1619b371fb929b"/>
+  <properties
+      key="Semanticsearch"
+      value="werkplekbeheersysteem"/>
+</archimate:ApplicationComponent>

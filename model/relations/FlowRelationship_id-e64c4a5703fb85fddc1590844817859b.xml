@@ -1,0 +1,27 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e64c4a5703fb85fddc1590844817859b"
+    documentation="publicaties van SLO">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="52b9e6dc-73d6-4561-985a-b5fd7b6aa31a"/>
+  <properties
+      key="Original ID"
+      value="id-52b9e6dc-73d6-4561-985a-b5fd7b6aa31a"/>
+  <properties
+      key="Semanticsearch"
+      value="id-52b9e6dc-73d6-4561-985a-b5fd7b6aa31a"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-5018c2e632e276107d40d5180f65d7fb.xml#id-5018c2e632e276107d40d5180f65d7fb"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-282647da540aa35fc56f911ad73b0618.xml#id-282647da540aa35fc56f911ad73b0618"/>
+</archimate:FlowRelationship>

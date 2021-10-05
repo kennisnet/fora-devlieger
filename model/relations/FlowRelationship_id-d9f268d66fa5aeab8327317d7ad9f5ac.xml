@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d9f268d66fa5aeab8327317d7ad9f5ac"
+    documentation="gegevensuitwisseling DUO en inspectie">
+  <properties
+      key="Referentie"
+      value="wet PO, wet VO, wet EC, maar met name wet op het onderwijstoezicht"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="aanmelden, inschrijven, deelname en resultaten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="02f68fb0-5945-4abf-b671-f33be391fe0d"/>
+  <properties
+      key="Original ID"
+      value="id-02f68fb0-5945-4abf-b671-f33be391fe0d"/>
+  <properties
+      key="Semanticsearch"
+      value="id-02f68fb0-5945-4abf-b671-f33be391fe0d"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-33a7ec7daae142828c597eb68d55fef5.xml#id-33a7ec7daae142828c597eb68d55fef5"/>
+</archimate:FlowRelationship>

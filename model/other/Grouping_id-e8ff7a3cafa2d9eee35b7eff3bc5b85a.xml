@@ -1,0 +1,21 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerling"
+    id="id-e8ff7a3cafa2d9eee35b7eff3bc5b85a"
+    documentation="Groep met persoonsgegevens en persoonlijke gegevens van leerlingen.">
+  <properties
+      key="Object ID"
+      value="40e8bb90-6e49-44a4-8869-830d74f11dc1"/>
+  <properties
+      key="Original ID"
+      value="id-40e8bb90-6e49-44a4-8869-830d74f11dc1"/>
+  <properties
+      key="Semanticsearch"
+      value="leerling"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Groep"/>
+</archimate:Grouping>

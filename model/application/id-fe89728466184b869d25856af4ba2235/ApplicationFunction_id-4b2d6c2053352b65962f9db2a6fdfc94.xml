@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lesmateriaal samenstellen en delen"
+    id="id-4b2d6c2053352b65962f9db2a6fdfc94">
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="Object ID"
+      value="fe7e121b-c711-44af9-a9ca-34baf84067c"/>
+  <properties
+      key="Original ID"
+      value="id-fe7e121bc71144af9a9ca34baf84067c"/>
+  <properties
+      key="Semanticsearch"
+      value="lesmateriaal samenstellen en delen"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

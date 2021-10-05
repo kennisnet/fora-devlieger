@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategie en visie"
+    id="id-44c5a2c356ae428051d13a45698ae439">
+  <properties
+      key="Object ID"
+      value="0abd1912-d31b-47eb-96c5-24edb1b98f49"/>
+  <properties
+      key="Original ID"
+      value="id-0abd1912-d31b-47eb-96c5-24edb1b98f49"/>
+  <properties
+      key="Semanticsearch"
+      value="strategie en visie"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Bevoegd gezag"/>
+</archimate:BusinessObject>

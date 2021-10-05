@@ -1,0 +1,21 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schoolleiding"
+    id="id-e1547d163a1f71025f42c92ad402705c"
+    documentation="Bedrijfsdomein voor zaken die de leiding over de school betreffen. De schoolleiding is de directie van een school of scholengemeenschap">
+  <properties
+      key="Object ID"
+      value="71a51ace-e6de-430e-837e-a794a22c155d"/>
+  <properties
+      key="Original ID"
+      value="id-71a51ace-e6de-430e-837e-a794a22c155d"/>
+  <properties
+      key="Semanticsearch"
+      value="schoolleiding"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Groep"/>
+</archimate:Grouping>

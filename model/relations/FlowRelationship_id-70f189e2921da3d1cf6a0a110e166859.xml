@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-70f189e2921da3d1cf6a0a110e166859"
+    documentation="administraties en lesmateriaal en deelnemer gegevens voor het ondersteunend personeel">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="alles"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="bc3339b6-1baf-4fbf-821f-41df57c44d73"/>
+  <properties
+      key="Original ID"
+      value="bc3339b6-1baf-4fbf-821f-41df57c44d73"/>
+  <properties
+      key="Semanticsearch"
+      value="bc3339b6-1baf-4fbf-821f-41df57c44d73"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-67f020fef880e9de4e2bf844fa2a6da3.xml#id-67f020fef880e9de4e2bf844fa2a6da3"/>
+</archimate:FlowRelationship>

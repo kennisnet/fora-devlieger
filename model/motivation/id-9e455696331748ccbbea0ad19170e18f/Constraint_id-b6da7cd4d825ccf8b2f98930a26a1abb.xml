@@ -1,0 +1,21 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAML"
+    id="id-b6da7cd4d825ccf8b2f98930a26a1abb"
+    documentation="Security Assertion Markup Language (SAML) is een op XML gebaseerde standaard voor het uitwisselen van authenticatie- en autorisatiegegevens tussen domeinen. (bron: Wikipedia)">
+  <properties
+      key="Object ID"
+      value="777e6f9d-c9eb-4b3e-8a76-0d5599dffa23"/>
+  <properties
+      key="Original ID"
+      value="id-777e6f9d-c9eb-4b3e-8a76-0d5599dffa23"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Standaard"/>
+  <properties
+      key="Semanticsearch"
+      value="saml"/>
+</archimate:Constraint>

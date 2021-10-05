@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisatie medezeggenschapstructuur"
+    id="id-61a965c87d4a8821291df72dc6d4b6f4"
+    documentation="Het organiseren van de medezeggenschapsstructuur voor scholen die vallen onder het schoolbestuur.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="a30d113e-7653-407f8-7376-8fb5f3758de"/>
+  <properties
+      key="Original ID"
+      value="id-a30d113e7653407f873768fb5f3758de"/>
+  <properties
+      key="Semanticsearch"
+      value="organisatie medezeggenschapstructuur"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Materieelbeheersysteem"
+    id="id-2b1301df0f970964ae817983c3cc2c7c"
+    documentation="Systeem voor het beheren en plannen van voorraden van materiaal en materieel, zoals kantoorartikelen, apparatuur en goederen. Bijvoorbeeld voor het kunnen vastleggen van waar producten zich bevinden, hoeveel er van een bepaald product op voorraad zijn en het kunnen doen van bestellingen op basis van verwachte vraag.">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="c053f9ee-bbeb-4ee69-7114-aa3af78963d"/>
+  <properties
+      key="Original ID"
+      value="id-c053f9eebbeb4ee697114aa3af78963d"/>
+  <properties
+      key="Semanticsearch"
+      value="materieelbeheersysteem"/>
+</archimate:ApplicationComponent>

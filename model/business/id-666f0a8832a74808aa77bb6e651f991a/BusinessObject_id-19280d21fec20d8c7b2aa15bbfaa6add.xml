@@ -1,0 +1,51 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gemeenschappelijke medezeggenschapsraad"
+    id="id-19280d21fec20d8c7b2aa15bbfaa6add"
+    documentation="Medezeggenschapsraad is een zelfstandig orgaan met een wettelijke taak op bestuursniveau">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Bevoegd gezag"/>
+  <properties
+      key="Object ID"
+      value="26e834eb-5eca-4d379-392d-f5f28f193ee"/>
+  <properties
+      key="Original ID"
+      value="id-26e834eb5eca4d379392df5f28f193ee"/>
+  <properties
+      key="Semanticsearch"
+      value="gemeenschappelijke medezeggenschapsraad"/>
+  <properties
+      key="Toelichting"
+      value="PO: de medezeggenschapsraad bestaat uit een vertegenwoordiging van ouders en medewerkers; VO: de medezeggenschapsraad bestaat uit een vertegenwoordiging van ouders, leerlingen en medewerkers"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Synoniem"
+      value="GMR"/>
+</archimate:BusinessObject>

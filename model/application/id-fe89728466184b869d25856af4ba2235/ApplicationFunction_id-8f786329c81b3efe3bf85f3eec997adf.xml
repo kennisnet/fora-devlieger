@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Databasebeheer"
+    id="id-8f786329c81b3efe3bf85f3eec997adf"
+    documentation="Het beheren van databases en schema's">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="5a800ccb-ad13-477c8-1021-b1427ff20d7"/>
+  <properties
+      key="Original ID"
+      value="id-5a800ccbad13477c81021b1427ff20d7"/>
+  <properties
+      key="Semanticsearch"
+      value="databasebeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

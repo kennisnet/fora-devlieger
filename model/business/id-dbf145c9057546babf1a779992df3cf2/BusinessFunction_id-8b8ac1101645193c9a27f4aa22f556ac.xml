@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gerichte communicatie"
+    id="id-8b8ac1101645193c9a27f4aa22f556ac"
+    documentation="Mededelingen, vaak op een specifiek gebied, die aan een bekende relatie worden gedaan.">
+  <properties
+      key="Object ID"
+      value="6eb7d65e-6566-49eb-8569-97409d9dae1c"/>
+  <properties
+      key="Original ID"
+      value="id-6eb7d65e-6566-49eb-8569-97409d9dae1c"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="gerichte communicatie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

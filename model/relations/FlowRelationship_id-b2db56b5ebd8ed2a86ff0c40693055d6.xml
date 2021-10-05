@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b2db56b5ebd8ed2a86ff0c40693055d6"
+    documentation="bedrijfsmatige dienstverlening en de financiering daarvan">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="diensten en financiën"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="ce5f13c2-4ee0-404d-9e8c-736b93b356ed"/>
+  <properties
+      key="Original ID"
+      value="ce5f13c2-4ee0-404d-9e8c-736b93b356ed"/>
+  <properties
+      key="Semanticsearch"
+      value="ce5f13c2-4ee0-404d-9e8c-736b93b356ed"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-0015477230f7e94f95ad945dce472c42.xml#id-0015477230f7e94f95ad945dce472c42"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

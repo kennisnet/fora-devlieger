@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9592a37674d7e189d3534edb91e4afdd"
+    documentation="samenwerking met bedrijfsleven t.b.v. stages van leerlingen / studenten">
+  <properties
+      key="Referentie"
+      value="SBB, hierachter komt de hele regeling om erkend leerbedrijf te worden. Wet educatie en beroepsonderwijs. Reglement erkenning leerbedrijven (van SBB)."/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="stage"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="45fd3a29-18ce-475b-9545-f42d14bc94a6"/>
+  <properties
+      key="Original ID"
+      value="id-45fd3a29-18ce-475b-9545-f42d14bc94a6"/>
+  <properties
+      key="Semanticsearch"
+      value="id-45fd3a29-18ce-475b-9545-f42d14bc94a6"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-279340e10721c9599d515f6809a5d930.xml#id-279340e10721c9599d515f6809a5d930"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

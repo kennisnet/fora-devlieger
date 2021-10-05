@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Waarborging arbeidsomstandigheden"
+    id="id-3b9519ba3ce7602802db43ed79201c23"
+    documentation="Het bepalen, uitvoeren en evalueren van het beleid (maatregelen) ten aanzien van (het verbeteren van) de arbeidsomstandigheden binnen de onderwijsorganisatie. Hierbij staat de risico-inventarisatie en evaluatie (RI&amp;E) centraal.">
+  <properties
+      key="Object ID"
+      value="625a17a1-d48f-44db-8b69-319a4284fba4"/>
+  <properties
+      key="Original ID"
+      value="id-625a17a1-d48f-44db-8b69-319a4284fba4"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="waarborging arbeidsomstandigheden"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

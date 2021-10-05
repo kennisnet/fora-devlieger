@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betaalfunctie"
+    id="id-e33d57190a12bedca3ac810ce3206222">
+  <properties
+      key="Object ID"
+      value="5302ff7b-4aea-45a4-ad64-4d1483e24cfc"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-5302ff7b-4aea-45a4-ad64-4d1483e24cfc"/>
+  <properties
+      key="Semanticsearch"
+      value="betaalfunctie"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

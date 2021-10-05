@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overstap"
+    id="id-2e17f51baba18b35c560eac73cc77369"
+    documentation="Overdracht van leerlinggegevens naar een andere onderwijsorganisatie in dezelfde sector, naar een samenwerkingsverband of naar een onderwijsorganisatie die vervolgonderwijs verzorgt.">
+  <properties
+      key="Object ID"
+      value="a7684060-b763-4f6a-938c-c790a409689e"/>
+  <properties
+      key="Original ID"
+      value="a7684060-b763-4f6a-938c-c790a409689e"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="overstap"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

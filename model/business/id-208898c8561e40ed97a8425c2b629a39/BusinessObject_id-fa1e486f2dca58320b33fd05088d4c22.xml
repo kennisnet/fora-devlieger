@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Instellingsgegevens"
+    id="id-fa1e486f2dca58320b33fd05088d4c22"
+    documentation="Gegevens over een instelling.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="a7d88b46-53e5-401d-abe4-6a21813c8d3a"/>
+  <properties
+      key="Original ID"
+      value="a7d88b46-53e5-401d-abe4-6a21813c8d3a"/>
+  <properties
+      key="Semanticsearch"
+      value="instellingsgegevens"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+</archimate:BusinessObject>

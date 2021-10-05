@@ -1,0 +1,21 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unieke identificatie van leerlingen in de educatieve keten"
+    id="id-8729e646d2de36c71c4c9ff98082395b"
+    documentation="Dienstverlening waarmee voor elke leerling een uniek en niet-traceerbaar identificerend gegeven kan krijgen.">
+  <properties
+      key="Object ID"
+      value="650536e6-5b6f-4d1c8-380a-b353be90681"/>
+  <properties
+      key="Original ID"
+      value="id-650536e65b6f4d1c8380ab353be90681"/>
+  <properties
+      key="SWC type"
+      value="Landelijke dienst"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Semanticsearch"
+      value="unieke identificatie van leerlingen in de educatieve keten"/>
+</archimate:BusinessService>

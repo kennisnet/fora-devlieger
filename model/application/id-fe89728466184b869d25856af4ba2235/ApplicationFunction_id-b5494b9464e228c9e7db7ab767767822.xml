@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebouwbeveiliging"
+    id="id-b5494b9464e228c9e7db7ab767767822"
+    documentation="Het beveiligen van gebouwen (alarminstallatie, sprinkler, brandmeldinstallatie, intercom, beveiligingscamera's, enz..)">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="1318a1f7-a315-4e0e9-a2eb-415483abcae"/>
+  <properties
+      key="Original ID"
+      value="id-1318a1f7a3154e0e9a2eb415483abcae"/>
+  <properties
+      key="Semanticsearch"
+      value="gebouwbeveiliging"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

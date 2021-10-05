@@ -1,0 +1,20 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerkingsdoel: begeleiding leerling (pedagigisch dossier) en studieadvies"
+    id="id-c131912a7fbb2f4d3a4a131e9f0d8466">
+  <properties
+      key="Object ID"
+      value="d1a7df77-37fd-49e9-8f00-21a2585cda1b"/>
+  <properties
+      key="Original ID"
+      value="d1a7df77-37fd-49e9-8f00-21a2585cda1b"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerkingsdoel: begeleiding leerling (pedagigisch dossier) en studieadvies"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Verwerkingsdoel"/>
+</archimate:Goal>

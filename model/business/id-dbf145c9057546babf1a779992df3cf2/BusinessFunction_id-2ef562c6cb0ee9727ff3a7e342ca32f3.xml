@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vervaardiging schoolplan"
+    id="id-2ef562c6cb0ee9727ff3a7e342ca32f3"
+    documentation="Het maken en samenstellen van het schoolplan. Het schoolplan is een planmatig sturingsinstrument en bevat een beschrijving van het beleid met betrekking tot de kwaliteit van het onderwijs dat binnen de school wordt gevoerd, en omvat in elk geval het onderwijskundig beleid, het personeelsbeleid en het stelsel van kwaliteitszorg.">
+  <properties
+      key="Object ID"
+      value="da844929-84a5-4dff-bdc6-1f6742f22c55"/>
+  <properties
+      key="Original ID"
+      value="da844929-84a5-4dff-bdc6-1f6742f22c55"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="vervaardiging schoolplan"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

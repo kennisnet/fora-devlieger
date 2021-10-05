@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluatie en begeleiding ontwikkelingsperspectief"
+    id="id-7aaca9f8e816eae193a731412ac5def0"
+    documentation="Bepalen van de doelen en wensen voor een leerling met name in het speciaal onderwijs, en vervolgens het begeleiden van de leerling bij het behalen van deze doelen. De doelen en wensen worden vastgelegd in een [[Ontwikkelingsperspectiefplan (OPP)]].">
+  <properties
+      key="Object ID"
+      value="7a3dcbdc-4153-4a96-a8a0-2e6ed1557eb3"/>
+  <properties
+      key="Original ID"
+      value="id-7a3dcbdc-4153-4a96-a8a0-2e6ed1557eb3"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="evaluatie en begeleiding ontwikkelingsperspectief"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

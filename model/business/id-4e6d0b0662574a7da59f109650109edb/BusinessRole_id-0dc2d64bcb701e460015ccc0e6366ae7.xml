@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MBO-ondersteunende organisaties"
+    id="id-0dc2d64bcb701e460015ccc0e6366ae7"
+    documentation="Organisatie die specifieke ondersteuning levert voor MBO-instellingen.">
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Werkingsgebied"
+      value="BVE-ondersteunende organisaties"/>
+  <properties
+      key="Object ID"
+      value="c0ebf76b-f9b0-48c2-adde-4e6ae8dddcbd"/>
+  <properties
+      key="Original ID"
+      value="c0ebf76b-f9b0-48c2-adde-4e6ae8dddcbd"/>
+  <properties
+      key="Semanticsearch"
+      value="mbo-ondersteunende organisaties"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

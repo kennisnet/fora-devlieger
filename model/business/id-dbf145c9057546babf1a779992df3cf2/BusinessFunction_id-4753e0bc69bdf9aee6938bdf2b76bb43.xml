@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IV-beheer"
+    id="id-4753e0bc69bdf9aee6938bdf2b76bb43"
+    documentation="Instandhouding en onderhoud (functioneel beheer) van de ict-voorzieningen voor het ondersteunen van onderwijsactiviteiten en -diensten door het bieden van functionaliteit voor het tijdig en juist verwerken, gebruiken en beheren van informatie.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="e846b339-22e5-4759a-53ef-7a2bf44de57"/>
+  <properties
+      key="Original ID"
+      value="id-e846b33922e54759a53ef7a2bf44de57"/>
+  <properties
+      key="Semanticsearch"
+      value="iv-beheer"/>
+</archimate:BusinessFunction>

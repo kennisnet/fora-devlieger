@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Activagegevensbeheer"
+    id="id-40da111c69efe2599b4c905a1a60389f">
+  <properties
+      key="Object ID"
+      value="919076d9-6709-4184-9b53-5eefb85c9555"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-919076d9-6709-4184-9b53-5eefb85c9555"/>
+  <properties
+      key="Semanticsearch"
+      value="activagegevensbeheer"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

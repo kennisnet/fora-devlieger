@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betalinggegevensbeheer"
+    id="id-7e29c42cccfe9be795a41363ebcf56f9">
+  <properties
+      key="Object ID"
+      value="baf01bde-7050-438b-a000-12d2cb96c1db"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="baf01bde-7050-438b-a000-12d2cb96c1db"/>
+  <properties
+      key="Semanticsearch"
+      value="betalinggegevensbeheer"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facturen en betalingen ouderbijdrage boeken"
+    id="id-b499dd6bf5ff1a6ff7fc125b95b07275">
+  <properties
+      key="Object ID"
+      value="d2d91fca-5e5e-405d-b43d-ddb4e0ddc134"/>
+  <properties
+      key="Original ID"
+      value="d2d91fca-5e5e-405d-b43d-ddb4e0ddc134"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Semanticsearch"
+      value="facturen en betalingen ouderbijdrage boeken"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

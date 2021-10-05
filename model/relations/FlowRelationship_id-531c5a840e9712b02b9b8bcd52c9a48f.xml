@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-531c5a840e9712b02b9b8bcd52c9a48f"
+    documentation="beleid van CvtE voor school">
+  <properties
+      key="Referentie"
+      value="wet college voor toetsen en examens"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="beleid"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="ea1dcbf3-d54a-4755-b413-db68b8c47f44"/>
+  <properties
+      key="Original ID"
+      value="ea1dcbf3-d54a-4755-b413-db68b8c47f44"/>
+  <properties
+      key="Semanticsearch"
+      value="ea1dcbf3-d54a-4755-b413-db68b8c47f44"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2110e52c66b3f0165b2ca9b6202741cc.xml#id-2110e52c66b3f0165b2ca9b6202741cc"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

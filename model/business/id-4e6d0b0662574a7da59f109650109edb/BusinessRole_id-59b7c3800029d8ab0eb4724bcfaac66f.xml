@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toetsafnemer"
+    id="id-59b7c3800029d8ab0eb4724bcfaac66f"
+    documentation="Een toetsafnemer is verantwoordelijk voor de uitvoering van de afname van een toets. Deze rol kan ingevuld worden door een persoon (bijv. uitdelen en innemen van vraag- en antwoordformulieren) of een computersysteem (bijv. een digitaal toetssysteem).">
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Werkingsgebied"
+      value="Onderwijsdomein"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+  <properties
+      key="Object ID"
+      value="b9c2a768-5079-4394-9a4d-82d1c43ab1ad"/>
+  <properties
+      key="Original ID"
+      value="b9c2a768-5079-4394-9a4d-82d1c43ab1ad"/>
+  <properties
+      key="Semanticsearch"
+      value="toetsafnemer"/>
+</archimate:BusinessRole>

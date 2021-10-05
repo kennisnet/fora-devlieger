@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat bij latende school"
+    id="id-3aecaf83c3fbde9b7e937fd94388f323"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="311d6f95-f023-4b74b-e811-7a8f8dd3940"/>
+  <properties
+      key="Original ID"
+      value="id-311d6f95f0234b74be8117a8f8dd3940"/>
+  <properties
+      key="Semanticsearch"
+      value="omvat bij latende school"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-faabaa8b0fdd335dd7633643786fe538.xml#id-faabaa8b0fdd335dd7633643786fe538"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-63553c7ffb3e394232705c07ecab9a79.xml#id-63553c7ffb3e394232705c07ecab9a79"/>
+</archimate:AssociationRelationship>

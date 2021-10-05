@@ -1,0 +1,39 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summatieve toets"
+    id="id-98066ae45d24dec8cba0183885fe9224"
+    documentation="Een summatieve toets is een toets waarmee een leerling een specifiek onderdeel, eventueel leerjaar of onderwijssoort, afsluit.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="5e67407b-15a8-449db-4961-b3194491de7"/>
+  <properties
+      key="Original ID"
+      value="id-5e67407b15a8449db4961b3194491de7"/>
+  <properties
+      key="Semanticsearch"
+      value="summatieve toets"/>
+  <properties
+      key="Toelichting"
+      value="Een summatieve toets is min of meer afsluitend en de beoordeling heeft directe betekenis voor kwalificatie"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+</archimate:BusinessObject>

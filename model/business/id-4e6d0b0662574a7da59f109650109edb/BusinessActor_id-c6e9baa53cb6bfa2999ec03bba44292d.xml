@@ -1,0 +1,21 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsraad"
+    id="id-c6e9baa53cb6bfa2999ec03bba44292d"
+    documentation="Onderwijsraad (wet op de onderwijsraad)">
+  <properties
+      key="Object ID"
+      value="d68d687b-5c1c-481c-a346-6c07b1460646"/>
+  <properties
+      key="Original ID"
+      value="d68d687b-5c1c-481c-a346-6c07b1460646"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsraad"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Organisatie"/>
+</archimate:BusinessActor>

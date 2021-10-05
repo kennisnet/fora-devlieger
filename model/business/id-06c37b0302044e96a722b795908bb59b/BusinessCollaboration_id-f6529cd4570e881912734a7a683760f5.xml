@@ -1,0 +1,21 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsdomein"
+    id="id-f6529cd4570e881912734a7a683760f5"
+    documentation="Het onderwijsdomein bestrijkt de totale verzameling van rollen en actoren gerelateerd aan het onderwijs. Het onderwijsdomein kan worden opgedeeld in het [[onderwijsveld]], het [[Ministerie van OCW]], [[landelijke onderwijsondersteunende organisaties]], het [[CvTE]] en de [[gemeente]]n.">
+  <properties
+      key="Werkingsgebied"
+      value="Onderwijsdomein"/>
+  <properties
+      key="Object ID"
+      value="79a9542b-a81d-4f73-b5da-442b52a389f8"/>
+  <properties
+      key="Original ID"
+      value="id-79a9542b-a81d-4f73-b5da-442b52a389f8"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsdomein"/>
+  <properties
+      key="SWC Type"
+      value="Werkingsgebied"/>
+</archimate:BusinessCollaboration>

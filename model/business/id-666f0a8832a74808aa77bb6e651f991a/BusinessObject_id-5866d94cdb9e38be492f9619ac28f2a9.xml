@@ -1,0 +1,51 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Programma van toetsing en afsluiting"
+    id="id-5866d94cdb9e38be492f9619ac28f2a9"
+    documentation="PTA is een beschrijving van het deel van het eindexamen dat over de gehele bovenbouw in het schoolexamen wordt afgenomen.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="36f4ea7d-d450-404fa-752d-0fc16cefa40"/>
+  <properties
+      key="Original ID"
+      value="id-36f4ea7dd450404fa752d0fc16cefa40"/>
+  <properties
+      key="Semanticsearch"
+      value="programma van toetsing en afsluiting"/>
+  <properties
+      key="Alias"
+      value="PTA"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Afgeleid van"
+      value="https://nl.wikipedia.org/wiki/Schoolexamen"/>
+  <properties
+      key="Sector"
+      value="VO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wetenschappelijk onderzoek"
+    id="id-f25d021d10d267fbdec370cb17de0d16"
+    documentation="Alle wetenschappelijk onderzoek relevant voor onderwijs">
+  <properties
+      key="Object ID"
+      value="81dfa944-c088-4598-a19b-54931345d46d"/>
+  <properties
+      key="Original ID"
+      value="id-81dfa944-c088-4598-a19b-54931345d46d"/>
+  <properties
+      key="Semanticsearch"
+      value="wetenschappelijk onderzoek"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

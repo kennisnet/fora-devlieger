@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schoolplanbeheersysteem"
+    id="id-2ecd6780fa161116bcaa357d257ec530"
+    documentation="Systeem of geheel van systemen en modules voor het opstellen en bijwerken van een schoolplan.">
+  <properties
+      key="Object ID"
+      value="e6133b02-cbfa-4116-abf2-13a0288aa622"/>
+  <properties
+      key="Original ID"
+      value="e6133b02-cbfa-4116-abf2-13a0288aa622"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Semanticsearch"
+      value="schoolplanbeheersysteem"/>
+</archimate:ApplicationComponent>

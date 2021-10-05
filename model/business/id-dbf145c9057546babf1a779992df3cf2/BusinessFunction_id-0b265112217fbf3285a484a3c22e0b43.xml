@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voortgang- en resultatenweergave"
+    id="id-0b265112217fbf3285a484a3c22e0b43"
+    documentation="Het inzichtelijk maken van voortgang en resultaten ten behoeve van het bepalen en bijstellen van de gewenste leerroute van een onderwijsvolger binnen een onderwijsorganisatie en over de grenzen van onderwijsorganisaties heen.">
+  <properties
+      key="Object ID"
+      value="8bc45e43-5547-457f-b09e-0c5d3e3e41f7"/>
+  <properties
+      key="Original ID"
+      value="id-8bc45e43-5547-457f-b09e-0c5d3e3e41f7"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="voortgang- en resultatenweergave"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-586653ebf3a94a026f4d105ae630d6d7"
+    documentation="voor onderwijs benodigde administraties">
+  <properties
+      key="Referentie"
+      value="wet PO (art 40b), wet VO, wet EC, maar ook wet PO (art 42)"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="aanmelden, inschrijven, deelname en resultaten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="31e34940-1bdb-4068-a8b3-2e0715ba2d0e"/>
+  <properties
+      key="Original ID"
+      value="id-31e34940-1bdb-4068-a8b3-2e0715ba2d0e"/>
+  <properties
+      key="Semanticsearch"
+      value="id-31e34940-1bdb-4068-a8b3-2e0715ba2d0e"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-1974e1d55a4b79fe545c5bac251303c0.xml#id-1974e1d55a4b79fe545c5bac251303c0"/>
+</archimate:FlowRelationship>

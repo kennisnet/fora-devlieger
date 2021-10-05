@@ -1,0 +1,21 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Private sector"
+    id="id-3b58857e92cb701b4b2911399add2741"
+    documentation="Ondernemingen, niet gefinancierd vanuit de overheid.">
+  <properties
+      key="Object ID"
+      value="04157857-4dd2-4286-b57c-8ad9a732fbd3"/>
+  <properties
+      key="Original ID"
+      value="id-04157857-4dd2-4286-b57c-8ad9a732fbd3"/>
+  <properties
+      key="Semanticsearch"
+      value="private sector"/>
+  <properties
+      key="SWC Type"
+      value="Werkingsgebied"/>
+  <properties
+      key="Werkingsgebied"
+      value="Private sector"/>
+</archimate:BusinessCollaboration>

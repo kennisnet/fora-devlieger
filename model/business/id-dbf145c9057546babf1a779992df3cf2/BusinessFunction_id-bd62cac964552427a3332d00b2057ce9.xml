@@ -1,0 +1,27 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiebeveiliging en privacy"
+    id="id-bd62cac964552427a3332d00b2057ce9"
+    documentation="Het organiseren van informatiebeveiliging en het beschermen van persoonsgegevens van leerlingen, ouders en medewerkers.">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Toelichting"
+      value="Informatiebeveiliging betreft het vaststellen van de vereiste betrouwbaarheid van informatiesystemen in termen van vertrouwelijkheid, beschikbaarheid en integriteit alsmede het treffen, onderhouden en controleren van een samenhangend pakket van bijbehorende maatregelen die voldoen aan de uitgangspunten zoals geformuleerd in beleid en doelstellingen."/>
+  <properties
+      key="Object ID"
+      value="2764a91d-ae74-4eb8-953e-7db8b42201ff"/>
+  <properties
+      key="Original ID"
+      value="id-2764a91d-ae74-4eb8-953e-7db8b42201ff"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="informatiebeveiliging en privacy"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

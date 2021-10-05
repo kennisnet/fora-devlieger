@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samenwerken en communiceren ouders"
+    id="id-890e139f1fce38a59c6417b1ee4426ba"
+    documentation="Communicatie over een leerling met diens ouders/verzorgers in het kader van onderwijs of preventie en zorg.">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="88a68236-e166-47d2-96f7-a8e1501c50c7"/>
+  <properties
+      key="Original ID"
+      value="id-88a68236-e166-47d2-96f7-a8e1501c50c7"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="samenwerken en communiceren ouders"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

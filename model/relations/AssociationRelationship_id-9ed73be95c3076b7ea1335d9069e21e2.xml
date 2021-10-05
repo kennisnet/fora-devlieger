@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="voor afronding van"
+    id="id-9ed73be95c3076b7ea1335d9069e21e2"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="5f80dbfd-b8b2-4376b-ca99-7ce63eaea85"/>
+  <properties
+      key="Original ID"
+      value="id-5f80dbfdb8b24376bca997ce63eaea85"/>
+  <properties
+      key="Semanticsearch"
+      value="voor afronding van"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-43d5890b61cd143ec0c68545201dafaf.xml#id-43d5890b61cd143ec0c68545201dafaf"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-bf2fe8a90d804b594eda9ac634ac1b70.xml#id-bf2fe8a90d804b594eda9ac634ac1b70"/>
+</archimate:AssociationRelationship>

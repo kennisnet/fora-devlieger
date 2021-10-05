@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanmelding"
+    id="id-df78e8cf7f092236f8e81c6833d23d34"
+    documentation="Het doen aanmelden van (nieuwe) leerlingen bij de onderwijsorganisatie.&#xA;* Anamnese: Intakeperiode van 6 weken: opvragen van informatie bij ouders, externe partijen / registers. Optionele stap, ingevuld door de school zelf. School beoordeelt of er passend onderwijs kan worden geboden.&#xA;* Bijzonder onderwijs kan een toelatingsgesprek met ouders houden om na te gaan of de levensovertuiging overeenkomt.&#xA;* Plaatsing: toelaten van leerlingen op basis van relevante criteria, regionaal of plaatselijk bepaald&#xA;* PO: Vooraanmelding: voor 3 jaar, niet wettelijk; Aanmelding: vanaf 3 jaar, wettelijk&#xA;* VO: Aanmelding voor de schoolvakantie.&#xA;* Bij de aanmelding wordt het ECKiD aangevraagd, dus hiervoor kan het BSN worden verwerkt.">
+  <properties
+      key="Object ID"
+      value="a8edd4a5-6f54-4823-bbee-0c47b80c0189"/>
+  <properties
+      key="Original ID"
+      value="a8edd4a5-6f54-4823-bbee-0c47b80c0189"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="aanmelding"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

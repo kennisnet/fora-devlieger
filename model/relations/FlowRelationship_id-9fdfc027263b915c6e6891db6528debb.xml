@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9fdfc027263b915c6e6891db6528debb"
+    documentation="bedrijfskundige kant van samenwerking met lerarenopleidingen (stage studenten en bijscholing docenten)">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="inkoop en diensten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="c43840f9-926a-4e47-a8ca-06c4a314dee9"/>
+  <properties
+      key="Original ID"
+      value="c43840f9-926a-4e47-a8ca-06c4a314dee9"/>
+  <properties
+      key="Semanticsearch"
+      value="c43840f9-926a-4e47-a8ca-06c4a314dee9"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-32bea6cfaa1276178226d49f143b91ba.xml#id-32bea6cfaa1276178226d49f143b91ba"/>
+</archimate:FlowRelationship>

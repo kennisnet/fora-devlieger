@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Telefoniebeheer"
+    id="id-6a466d971551d864d839ca7451e8ea94"
+    documentation="Het beheren van het (IP-) telefoonnetwerk.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="b516c542-a2ab-41d19-ef35-92ffa4a8b69"/>
+  <properties
+      key="Original ID"
+      value="id-b516c542a2ab41d19ef3592ffa4a8b69"/>
+  <properties
+      key="Semanticsearch"
+      value="telefoniebeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

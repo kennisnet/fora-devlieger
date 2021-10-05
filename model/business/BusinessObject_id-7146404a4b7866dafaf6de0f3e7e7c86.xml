@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schorsing"
+    id="id-7146404a4b7866dafaf6de0f3e7e7c86"
+    documentation="Het een leerling tijdelijk de toegang ontzeggen tot de school en/of tot deelname aan onderwijsactiviteiten.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Overeenkomst"/>
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Statusdatum"
+      value="12-7-2021"/>
+  <properties
+      key="Bron"
+      value="FORA-WG Informatiemodel O&amp;O"/>
+  <properties
+      key="Object ID"
+      value="6bfff57d-f522-4c5b8-2fec-3ab39b20484"/>
+  <properties
+      key="Original ID"
+      value="id-6bfff57df5224c5b82fec3ab39b20484"/>
+  <properties
+      key="Semanticsearch"
+      value="schorsing"/>
+</archimate:BusinessObject>

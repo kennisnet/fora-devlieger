@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsleven"
+    id="id-279340e10721c9599d515f6809a5d930"
+    documentation="Bedrijfsleven, b.v. in geval van stages of van een beroepenadviescommissie">
+  <properties
+      key="Object ID"
+      value="4cea7055-4cde-46aa-95e7-b32a5a0ff22d"/>
+  <properties
+      key="Original ID"
+      value="id-4cea7055-4cde-46aa-95e7-b32a5a0ff22d"/>
+  <properties
+      key="Semanticsearch"
+      value="bedrijfsleven"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

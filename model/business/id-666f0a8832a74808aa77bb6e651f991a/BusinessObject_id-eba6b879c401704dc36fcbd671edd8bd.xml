@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regionaal Plan Onderwijsvoorzieningen"
+    id="id-eba6b879c401704dc36fcbd671edd8bd"
+    documentation="Een regionaal plan onderwijsvoorzieningen is een plan dat schoolbesturen in een regio maken met daarin de vestigingen die in die regio aanwezig zullen zijn, inclusief nieuw te stichten vestigingen.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Huisvesting"/>
+  <properties
+      key="Object ID"
+      value="28eeeb9b-6a17-42a68-64de-e75b10baf4f"/>
+  <properties
+      key="Original ID"
+      value="id-28eeeb9b6a1742a6864dee75b10baf4f"/>
+  <properties
+      key="Semanticsearch"
+      value="regionaal plan onderwijsvoorzieningen"/>
+</archimate:BusinessObject>

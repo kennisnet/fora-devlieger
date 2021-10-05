@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schoolkosten"
+    id="id-acaeec19f0e1756437c7cba3587bfd5f"
+    documentation="Schoolkosten zijn alle kosten die ouders maken voor hun kinderen op school, inclusief de vrijwillige ouderbijdrage.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Financiën"/>
+  <properties
+      key="Object ID"
+      value="5bb31c9b-bf20-41178-e1ed-22a09ff47f6"/>
+  <properties
+      key="Original ID"
+      value="id-5bb31c9bbf2041178e1ed22a09ff47f6"/>
+  <properties
+      key="Semanticsearch"
+      value="schoolkosten"/>
+</archimate:BusinessObject>

@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Constructie en verwerking vragenlijsten"
+    id="id-a0b4e7bcbd623d8b81d5f7612388206d">
+  <properties
+      key="Object ID"
+      value="ad51b2fe-154e-43af-aa1d-3c671550d60d"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="ad51b2fe-154e-43af-aa1d-3c671550d60d"/>
+  <properties
+      key="Semanticsearch"
+      value="constructie en verwerking vragenlijsten"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgbegeleidingsgegevens"
+    id="id-97bbbe75e3f3e9c1a77467ad0d534645"
+    documentation="Gegevens met betrekking tot het lichamelijk of geestelijk vermogen van de leerling die relevant zijn voor het onderwijs">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Midden"/>
+  <properties
+      key="Object ID"
+      value="f68ecead-7176-43ce-b60d-c49bf5518866"/>
+  <properties
+      key="Original ID"
+      value="f68ecead-7176-43ce-b60d-c49bf5518866"/>
+  <properties
+      key="Semanticsearch"
+      value="zorgbegeleidingsgegevens"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Leerlingbegeleiding en -zorg"/>
+</archimate:BusinessObject>

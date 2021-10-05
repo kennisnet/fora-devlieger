@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevens onderwijshistorie"
+    id="id-45dd7bc65b754281a8a7585fcd88ff8d"
+    documentation="Informatie over eerder onderwijs van een leerling.">
+  <properties
+      key="Object ID"
+      value="229b20d6-45a8-49d4-8044-4da87c4ba87b"/>
+  <properties
+      key="Original ID"
+      value="id-229b20d6-45a8-49d4-8044-4da87c4ba87b"/>
+  <properties
+      key="Semanticsearch"
+      value="gegevens onderwijshistorie"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

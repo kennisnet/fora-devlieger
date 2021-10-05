@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afdelingen-, teams-, en opleidingenbeheer"
+    id="id-ed7850f2273900840bacb672c44f8f1f">
+  <properties
+      key="Object ID"
+      value="156725ac-ecfc-470c-b151-10d335b601f7"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-156725ac-ecfc-470c-b151-10d335b601f7"/>
+  <properties
+      key="Semanticsearch"
+      value="afdelingen-, teams-, en opleidingenbeheer"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

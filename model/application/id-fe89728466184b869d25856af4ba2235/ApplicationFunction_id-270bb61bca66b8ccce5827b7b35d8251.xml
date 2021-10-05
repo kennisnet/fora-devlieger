@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lesvraag en lestoedeling"
+    id="id-270bb61bca66b8ccce5827b7b35d8251">
+  <properties
+      key="Object ID"
+      value="6ce7d975-0f4e-4fa4-8d8c-bc40e4f80b66"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-6ce7d975-0f4e-4fa4-8d8c-bc40e4f80b66"/>
+  <properties
+      key="Semanticsearch"
+      value="lesvraag en lestoedeling"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

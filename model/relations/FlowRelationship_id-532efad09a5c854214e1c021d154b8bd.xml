@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-532efad09a5c854214e1c021d154b8bd"
+    documentation="gegevens t.b.v. inspectie">
+  <properties
+      key="Referentie"
+      value="wet op het onderwijstoezicht (b.v. art 11b) zie ook file:///C:/Users/delange01/Downloads/Schematische+weergave+beleidslijn+nieuwe+scholen+po+en+vo+per+1.8.2017%20(1).pdf"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="basis, functie en kwalificaties"/>
+  <properties
+      key="Gegevenssoort"
+      value="Medewerker"/>
+  <properties
+      key="Object ID"
+      value="e435c4f2-4309-419d-9e76-48fd235ac4da"/>
+  <properties
+      key="Original ID"
+      value="e435c4f2-4309-419d-9e76-48fd235ac4da"/>
+  <properties
+      key="Semanticsearch"
+      value="e435c4f2-4309-419d-9e76-48fd235ac4da"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-33a7ec7daae142828c597eb68d55fef5.xml#id-33a7ec7daae142828c597eb68d55fef5"/>
+</archimate:FlowRelationship>

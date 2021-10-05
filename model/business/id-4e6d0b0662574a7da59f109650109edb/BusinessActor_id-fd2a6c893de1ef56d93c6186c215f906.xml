@@ -1,0 +1,24 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MBO Raad"
+    id="id-fd2a6c893de1ef56d93c6186c215f906"
+    documentation="De MBO Raad is de brancheorganisatie van de onderwijsinstellingen in het middelbaar beroepsonderwijs en de volwasseneneducatie.">
+  <properties
+      key="Type"
+      value="Actor"/>
+  <properties
+      key="Object ID"
+      value="e02af566-9516-4c5e-b2b4-08e377ed388a"/>
+  <properties
+      key="Original ID"
+      value="e02af566-9516-4c5e-b2b4-08e377ed388a"/>
+  <properties
+      key="Semanticsearch"
+      value="mbo raad"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Organisatie"/>
+</archimate:BusinessActor>

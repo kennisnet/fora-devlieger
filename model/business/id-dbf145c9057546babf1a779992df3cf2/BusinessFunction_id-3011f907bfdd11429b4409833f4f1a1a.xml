@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vervaardiging jaarplan"
+    id="id-3011f907bfdd11429b4409833f4f1a1a"
+    documentation="Het formuleren van concrete doelstellingen voor een komend (school)jaar, afgeleid uit een schoolplan en in samenhang met beleids-, veiligheids- en kwaliteitsplannen.">
+  <properties
+      key="Object ID"
+      value="478c320d-5e12-4cf5-addf-378b6d8a8c03"/>
+  <properties
+      key="Original ID"
+      value="id-478c320d-5e12-4cf5-addf-378b6d8a8c03"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="vervaardiging jaarplan"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

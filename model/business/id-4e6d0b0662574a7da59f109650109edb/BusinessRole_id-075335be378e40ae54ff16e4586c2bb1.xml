@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afdeling HR / Personeelszaken"
+    id="id-075335be378e40ae54ff16e4586c2bb1"
+    documentation="Afdeling die belast is met uitvoeren van het personeelsbeleid, zoals werving en selectie, (bij) scholing, enzovoort">
+  <properties
+      key="SWC type"
+      value="Rol"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="Object ID"
+      value="1ad1aec2-06d3-48b58-d6e5-59e725c3e10"/>
+  <properties
+      key="Original ID"
+      value="id-1ad1aec206d348b58d6e559e725c3e10"/>
+  <properties
+      key="Semanticsearch"
+      value="afdeling hr / personeelszaken"/>
+</archimate:BusinessRole>

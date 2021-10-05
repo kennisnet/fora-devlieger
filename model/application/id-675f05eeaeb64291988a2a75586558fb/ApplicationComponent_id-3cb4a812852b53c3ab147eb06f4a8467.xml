@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerlingportaal"
+    id="id-3cb4a812852b53c3ab147eb06f4a8467"
+    documentation="[[Portaal]] waarmee leerlingen toegang krijgen tot informatie vanuit de school. Bevat ook vaak mogelijkheden voor communicatie met de onderwijsinstelling (leraren).">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="f5aa72f2-6b3d-4dc1b-0a98-adbcadbdc0a"/>
+  <properties
+      key="Original ID"
+      value="id-f5aa72f26b3d4dc1b0a98adbcadbdc0a"/>
+  <properties
+      key="Semanticsearch"
+      value="leerlingportaal"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mediatheek uitleenadministratie"
+    id="id-3747ea0f23d1ab5ba6222e07256e1d69"
+    documentation="Het ondersteunen van het uitlenen van materialen.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="900929c6-2a24-4593a-9a9d-fb20c8256d3"/>
+  <properties
+      key="Original ID"
+      value="id-900929c62a244593a9a9dfb20c8256d3"/>
+  <properties
+      key="Semanticsearch"
+      value="mediatheek uitleenadministratie"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

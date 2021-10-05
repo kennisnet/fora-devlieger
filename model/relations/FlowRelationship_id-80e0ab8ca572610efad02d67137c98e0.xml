@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-80e0ab8ca572610efad02d67137c98e0"
+    documentation="instellingsgegevens en schoolbeleid voor de gemeente">
+  <properties
+      key="Referentie"
+      value="wet PO, wet VO, wet EC, voor scholenplan e.d. ; zie ook rapport &quot;verkenning bestuurlijke verhoudingen tussen gemeenten en (primair) onderwijs&quot; van Oberon: met 16 beleidsthema's die spelen tussen gemeente en school"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="instelling en beleid"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="9a60b8cc-c0df-412e-bd45-7e027d8ca947"/>
+  <properties
+      key="Original ID"
+      value="id-9a60b8cc-c0df-412e-bd45-7e027d8ca947"/>
+  <properties
+      key="Semanticsearch"
+      value="id-9a60b8cc-c0df-412e-bd45-7e027d8ca947"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-a44eaf311e0d73501a14ee9d560f6362.xml#id-a44eaf311e0d73501a14ee9d560f6362"/>
+</archimate:FlowRelationship>

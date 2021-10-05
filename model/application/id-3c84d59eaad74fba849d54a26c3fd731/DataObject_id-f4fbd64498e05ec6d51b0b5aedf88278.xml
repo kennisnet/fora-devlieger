@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lesgroep"
+    id="id-f4fbd64498e05ec6d51b0b5aedf88278"
+    documentation="Identificatie van een groep van leerlingen die tenminste een deel van het onderwijsprogramma gemeenschappelijk volgen.">
+  <properties
+      key="Object ID"
+      value="834545dc-ba94-4bab-8c66-b73ca10235eb"/>
+  <properties
+      key="Original ID"
+      value="id-834545dc-ba94-4bab-8c66-b73ca10235eb"/>
+  <properties
+      key="Semanticsearch"
+      value="lesgroep"/>
+</archimate:DataObject>

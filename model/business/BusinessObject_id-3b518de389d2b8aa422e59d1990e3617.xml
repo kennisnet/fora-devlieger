@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsdoel"
+    id="id-3b518de389d2b8aa422e59d1990e3617"
+    documentation="Een onderwijsdoel is een beschrijving van wat leerlingen moeten kennen en kunnen.">
+  <properties
+      key="Object ID"
+      value="572bd6f6-3a05-46639-b7ad-adffb2d02c8"/>
+  <properties
+      key="Original ID"
+      value="id-572bd6f63a0546639b7adadffb2d02c8"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsdoel"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Statusdatum"
+      value="12-7-2021"/>
+  <properties
+      key="Bron"
+      value="FORA-WG Informatiemodel O&amp;O"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+</archimate:BusinessObject>

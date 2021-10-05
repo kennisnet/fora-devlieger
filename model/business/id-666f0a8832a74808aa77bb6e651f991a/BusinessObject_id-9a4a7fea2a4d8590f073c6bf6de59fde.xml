@@ -1,0 +1,48 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Individueel Leerplan"
+    id="id-9a4a7fea2a4d8590f073c6bf6de59fde"
+    documentation="Leerplan is het persoonlijke leerplan (leerlijn); invulling op leerlingniveau.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Overeenkomst"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="76752765-aa88-4b36b-6fe6-da63bfe37a1"/>
+  <properties
+      key="Original ID"
+      value="id-76752765aa884b36b6fe6da63bfe37a1"/>
+  <properties
+      key="Semanticsearch"
+      value="individueel leerplan"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Afgeleid van"
+      value="https://www.slo.nl/thema/vakspecifieke-thema/kunst-cultuur/leerplankader-kunstzinnige-orientatie/lexicon/leerlijn/"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

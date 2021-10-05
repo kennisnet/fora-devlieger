@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluatie van kwaliteitsindicatoren"
+    id="id-096ab3e515590bb7ef8cfb65d9ad91e8">
+  <properties
+      key="Object ID"
+      value="403bf1f2-8667-41b8-b70c-016bd9aca829"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-403bf1f2-8667-41b8-b70c-016bd9aca829"/>
+  <properties
+      key="Semanticsearch"
+      value="evaluatie van kwaliteitsindicatoren"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

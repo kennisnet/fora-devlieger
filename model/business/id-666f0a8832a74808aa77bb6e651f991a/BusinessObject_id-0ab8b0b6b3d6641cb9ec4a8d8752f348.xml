@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Total Cost of Ownership"
+    id="id-0ab8b0b6b3d6641cb9ec4a8d8752f348"
+    documentation="Total Cost of Ownership is het totaalbedrag aan kosten voor de aanschaf en het bezit van een product of dienst gedurende de hele levenscyclus/gebruikscyclus. Behalve de aanschafprijs reken je alle kosten mee: vanaf het moment van aankoop tot het moment dat je er afstand van doet.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Huisvesting"/>
+  <properties
+      key="Object ID"
+      value="0bd1fc94-ed8b-4491b-0c53-6d8d97f55c5"/>
+  <properties
+      key="Original ID"
+      value="id-0bd1fc94ed8b4491b0c536d8d97f55c5"/>
+  <properties
+      key="Semanticsearch"
+      value="total cost of ownership"/>
+</archimate:BusinessObject>

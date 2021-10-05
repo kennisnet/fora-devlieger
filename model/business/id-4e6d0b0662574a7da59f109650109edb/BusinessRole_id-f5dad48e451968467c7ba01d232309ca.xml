@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OR"
+    id="id-f5dad48e451968467c7ba01d232309ca"
+    documentation="Ondernemingsraad">
+  <properties
+      key="Object ID"
+      value="f6a44681-6f6a-4660-96a4-a83570a2bdc8"/>
+  <properties
+      key="Original ID"
+      value="f6a44681-6f6a-4660-96a4-a83570a2bdc8"/>
+  <properties
+      key="Semanticsearch"
+      value="or"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerling portfolio"
+    id="id-b09e367e83ea2bbfe340bdae5567a3ee"
+    documentation="Voortgang en resultaten van het leerproces, alternatief of als aanvulling op de voortgangsgegevens. Kan uiteindelijk ook toets- en resultaatgegevens vervangen. &#xA;Belangrijk: LEERLING is eigenaar van deze gegevens, en vult het portfolio">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Midden"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Midden"/>
+  <properties
+      key="Object ID"
+      value="a71b316b-a444-4b81-b563-1e29cb3b2eee"/>
+  <properties
+      key="Original ID"
+      value="a71b316b-a444-4b81-b563-1e29cb3b2eee"/>
+  <properties
+      key="Semanticsearch"
+      value="leerling portfolio"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

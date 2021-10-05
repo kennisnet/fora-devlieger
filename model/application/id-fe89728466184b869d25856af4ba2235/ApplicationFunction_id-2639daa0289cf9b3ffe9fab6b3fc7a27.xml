@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Factuurgegevensbeheer"
+    id="id-2639daa0289cf9b3ffe9fab6b3fc7a27">
+  <properties
+      key="Object ID"
+      value="40fce0e2-3d6b-421d-bdb4-5aaf6762a84a"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-40fce0e2-3d6b-421d-bdb4-5aaf6762a84a"/>
+  <properties
+      key="Semanticsearch"
+      value="factuurgegevensbeheer"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

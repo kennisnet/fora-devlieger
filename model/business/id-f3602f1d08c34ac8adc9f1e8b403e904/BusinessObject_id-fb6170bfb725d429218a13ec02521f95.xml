@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Telefoonnummer"
+    id="id-fb6170bfb725d429218a13ec02521f95"
+    documentation="Telefoonnummer(s) waarop de leerling te bereiken is, zowel mobiel als vaste nummers.">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Midden"/>
+  <properties
+      key="Object ID"
+      value="b9fd7296-11d2-4b8f-b2fa-97f28e8f2c25"/>
+  <properties
+      key="Original ID"
+      value="b9fd7296-11d2-4b8f-b2fa-97f28e8f2c25"/>
+  <properties
+      key="Semanticsearch"
+      value="telefoonnummer"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

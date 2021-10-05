@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer nieuwsitems"
+    id="id-ebc74d529450c5e7109b11e6b4bb6b2b">
+  <properties
+      key="Object ID"
+      value="c69870bb-6bbe-49cf-9465-8fb4778dca61"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="c69870bb-6bbe-49cf-9465-8fb4778dca61"/>
+  <properties
+      key="Semanticsearch"
+      value="beheer nieuwsitems"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,48 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Examenprogramma"
+    id="id-726f6987b079ca4764469b86ff596bf2"
+    documentation="Een examenprogramma is een zo volledig mogelijke beschrijving van de eisen waaraan examenkandidaten moeten voldoen.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="f01bbfa1-07eb-44baa-a1a8-ab11bc1c68b"/>
+  <properties
+      key="Original ID"
+      value="id-f01bbfa107eb44baaa1a8ab11bc1c68b"/>
+  <properties
+      key="Semanticsearch"
+      value="examenprogramma"/>
+  <properties
+      key="Toelichting"
+      value="De eisen van het examenprogramma zijn wettelijk beschreven in het Examenbesluit VO. (zie zie https://www.examenblad.nl/onderwerp/examenprogramma-s)"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Sector"
+      value="VO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

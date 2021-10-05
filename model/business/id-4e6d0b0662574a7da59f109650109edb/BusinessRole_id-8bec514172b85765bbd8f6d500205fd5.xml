@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afdeling financiële administratie"
+    id="id-8bec514172b85765bbd8f6d500205fd5"
+    documentation="Afdeling die belast is met het uitvoeren van het financieel beleid van de organisatie">
+  <properties
+      key="SWC type"
+      value="Rol"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="Object ID"
+      value="88af1f05-571d-4fe4a-fc39-29fc1a736be"/>
+  <properties
+      key="Original ID"
+      value="id-88af1f05571d4fe4afc3929fc1a736be"/>
+  <properties
+      key="Semanticsearch"
+      value="afdeling financiële administratie"/>
+</archimate:BusinessRole>

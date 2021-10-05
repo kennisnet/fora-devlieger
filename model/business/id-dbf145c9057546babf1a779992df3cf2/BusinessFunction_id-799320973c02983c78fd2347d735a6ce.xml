@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanstelling GMR"
+    id="id-799320973c02983c78fd2347d735a6ce"
+    documentation="Het instellen van een gemeenschappelijke medezeggenschapsraad waarin elke medezeggenschapsraad van de scholen onder het bestuur is vertegenwoordigd.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="3f389872-c6b0-40928-dda8-0675f7d16d6"/>
+  <properties
+      key="Original ID"
+      value="id-3f389872c6b040928dda80675f7d16d6"/>
+  <properties
+      key="Semanticsearch"
+      value="aanstelling gmr"/>
+</archimate:BusinessFunction>

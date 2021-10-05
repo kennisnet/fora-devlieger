@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contractbeheer"
+    id="id-556ca78f131e3ccd1937a16845e0fd01"
+    documentation="Het beheren van contracten">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="b15390f6-d094-43ea9-67fb-a5237dd4af9"/>
+  <properties
+      key="Original ID"
+      value="id-b15390f6d09443ea967fba5237dd4af9"/>
+  <properties
+      key="Semanticsearch"
+      value="contractbeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

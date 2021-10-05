@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2aa45a78f57ecd64af0c13c8983996f7"
+    documentation="aanmelden bij bureau leerplicht">
+  <properties
+      key="Referentie"
+      value="leerplichtwet 1969"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="oprichten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Organisatie"/>
+  <properties
+      key="Object ID"
+      value="8fd78364-2b85-434f-bfdf-042eef00587a"/>
+  <properties
+      key="Original ID"
+      value="id-8fd78364-2b85-434f-bfdf-042eef00587a"/>
+  <properties
+      key="Semanticsearch"
+      value="id-8fd78364-2b85-434f-bfdf-042eef00587a"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-23baa8f932d79e30aacafd4999a6bfa3.xml#id-23baa8f932d79e30aacafd4999a6bfa3"/>
+</archimate:FlowRelationship>

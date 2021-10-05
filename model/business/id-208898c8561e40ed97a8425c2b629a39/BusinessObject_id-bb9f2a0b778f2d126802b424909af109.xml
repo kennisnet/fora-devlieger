@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personeelsbeleid"
+    id="id-bb9f2a0b778f2d126802b424909af109"
+    documentation="Beleid omtrent het aannemen, inzetten en uitstromen van personeel.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="c088746d-5d4d-4ee0-af55-6ed908564dbc"/>
+  <properties
+      key="Original ID"
+      value="c088746d-5d4d-4ee0-af55-6ed908564dbc"/>
+  <properties
+      key="Semanticsearch"
+      value="personeelsbeleid"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

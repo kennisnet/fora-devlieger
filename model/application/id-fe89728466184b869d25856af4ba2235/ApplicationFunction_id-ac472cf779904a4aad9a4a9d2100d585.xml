@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inzien lesstof komende tijd (Kalender)"
+    id="id-ac472cf779904a4aad9a4a9d2100d585">
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="Object ID"
+      value="7949f921-338d-4d6cb-8da4-43b81cdc104"/>
+  <properties
+      key="Original ID"
+      value="id-7949f921338d4d6cb8da443b81cdc104"/>
+  <properties
+      key="Semanticsearch"
+      value="inzien lesstof komende tijd (kalender)"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

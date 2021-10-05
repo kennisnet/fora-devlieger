@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klachtenregeling"
+    id="id-43d468312f1bffe666e89d50754d2ba5"
+    documentation="Het bevoegd gezag treft een regeling voor de behandeling van klachten. (art. 15 WPO)">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="254199d1-69c1-43a0-b93b-a77903f55099"/>
+  <properties
+      key="Original ID"
+      value="id-254199d1-69c1-43a0-b93b-a77903f55099"/>
+  <properties
+      key="Semanticsearch"
+      value="klachtenregeling"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Algemeen"/>
+</archimate:BusinessObject>

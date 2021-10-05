@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanstelling MR"
+    id="id-1700b496a9b02070ab9884ced9eb484c"
+    documentation="Het instellen van een medezeggenschapsraad verbonden aan een school.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="b4895eef-20e6-4f819-78e7-a75a21e7606"/>
+  <properties
+      key="Original ID"
+      value="id-b4895eef20e64f81978e7a75a21e7606"/>
+  <properties
+      key="Semanticsearch"
+      value="aanstelling mr"/>
+</archimate:BusinessFunction>

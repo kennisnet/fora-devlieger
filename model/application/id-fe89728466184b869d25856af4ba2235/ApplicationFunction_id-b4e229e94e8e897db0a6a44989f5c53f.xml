@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevens presentatie"
+    id="id-b4e229e94e8e897db0a6a44989f5c53f"
+    documentation="Het presenteren van informatie in gestandardiseerde overzichten of dashboards voor beslissingsondersteuning en inzichten.  &#xA;Denk aan: &#xA;* Data science &#xA;* Business Intelligence">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="b807815d-71db-49e19-4be4-768b10c51e2"/>
+  <properties
+      key="Original ID"
+      value="id-b807815d71db49e194be4768b10c51e2"/>
+  <properties
+      key="Semanticsearch"
+      value="gegevens presentatie"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

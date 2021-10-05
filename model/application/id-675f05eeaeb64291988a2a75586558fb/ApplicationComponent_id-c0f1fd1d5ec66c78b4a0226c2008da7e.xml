@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project &amp; Programmamanagement systeem"
+    id="id-c0f1fd1d5ec66c78b4a0226c2008da7e"
+    documentation="Een systeem dat helpt bij het bepalen en sturen van projecten, programma's en portfolio's.">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="8c7eedb9-0cfc-4e99b-c84b-0dd53ae2a23"/>
+  <properties
+      key="Original ID"
+      value="id-8c7eedb90cfc4e99bc84b0dd53ae2a23"/>
+  <properties
+      key="Semanticsearch"
+      value="project &amp; programmamanagement systeem"/>
+</archimate:ApplicationComponent>

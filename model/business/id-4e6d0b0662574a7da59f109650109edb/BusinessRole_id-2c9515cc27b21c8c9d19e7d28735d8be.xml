@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VVE Kinderopvangorganisatie"
+    id="id-2c9515cc27b21c8c9d19e7d28735d8be"
+    documentation="Een VVE Kinderopvangorganisatie biedt voor- en vroegschoolse educatie (VVE).&#xA;Kinderdagverblijven en integrale kindcentra">
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Werkingsgebied"
+      value="VVE Kinderopvangorganisaties"/>
+  <properties
+      key="Object ID"
+      value="c2257cd1-04c4-4061-88be-7da194b7fe44"/>
+  <properties
+      key="Original ID"
+      value="c2257cd1-04c4-4061-88be-7da194b7fe44"/>
+  <properties
+      key="Semanticsearch"
+      value="vve kinderopvangorganisatie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

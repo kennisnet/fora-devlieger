@@ -1,0 +1,21 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MBO"
+    id="id-1aa05fc534e4d2a9be6297d76ac09b79"
+    documentation="Beroepsonderwijs en volwasseneneducatie">
+  <properties
+      key="Werkingsgebied"
+      value="Sector BVE"/>
+  <properties
+      key="Object ID"
+      value="0855e5e6-cf1e-4ad8-8c6e-31af6b74ec63"/>
+  <properties
+      key="Original ID"
+      value="id-0855e5e6-cf1e-4ad8-8c6e-31af6b74ec63"/>
+  <properties
+      key="Semanticsearch"
+      value="mbo"/>
+  <properties
+      key="SWC Type"
+      value="Werkingsgebied"/>
+</archimate:BusinessCollaboration>

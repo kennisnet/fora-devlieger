@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsaanbieder"
+    id="id-aa67e2e5b56dd455488d6db14bfc086e"
+    documentation="Weergave van de formele organisatie (privaatrechtelijke rechtspersoon) van het bestuur en zijn onderwijsinstellingen.&#xA;&#xA;RIO:&#xA;Een organisatie die door een onderwijsbestuur is ingesteld voor het verzorgen van onderwijs.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="b9fcbdaf-d1c8-4636-8905-67f1693b9c2f"/>
+  <properties
+      key="Original ID"
+      value="b9fcbdaf-d1c8-4636-8905-67f1693b9c2f"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsaanbieder"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Bevoegd gezag"/>
+</archimate:BusinessObject>

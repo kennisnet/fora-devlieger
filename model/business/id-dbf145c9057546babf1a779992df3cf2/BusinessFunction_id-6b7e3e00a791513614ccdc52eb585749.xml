@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oudercommunicatie leerlingspecifiek"
+    id="id-6b7e3e00a791513614ccdc52eb585749"
+    documentation="Communicatie over onderwijs en resultaten met betrekking tot het kind&#xA;* Tienminutengesprek&#xA;* Zorg en begeleiding">
+  <properties
+      key="Object ID"
+      value="41649044-f6d1-4210-9500-44208f8beafe"/>
+  <properties
+      key="Original ID"
+      value="id-41649044-f6d1-4210-9500-44208f8beafe"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="oudercommunicatie leerlingspecifiek"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

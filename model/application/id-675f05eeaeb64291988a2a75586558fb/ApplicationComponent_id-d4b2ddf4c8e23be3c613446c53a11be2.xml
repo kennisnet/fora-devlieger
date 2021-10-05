@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgadministratiesysteem"
+    id="id-d4b2ddf4c8e23be3c613446c53a11be2"
+    documentation="Systeem of geheel van systemen en modules of geheel van systemen en modules dat wordt gebruikt voor de uitvoering van de taken van de zorgadministratie.">
+  <properties
+      key="Object ID"
+      value="b2f7e030-ee3f-4943-9027-07beca5dd434"/>
+  <properties
+      key="Original ID"
+      value="b2f7e030-ee3f-4943-9027-07beca5dd434"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Semanticsearch"
+      value="zorgadministratiesysteem"/>
+</archimate:ApplicationComponent>

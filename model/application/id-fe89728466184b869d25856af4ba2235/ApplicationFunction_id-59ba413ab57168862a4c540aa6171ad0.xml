@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storage-beheer"
+    id="id-59ba413ab57168862a4c540aa6171ad0"
+    documentation="Het beheren van opslagsystemen">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="92f4f488-f007-4d87b-fa91-2c6d664d455"/>
+  <properties
+      key="Original ID"
+      value="id-92f4f488f0074d87bfa912c6d664d455"/>
+  <properties
+      key="Semanticsearch"
+      value="storage-beheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

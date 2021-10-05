@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toets- en examenresultaten"
+    id="id-bfb99692c1e13e0375dab044220ba6f4"
+    documentation="Analyses en scores over de uitkomsten van oefeningen, toetsen en examens van individuele leerlingen, gebruikt voor [[Examen- en toetsresultaatgegevens]].">
+  <properties
+      key="Object ID"
+      value="cf4bad1e-639f-47c0-a553-33b8a3340855"/>
+  <properties
+      key="Original ID"
+      value="cf4bad1e-639f-47c0-a553-33b8a3340855"/>
+  <properties
+      key="Semanticsearch"
+      value="toets- en examenresultaten"/>
+</archimate:DataObject>

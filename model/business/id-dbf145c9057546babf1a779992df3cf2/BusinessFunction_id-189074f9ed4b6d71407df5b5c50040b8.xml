@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verantwoording"
+    id="id-189074f9ed4b6d71407df5b5c50040b8"
+    documentation="Het rapporteren naar belanghebbenden binnen en buiten de school over de mate waarin de school voldoet aan verplichtingen en afspraken.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="c2c54ea5-a242-4e04a-2af1-0bcdcb42484"/>
+  <properties
+      key="Original ID"
+      value="id-c2c54ea5a2424e04a2af10bcdcb42484"/>
+  <properties
+      key="Semanticsearch"
+      value="verantwoording"/>
+</archimate:BusinessFunction>

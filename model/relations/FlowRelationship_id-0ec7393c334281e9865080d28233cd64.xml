@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0ec7393c334281e9865080d28233cd64"
+    documentation="alle gegevensuitwisseling ten behoeve van passend onderwijs&#xA;Ondersteuning">
+  <properties
+      key="Referentie"
+      value="wet passend onderwijs ; ROSA: ketenfunctie zorg en begeleiding"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="ondersteuning"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="627a518d-868d-4f26-8ead-5a8ca70aa29c"/>
+  <properties
+      key="Original ID"
+      value="id-627a518d-868d-4f26-8ead-5a8ca70aa29c"/>
+  <properties
+      key="Semanticsearch"
+      value="id-627a518d-868d-4f26-8ead-5a8ca70aa29c"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-ef98c02f9711c66e2f17171745adab88.xml#id-ef98c02f9711c66e2f17171745adab88"/>
+</archimate:FlowRelationship>

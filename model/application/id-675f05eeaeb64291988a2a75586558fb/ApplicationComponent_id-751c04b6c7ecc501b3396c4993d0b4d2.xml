@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betaalsysteem"
+    id="id-751c04b6c7ecc501b3396c4993d0b4d2"
+    documentation="Component om betalingen mee uit te voeren.">
+  <properties
+      key="Object ID"
+      value="14858554-e741-4a09-a0ce-c984e320612e"/>
+  <properties
+      key="Original ID"
+      value="id-14858554-e741-4a09-a0ce-c984e320612e"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Semanticsearch"
+      value="betaalsysteem"/>
+</archimate:ApplicationComponent>

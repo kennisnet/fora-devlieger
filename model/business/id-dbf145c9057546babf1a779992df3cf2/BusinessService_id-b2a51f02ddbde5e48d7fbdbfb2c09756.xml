@@ -1,0 +1,21 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Telefoonboek voor digitale diensten in het onderwijs"
+    id="id-b2a51f02ddbde5e48d7fbdbfb2c09756"
+    documentation="Dienst van het Serviceregister">
+  <properties
+      key="Object ID"
+      value="cbab2f3f-1beb-48eca-867a-8bf324509ea"/>
+  <properties
+      key="Original ID"
+      value="id-cbab2f3f1beb48eca867a8bf324509ea"/>
+  <properties
+      key="SWC type"
+      value="Landelijke dienst"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Semanticsearch"
+      value="telefoonboek voor digitale diensten in het onderwijs"/>
+</archimate:BusinessService>

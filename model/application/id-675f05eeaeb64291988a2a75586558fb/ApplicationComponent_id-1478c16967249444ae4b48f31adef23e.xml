@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formulierengenerator"
+    id="id-1478c16967249444ae4b48f31adef23e"
+    documentation="Een systeem dat het maken van elektronische formulieren ondersteunt.">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="940334b8-6c9e-4a03b-c208-b661dbfb889"/>
+  <properties
+      key="Original ID"
+      value="id-940334b86c9e4a03bc208b661dbfb889"/>
+  <properties
+      key="Semanticsearch"
+      value="formulierengenerator"/>
+</archimate:ApplicationComponent>

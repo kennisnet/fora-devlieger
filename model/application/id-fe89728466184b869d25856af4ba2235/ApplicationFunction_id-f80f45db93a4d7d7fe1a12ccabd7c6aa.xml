@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkers- en aanstellingengegevensbeheer"
+    id="id-f80f45db93a4d7d7fe1a12ccabd7c6aa">
+  <properties
+      key="Object ID"
+      value="8022757f-2df0-4e0e-b8af-a9ffb2ff06bc"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-8022757f-2df0-4e0e-b8af-a9ffb2ff06bc"/>
+  <properties
+      key="Semanticsearch"
+      value="medewerkers- en aanstellingengegevensbeheer"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

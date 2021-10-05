@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opleidinggegevens"
+    id="id-f19c9fb17379a626697e10ba7cab55a8"
+    documentation="Code en naam van een opleiding">
+  <properties
+      key="Object ID"
+      value="25e422cc-1303-4ccd-9762-ba3a2a7a771f"/>
+  <properties
+      key="Original ID"
+      value="id-25e422cc-1303-4ccd-9762-ba3a2a7a771f"/>
+  <properties
+      key="Semanticsearch"
+      value="opleidinggegevens"/>
+</archimate:DataObject>

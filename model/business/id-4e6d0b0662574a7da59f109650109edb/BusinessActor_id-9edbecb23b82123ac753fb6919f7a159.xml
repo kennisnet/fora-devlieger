@@ -1,0 +1,21 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kamer van Koophandel"
+    id="id-9edbecb23b82123ac753fb6919f7a159"
+    documentation="Organisatie die registratie van en diensten voor bedrijven in Nederland verzorgt.">
+  <properties
+      key="Object ID"
+      value="09721426-bfa6-4e01-b4b5-a74a33edad55"/>
+  <properties
+      key="Original ID"
+      value="id-09721426-bfa6-4e01-b4b5-a74a33edad55"/>
+  <properties
+      key="Semanticsearch"
+      value="kamer van koophandel"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Organisatie"/>
+</archimate:BusinessActor>

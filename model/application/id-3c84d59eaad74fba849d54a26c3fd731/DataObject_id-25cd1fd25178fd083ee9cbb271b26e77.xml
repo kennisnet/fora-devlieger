@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorschoolse educatie gegevens"
+    id="id-25cd1fd25178fd083ee9cbb271b26e77"
+    documentation="Onderdeel van de [[Gegevens onderwijshistorie]]">
+  <properties
+      key="Object ID"
+      value="1f6fb2ee-70c7-4431-a38a-d60367b04921"/>
+  <properties
+      key="Original ID"
+      value="id-1f6fb2ee-70c7-4431-a38a-d60367b04921"/>
+  <properties
+      key="Semanticsearch"
+      value="voorschoolse educatie gegevens"/>
+</archimate:DataObject>

@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2c67a01c7521925dfa4089da328ec81e"
+    documentation="gegevens t.b.v. pensioenfonds">
+  <properties
+      key="Referentie"
+      value="pensioenwet"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="instelling"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="ac87b3ce-7aa6-4d15-90a0-ac228234ec25"/>
+  <properties
+      key="Original ID"
+      value="ac87b3ce-7aa6-4d15-90a0-ac228234ec25"/>
+  <properties
+      key="Semanticsearch"
+      value="ac87b3ce-7aa6-4d15-90a0-ac228234ec25"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-63ebb487d6747d20b913e23e88ddc5e2.xml#id-63ebb487d6747d20b913e23e88ddc5e2"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6ccde153aeeb66c5bd1ce2a999b31b20"
+    documentation="marketing gegevens naar ouders voogd">
+  <properties
+      key="Grondslag"
+      value="???"/>
+  <properties
+      key="Benaming"
+      value="marketing PR"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="713b5ef8-fa33-4613-8c7a-73349ce991f7"/>
+  <properties
+      key="Original ID"
+      value="id-713b5ef8-fa33-4613-8c7a-73349ce991f7"/>
+  <properties
+      key="Semanticsearch"
+      value="id-713b5ef8-fa33-4613-8c7a-73349ce991f7"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-d776f26f0c64c0ba874469f4eda60c13.xml#id-d776f26f0c64c0ba874469f4eda60c13"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-9f6e7f2ecff830bbf7d7c60692b6e802.xml#id-9f6e7f2ecff830bbf7d7c60692b6e802"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,20 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(M) Verwerkingsdoel"
+    id="id-fec812cd4199e3b039078989a91fe315">
+  <properties
+      key="Object ID"
+      value="ba176e2a-2fd8-4d069-3bd3-956c74b5013"/>
+  <properties
+      key="Original ID"
+      value="id-ba176e2a2fd84d0693bd3956c74b5013"/>
+  <properties
+      key="SWC type"
+      value="Verwerkingsdoel"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="Semanticsearch"
+      value="(m) verwerkingsdoel"/>
+</archimate:Goal>

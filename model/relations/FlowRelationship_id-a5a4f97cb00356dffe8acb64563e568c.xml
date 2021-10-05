@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a5a4f97cb00356dffe8acb64563e568c"
+    documentation="vergoeding aan de raad van toezicht">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="onkosten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="5da78b07-df4c-4785-82f0-22e43534f674"/>
+  <properties
+      key="Original ID"
+      value="id-5da78b07-df4c-4785-82f0-22e43534f674"/>
+  <properties
+      key="Semanticsearch"
+      value="id-5da78b07-df4c-4785-82f0-22e43534f674"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-c26e841c5d3ae3ddd24dfb6d3703c0ce.xml#id-c26e841c5d3ae3ddd24dfb6d3703c0ce"/>
+</archimate:FlowRelationship>

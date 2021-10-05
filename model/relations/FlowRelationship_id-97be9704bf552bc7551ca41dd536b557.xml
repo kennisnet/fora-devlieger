@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-97be9704bf552bc7551ca41dd536b557"
+    documentation="aansturing DUO door OCW">
+  <properties
+      key="Referentie"
+      value="wet PO art 178b e.v., wet VO, wet EC ; ROSA: ketenfunctie beleid en wetgeving"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="beleid"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="7420355f-171c-42b3-ad7e-4856651dbf9f"/>
+  <properties
+      key="Original ID"
+      value="id-7420355f-171c-42b3-ad7e-4856651dbf9f"/>
+  <properties
+      key="Semanticsearch"
+      value="id-7420355f-171c-42b3-ad7e-4856651dbf9f"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-584ebf14c9049c775936aefec6dc655c.xml#id-584ebf14c9049c775936aefec6dc655c"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+</archimate:FlowRelationship>

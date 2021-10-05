@@ -1,0 +1,21 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Edukoppeling transactiestandaard"
+    id="id-afcc946d945cb971985c2ff7666437ec"
+    documentation="Deze standaard schrijft voor hoe onderwijsinstellingen, uitvoeringsorganisaties en andere ketenpartijen gegevensuitwisselingen moeten opzetten. De standaard gaat over de communicatielaag voor de afhandeling van berichten (het transport) en niet over de inhoud van berichten.">
+  <properties
+      key="Object ID"
+      value="f9d63cad-a32d-48b8-b713-61959aec077d"/>
+  <properties
+      key="Original ID"
+      value="f9d63cad-a32d-48b8-b713-61959aec077d"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Standaard"/>
+  <properties
+      key="Semanticsearch"
+      value="edukoppeling transactiestandaard"/>
+</archimate:Constraint>

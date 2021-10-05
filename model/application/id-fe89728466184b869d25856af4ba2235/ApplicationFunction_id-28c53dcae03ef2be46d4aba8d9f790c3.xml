@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer tickets"
+    id="id-28c53dcae03ef2be46d4aba8d9f790c3">
+  <properties
+      key="Object ID"
+      value="6e922021-8869-4891-a438-61f85a420d6d"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-6e922021-8869-4891-a438-61f85a420d6d"/>
+  <properties
+      key="Semanticsearch"
+      value="beheer tickets"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

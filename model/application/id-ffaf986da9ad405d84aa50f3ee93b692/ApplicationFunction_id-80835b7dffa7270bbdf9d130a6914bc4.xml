@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking leerkracht / intern begeleider leerling"
+    id="id-80835b7dffa7270bbdf9d130a6914bc4">
+  <properties
+      key="Object ID"
+      value="c020cce6-3fb3-476c-b62e-df6bf6db8c0c"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="c020cce6-3fb3-476c-b62e-df6bf6db8c0c"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking leerkracht / intern begeleider leerling"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

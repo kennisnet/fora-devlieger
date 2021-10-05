@@ -1,0 +1,21 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c09f6a566aa9f8d90270cf8e607c77ad"
+    documentation="betalingen voor onderwijs SW diensten">
+  <properties
+      key="Object ID"
+      value="6c4685bc-958b-4310-bacf-55dbe9fce461"/>
+  <properties
+      key="Original ID"
+      value="id-6c4685bc-958b-4310-bacf-55dbe9fce461"/>
+  <properties
+      key="Semanticsearch"
+      value="id-6c4685bc-958b-4310-bacf-55dbe9fce461"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-1974e1d55a4b79fe545c5bac251303c0.xml#id-1974e1d55a4b79fe545c5bac251303c0"/>
+</archimate:FlowRelationship>

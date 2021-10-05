@@ -1,0 +1,21 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bevoegd gezag"
+    id="id-9addfc2a6a328527e71ce185152ba559"
+    documentation="Bedrijfsdomein voor zaken die het bevoegd gezag betreffen. Het bevoegd gezag is het orgaan dat de eindverantwoordelijkheid draagt voor beslissingen die te maken hebben met de organisatie en de kwaliteit en continuïteit van het onderwijs.">
+  <properties
+      key="Object ID"
+      value="df486234-d109-4921-828c-0f02adeb65e2"/>
+  <properties
+      key="Original ID"
+      value="df486234-d109-4921-828c-0f02adeb65e2"/>
+  <properties
+      key="Semanticsearch"
+      value="bevoegd gezag"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Groep"/>
+</archimate:Grouping>

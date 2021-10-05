@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Journaalpost"
+    id="id-36566affb8b4e06865b5909227fa302a"
+    documentation="Een journaalpost geeft bij dubbel boekhouden voor financiële feiten aan welke grootboekrekeningen gedebiteerd en gecrediteerd moeten worden. Voor elke journaalpost zijn het (totaal van het) debet- en creditbedrag gelijk. Een journaalpost bestaat dan ook altijd uit minimaal twee regels, het zijn er vaak ook meer. (bron: Wikipedia)">
+  <properties
+      key="Object ID"
+      value="409ffa80-9442-4a75-86e5-5ffe4fb0d59a"/>
+  <properties
+      key="Original ID"
+      value="id-409ffa80-9442-4a75-86e5-5ffe4fb0d59a"/>
+  <properties
+      key="Semanticsearch"
+      value="journaalpost"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Financiën"/>
+</archimate:BusinessObject>

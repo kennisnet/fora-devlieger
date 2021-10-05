@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticatiemiddel"
+    id="id-8a7705ad3e4f747c53707ec5e89fd350"
+    documentation="Middel waarmee met (een bepaalde mate van) zekerheid de digitale identiteit van de gebruiker en/of besteller wordt vastgesteld. Bron: ECK D&amp;T 2.1">
+  <properties
+      key="Object ID"
+      value="82a42360-116a-4584-8a47-b489482564d3"/>
+  <properties
+      key="Original ID"
+      value="id-82a42360-116a-4584-8a47-b489482564d3"/>
+  <properties
+      key="Semanticsearch"
+      value="authenticatiemiddel"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+</archimate:BusinessObject>

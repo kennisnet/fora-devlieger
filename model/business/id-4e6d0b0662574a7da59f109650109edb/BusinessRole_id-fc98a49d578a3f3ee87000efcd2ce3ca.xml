@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toetsplanner"
+    id="id-fc98a49d578a3f3ee87000efcd2ce3ca"
+    documentation="De toetsplanner is verantwoordelijk voor de logistiek rondom een toetsafname, en plant de benodigde resources in.">
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Werkingsgebied"
+      value="Onderwijsdomein"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+  <properties
+      key="Object ID"
+      value="0724d121-4f87-4833-89ba-35309d76ad20"/>
+  <properties
+      key="Original ID"
+      value="id-0724d121-4f87-4833-89ba-35309d76ad20"/>
+  <properties
+      key="Semanticsearch"
+      value="toetsplanner"/>
+</archimate:BusinessRole>

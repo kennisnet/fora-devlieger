@@ -1,0 +1,20 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerkingsdoel: uitvoering of toepassing van een andere wet of taak van algemeen belang"
+    id="id-759da44878710caf8592d257dbcdc51e">
+  <properties
+      key="Object ID"
+      value="7332e825-9166-4383-87b8-8c333fbdeebe"/>
+  <properties
+      key="Original ID"
+      value="id-7332e825-9166-4383-87b8-8c333fbdeebe"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerkingsdoel: uitvoering of toepassing van een andere wet of taak van algemeen belang"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Verwerkingsdoel"/>
+</archimate:Goal>

@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsorganisatie"
+    id="id-8a1a34c70d5262a1fd14504d02c92cae"
+    documentation="Een organisatie die door een bevoegd gezag in stand wordt gehouden voor het verzorgen van onderwijs.&#xA;&#xA;Vergelijk RIO:&#xA;Onderwijsaanbieder&#xA;Een organisatie die door een onderwijsbestuur is ingesteld voor het verzorgen van onderwijs.&#xA;&#xA;Onderwijsinstellingserkenning&#xA;Een erkenning van een organisatie voor het verzorgen van onderwijs op basis van wetgeving.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Bevoegd gezag"/>
+  <properties
+      key="Object ID"
+      value="425c62e4-409a-4901b-f020-d9909b685c3"/>
+  <properties
+      key="Original ID"
+      value="id-425c62e4409a4901bf020d9909b685c3"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsorganisatie"/>
+</archimate:BusinessObject>

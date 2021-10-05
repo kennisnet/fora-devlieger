@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opnemen vergadering video en audio"
+    id="id-fa009eca0042e6699d607e516ccccf88"
+    documentation="Vastleggen van beeld en geluid van vergaderingen.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="98259b49-31b8-4eb1b-9f60-d6db1939578"/>
+  <properties
+      key="Original ID"
+      value="id-98259b4931b84eb1b9f60d6db1939578"/>
+  <properties
+      key="Semanticsearch"
+      value="opnemen vergadering video en audio"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

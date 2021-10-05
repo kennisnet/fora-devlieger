@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VVE Peuterspeelzaal"
+    id="id-b48bd2420a8265d5f4cb447f0e301a06"
+    documentation="Een VVE Peuterspeelzaal biedt voor- en vroegschoolse educatie (VVE).">
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Werkingsgebied"
+      value="VVE Peuterspeelzalen"/>
+  <properties
+      key="Object ID"
+      value="d80d6d8a-710a-44a8-a22e-caa90ec2fe2e"/>
+  <properties
+      key="Original ID"
+      value="d80d6d8a-710a-44a8-a22e-caa90ec2fe2e"/>
+  <properties
+      key="Semanticsearch"
+      value="vve peuterspeelzaal"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

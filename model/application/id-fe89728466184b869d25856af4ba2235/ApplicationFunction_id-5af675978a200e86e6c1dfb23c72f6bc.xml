@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Initieren overdracht leerlingdossier"
+    id="id-5af675978a200e86e6c1dfb23c72f6bc"
+    documentation="Overdracht van [[Overstapdossier]]s wordt geinitieerd door een van beide instellingen met behulp van de overdrachtsvoorziening. De overdracht van het dossier zelf verloopt rechtstreeks tussen latende en ontvangende instelling.">
+  <properties
+      key="Object ID"
+      value="7af925a5-9cba-43aeb-6d1c-5f83a8e03e0"/>
+  <properties
+      key="Original ID"
+      value="id-7af925a59cba43aeb6d1c5f83a8e03e0"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Semanticsearch"
+      value="initieren overdracht leerlingdossier"/>
+</archimate:ApplicationFunction>

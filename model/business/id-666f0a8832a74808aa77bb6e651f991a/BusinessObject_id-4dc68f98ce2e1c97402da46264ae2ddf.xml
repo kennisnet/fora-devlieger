@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portfolio"
+    id="id-4dc68f98ce2e1c97402da46264ae2ddf"
+    documentation="Portfolio is een verzameling van werken, uitgevoerde (praktijk)opdrachten, geleverde prestaties, reflecties op de eigen competenties, cognitieve en/of persoonlijke ontwikkeling met een formatief, soms (deels) summatief karakter Het doel van het portfolio is om de ontwikkeling op verschillende vak- en ontwikkelingsgebieden te laten zien.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="252b9209-eb89-4b858-9422-44e146dee14"/>
+  <properties
+      key="Original ID"
+      value="id-252b9209eb894b858942244e146dee14"/>
+  <properties
+      key="Semanticsearch"
+      value="portfolio"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Helpdesk"
+    id="id-287b7640edb99581c640a0f9df29a9eb">
+  <properties
+      key="Object ID"
+      value="4d3ae6b3-da0d-4e5b-97a9-c639dcae82c5"/>
+  <properties
+      key="Original ID"
+      value="id-4d3ae6b3-da0d-4e5b-97a9-c639dcae82c5"/>
+  <properties
+      key="Semanticsearch"
+      value="helpdesk"/>
+</archimate:BusinessFunction>

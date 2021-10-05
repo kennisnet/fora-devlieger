@@ -1,0 +1,24 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leermiddelenaanbieder"
+    id="id-5143619ad1d78182bb11905d91133d41"
+    documentation="Ontwikkelaars van educatieve hulpmiddelen">
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Object ID"
+      value="4c8e39f7-54bd-457f-ae4b-be8528ec9766"/>
+  <properties
+      key="Original ID"
+      value="id-4c8e39f7-54bd-457f-ae4b-be8528ec9766"/>
+  <properties
+      key="Semanticsearch"
+      value="leermiddelenaanbieder"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

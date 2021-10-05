@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-dd982f2b8574891635aebf8bf26f4fbe"
+    documentation="benodigde uitwisseling met pensioenfondsen (ook UWV en zo??, en hoe zit het met het samenwerkingsverband voor arbeidsongeschiktheid?)">
+  <properties
+      key="Referentie"
+      value="wet PO art 184 lid 5"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="HRM en pensioenafdracht"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="eb98667f-f775-4161-93a5-cb9aa0a890c9"/>
+  <properties
+      key="Original ID"
+      value="eb98667f-f775-4161-93a5-cb9aa0a890c9"/>
+  <properties
+      key="Semanticsearch"
+      value="eb98667f-f775-4161-93a5-cb9aa0a890c9"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-0015477230f7e94f95ad945dce472c42.xml#id-0015477230f7e94f95ad945dce472c42"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-63ebb487d6747d20b913e23e88ddc5e2.xml#id-63ebb487d6747d20b913e23e88ddc5e2"/>
+</archimate:FlowRelationship>

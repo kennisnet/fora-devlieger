@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enquetesysteem"
+    id="id-3d9ba9edc71a247bace4d8b1798de69d">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="e88d68bc-d8f4-4dd9b-a416-ffbb01a0cc6"/>
+  <properties
+      key="Original ID"
+      value="id-e88d68bcd8f44dd9ba416ffbb01a0cc6"/>
+  <properties
+      key="Semanticsearch"
+      value="enquetesysteem"/>
+</archimate:ApplicationComponent>

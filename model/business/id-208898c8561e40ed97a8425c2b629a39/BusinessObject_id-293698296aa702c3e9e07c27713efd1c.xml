@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jaarplanning"
+    id="id-293698296aa702c3e9e07c27713efd1c"
+    documentation="Plan betreffende het te voeren beleid met looptijd van een jaar.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="6121ff21-278f-4f93-9f36-135a4a7290f6"/>
+  <properties
+      key="Original ID"
+      value="id-6121ff21-278f-4f93-9f36-135a4a7290f6"/>
+  <properties
+      key="Semanticsearch"
+      value="jaarplanning"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Schoolleiding"/>
+</archimate:BusinessObject>

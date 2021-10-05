@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meerjarenonderhoudsplan / Duurzaam meerjarenonderhoudsplan"
+    id="id-0eb09dd516e7719e1cbf48241586cec4"
+    documentation="Een meerjarenonderhoudsplan is een rapport dat inzicht geeft in de bouwkundige staat van een gebouw, de te verwachte onderhoudswerkzaamheden en kosten daarvan.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Huisvesting"/>
+  <properties
+      key="Object ID"
+      value="167aadfb-6313-4aa3b-bd02-627cf0c28f1"/>
+  <properties
+      key="Original ID"
+      value="id-167aadfb63134aa3bbd02627cf0c28f1"/>
+  <properties
+      key="Semanticsearch"
+      value="meerjarenonderhoudsplan / duurzaam meerjarenonderhoudsplan"/>
+</archimate:BusinessObject>

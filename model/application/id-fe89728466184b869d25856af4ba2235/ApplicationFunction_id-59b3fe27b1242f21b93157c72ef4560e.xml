@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leermiddelenlijst beheer"
+    id="id-59b3fe27b1242f21b93157c72ef4560e"
+    documentation="Het samenstellen en goedkeuren van de leermiddelenlijst.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="e4d61db3-11c3-42829-a333-746a4a920ce"/>
+  <properties
+      key="Original ID"
+      value="id-e4d61db311c342829a333746a4a920ce"/>
+  <properties
+      key="Semanticsearch"
+      value="leermiddelenlijst beheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

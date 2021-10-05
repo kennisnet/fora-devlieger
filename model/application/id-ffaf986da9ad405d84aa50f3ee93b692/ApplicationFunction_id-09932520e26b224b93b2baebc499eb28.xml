@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking keten-ID (ECK-ID) leerling"
+    id="id-09932520e26b224b93b2baebc499eb28">
+  <properties
+      key="Object ID"
+      value="d98cb25a-21e0-4a09-a1ce-e9541d551a05"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="d98cb25a-21e0-4a09-a1ce-e9541d551a05"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking keten-id (eck-id) leerling"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

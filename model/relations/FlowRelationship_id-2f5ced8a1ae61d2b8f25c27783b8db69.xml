@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2f5ced8a1ae61d2b8f25c27783b8db69"
+    documentation="afhankelijk van school organisatie, b.v. sleutels van kluisjes, leerlingen passen, passen voor automaten, kosten voor kantine, etc.">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="diverse diensten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="aba81778-fa1a-4601-aad4-92f40d691482"/>
+  <properties
+      key="Original ID"
+      value="aba81778-fa1a-4601-aad4-92f40d691482"/>
+  <properties
+      key="Semanticsearch"
+      value="aba81778-fa1a-4601-aad4-92f40d691482"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-b8b81b18212ddd02afecfe10c2b1f773.xml#id-b8b81b18212ddd02afecfe10c2b1f773"/>
+</archimate:FlowRelationship>

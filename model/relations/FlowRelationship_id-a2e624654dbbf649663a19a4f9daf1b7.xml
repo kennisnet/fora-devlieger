@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a2e624654dbbf649663a19a4f9daf1b7"
+    documentation="gegevens t.b.v. pensioen en sociale verzekeringen">
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="basis en salaris"/>
+  <properties
+      key="Gegevenssoort"
+      value="Medewerker"/>
+  <properties
+      key="Object ID"
+      value="c9469ba2-2ad3-40a4-a14d-b9cebc2585a4"/>
+  <properties
+      key="Original ID"
+      value="c9469ba2-2ad3-40a4-a14d-b9cebc2585a4"/>
+  <properties
+      key="Semanticsearch"
+      value="c9469ba2-2ad3-40a4-a14d-b9cebc2585a4"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-0015477230f7e94f95ad945dce472c42.xml#id-0015477230f7e94f95ad945dce472c42"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-63ebb487d6747d20b913e23e88ddc5e2.xml#id-63ebb487d6747d20b913e23e88ddc5e2"/>
+</archimate:FlowRelationship>

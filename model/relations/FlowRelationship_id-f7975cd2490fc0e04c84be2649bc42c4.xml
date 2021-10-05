@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f7975cd2490fc0e04c84be2649bc42c4"
+    documentation="publicaties van CITO">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="eindresultaten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="a05530b8-7831-455f-bb22-fda9b3ff5f36"/>
+  <properties
+      key="Original ID"
+      value="a05530b8-7831-455f-bb22-fda9b3ff5f36"/>
+  <properties
+      key="Semanticsearch"
+      value="a05530b8-7831-455f-bb22-fda9b3ff5f36"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-d45ad2785ce309a8a5bccab9dfee007a.xml#id-d45ad2785ce309a8a5bccab9dfee007a"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-282647da540aa35fc56f911ad73b0618.xml#id-282647da540aa35fc56f911ad73b0618"/>
+</archimate:FlowRelationship>

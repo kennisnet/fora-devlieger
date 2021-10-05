@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schoolplan"
+    id="id-edd8952e22b285cb01503d071389e9f5"
+    documentation="Het schoolplan is een planmatig sturingsinstrument en bevat een beschrijving van het beleid met betrekking tot de kwaliteit van het onderwijs dat binnen de school wordt gevoerd, en omvat in elk geval het onderwijskundig beleid, het personeelsbeleid en het stelsel van kwaliteitszorg.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="a3918e76-6bb3-4c1a-92f3-b13b222b936c"/>
+  <properties
+      key="Original ID"
+      value="a3918e76-6bb3-4c1a-92f3-b13b222b936c"/>
+  <properties
+      key="Semanticsearch"
+      value="schoolplan"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Schoolleiding"/>
+</archimate:BusinessObject>

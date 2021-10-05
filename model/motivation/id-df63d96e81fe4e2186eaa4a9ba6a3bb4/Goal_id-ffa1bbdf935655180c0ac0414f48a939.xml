@@ -1,0 +1,20 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerkingsdoel: verantwoorden aan DUO, onderwijsinspectie en accountant"
+    id="id-ffa1bbdf935655180c0ac0414f48a939">
+  <properties
+      key="Object ID"
+      value="5e9d0d9b-f455-4444-aeb4-25ded7cca826"/>
+  <properties
+      key="Original ID"
+      value="id-5e9d0d9b-f455-4444-aeb4-25ded7cca826"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerkingsdoel: verantwoorden aan duo, onderwijsinspectie en accountant"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Verwerkingsdoel"/>
+</archimate:Goal>

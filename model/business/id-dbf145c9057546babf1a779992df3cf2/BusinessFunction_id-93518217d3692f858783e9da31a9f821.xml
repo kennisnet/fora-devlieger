@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vorming zorgdossier"
+    id="id-93518217d3692f858783e9da31a9f821"
+    documentation="Vastleggen van waarnemingen en notities rondom het functioneren en welbevinden van leerlingen.">
+  <properties
+      key="Object ID"
+      value="9af69fd5-1143-4b45-8cee-1abecc2c5db6"/>
+  <properties
+      key="Original ID"
+      value="id-9af69fd5-1143-4b45-8cee-1abecc2c5db6"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="vorming zorgdossier"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

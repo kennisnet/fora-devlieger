@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Investeringsverbod"
+    id="id-c855062d494f14eca1ec57d0a93e4ede"
+    documentation="Het investeringsverbod verwijst naar bepalingen in artikel 143 WEC en artikel 148 WPO.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Huisvesting"/>
+  <properties
+      key="Object ID"
+      value="7d5cafe1-f9e9-40bda-3798-cdbb7acc5d5"/>
+  <properties
+      key="Original ID"
+      value="id-7d5cafe1f9e940bda3798cdbb7acc5d5"/>
+  <properties
+      key="Semanticsearch"
+      value="investeringsverbod"/>
+</archimate:BusinessObject>

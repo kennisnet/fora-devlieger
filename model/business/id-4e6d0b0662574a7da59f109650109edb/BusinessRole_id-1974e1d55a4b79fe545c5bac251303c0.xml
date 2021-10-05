@@ -1,0 +1,24 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Softwareleverancier"
+    id="id-1974e1d55a4b79fe545c5bac251303c0"
+    documentation="Leveranciers van leerling administraties, digitale leeromgevingen, leerling volgsystemen, integrale leersuitees voor adaptief lesmateriaalenz, maar ook financiële administraties, HRM administraties, facilitaire administraties, etc.">
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Object ID"
+      value="c8fac1cf-f37a-4627-b3e8-2aea0a0d7057"/>
+  <properties
+      key="Original ID"
+      value="c8fac1cf-f37a-4627-b3e8-2aea0a0d7057"/>
+  <properties
+      key="Semanticsearch"
+      value="softwareleverancier"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

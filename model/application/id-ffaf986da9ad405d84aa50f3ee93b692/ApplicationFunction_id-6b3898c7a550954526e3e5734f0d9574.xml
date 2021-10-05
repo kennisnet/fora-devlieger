@@ -1,0 +1,20 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking godsdienst leerling (op eigen verzoek t.b.v. beheersmaatregel)"
+    id="id-6b3898c7a550954526e3e5734f0d9574">
+  <properties
+      key="Object ID"
+      value="4139ab3a-a10c-4f9a-94c3-4309b2f00ec9"/>
+  <properties
+      key="Original ID"
+      value="id-4139ab3a-a10c-4f9a-94c3-4309b2f00ec9"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking godsdienst leerling (op eigen verzoek t.b.v. beheersmaatregel)"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

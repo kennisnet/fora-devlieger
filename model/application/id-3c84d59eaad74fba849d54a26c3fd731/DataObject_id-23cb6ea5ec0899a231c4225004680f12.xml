@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geboorteplaats"
+    id="id-23cb6ea5ec0899a231c4225004680f12"
+    documentation="Plaatsnaam waar de geboorte geregistreerd is.">
+  <properties
+      key="Object ID"
+      value="5871f0d0-b8ad-4aab-917e-c594f3bb5e18"/>
+  <properties
+      key="Original ID"
+      value="id-5871f0d0-b8ad-4aab-917e-c594f3bb5e18"/>
+  <properties
+      key="Semanticsearch"
+      value="geboorteplaats"/>
+</archimate:DataObject>

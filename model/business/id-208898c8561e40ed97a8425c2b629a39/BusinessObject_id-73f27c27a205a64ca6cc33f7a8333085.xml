@@ -1,0 +1,51 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bevoegd gezag"
+    id="id-73f27c27a205a64ca6cc33f7a8333085"
+    documentation="Het bevoegd gezag is het eindverantwoordelijk orgaan voor de beslissingen die in verband het onderwijs dat wordt gegeven, en over de onderwijsinstelling als geheel.&#xA;&#xA;RIO: Bevoegd Gezagerkenning&#xA;Een erkenning als bestuur in het onderwijs door OCW van een orgaan van een rechtspersoon krachtens publiekrecht ingesteld (a-orgaan) of een persoon of college met enig openbaar gezag bekleed (b-orgaan)">
+  <properties
+      key="Object ID"
+      value="534a21e3-c805-44ea-bf18-fc3ec2bebe53"/>
+  <properties
+      key="Original ID"
+      value="id-534a21e3-c805-44ea-bf18-fc3ec2bebe53"/>
+  <properties
+      key="Semanticsearch"
+      value="bevoegd gezag"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Bevoegd gezag"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Toelichting"
+      value="Bevoegd gezag: de rechtspersoon van de stichting of vereniging. Of in het geval van een openbaar orgaan het college van burgemeester en wethouders."/>
+  <properties
+      key="Voorbeeld"
+      value="het bestuur en het intern toezicht samen"/>
+</archimate:BusinessObject>

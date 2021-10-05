@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-12a2c8b5f1c7329a870e90ff0a8318d5"
+    documentation="gegevensuitwisseling met samenwerkingsverbanden passend onderwijs">
+  <properties
+      key="Referentie"
+      value="wet passend onderwijs"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="basis medewerker en functie"/>
+  <properties
+      key="Gegevenssoort"
+      value="Medewerker"/>
+  <properties
+      key="Object ID"
+      value="df484d7c-a727-44ad-b559-ece550ac4542"/>
+  <properties
+      key="Original ID"
+      value="df484d7c-a727-44ad-b559-ece550ac4542"/>
+  <properties
+      key="Semanticsearch"
+      value="df484d7c-a727-44ad-b559-ece550ac4542"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-ef98c02f9711c66e2f17171745adab88.xml#id-ef98c02f9711c66e2f17171745adab88"/>
+</archimate:FlowRelationship>

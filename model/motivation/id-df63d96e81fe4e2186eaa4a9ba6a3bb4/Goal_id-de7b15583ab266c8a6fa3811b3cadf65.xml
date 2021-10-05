@@ -1,0 +1,20 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerkingsdoel: onderzoek"
+    id="id-de7b15583ab266c8a6fa3811b3cadf65">
+  <properties
+      key="Object ID"
+      value="039570fd-154f-45bb-b329-09e2685b21b8"/>
+  <properties
+      key="Original ID"
+      value="id-039570fd-154f-45bb-b329-09e2685b21b8"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerkingsdoel: onderzoek"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Verwerkingsdoel"/>
+</archimate:Goal>

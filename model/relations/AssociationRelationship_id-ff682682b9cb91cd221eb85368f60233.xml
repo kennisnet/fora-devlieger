@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat bij ontvangende school"
+    id="id-ff682682b9cb91cd221eb85368f60233"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="7a5b3b65-dd1e-412db-3057-1a36e43495c"/>
+  <properties
+      key="Original ID"
+      value="id-7a5b3b65dd1e412db30571a36e43495c"/>
+  <properties
+      key="Semanticsearch"
+      value="omvat bij ontvangende school"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-faabaa8b0fdd335dd7633643786fe538.xml#id-faabaa8b0fdd335dd7633643786fe538"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-a23c3fa2652e6537aa44a871ff8ff981.xml#id-a23c3fa2652e6537aa44a871ff8ff981"/>
+</archimate:AssociationRelationship>

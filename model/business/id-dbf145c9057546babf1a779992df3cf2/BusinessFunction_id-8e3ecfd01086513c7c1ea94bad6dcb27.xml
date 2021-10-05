@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebouwbeveiliging"
+    id="id-8e3ecfd01086513c7c1ea94bad6dcb27"
+    documentation="Het beheer van gebouwbeveiligingsvoorzieningen, zoals gebouwtoegangsystemen (poortjes, slagbomen, zonering), parkeerruimte teller, lift controle, inbraakdetectiesystemen, brandmelders, deurmagneetcontacten, intercominstallatie, sprinklerinstallatie, alarminstallatie, centrale meldkamer systeem, portofoon systeem, EHBO registratie, beveiligingscamera's.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="854e9f77-29df-4be39-8f8e-1c569e7f69e"/>
+  <properties
+      key="Original ID"
+      value="id-854e9f7729df4be398f8e1c569e7f69e"/>
+  <properties
+      key="Semanticsearch"
+      value="gebouwbeveiliging"/>
+</archimate:BusinessFunction>

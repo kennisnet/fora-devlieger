@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vrijstelling gegevens"
+    id="id-42492f18623f754f743b8e3a6c4a601a"
+    documentation="Gegevens over eventuele vrijstellingen">
+  <properties
+      key="Object ID"
+      value="0630861c-da08-49e4-8453-539489a14838"/>
+  <properties
+      key="Original ID"
+      value="id-0630861c-da08-49e4-8453-539489a14838"/>
+  <properties
+      key="Semanticsearch"
+      value="vrijstelling gegevens"/>
+</archimate:DataObject>

@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9d6716a9f7eca1066befa01ddc0fb9d7"
+    documentation="leerling gegevens t.b.v. toegang/single sign in">
+  <properties
+      key="Referentie"
+      value="i.g.v. pseudonimisering: wet op het primair onderwijs art. 178a"/>
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="basis"/>
+  <properties
+      key="Gegevenssoort"
+      value="Leerling"/>
+  <properties
+      key="Object ID"
+      value="ba23432c-43c9-49d2-b633-9c50d8712565"/>
+  <properties
+      key="Original ID"
+      value="ba23432c-43c9-49d2-b633-9c50d8712565"/>
+  <properties
+      key="Semanticsearch"
+      value="ba23432c-43c9-49d2-b633-9c50d8712565"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-90d87a8693f48ce7156cc4fef6da65cf.xml#id-90d87a8693f48ce7156cc4fef6da65cf"/>
+</archimate:FlowRelationship>

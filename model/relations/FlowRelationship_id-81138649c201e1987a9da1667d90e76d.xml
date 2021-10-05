@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-81138649c201e1987a9da1667d90e76d"
+    documentation="financiering SLO">
+  <properties
+      key="Referentie"
+      value="zie begroting OCW (onder SLOA)"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="e85827c5-8112-4de6-9fc1-6e0a0067fb7c"/>
+  <properties
+      key="Original ID"
+      value="e85827c5-8112-4de6-9fc1-6e0a0067fb7c"/>
+  <properties
+      key="Benaming"
+      value="financiering"/>
+  <properties
+      key="Semanticsearch"
+      value="e85827c5-8112-4de6-9fc1-6e0a0067fb7c"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-584ebf14c9049c775936aefec6dc655c.xml#id-584ebf14c9049c775936aefec6dc655c"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-5018c2e632e276107d40d5180f65d7fb.xml#id-5018c2e632e276107d40d5180f65d7fb"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,24 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Halffabrikaat"
+    id="id-3d816e47d40104153ce9812c0b303772"
+    documentation="Voor halffabrikaat-standaarden dient de opdrachtgever aanvullende specificaties toe te voegen.">
+  <properties
+      key="SWC type"
+      value="Groep"/>
+  <properties
+      key="SWC subtype"
+      value="Gradaties"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="4c83e01b-95ec-44b99-0f12-0fa1afeae68"/>
+  <properties
+      key="Original ID"
+      value="id-4c83e01b95ec44b990f120fa1afeae68"/>
+  <properties
+      key="Semanticsearch"
+      value="halffabrikaat"/>
+</archimate:Grouping>

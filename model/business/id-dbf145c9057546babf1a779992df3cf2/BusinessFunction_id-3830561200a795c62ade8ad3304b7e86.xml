@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verzuimregistratie"
+    id="id-3830561200a795c62ade8ad3304b7e86"
+    documentation="Afwezigheid van leerlingen voor een hele dag of bij individuele lessen vastleggen.">
+  <properties
+      key="Object ID"
+      value="1ef325ca-d0b2-4ba3-a2b4-efccd91cd18c"/>
+  <properties
+      key="Original ID"
+      value="id-1ef325ca-d0b2-4ba3-a2b4-efccd91cd18c"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="verzuimregistratie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

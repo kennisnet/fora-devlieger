@@ -1,0 +1,39 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsdeelname"
+    id="id-1c214fcf3ab468cc7c393b39b6080689"
+    documentation="Het deelnemen van een leerling aan een onderwijsactiviteit.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Statusdatum"
+      value="12-7-2021"/>
+  <properties
+      key="Bron"
+      value="FORA-WG Informatiemodel O&amp;O"/>
+  <properties
+      key="Object ID"
+      value="8679a435-1d30-400ab-db26-1be40554d88"/>
+  <properties
+      key="Original ID"
+      value="id-8679a4351d30400abdb261be40554d88"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsdeelname"/>
+</archimate:BusinessObject>

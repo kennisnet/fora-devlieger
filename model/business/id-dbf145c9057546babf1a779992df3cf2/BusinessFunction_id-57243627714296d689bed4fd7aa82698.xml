@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer personeelsgegevens"
+    id="id-57243627714296d689bed4fd7aa82698"
+    documentation="Het beheren van relevante gegevens van huidige en voormalige medewerkers, zoals NAW-gegevens, contractgegevens,  beloningsgegevens en personeelsmutaties.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="bcf8a06b-e647-47829-f637-7ec3d442813"/>
+  <properties
+      key="Original ID"
+      value="id-bcf8a06be64747829f6377ec3d442813"/>
+  <properties
+      key="Semanticsearch"
+      value="beheer personeelsgegevens"/>
+</archimate:BusinessFunction>

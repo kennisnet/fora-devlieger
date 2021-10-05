@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a92e26932d11d7f3c2293c579c25ebe2"
+    documentation="bekostiging van de school en gegevensuitwisseling daar omheen">
+  <properties
+      key="Referentie"
+      value="wet PO art 120- 129, wet VO, wet EC ; ROSA: ketenfunctie bekostiging"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="organisatie, pakket info t.b.v. bekostiging"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="b87d0431-1115-4d68-a3c7-bc8f0978920b"/>
+  <properties
+      key="Original ID"
+      value="b87d0431-1115-4d68-a3c7-bc8f0978920b"/>
+  <properties
+      key="Semanticsearch"
+      value="b87d0431-1115-4d68-a3c7-bc8f0978920b"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+</archimate:FlowRelationship>

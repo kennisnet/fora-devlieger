@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planning en roostering huisvesting"
+    id="id-bf1a760f9532d2226aed5967a500398f"
+    documentation="Het op basis van verwachte (geprognosticeerde) en vastgestelde behoeften indelen van beschikbare huisvestingsfaciliteiten in (meer)jarenplanningen en roosters.">
+  <properties
+      key="Object ID"
+      value="c31d00e2-17aa-4ef7-91df-34125f3efe11"/>
+  <properties
+      key="Original ID"
+      value="c31d00e2-17aa-4ef7-91df-34125f3efe11"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="planning en roostering huisvesting"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

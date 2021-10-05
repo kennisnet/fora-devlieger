@@ -1,0 +1,51 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rapport"
+    id="id-cdc05266b00f076be00e93cb9774b9bc"
+    documentation="Een rapport is een overzicht van de schoolprestaties van een leerling.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="1b443f8f-6638-4ef8a-5784-fdb769fbcb3"/>
+  <properties
+      key="Original ID"
+      value="id-1b443f8f66384ef8a5784fdb769fbcb3"/>
+  <properties
+      key="Semanticsearch"
+      value="rapport"/>
+  <properties
+      key="Toelichting"
+      value="Meestal wordt de prestatie voor een bepaald vak uitgedrukt in een (rapport)cijfer, soms ook met een beoordeling in woorden."/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Synoniem"
+      value="Schoolrapport"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

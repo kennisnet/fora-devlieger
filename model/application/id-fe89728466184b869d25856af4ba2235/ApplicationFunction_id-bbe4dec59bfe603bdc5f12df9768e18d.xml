@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ondersteuning aanmelden inschrijven en uitschrijven"
+    id="id-bbe4dec59bfe603bdc5f12df9768e18d">
+  <properties
+      key="Object ID"
+      value="6a4e1886-cdc7-4c48-8301-9f4ba6e179c2"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-6a4e1886-cdc7-4c48-8301-9f4ba6e179c2"/>
+  <properties
+      key="Semanticsearch"
+      value="ondersteuning aanmelden inschrijven en uitschrijven"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

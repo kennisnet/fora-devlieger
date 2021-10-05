@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Basisondersteuning"
+    id="id-729fd28deddbbf81760a253165b43e51"
+    documentation="Basisondersteuning is het door het samenwerkingsverband afgesproken geheel van preventieve en licht curatieve interventies die binnen de ondersteuningsstructuur van de school - eventueel samen met ketenpartners - planmatig en op een overeengekomen kwaliteitsniveau worden uitgevoerd.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Passend onderwijs"/>
+  <properties
+      key="Object ID"
+      value="564ba5a9-3801-4e07a-3cf6-8bf847c2c06"/>
+  <properties
+      key="Original ID"
+      value="id-564ba5a938014e07a3cf68bf847c2c06"/>
+  <properties
+      key="Semanticsearch"
+      value="basisondersteuning"/>
+</archimate:BusinessObject>

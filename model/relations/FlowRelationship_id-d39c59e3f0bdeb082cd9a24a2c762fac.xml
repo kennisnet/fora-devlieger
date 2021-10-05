@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d39c59e3f0bdeb082cd9a24a2c762fac"
+    documentation="verantwoording van toetsresultaten">
+  <properties
+      key="Referentie"
+      value="wet college voor toetsen en examens"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="verantwoording"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="67021ddd-99f3-4d7f-9337-8cb078b2763d"/>
+  <properties
+      key="Original ID"
+      value="id-67021ddd-99f3-4d7f-9337-8cb078b2763d"/>
+  <properties
+      key="Semanticsearch"
+      value="id-67021ddd-99f3-4d7f-9337-8cb078b2763d"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2110e52c66b3f0165b2ca9b6202741cc.xml#id-2110e52c66b3f0165b2ca9b6202741cc"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatie-ontwikkeling"
+    id="id-df3aaee55d5f5d4ac110df77ef2a0919"
+    documentation="Het ontwikkelen van applicaties teneinde in de benodigde informatievoorziening te kunnen voorzien.  &#xA;Dit omvat:&#xA;- software engineering&#xA;- softwarebeheer&#xA;- uitrol van software / applicaties">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="bc91cf78-3310-4156b-57ab-a1724931763"/>
+  <properties
+      key="Original ID"
+      value="id-bc91cf7833104156b57aba1724931763"/>
+  <properties
+      key="Semanticsearch"
+      value="applicatie-ontwikkeling"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a46cad45eae91b21b49795f9bc302b9c"
+    documentation="OCW beleid voor gemeenten">
+  <properties
+      key="Referentie"
+      value="wet PO, wet VO, wet EC ; ROSA: ketenfunctie beleid en wetgeving"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="beleid"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="ea1efa61-0bd4-4568-8638-87764bb1555a"/>
+  <properties
+      key="Original ID"
+      value="ea1efa61-0bd4-4568-8638-87764bb1555a"/>
+  <properties
+      key="Semanticsearch"
+      value="ea1efa61-0bd4-4568-8638-87764bb1555a"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-584ebf14c9049c775936aefec6dc655c.xml#id-584ebf14c9049c775936aefec6dc655c"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-a44eaf311e0d73501a14ee9d560f6362.xml#id-a44eaf311e0d73501a14ee9d560f6362"/>
+</archimate:FlowRelationship>

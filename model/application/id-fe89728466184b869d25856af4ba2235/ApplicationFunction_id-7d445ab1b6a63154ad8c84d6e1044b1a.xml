@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiebeveiliging"
+    id="id-7d445ab1b6a63154ad8c84d6e1044b1a"
+    documentation="Het zorgdragen voor informatiebeveiliging, denk aan  * preventie   * email-encryptie   * malware preventie   * IDS/IPS * Detectie   * SIEM * Reactie   * CERT   * Playbooks">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="7cec9c5a-a421-40318-d120-56cd7dd3088"/>
+  <properties
+      key="Original ID"
+      value="id-7cec9c5aa42140318d12056cd7dd3088"/>
+  <properties
+      key="Semanticsearch"
+      value="informatiebeveiliging"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

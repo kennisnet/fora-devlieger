@@ -1,0 +1,48 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsbestuurder"
+    id="id-d189e66e377e7866761dc5b5baf48093"
+    documentation="Een persoon die in het bestuur van de onderwijs organisatie zit.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Bevoegd gezag"/>
+  <properties
+      key="Object ID"
+      value="20e64cbc-a1eb-48c1a-5912-ff6157e5758"/>
+  <properties
+      key="Original ID"
+      value="id-20e64cbca1eb48c1a5912ff6157e5758"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsbestuurder"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Synoniem"
+      value="Schoolbestuurder"/>
+</archimate:BusinessObject>

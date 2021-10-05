@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toetsontwikkelaar"
+    id="id-c9ac65fd637949e62c19f0350f4387f4"
+    documentation="De toetsontwikkelaar is verantwoordelijk voor de constructie van een toets in opdracht van de toetseigenaar.">
+  <properties
+      key="Werkingsgebied"
+      value="Onderwijsdomein"/>
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Object ID"
+      value="f6921200-842e-47d9-9c8c-cb4fe6fad5d5"/>
+  <properties
+      key="Original ID"
+      value="f6921200-842e-47d9-9c8c-cb4fe6fad5d5"/>
+  <properties
+      key="Semanticsearch"
+      value="toetsontwikkelaar"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

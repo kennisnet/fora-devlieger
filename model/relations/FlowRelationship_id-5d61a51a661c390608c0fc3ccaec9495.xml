@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5d61a51a661c390608c0fc3ccaec9495"
+    documentation="Extra financiën voor schoolactiviteiten e.d.">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="ouderbijdrage"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="d47a6ac3-b7a1-413d-8313-67eddd492176"/>
+  <properties
+      key="Original ID"
+      value="d47a6ac3-b7a1-413d-8313-67eddd492176"/>
+  <properties
+      key="Semanticsearch"
+      value="d47a6ac3-b7a1-413d-8313-67eddd492176"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-9f6e7f2ecff830bbf7d7c60692b6e802.xml#id-9f6e7f2ecff830bbf7d7c60692b6e802"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

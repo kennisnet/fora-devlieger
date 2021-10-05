@@ -1,0 +1,51 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medezeggenschapsraad"
+    id="id-0277cac6bda66f496a3c52d8c656af73"
+    documentation="Medezeggenschapsraad is een zelfstandig orgaan met een wettelijke taak met instemming en advies op het beleid van de school">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Schoolleiding"/>
+  <properties
+      key="Object ID"
+      value="7fd7e235-3587-44238-884b-71aad82a6a7"/>
+  <properties
+      key="Original ID"
+      value="id-7fd7e235358744238884b71aad82a6a7"/>
+  <properties
+      key="Semanticsearch"
+      value="medezeggenschapsraad"/>
+  <properties
+      key="Synoniem"
+      value="MR"/>
+  <properties
+      key="Toelichting"
+      value="In deze raad zitten mensen die bij de school betrokken zijn: ouders en leerkrachten. De MR mag de schoolleiding aanspreken op alle zaken die met school te maken hebben. In het geval van een bestuur met één school, dan is er alleen een MR (een dus geen GMR). PO: de medezeggenschapsraad bestaat uit een vertegenwoordiging van ouders en medewerkers; VO: de medezeggenschapsraad bestaat uit een vertegenwoordiging van ouders, leerlingen en medewerkers"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

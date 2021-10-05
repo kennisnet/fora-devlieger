@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apparaatbesturingssysteem"
+    id="id-5eb250e6d8f23045c1bf2651c04ddfb2"
+    documentation="Systeem voor het besturen / bediening van apparaten, zoals bijvoorbeeld digibords en robots.">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="a7792fa2-66d8-4da39-5bed-97c1aec4303"/>
+  <properties
+      key="Original ID"
+      value="id-a7792fa266d84da395bed97c1aec4303"/>
+  <properties
+      key="Semanticsearch"
+      value="apparaatbesturingssysteem"/>
+</archimate:ApplicationComponent>

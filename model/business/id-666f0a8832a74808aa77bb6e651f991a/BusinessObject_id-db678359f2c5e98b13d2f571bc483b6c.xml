@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hoofdvestiging"
+    id="id-db678359f2c5e98b13d2f571bc483b6c"
+    documentation="De hoofdvestiging is de eerste vestiging van een school of scholengemeenschap die voor bekostiging in aanmerking is gebracht, wordt aangeduid als hoofdvestiging.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Huisvesting"/>
+  <properties
+      key="Object ID"
+      value="ccf7e111-62c7-49229-d116-35f297065a6"/>
+  <properties
+      key="Original ID"
+      value="id-ccf7e11162c749229d11635f297065a6"/>
+  <properties
+      key="Semanticsearch"
+      value="hoofdvestiging"/>
+</archimate:BusinessObject>

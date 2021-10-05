@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Middelenplanningsysteem"
+    id="id-df8c4276ed0669f5dc792e6d49fe25fc"
+    documentation="Een systeem voor het plannen van benodigde middelen voor een opleiding.">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="a9696329-3165-4a829-536a-c7414e3c15e"/>
+  <properties
+      key="Original ID"
+      value="id-a969632931654a829536ac7414e3c15e"/>
+  <properties
+      key="Semanticsearch"
+      value="middelenplanningsysteem"/>
+</archimate:ApplicationComponent>

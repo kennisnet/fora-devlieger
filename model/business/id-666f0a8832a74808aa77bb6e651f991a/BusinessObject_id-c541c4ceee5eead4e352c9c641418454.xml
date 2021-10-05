@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Examenreglement"
+    id="id-c541c4ceee5eead4e352c9c641418454"
+    documentation="Het examenreglement is een documenet met regels met betrekking tot de organisatie van het eindexamen en de gang van zaken tijdens het eindexamen.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Overeenkomst"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="90931f70-1a45-4e249-5dd1-73b9d7a6762"/>
+  <properties
+      key="Original ID"
+      value="id-90931f701a454e2495dd173b9d7a6762"/>
+  <properties
+      key="Semanticsearch"
+      value="examenreglement"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Sector"
+      value="VO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

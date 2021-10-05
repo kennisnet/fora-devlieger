@@ -1,0 +1,20 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Art. 22 WVO - Overige voorschriften inrichting onderwijs"
+    id="id-d3f9455d41fa052a49919b043de4632f">
+  <properties
+      key="Verwijzing"
+      value="https://wetten.overheid.nl/jci1.3:c:BWBR0002399&amp;titeldeel=II&amp;afdeling=I&amp;hoofdstuk=I&amp;paragraaf=1"/>
+  <properties
+      key="Juriconnect"
+      value="jci1.3:c:BWBR0002399&amp;titeldeel=II&amp;afdeling=I&amp;hoofdstuk=I&amp;paragraaf=1&amp;artikel=22"/>
+  <properties
+      key="Object ID"
+      value="243b8ece-2d52-433e8-c102-f62226cc126"/>
+  <properties
+      key="Original ID"
+      value="id-243b8ece2d52433e8c102f62226cc126"/>
+  <properties
+      key="Semanticsearch"
+      value="art. 22 wvo - overige voorschriften inrichting onderwijs"/>
+</archimate:Driver>

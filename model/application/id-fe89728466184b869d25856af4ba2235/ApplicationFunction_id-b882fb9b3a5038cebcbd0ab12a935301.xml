@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitwisseling voortgang- en resultaatgegevens"
+    id="id-b882fb9b3a5038cebcbd0ab12a935301">
+  <properties
+      key="Object ID"
+      value="016568b6-0413-47be-b238-093f59c574a3"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-016568b6-0413-47be-b238-093f59c574a3"/>
+  <properties
+      key="Semanticsearch"
+      value="uitwisseling voortgang- en resultaatgegevens"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

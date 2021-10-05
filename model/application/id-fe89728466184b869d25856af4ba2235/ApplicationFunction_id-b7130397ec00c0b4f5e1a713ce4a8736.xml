@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dashboard en rapportages"
+    id="id-b7130397ec00c0b4f5e1a713ce4a8736">
+  <properties
+      key="Object ID"
+      value="d784f349-bc31-4856-9f72-47abb056162c"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="d784f349-bc31-4856-9f72-47abb056162c"/>
+  <properties
+      key="Semanticsearch"
+      value="dashboard en rapportages"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

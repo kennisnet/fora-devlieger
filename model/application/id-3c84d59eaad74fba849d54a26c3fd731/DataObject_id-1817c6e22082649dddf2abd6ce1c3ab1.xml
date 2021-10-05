@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorg- en begeleidingsgegevens"
+    id="id-1817c6e22082649dddf2abd6ce1c3ab1"
+    documentation="Onderliggende gegevens voor [[Zorgbegeleidingsgegevens]].">
+  <properties
+      key="Object ID"
+      value="bb577700-2a3e-4ed3-8472-e80b4a082c86"/>
+  <properties
+      key="Original ID"
+      value="bb577700-2a3e-4ed3-8472-e80b4a082c86"/>
+  <properties
+      key="Semanticsearch"
+      value="zorg- en begeleidingsgegevens"/>
+</archimate:DataObject>

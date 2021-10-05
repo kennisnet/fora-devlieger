@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netwerkbeheersysteem"
+    id="id-ae763be5b461ed8fb03e8fa0e3297fa6"
+    documentation="Systeem met behulp waarvan het netwerk wordt beheerd. &#xA;Zoals: het LAN het wireless netwerk load balancing access control lists internetverbindingen huurlijnen enz... &#xA;Bijvoorbeeld: Aruba SDN van HP KEMP Panorama">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="e392c9d0-9637-4854b-ee0b-dfc9ffdafaf"/>
+  <properties
+      key="Original ID"
+      value="id-e392c9d096374854bee0bdfc9ffdafaf"/>
+  <properties
+      key="Semanticsearch"
+      value="netwerkbeheersysteem"/>
+</archimate:ApplicationComponent>

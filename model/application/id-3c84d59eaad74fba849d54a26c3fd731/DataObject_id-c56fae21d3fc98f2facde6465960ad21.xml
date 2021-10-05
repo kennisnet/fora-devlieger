@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vorige school gegevens"
+    id="id-c56fae21d3fc98f2facde6465960ad21"
+    documentation="Naam en adres van de vorige school van en leerling, onderdeel van de [[Gegevens onderwijshistorie]].">
+  <properties
+      key="Object ID"
+      value="8f58adc8-e16d-4be0-82f0-3c497e6e6e33"/>
+  <properties
+      key="Original ID"
+      value="id-8f58adc8-e16d-4be0-82f0-3c497e6e6e33"/>
+  <properties
+      key="Semanticsearch"
+      value="vorige school gegevens"/>
+</archimate:DataObject>

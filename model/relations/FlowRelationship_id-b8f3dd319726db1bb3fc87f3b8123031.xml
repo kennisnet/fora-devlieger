@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b8f3dd319726db1bb3fc87f3b8123031"
+    documentation="gebruik van onderwijs administraties (in de Cloud)&#xA;Leerlinggegevens">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="basis"/>
+  <properties
+      key="Gegevenssoort"
+      value="Leerling"/>
+  <properties
+      key="Object ID"
+      value="75243d8c-280a-4cee-a01c-d38db00625f7"/>
+  <properties
+      key="Original ID"
+      value="id-75243d8c-280a-4cee-a01c-d38db00625f7"/>
+  <properties
+      key="Semanticsearch"
+      value="id-75243d8c-280a-4cee-a01c-d38db00625f7"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-1974e1d55a4b79fe545c5bac251303c0.xml#id-1974e1d55a4b79fe545c5bac251303c0"/>
+</archimate:FlowRelationship>

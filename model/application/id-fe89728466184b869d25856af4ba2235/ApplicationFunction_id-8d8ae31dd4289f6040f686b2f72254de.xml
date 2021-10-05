@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planning en roostering"
+    id="id-8d8ae31dd4289f6040f686b2f72254de">
+  <properties
+      key="Object ID"
+      value="c86834a0-a3fe-4c8b-96e9-8229f28da138"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="c86834a0-a3fe-4c8b-96e9-8229f28da138"/>
+  <properties
+      key="Semanticsearch"
+      value="planning en roostering"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

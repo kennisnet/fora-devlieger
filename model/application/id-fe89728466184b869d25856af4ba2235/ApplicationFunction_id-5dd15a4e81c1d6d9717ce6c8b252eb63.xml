@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opdracht maken en inleveren"
+    id="id-5dd15a4e81c1d6d9717ce6c8b252eb63">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="1c3a38d2-6fd9-41b2a-caa9-e10462e57ac"/>
+  <properties
+      key="Original ID"
+      value="id-1c3a38d26fd941b2acaa9e10462e57ac"/>
+  <properties
+      key="Semanticsearch"
+      value="opdracht maken en inleveren"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

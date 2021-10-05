@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PO-instelling"
+    id="id-c42001adc1d6b6e2aee8b96ac3563664"
+    documentation="Organisatie die primair en / of speciaal onderwijs verzorgt">
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Werkingsgebied"
+      value="PO-instellingen"/>
+  <properties
+      key="Object ID"
+      value="70d44bea-f529-40d2-9b15-8f72f65865b7"/>
+  <properties
+      key="Original ID"
+      value="id-70d44bea-f529-40d2-9b15-8f72f65865b7"/>
+  <properties
+      key="Semanticsearch"
+      value="po-instelling"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

@@ -1,0 +1,14 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatiefunctie"
+    id="id-e2db1190b63eb22e2299fb341f94765f">
+  <properties
+      key="Object ID"
+      value="dc705b64-55a9-49ddb-5874-6e400f47662"/>
+  <properties
+      key="Original ID"
+      value="id-dc705b6455a949ddb58746e400f47662"/>
+  <properties
+      key="Semanticsearch"
+      value="applicatiefunctie"/>
+</archimate:ApplicationFunction>

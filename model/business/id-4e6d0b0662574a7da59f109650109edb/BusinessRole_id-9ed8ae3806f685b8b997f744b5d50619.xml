@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roosteraar en planner"
+    id="id-9ed8ae3806f685b8b997f744b5d50619"
+    documentation="Een planner is verantwoordelijk voor de logistiek rondom een het geven van onderwijs en afname van toetsen, en plant de benodigde resources in. Een roosteraar maakt een rooster dat voldoet aan de planning en eisen rond beschikbaarheid van mensen, ruimte en middelen.">
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Werkingsgebied"
+      value="Onderwijsdomein"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+  <properties
+      key="Object ID"
+      value="824ded95-0700-4a88a-060f-4579c9adacd"/>
+  <properties
+      key="Original ID"
+      value="id-824ded9507004a88a060f4579c9adacd"/>
+  <properties
+      key="Semanticsearch"
+      value="roosteraar en planner"/>
+</archimate:BusinessRole>

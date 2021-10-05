@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schoolwebsite"
+    id="id-128a94118bc96378d02ba4c8c5c0cc7c"
+    documentation="Website met informatie van de onderwijsinstelling.">
+  <properties
+      key="Object ID"
+      value="a595f5dd-6011-49ed-aab7-a0d6bf9673ed"/>
+  <properties
+      key="Original ID"
+      value="a595f5dd-6011-49ed-aab7-a0d6bf9673ed"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Semanticsearch"
+      value="schoolwebsite"/>
+</archimate:ApplicationComponent>

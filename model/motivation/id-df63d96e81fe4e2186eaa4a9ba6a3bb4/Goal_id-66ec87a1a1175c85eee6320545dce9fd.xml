@@ -1,0 +1,20 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerkingsdoel: berekenen, vastleggen en innen van gelden"
+    id="id-66ec87a1a1175c85eee6320545dce9fd">
+  <properties
+      key="Object ID"
+      value="f0e9e716-5f29-4ab4-8d5e-3ef492528f87"/>
+  <properties
+      key="Original ID"
+      value="f0e9e716-5f29-4ab4-8d5e-3ef492528f87"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerkingsdoel: berekenen, vastleggen en innen van gelden"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Verwerkingsdoel"/>
+</archimate:Goal>

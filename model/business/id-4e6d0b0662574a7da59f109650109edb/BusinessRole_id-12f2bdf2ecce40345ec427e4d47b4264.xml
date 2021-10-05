@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Landelijke onderwijsondersteunende organisaties"
+    id="id-12f2bdf2ecce40345ec427e4d47b4264"
+    documentation="Organisaties die ondersteuning en aanvullende diensten levert voor het onderwijs.">
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Werkingsgebied"
+      value="Landelijke onderwijsondersteunende organisaties"/>
+  <properties
+      key="Object ID"
+      value="096cbdb2-b673-482d-9399-a186676fa4ed"/>
+  <properties
+      key="Original ID"
+      value="id-096cbdb2-b673-482d-9399-a186676fa4ed"/>
+  <properties
+      key="Semanticsearch"
+      value="landelijke onderwijsondersteunende organisaties"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

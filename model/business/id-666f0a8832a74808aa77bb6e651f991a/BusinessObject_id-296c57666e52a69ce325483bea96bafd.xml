@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oudergeleding van de medezeggenschapsraad (OMR)"
+    id="id-296c57666e52a69ce325483bea96bafd"
+    documentation="De geleding van de medezeggenschapsraad bestaande uit ouders">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Schoolleiding"/>
+  <properties
+      key="Object ID"
+      value="f5d29f8b-15bd-4396b-9c59-8990d83ee3c"/>
+  <properties
+      key="Original ID"
+      value="id-f5d29f8b15bd4396b9c598990d83ee3c"/>
+  <properties
+      key="Semanticsearch"
+      value="oudergeleding van de medezeggenschapsraad (omr)"/>
+</archimate:BusinessObject>

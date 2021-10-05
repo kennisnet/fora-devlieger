@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communicatie en afsprakenbeheer zorg"
+    id="id-68c85bc6f760a4e975f38967cbf7acd5">
+  <properties
+      key="Object ID"
+      value="8a975213-8d9d-441e-9f8d-2b21d8d7201e"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-8a975213-8d9d-441e-9f8d-2b21d8d7201e"/>
+  <properties
+      key="Semanticsearch"
+      value="communicatie en afsprakenbeheer zorg"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

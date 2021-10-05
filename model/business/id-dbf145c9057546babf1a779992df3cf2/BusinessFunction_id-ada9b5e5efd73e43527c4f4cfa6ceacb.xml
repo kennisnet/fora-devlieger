@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Buitenschoolse activiteiten"
+    id="id-ada9b5e5efd73e43527c4f4cfa6ceacb"
+    documentation="Al dan niet educatieve bezigheden welke geheel of gedeeltelijk plaatsvinden buiten de reguliere lestijden.">
+  <properties
+      key="Object ID"
+      value="0135cc62-25d7-4b99-85b9-fbc9989ca77d"/>
+  <properties
+      key="Original ID"
+      value="id-0135cc62-25d7-4b99-85b9-fbc9989ca77d"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="buitenschoolse activiteiten"/>
+</archimate:BusinessFunction>

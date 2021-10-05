@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-cfdcf2a3c7503882662a206aff54c5f5"
+    documentation="gegevens t.b.v. authenticatie">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="basis en functie"/>
+  <properties
+      key="Gegevenssoort"
+      value="Medewerker"/>
+  <properties
+      key="Object ID"
+      value="6cb53b96-2366-4e39-b224-8711f68e1e9f"/>
+  <properties
+      key="Original ID"
+      value="id-6cb53b96-2366-4e39-b224-8711f68e1e9f"/>
+  <properties
+      key="Semanticsearch"
+      value="id-6cb53b96-2366-4e39-b224-8711f68e1e9f"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-90d87a8693f48ce7156cc4fef6da65cf.xml#id-90d87a8693f48ce7156cc4fef6da65cf"/>
+</archimate:FlowRelationship>

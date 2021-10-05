@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bureau huiswerkbegeleiding"
+    id="id-755298671917305bb68d8860b733f006"
+    documentation="Huiswerkbegeleidingsbureau, varierend van bijbane voor scholieren tot professionele bureaus">
+  <properties
+      key="Object ID"
+      value="316dd979-7d89-4ec4-ae2a-ceff836a6760"/>
+  <properties
+      key="Original ID"
+      value="id-316dd979-7d89-4ec4-ae2a-ceff836a6760"/>
+  <properties
+      key="Semanticsearch"
+      value="bureau huiswerkbegeleiding"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

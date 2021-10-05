@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteitsrapportage"
+    id="id-bcaf42951d75db117bc4df86be57dc06"
+    documentation="Periodieke rapportage over de kwalitatieve eigenschappen van het onderwijs van een instelling.">
+  <properties
+      key="Object ID"
+      value="38d56b23-bf45-4a73-ae54-b83b615fc123"/>
+  <properties
+      key="Original ID"
+      value="id-38d56b23-bf45-4a73-ae54-b83b615fc123"/>
+  <properties
+      key="Semanticsearch"
+      value="kwaliteitsrapportage"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Schoolleiding"/>
+</archimate:BusinessObject>

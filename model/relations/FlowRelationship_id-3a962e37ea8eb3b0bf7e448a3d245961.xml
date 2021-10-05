@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3a962e37ea8eb3b0bf7e448a3d245961"
+    documentation="contributies aan besturen organisaties">
+  <properties
+      key="Referentie"
+      value="zie begroting OCW"/>
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="contributies"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="c231d3b6-bbe0-4a1b-8817-20014434b5b6"/>
+  <properties
+      key="Original ID"
+      value="c231d3b6-bbe0-4a1b-8817-20014434b5b6"/>
+  <properties
+      key="Semanticsearch"
+      value="c231d3b6-bbe0-4a1b-8817-20014434b5b6"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-c26e841c5d3ae3ddd24dfb6d3703c0ce.xml#id-c26e841c5d3ae3ddd24dfb6d3703c0ce"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-3f792b732e87df35f7f2f8915a8b5abb.xml#id-3f792b732e87df35f7f2f8915a8b5abb"/>
+</archimate:FlowRelationship>

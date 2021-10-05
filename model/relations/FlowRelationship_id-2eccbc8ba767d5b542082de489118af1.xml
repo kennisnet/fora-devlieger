@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2eccbc8ba767d5b542082de489118af1"
+    documentation="leerling gegevens t.b.v. DUO">
+  <properties
+      key="Referentie"
+      value="Zie DUO website. Wet PO, art 178b, wet VO, wet EC"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="basis en zorg"/>
+  <properties
+      key="Gegevenssoort"
+      value="Leerling"/>
+  <properties
+      key="Object ID"
+      value="e17644e1-c3af-49e2-8626-ce9b45e0237e"/>
+  <properties
+      key="Original ID"
+      value="e17644e1-c3af-49e2-8626-ce9b45e0237e"/>
+  <properties
+      key="Semanticsearch"
+      value="e17644e1-c3af-49e2-8626-ce9b45e0237e"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+</archimate:FlowRelationship>

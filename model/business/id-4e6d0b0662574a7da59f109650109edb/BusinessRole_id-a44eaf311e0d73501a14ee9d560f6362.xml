@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gemeente"
+    id="id-a44eaf311e0d73501a14ee9d560f6362"
+    documentation="Gemeenten">
+  <properties
+      key="Werkingsgebied"
+      value="Gemeenten"/>
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Object ID"
+      value="6fbb500d-adb7-4a95-8521-89a6631ad6e4"/>
+  <properties
+      key="Original ID"
+      value="id-6fbb500d-adb7-4a95-8521-89a6631ad6e4"/>
+  <properties
+      key="Semanticsearch"
+      value="gemeente"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

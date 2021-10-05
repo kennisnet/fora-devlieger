@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Koppeling CITO"
+    id="id-8f2de80f549eadeaddd1e3cc850a88f6">
+  <properties
+      key="Object ID"
+      value="35544b86-5c65-4a0a-a2e0-22aae5888735"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-35544b86-5c65-4a0a-a2e0-22aae5888735"/>
+  <properties
+      key="Semanticsearch"
+      value="koppeling cito"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

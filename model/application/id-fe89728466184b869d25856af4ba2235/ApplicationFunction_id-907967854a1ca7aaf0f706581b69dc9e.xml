@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verkrijging stampseudoniem"
+    id="id-907967854a1ca7aaf0f706581b69dc9e">
+  <properties
+      key="Object ID"
+      value="83a454a0-4dd9-4267-9783-79a35fc970db"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-83a454a0-4dd9-4267-9783-79a35fc970db"/>
+  <properties
+      key="Semanticsearch"
+      value="verkrijging stampseudoniem"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

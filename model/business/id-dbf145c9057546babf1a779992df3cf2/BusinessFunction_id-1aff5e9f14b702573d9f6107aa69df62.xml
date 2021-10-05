@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contractbeheer"
+    id="id-1aff5e9f14b702573d9f6107aa69df62"
+    documentation="Het beheer van gegevens over contracten, waaronder het bewaken van afspraken met leveranciers.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="1f465133-159c-407db-e9be-10a329de865"/>
+  <properties
+      key="Original ID"
+      value="id-1f465133159c407dbe9be10a329de865"/>
+  <properties
+      key="Semanticsearch"
+      value="contractbeheer"/>
+</archimate:BusinessFunction>

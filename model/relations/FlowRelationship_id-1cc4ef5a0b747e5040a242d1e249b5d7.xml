@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1cc4ef5a0b747e5040a242d1e249b5d7"
+    documentation="Selectie van ict-inrichting van de school / opleiding">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="inrichten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Organisatie"/>
+  <properties
+      key="Object ID"
+      value="1474f2e9-e196-4044-840c-dc5e381251c7"/>
+  <properties
+      key="Original ID"
+      value="id-1474f2e9-e196-4044-840c-dc5e381251c7"/>
+  <properties
+      key="Semanticsearch"
+      value="id-1474f2e9-e196-4044-840c-dc5e381251c7"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-901ccbcad586bfeb9c6bbd237286eaaf.xml#id-901ccbcad586bfeb9c6bbd237286eaaf"/>
+</archimate:FlowRelationship>

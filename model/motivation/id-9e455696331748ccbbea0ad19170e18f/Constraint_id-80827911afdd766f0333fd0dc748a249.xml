@@ -1,0 +1,24 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ECK DT 2.0"
+    id="id-80827911afdd766f0333fd0dc748a249"
+    documentation="[[ECK Distributie en toegang]]">
+  <properties
+      key="Versieaanduiding"
+      value="2.0"/>
+  <properties
+      key="Object ID"
+      value="eb66941c-e91c-4c8f-9920-38da1cb28947"/>
+  <properties
+      key="Original ID"
+      value="eb66941c-e91c-4c8f-9920-38da1cb28947"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Standaardversie"/>
+  <properties
+      key="Semanticsearch"
+      value="eck dt 2.0"/>
+</archimate:Constraint>

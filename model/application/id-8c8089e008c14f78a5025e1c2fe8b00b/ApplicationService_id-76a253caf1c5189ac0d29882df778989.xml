@@ -1,0 +1,21 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Services voor service providers"
+    id="id-76a253caf1c5189ac0d29882df778989"
+    documentation="Service van federatiehubs zoals [[Entree Federatie]] en SurfConext waar service providers hun gebruikers kunnen laten authenticeren">
+  <properties
+      key="Object ID"
+      value="ea969462-8fa1-49588-82e4-ed54157d873"/>
+  <properties
+      key="Original ID"
+      value="id-ea9694628fa14958882e4ed54157d873"/>
+  <properties
+      key="SWC type"
+      value="Landelijke service"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Semanticsearch"
+      value="services voor service providers"/>
+</archimate:ApplicationService>

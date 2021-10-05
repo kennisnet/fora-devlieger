@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontvangende instelling"
+    id="id-95b8467eba8eeaa35b7503013e44a1da"
+    documentation="De ontvangende instelling is de [[onderwijsinstelling]] waar een [[onderwijsvolger]] zich voor een (vervolg)opleiding wil inschrijven.">
+  <properties
+      key="Werkingsgebied"
+      value="Onderwijsinstellingen"/>
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Object ID"
+      value="3aa77604-9501-4c56-afab-9d08a4e29138"/>
+  <properties
+      key="Original ID"
+      value="id-3aa77604-9501-4c56-afab-9d08a4e29138"/>
+  <properties
+      key="Semanticsearch"
+      value="ontvangende instelling"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="faseert"
+    id="id-ad7f5dd09280e35d15795d025c4f8b6f"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="8b041e0b-69f8-4675a-c6ea-eacbf78df39"/>
+  <properties
+      key="Original ID"
+      value="id-8b041e0b69f84675ac6eaeacbf78df39"/>
+  <properties
+      key="Semanticsearch"
+      value="faseert"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-21ca90c4d1f5f7e9f9b6b1d1c12b7ed4.xml#id-21ca90c4d1f5f7e9f9b6b1d1c12b7ed4"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3b518de389d2b8aa422e59d1990e3617.xml#id-3b518de389d2b8aa422e59d1990e3617"/>
+</archimate:AssociationRelationship>

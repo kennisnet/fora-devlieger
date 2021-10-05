@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerresultaten en ontwikkeling"
+    id="id-2ce1eaba2a71c5335a4187ecd071df6d"
+    documentation="Informatie over de afgelegde toetsen van een leerling.">
+  <properties
+      key="Object ID"
+      value="33f85214-50ce-492c-b6f8-a9cf1e29272f"/>
+  <properties
+      key="Original ID"
+      value="id-33f85214-50ce-492c-b6f8-a9cf1e29272f"/>
+  <properties
+      key="Semanticsearch"
+      value="leerresultaten en ontwikkeling"/>
+</archimate:DataObject>

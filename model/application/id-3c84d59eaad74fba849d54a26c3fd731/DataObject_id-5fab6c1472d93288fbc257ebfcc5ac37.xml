@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klas"
+    id="id-5fab6c1472d93288fbc257ebfcc5ac37"
+    documentation="Identificatie van de klas of hoofd-lesgroep waar de leerling deel van uitmaakt.">
+  <properties
+      key="Object ID"
+      value="3dddde95-9a23-4e38-808c-1809e6b03293"/>
+  <properties
+      key="Original ID"
+      value="id-3dddde95-9a23-4e38-808c-1809e6b03293"/>
+  <properties
+      key="Semanticsearch"
+      value="klas"/>
+</archimate:DataObject>

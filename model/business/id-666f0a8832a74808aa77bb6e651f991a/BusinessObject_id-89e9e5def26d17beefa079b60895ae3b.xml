@@ -1,0 +1,48 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opdracht"
+    id="id-89e9e5def26d17beefa079b60895ae3b"
+    documentation="Een opdracht is een vooraf omschreven en door de leerling uit te voeren leeractiviteit.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="dd2e9ff8-0b69-4e50b-e14e-354bcbbbd47"/>
+  <properties
+      key="Original ID"
+      value="id-dd2e9ff80b694e50be14e354bcbbbd47"/>
+  <properties
+      key="Semanticsearch"
+      value="opdracht"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+  <properties
+      key="Voorbeeld"
+      value="Taak, Oefening, Werkje, Activiteit"/>
+</archimate:BusinessObject>

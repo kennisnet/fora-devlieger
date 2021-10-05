@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Certificaat"
+    id="id-f521e77d5006f85a05218b4eab913438"
+    documentation="Een certificaat is een document dat op basis van nauw omschreven richtlijnen qua vorm en inhoud getuigt van de afronding met voldoende resultaat van een vak als onderdeel van een eindexamen door de kandidaat, waarbij het eindexamen als geheel niet is voltooid.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Product"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="92d8b61b-444e-4ca5a-8ad9-3ebb70ff2b2"/>
+  <properties
+      key="Original ID"
+      value="id-92d8b61b444e4ca5a8ad93ebb70ff2b2"/>
+  <properties
+      key="Semanticsearch"
+      value="certificaat"/>
+  <properties
+      key="Sector"
+      value="VO"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkoop"
+    id="id-1c97f1fa94f07ce02a309c9f0d59a998"
+    documentation="Het inkopen /  verwerven van producten, goederen en diensten bij leveranciers waaronder het zorgen voor tijdige levering om het bedrijfsproces (inclusief het geven van onderwijs) van de onderwijsinstelling zeker te stellen. Dit omvat ook het uitvoeren van aanbestedingen.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="f910816f-9478-4dc68-3479-29ae61ca678"/>
+  <properties
+      key="Original ID"
+      value="id-f910816f94784dc68347929ae61ca678"/>
+  <properties
+      key="Semanticsearch"
+      value="inkoop"/>
+</archimate:BusinessFunction>

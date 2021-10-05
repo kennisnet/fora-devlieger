@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service ontwikkeling"
+    id="id-a4c0237228261a26015e6f51887bfe9c"
+    documentation="Ontwikkeling van (digitale) dienstverlening">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="Object ID"
+      value="b83131da-34d6-4fb99-6d66-b87914e059f"/>
+  <properties
+      key="Original ID"
+      value="id-b83131da34d64fb996d66b87914e059f"/>
+  <properties
+      key="Semanticsearch"
+      value="service ontwikkeling"/>
+</archimate:BusinessFunction>

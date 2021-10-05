@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking resultaatgegevens (Citoscore)"
+    id="id-0c639a999850337f99bedba4a377cbf0">
+  <properties
+      key="Object ID"
+      value="8addddb2-db89-466c-9da6-e7266fef7cc8"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-8addddb2-db89-466c-9da6-e7266fef7cc8"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking resultaatgegevens (citoscore)"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

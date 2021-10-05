@@ -1,0 +1,51 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cijfer"
+    id="id-f300fdd786fd751c07df659aa4d95472"
+    documentation="Een cijfer is een getal dat een cijfermatige uitdrukking geeft aan het behaalde resultaat.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="81166d3e-7a8e-4440b-627a-3dfd52a02ef"/>
+  <properties
+      key="Original ID"
+      value="id-81166d3e7a8e4440b627a3dfd52a02ef"/>
+  <properties
+      key="Semanticsearch"
+      value="cijfer"/>
+  <properties
+      key="Toelichting"
+      value="Volgens de in het Nederlandse onderwijs gangbare cijferschaal is het hoogste cijfer dat behaald kan worden 10,0 en het laagste 1,0 met eventueel daartussen gelegen decimalen. Een rapportcijfer is meestal het al dan niet gewogen gemiddelde van de behaalde cijfers voor een vak."/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Afgeleid van"
+      value="https://www2.cito.nl/static/oenw/ttb/beglist1.htm#CIJFERS"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

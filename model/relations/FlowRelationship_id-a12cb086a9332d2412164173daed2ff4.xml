@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a12cb086a9332d2412164173daed2ff4"
+    documentation="organisatie en financiering leerlingenvervoer">
+  <properties
+      key="Referentie"
+      value="wet PO art 4"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="leerlingenvervoer"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="ecea6e25-38f8-4cfc-84ee-078f01834562"/>
+  <properties
+      key="Original ID"
+      value="ecea6e25-38f8-4cfc-84ee-078f01834562"/>
+  <properties
+      key="Semanticsearch"
+      value="ecea6e25-38f8-4cfc-84ee-078f01834562"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-a44eaf311e0d73501a14ee9d560f6362.xml#id-a44eaf311e0d73501a14ee9d560f6362"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-023be7b22058fe582ce81b0e4ffa5f10.xml#id-023be7b22058fe582ce81b0e4ffa5f10"/>
+</archimate:FlowRelationship>

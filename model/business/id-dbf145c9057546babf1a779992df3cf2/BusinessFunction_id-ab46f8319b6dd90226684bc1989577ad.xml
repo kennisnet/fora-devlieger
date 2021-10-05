@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personeelsbeoordeling"
+    id="id-ab46f8319b6dd90226684bc1989577ad"
+    documentation="Het beoordelen van werkresultaten, gedrag en potentieel van medewerkers teneinde prestaties van medewerkers te kunnen meten en de ontwikkeling en motivatie van medewerkers te bevorderen. De beoordeling wordt in de regel met de medewerker besproken, en is vaak het uitgangspunt voor een salarisaanpassing.">
+  <properties
+      key="Object ID"
+      value="bd83eabd-4dc2-4754-b8f2-fca9ee5f2661"/>
+  <properties
+      key="Original ID"
+      value="bd83eabd-4dc2-4754-b8f2-fca9ee5f2661"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="personeelsbeoordeling"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

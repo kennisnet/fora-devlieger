@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-205f582a20294e433ab1517b80963035"
+    documentation="alle bestuurlijke gegevens tussen het samenwerkingsverband passend onderwijs en de school, sterk afhankelijk van de gekozen werkvorm voor het samenwerkingsverband">
+  <properties
+      key="Referentie"
+      value="wet PO, wet VO, wet EC"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="passend onderwijs"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="3b012115-2c24-4cbf-ad30-28d00bdb6584"/>
+  <properties
+      key="Original ID"
+      value="id-3b012115-2c24-4cbf-ad30-28d00bdb6584"/>
+  <properties
+      key="Semanticsearch"
+      value="id-3b012115-2c24-4cbf-ad30-28d00bdb6584"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-ef98c02f9711c66e2f17171745adab88.xml#id-ef98c02f9711c66e2f17171745adab88"/>
+</archimate:FlowRelationship>

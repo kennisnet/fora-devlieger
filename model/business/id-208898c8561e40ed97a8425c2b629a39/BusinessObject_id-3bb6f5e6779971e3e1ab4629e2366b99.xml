@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reden voor schorsing of verwijdering"
+    id="id-3bb6f5e6779971e3e1ab4629e2366b99">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="a3820b2c-e43a-4f85-94b5-580fea467b36"/>
+  <properties
+      key="Original ID"
+      value="a3820b2c-e43a-4f85-94b5-580fea467b36"/>
+  <properties
+      key="Semanticsearch"
+      value="reden voor schorsing of verwijdering"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

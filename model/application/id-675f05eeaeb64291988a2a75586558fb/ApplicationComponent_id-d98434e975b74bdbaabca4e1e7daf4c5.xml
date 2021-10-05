@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatiebeheersysteem"
+    id="id-d98434e975b74bdbaabca4e1e7daf4c5"
+    documentation="Verzamelbegrip van applicaties t.b.v. voor beheer.&#xA;Denk aan: * Topdesk * Eduarte  * Osiris * Apache * NGINX">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="8f6aaa34-c211-4cfc8-b815-106e001efd7"/>
+  <properties
+      key="Original ID"
+      value="id-8f6aaa34c2114cfc8b815106e001efd7"/>
+  <properties
+      key="Semanticsearch"
+      value="applicatiebeheersysteem"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerlingnummer"
+    id="id-c57f077e0222db5c5713f1438fea228a"
+    documentation="Administratienummer dat door de school aan de leerling wordt toegekend">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Midden"/>
+  <properties
+      key="Object ID"
+      value="b13bfec3-2c41-4682-97b0-603e82223ce4"/>
+  <properties
+      key="Original ID"
+      value="b13bfec3-2c41-4682-97b0-603e82223ce4"/>
+  <properties
+      key="Semanticsearch"
+      value="leerlingnummer"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

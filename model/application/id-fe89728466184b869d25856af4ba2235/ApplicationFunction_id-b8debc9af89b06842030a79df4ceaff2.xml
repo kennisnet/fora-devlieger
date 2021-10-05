@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorisatie van aanvragers"
+    id="id-b8debc9af89b06842030a79df4ceaff2">
+  <properties
+      key="Object ID"
+      value="0210247e-91b4-401e-9391-81345e6ee080"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-0210247e-91b4-401e-9391-81345e6ee080"/>
+  <properties
+      key="Semanticsearch"
+      value="autorisatie van aanvragers"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

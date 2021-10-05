@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zoeksysteem"
+    id="id-29b49cc71b05091262abcd32f76e2445"
+    documentation="Een systeem waarmee zowel gestuctureerde als ongestructureerde gegevens uit meerdere systemen worden geïndexeerd en doorzoekbaar gemaakt.">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="797fe62a-88a6-4499b-f269-f157565df97"/>
+  <properties
+      key="Original ID"
+      value="id-797fe62a88a64499bf269f157565df97"/>
+  <properties
+      key="Semanticsearch"
+      value="zoeksysteem"/>
+</archimate:ApplicationComponent>

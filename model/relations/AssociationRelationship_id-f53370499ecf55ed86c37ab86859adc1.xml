@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="volgt"
+    id="id-f53370499ecf55ed86c37ab86859adc1"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="a4cae64a-ad51-49d2b-d130-6b884539b85"/>
+  <properties
+      key="Original ID"
+      value="id-a4cae64aad5149d2bd1306b884539b85"/>
+  <properties
+      key="Semanticsearch"
+      value="volgt"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-02fbda5e4bdefb727fbea2546c429fa1.xml#id-02fbda5e4bdefb727fbea2546c429fa1"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-21ca90c4d1f5f7e9f9b6b1d1c12b7ed4.xml#id-21ca90c4d1f5f7e9f9b6b1d1c12b7ed4"/>
+</archimate:AssociationRelationship>

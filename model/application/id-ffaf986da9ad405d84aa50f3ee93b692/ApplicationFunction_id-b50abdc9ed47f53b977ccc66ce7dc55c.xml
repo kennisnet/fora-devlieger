@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking geslacht leerling"
+    id="id-b50abdc9ed47f53b977ccc66ce7dc55c">
+  <properties
+      key="Object ID"
+      value="b6513b86-d9cf-4f4b-8853-86bd73a846a3"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="b6513b86-d9cf-4f4b-8853-86bd73a846a3"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking geslacht leerling"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

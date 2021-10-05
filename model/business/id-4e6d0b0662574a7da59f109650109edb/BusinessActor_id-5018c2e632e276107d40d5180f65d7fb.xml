@@ -1,0 +1,24 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SLO"
+    id="id-5018c2e632e276107d40d5180f65d7fb"
+    documentation="Stichting Leerplan Ontwikkeling (zie wet subsidiëring landelijke onderwijsondersteunende activiteiten)">
+  <properties
+      key="Type"
+      value="Actor"/>
+  <properties
+      key="Object ID"
+      value="460e6851-b19d-4537-bbd3-ca4c3de07c2b"/>
+  <properties
+      key="Original ID"
+      value="id-460e6851-b19d-4537-bbd3-ca4c3de07c2b"/>
+  <properties
+      key="Semanticsearch"
+      value="slo"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Organisatie"/>
+</archimate:BusinessActor>

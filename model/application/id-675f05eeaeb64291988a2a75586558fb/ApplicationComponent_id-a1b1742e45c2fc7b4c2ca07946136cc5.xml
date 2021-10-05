@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personeelsysteem"
+    id="id-a1b1742e45c2fc7b4c2ca07946136cc5"
+    documentation="Systeem of geheel van systemen en modules dat wordt gebruikt voor de uitvoering van de taken van de personeelsadministratie.">
+  <properties
+      key="Object ID"
+      value="40d06714-b4e1-41bb-84c5-befc54a1c734"/>
+  <properties
+      key="Original ID"
+      value="id-40d06714-b4e1-41bb-84c5-befc54a1c734"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Semanticsearch"
+      value="personeelsysteem"/>
+</archimate:ApplicationComponent>

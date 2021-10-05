@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitaal leerlingportfolio beheren"
+    id="id-27efc8c2194fd139e32fded2e22a0c60">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="b4b8233f-a2ed-4f5ea-271a-19950f2b0a0"/>
+  <properties
+      key="Original ID"
+      value="id-b4b8233fa2ed4f5ea271a19950f2b0a0"/>
+  <properties
+      key="Semanticsearch"
+      value="digitaal leerlingportfolio beheren"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

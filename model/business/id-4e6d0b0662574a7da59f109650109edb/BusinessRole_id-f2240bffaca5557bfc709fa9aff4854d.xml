@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Branche-organisatie"
+    id="id-f2240bffaca5557bfc709fa9aff4854d"
+    documentation="Branche organisaties, zie b.v. https://www.mkb.nl//leden of http://ambitions.nu/2012/02/11/op-zoek-naar-een-branchevereniging-hieronder-een-alfabetische-lijst/ (ongeveer 1000!)">
+  <properties
+      key="Object ID"
+      value="2d9b871a-050b-4530-9fc7-3605c0d68986"/>
+  <properties
+      key="Original ID"
+      value="id-2d9b871a-050b-4530-9fc7-3605c0d68986"/>
+  <properties
+      key="Semanticsearch"
+      value="branche-organisatie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

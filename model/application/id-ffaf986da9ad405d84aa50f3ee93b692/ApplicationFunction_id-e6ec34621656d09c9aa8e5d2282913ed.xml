@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking overige presoonsgegevens leerling"
+    id="id-e6ec34621656d09c9aa8e5d2282913ed">
+  <properties
+      key="Object ID"
+      value="86b3e1c6-ec3c-49fb-ae2b-5772de073d9a"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-86b3e1c6-ec3c-49fb-ae2b-5772de073d9a"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking overige presoonsgegevens leerling"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,20 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerkingsdoel: verstrekken van (digitale) leermiddelen"
+    id="id-449fb820fa6602da404217fb11167de0">
+  <properties
+      key="Object ID"
+      value="2830ca63-6a5b-4bbd-ae4d-63a54c82ab1b"/>
+  <properties
+      key="Original ID"
+      value="id-2830ca63-6a5b-4bbd-ae4d-63a54c82ab1b"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerkingsdoel: verstrekken van (digitale) leermiddelen"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Verwerkingsdoel"/>
+</archimate:Goal>

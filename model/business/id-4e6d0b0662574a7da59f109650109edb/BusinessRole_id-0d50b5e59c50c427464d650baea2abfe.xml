@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Externe Advies- en consultancy-bureaus"
+    id="id-0d50b5e59c50c427464d650baea2abfe"
+    documentation="Diverse advies bureaus, van onderwijs tot ict">
+  <properties
+      key="Object ID"
+      value="51081f15-fb58-49db-832e-a1f3edec03fc"/>
+  <properties
+      key="Original ID"
+      value="id-51081f15-fb58-49db-832e-a1f3edec03fc"/>
+  <properties
+      key="Semanticsearch"
+      value="externe advies- en consultancy-bureaus"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

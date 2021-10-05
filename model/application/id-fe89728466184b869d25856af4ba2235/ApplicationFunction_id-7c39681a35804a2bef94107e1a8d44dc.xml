@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebouwbeheer"
+    id="id-7c39681a35804a2bef94107e1a8d44dc"
+    documentation="Het beheer en onderhouden van gebouwen en gebouwinstallaties (gas, licht, water, ventilatie, zonwering e.d.)">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="f10960db-bc6b-4e6a9-4766-40e9649fc49"/>
+  <properties
+      key="Original ID"
+      value="id-f10960dbbc6b4e6a9476640e9649fc49"/>
+  <properties
+      key="Semanticsearch"
+      value="gebouwbeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

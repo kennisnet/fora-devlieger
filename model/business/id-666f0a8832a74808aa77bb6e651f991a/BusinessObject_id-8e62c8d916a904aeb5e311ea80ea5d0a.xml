@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Slaag-zakregeling"
+    id="id-8e62c8d916a904aeb5e311ea80ea5d0a"
+    documentation="De slaag-zakregeling is het geheel van regels, door de wetgever opgesteld, op grond waarvan wordt bepaald of de kandidaat al dan niet is geslaagd voor het eindexamen.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="ed591917-254d-437d9-ef87-edf7336f962"/>
+  <properties
+      key="Original ID"
+      value="id-ed591917254d437d9ef87edf7336f962"/>
+  <properties
+      key="Semanticsearch"
+      value="slaag-zakregeling"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Sector"
+      value="VO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

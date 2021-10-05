@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d5d2e3051cf79ccc7b96b9cd15273ae2"
+    documentation="uitwisseling HRM gegevens met personeel">
+  <properties
+      key="Referentie"
+      value="burgerlijk wetboek art 655 en ander arbeidsrecht"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="HRM"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="8d2aca00-3435-4a8e-89af-2dd3e663fa06"/>
+  <properties
+      key="Original ID"
+      value="id-8d2aca00-3435-4a8e-89af-2dd3e663fa06"/>
+  <properties
+      key="Semanticsearch"
+      value="id-8d2aca00-3435-4a8e-89af-2dd3e663fa06"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-26dbb885b01bb54d3e6f5d0297aa568b.xml#id-26dbb885b01bb54d3e6f5d0297aa568b"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="stelt regels aan"
+    id="id-0cd3ea170061d2fdcfcb3d41bba8349e"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="373dfc30-3fb5-49b28-28ad-9bbb878b9b3"/>
+  <properties
+      key="Original ID"
+      value="id-373dfc303fb549b2828ad9bbb878b9b3"/>
+  <properties
+      key="Semanticsearch"
+      value="stelt regels aan"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c855062d494f14eca1ec57d0a93e4ede.xml#id-c855062d494f14eca1ec57d0a93e4ede"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-983d5555081d0d8aaef4af60894e7d82.xml#id-983d5555081d0d8aaef4af60894e7d82"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,27 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AOC Raad"
+    id="id-a54c3bcc5f65c366537214816ba595d1"
+    documentation="De AOC Raad is de netwerkorganisatie van alle AOC's en verzorgt de belangenbehartiging voor het groene onderwijs.">
+  <properties
+      key="Type"
+      value="Actor"/>
+  <properties
+      key="Werkingsgebied"
+      value="AOC Raad"/>
+  <properties
+      key="Object ID"
+      value="40ee2b56-3861-451a-8db8-e7be0ee2a5aa"/>
+  <properties
+      key="Original ID"
+      value="id-40ee2b56-3861-451a-8db8-e7be0ee2a5aa"/>
+  <properties
+      key="Semanticsearch"
+      value="aoc raad"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Organisatie"/>
+</archimate:BusinessActor>

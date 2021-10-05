@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Postcode"
+    id="id-3e1feb220c578f7e95c64f3d7b7af690"
+    documentation="Postcode van het [[Adres]] van de leerling, voor zover dat in Nederland ligt">
+  <properties
+      key="Object ID"
+      value="06c0d536-2575-453d-89e7-4ff3533832b0"/>
+  <properties
+      key="Original ID"
+      value="id-06c0d536-2575-453d-89e7-4ff3533832b0"/>
+  <properties
+      key="Semanticsearch"
+      value="postcode"/>
+</archimate:DataObject>

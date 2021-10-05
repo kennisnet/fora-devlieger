@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Debiteur"
+    id="id-e6399981fbf8017d99694d29697650d5"
+    documentation="Een debiteur, juridisch schuldenaar, is een persoon die een verplichting heeft ten opzichte van een ander. (bron: Wikipedia)">
+  <properties
+      key="Object ID"
+      value="ce21bd70-48df-4a99-a524-b0aa24ce7357"/>
+  <properties
+      key="Original ID"
+      value="ce21bd70-48df-4a99-a524-b0aa24ce7357"/>
+  <properties
+      key="Semanticsearch"
+      value="debiteur"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Financiën"/>
+</archimate:BusinessObject>

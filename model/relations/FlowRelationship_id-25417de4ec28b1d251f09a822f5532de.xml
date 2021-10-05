@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-25417de4ec28b1d251f09a822f5532de"
+    documentation="organisatie  leerlingenvervoer">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="zorgdiensten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="99915595-e748-4be4-ba98-ffd14c61fbd2"/>
+  <properties
+      key="Original ID"
+      value="id-99915595-e748-4be4-ba98-ffd14c61fbd2"/>
+  <properties
+      key="Semanticsearch"
+      value="id-99915595-e748-4be4-ba98-ffd14c61fbd2"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-023be7b22058fe582ce81b0e4ffa5f10.xml#id-023be7b22058fe582ce81b0e4ffa5f10"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-2c9515cc27b21c8c9d19e7d28735d8be.xml#id-2c9515cc27b21c8c9d19e7d28735d8be"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,21 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EDEXML"
+    id="id-1c30720fd57982b87aaea4e766616151"
+    documentation="EDEXML is de standaard voor de uitwisseling van administratieve gegevens van leerlingen met bijbehorende gegevens over groepen en leerkrachten. EDEXML is bedoeld voor het primair en voortgezet onderwijs.">
+  <properties
+      key="Object ID"
+      value="99d2efd1-d9b4-4e5b-ac0a-961e9c8617f0"/>
+  <properties
+      key="Original ID"
+      value="id-99d2efd1-d9b4-4e5b-ac0a-961e9c8617f0"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Standaard"/>
+  <properties
+      key="Semanticsearch"
+      value="edexml"/>
+</archimate:Constraint>

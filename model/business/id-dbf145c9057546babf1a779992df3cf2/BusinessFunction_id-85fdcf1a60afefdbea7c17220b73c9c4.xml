@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Juridische zaken"
+    id="id-85fdcf1a60afefdbea7c17220b73c9c4"
+    documentation="Het ervoor zorgen dat de onderwijsorganisatie zich houdt aan wet- en regelgeving.">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="633ae0e6-3e30-4df4-98c2-3f5ddcc8ecc4"/>
+  <properties
+      key="Original ID"
+      value="id-633ae0e6-3e30-4df4-98c2-3f5ddcc8ecc4"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="juridische zaken"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

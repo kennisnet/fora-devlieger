@@ -1,0 +1,14 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatieobject Schoolleiding"
+    id="id-17bd6b08da2b44594869e18697e947d4">
+  <properties
+      key="Object ID"
+      value="a572d5d2-6dcf-4a978-3476-e4b3f84211a"/>
+  <properties
+      key="Original ID"
+      value="id-a572d5d26dcf4a9783476e4b3f84211a"/>
+  <properties
+      key="Semanticsearch"
+      value="informatieobject schoolleiding"/>
+</archimate:BusinessObject>

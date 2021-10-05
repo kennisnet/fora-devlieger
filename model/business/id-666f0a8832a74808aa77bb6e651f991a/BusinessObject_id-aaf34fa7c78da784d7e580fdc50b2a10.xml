@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bouwheer/Bouwheerschap"
+    id="id-aaf34fa7c78da784d7e580fdc50b2a10"
+    documentation="Bouwheer is de regisseur van het bouwproces. Het schoolbestuur is in principe bouwheer.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Huisvesting"/>
+  <properties
+      key="Object ID"
+      value="7269f89b-faa8-4a5ab-01bf-9a027f0f965"/>
+  <properties
+      key="Original ID"
+      value="id-7269f89bfaa84a5ab01bf9a027f0f965"/>
+  <properties
+      key="Semanticsearch"
+      value="bouwheer/bouwheerschap"/>
+</archimate:BusinessObject>

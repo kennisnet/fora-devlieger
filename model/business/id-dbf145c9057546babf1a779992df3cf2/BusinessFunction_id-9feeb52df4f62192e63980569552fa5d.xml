@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vervaardiging jaarverslag"
+    id="id-9feeb52df4f62192e63980569552fa5d"
+    documentation="Het jaarlijks opstellen van een verantwoordingsdocument op schoolniveau, waarmee de schoolleiding verantwoording aflegt.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="dd0dee6a-4bbf-4b05b-c8ca-34ba719c871"/>
+  <properties
+      key="Original ID"
+      value="id-dd0dee6a4bbf4b05bc8ca34ba719c871"/>
+  <properties
+      key="Semanticsearch"
+      value="vervaardiging jaarverslag"/>
+</archimate:BusinessFunction>

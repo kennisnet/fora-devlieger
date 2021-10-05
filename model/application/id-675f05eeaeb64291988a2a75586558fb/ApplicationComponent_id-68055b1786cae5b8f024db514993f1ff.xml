@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leermiddelenlijst beheersysteem"
+    id="id-68055b1786cae5b8f024db514993f1ff"
+    documentation="Een systeem dat ondersteunt bij het opmaken en vaststellen van de leermiddelenlijsten met de voor de studenten benodigde boeken, licenties en andere leermiddelen voor een opleiding.">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="3e742489-0d83-41089-77ce-194327d01a0"/>
+  <properties
+      key="Original ID"
+      value="id-3e7424890d834108977ce194327d01a0"/>
+  <properties
+      key="Semanticsearch"
+      value="leermiddelenlijst beheersysteem"/>
+</archimate:ApplicationComponent>

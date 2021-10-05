@@ -1,0 +1,20 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(M) Zeggenschap"
+    id="id-aea44886188d60859c1fef5b3608179d">
+  <properties
+      key="Object ID"
+      value="94be457e-c499-4d4d-a7e1-d8d592a1c24f"/>
+  <properties
+      key="Original ID"
+      value="id-94be457e-c499-4d4d-a7e1-d8d592a1c24f"/>
+  <properties
+      key="SWC type"
+      value="Zeggenschap"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="Semanticsearch"
+      value="(m) zeggenschap"/>
+</archimate:Constraint>

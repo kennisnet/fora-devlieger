@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vraagbundeling en inkoop"
+    id="id-b342dbf6e86b51846f94183e69798bf3"
+    documentation="Het gezamenlijk inkopen van middelen en het bewaken van de afspraken hierover met de leverancier.">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="71d8b829-7ed1-46c1-9c4b-138034346325"/>
+  <properties
+      key="Original ID"
+      value="id-71d8b829-7ed1-46c1-9c4b-138034346325"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="vraagbundeling en inkoop"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

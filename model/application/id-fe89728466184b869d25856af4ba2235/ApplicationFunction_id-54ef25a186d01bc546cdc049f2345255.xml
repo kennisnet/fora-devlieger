@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorraadbeheer"
+    id="id-54ef25a186d01bc546cdc049f2345255"
+    documentation="Het beheren van voorraad. &#xA;* Kantoorartikelen&#xA;* Apparatuur&#xA;* Goederen">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="ad6a1d0a-ab51-4bcbb-3afc-eb888a2129c"/>
+  <properties
+      key="Original ID"
+      value="id-ad6a1d0aab514bcbb3afceb888a2129c"/>
+  <properties
+      key="Semanticsearch"
+      value="voorraadbeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

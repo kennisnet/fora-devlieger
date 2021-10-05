@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijskundig beleid"
+    id="id-f4afe31d60a4b6af43fda2d24ec2e267"
+    documentation="Stelsel van kwaliteitszorg">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="1697cce9-7b64-45b6-bf60-093bd8fa9d1b"/>
+  <properties
+      key="Original ID"
+      value="id-1697cce9-7b64-45b6-bf60-093bd8fa9d1b"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijskundig beleid"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

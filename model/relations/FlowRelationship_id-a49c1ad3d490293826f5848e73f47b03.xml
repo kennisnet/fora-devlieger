@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a49c1ad3d490293826f5848e73f47b03"
+    documentation="gegevensuitwisseling met ouders/voogd">
+  <properties
+      key="Referentie"
+      value="wet PO (art 10.3, 40b) wet VO, wet EC"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="deelname en resultaten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="0f33746f-6570-447a-97f3-7accbf2454c5"/>
+  <properties
+      key="Original ID"
+      value="id-0f33746f-6570-447a-97f3-7accbf2454c5"/>
+  <properties
+      key="Semanticsearch"
+      value="id-0f33746f-6570-447a-97f3-7accbf2454c5"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-9f6e7f2ecff830bbf7d7c60692b6e802.xml#id-9f6e7f2ecff830bbf7d7c60692b6e802"/>
+</archimate:FlowRelationship>

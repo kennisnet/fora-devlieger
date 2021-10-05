@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grootboekbeheer"
+    id="id-a7893c04e8c2dafebf100fc3f2afb087"
+    documentation="Verantwoordelijkheid voor het aanmaken, verwerken en verwijderen van grootboekrekeningen">
+  <properties
+      key="Object ID"
+      value="423ec43a-a2e8-4059-afaf-a4a826625e28"/>
+  <properties
+      key="Original ID"
+      value="id-423ec43a-a2e8-4059-afaf-a4a826625e28"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="grootboekbeheer"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

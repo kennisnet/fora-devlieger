@@ -1,0 +1,20 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SaaS aanbieder Educatieve applicatie"
+    id="id-8febb3205ea06533beb9d49fa9df2588">
+  <properties
+      key="Object ID"
+      value="89f02b6c-601b-4f4a-b144-baf617a113ff"/>
+  <properties
+      key="Original ID"
+      value="id-89f02b6c-601b-4f4a-b144-baf617a113ff"/>
+  <properties
+      key="Semanticsearch"
+      value="saas aanbieder educatieve applicatie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ba0dc8e71f31f03ed4af3c49e419bbfd"
+    documentation="aanvullende financiering kinderopvang">
+  <properties
+      key="Referentie"
+      value="https://www.veranderingenkinderopvang.nl/harmonisatie / gemeenten"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="kinderopvang en ICK"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="54f77818-bacf-46e4-a956-21b2e25ac469"/>
+  <properties
+      key="Original ID"
+      value="id-54f77818-bacf-46e4-a956-21b2e25ac469"/>
+  <properties
+      key="Semanticsearch"
+      value="id-54f77818-bacf-46e4-a956-21b2e25ac469"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-a44eaf311e0d73501a14ee9d560f6362.xml#id-a44eaf311e0d73501a14ee9d560f6362"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-2c9515cc27b21c8c9d19e7d28735d8be.xml#id-2c9515cc27b21c8c9d19e7d28735d8be"/>
+</archimate:FlowRelationship>

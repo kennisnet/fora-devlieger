@@ -1,0 +1,20 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communicatie van nieuws en updates"
+    id="id-ee93ab089280fa0a1f3688ea6d4b9f1e">
+  <properties
+      key="Object ID"
+      value="8b2630af-b307-44db-a94f-9e7e7773d600"/>
+  <properties
+      key="Original ID"
+      value="id-8b2630af-b307-44db-a94f-9e7e7773d600"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="communicatie van nieuws en updates"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overige samenwerkings-verbanden"
+    id="id-8661905a8d8c0e6ae12e9fef06dbb397"
+    documentation="regionale transfercentra, technologie &amp; onderwijs, centrum onderwijs en leren (UU), wetenschapsknooppunt (UU), scholennetwerk (UU), groen onderwijs">
+  <properties
+      key="Object ID"
+      value="3e953955-ed95-447c-ac85-569a48c45ac4"/>
+  <properties
+      key="Original ID"
+      value="id-3e953955-ed95-447c-ac85-569a48c45ac4"/>
+  <properties
+      key="Semanticsearch"
+      value="overige samenwerkings-verbanden"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

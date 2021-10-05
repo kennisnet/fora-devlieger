@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelingsperspectiefplan"
+    id="id-9e886fc354299b7bfab29f6c757cee05"
+    documentation="Een ontwikkelingsperspectief (OG20PP) is een document dat wordt opgesteld voor leerlingen die extra ondersteuning krijgen en voor alle leerlingen die naar het speciaal basisonderwijs, praktijkonderwijs of het (v)so gaan.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="c5323fde-b99c-4806-862a-d6b597a9d0f1"/>
+  <properties
+      key="Original ID"
+      value="c5323fde-b99c-4806-862a-d6b597a9d0f1"/>
+  <properties
+      key="Semanticsearch"
+      value="ontwikkelingsperspectiefplan"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Overeenkomst"/>
+  <properties
+      key="Domein"
+      value="Passend onderwijs"/>
+</archimate:BusinessObject>

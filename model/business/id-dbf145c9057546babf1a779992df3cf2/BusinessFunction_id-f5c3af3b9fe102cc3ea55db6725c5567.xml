@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsevaluatie"
+    id="id-f5c3af3b9fe102cc3ea55db6725c5567"
+    documentation="Het bepalen van behaalde resultaten en opbrengsten en de onderwijskundige betekenis daarvan voor de leerling (incl. mogelijkheid voor zelfevaluatie) en/of het onderwijs zelf.">
+  <properties
+      key="Object ID"
+      value="ad184618-8e07-46e6-864d-22cb6b0c9d72"/>
+  <properties
+      key="Original ID"
+      value="ad184618-8e07-46e6-864d-22cb6b0c9d72"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsevaluatie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

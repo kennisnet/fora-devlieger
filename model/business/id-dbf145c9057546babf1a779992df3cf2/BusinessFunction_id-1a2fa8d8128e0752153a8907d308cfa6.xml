@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgbegeleiding en -coördinatie"
+    id="id-1a2fa8d8128e0752153a8907d308cfa6"
+    documentation="Het begeleiden van onderwijsvolgers gedurende hun onderwijsloopbaan, signaleren van extra zorgbehoeften (preventief en remediërend). Wordt overwegend door interne medewerkers uitgevoerd, die specifieke zorgtaken door externe specialisten kunnen laten uitvoeren.">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="6964aa99-f6fe-4fff-a017-a3d7f9fb1dea"/>
+  <properties
+      key="Original ID"
+      value="id-6964aa99-f6fe-4fff-a017-a3d7f9fb1dea"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="zorgbegeleiding en -coördinatie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

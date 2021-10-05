@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Crediteurenbeheer"
+    id="id-86391f4e7ba2ad45a286e10d52bc7cf1"
+    documentation="Beheer van crediteuren">
+  <properties
+      key="Object ID"
+      value="6b2f7a97-81d6-476c-b66c-e0f96aa40274"/>
+  <properties
+      key="Original ID"
+      value="id-6b2f7a97-81d6-476c-b66c-e0f96aa40274"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="crediteurenbeheer"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

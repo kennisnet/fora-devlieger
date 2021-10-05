@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebouwbeveiligingsysteem"
+    id="id-3306a2fdc556748caa5d6621b8d5fb90"
+    documentation="Systeem voor het beheer van gebouwbeveiligingsvoorzieningen (ook wel het RBS - Risico Beheer Systeem genoemd). &#xA;Denk aan: gebouwtoegangsystemen (poortjes, slagbomen, zonering), parkeerruimte teller, lift controle, inbraakdetectiesystemen, brandmelders, deurmagneetcontacten, intercominstallatie, sprinklerinstallatie, alarminstallatie, centrale meldkamer systeem, portofoon systeem, EHBO registratie, beveiligingscamera's.">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="ac70d776-195f-428ba-de63-55a7fb74889"/>
+  <properties
+      key="Original ID"
+      value="id-ac70d776195f428bade6355a7fb74889"/>
+  <properties
+      key="Semanticsearch"
+      value="gebouwbeveiligingsysteem"/>
+</archimate:ApplicationComponent>

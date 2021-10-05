@@ -1,0 +1,21 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BP Licentieservice voor uitgevers met gehost LIKA"
+    id="id-0f72880481e17f54b3b7f1c226aedca0"
+    documentation="JSON service waarmee Basispoort uitgevers die een licentiekantoor afnemen als dienst van Basispoort, in staat stelt om de actuele licenties (koppelingen van leerlingen of scholen aan methodes en producten) bij te werken.">
+  <properties
+      key="Object ID"
+      value="a410cfc4-e387-473ea-1802-7734fac6268"/>
+  <properties
+      key="Original ID"
+      value="id-a410cfc4e387473ea18027734fac6268"/>
+  <properties
+      key="SWC type"
+      value="Landelijke service"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Semanticsearch"
+      value="bp licentieservice voor uitgevers met gehost lika"/>
+</archimate:ApplicationService>

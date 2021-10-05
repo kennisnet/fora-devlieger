@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vulnerability-beheer"
+    id="id-101f6af910673ccc508bb2507b43f512"
+    documentation="Het beheren van kwetsbaarheden in hardware, software en besturingssystemen, zoals:&#xA;* detecteren en blokkeren van DDOS aanvallen&#xA;* bescherming tegen kwaadaardige software&#xA;* bescherming tegen spam">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="8dba6e21-fe24-4301a-4cb2-aaaeb116d35"/>
+  <properties
+      key="Original ID"
+      value="id-8dba6e21fe244301a4cb2aaaeb116d35"/>
+  <properties
+      key="Semanticsearch"
+      value="vulnerability-beheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

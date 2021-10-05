@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overige contactgegevens"
+    id="id-7efd78fd6f46d2fd4dd77dc3e34a6a2f"
+    documentation="Woon- of verblijfadres van de leerling&#xA;Postcode behorende bij het woon- of verblijfadres van de leerling &#xA;Woonplaats behorende bij het woon- of verblijfadres van de leerling&#xA;Telefoonnummer(s) waarop de leerling te bereiken is, zowel mobiel als vaste nummers">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Midden"/>
+  <properties
+      key="Object ID"
+      value="ecfec20c-3cb7-4c8d-bce6-06945cde2248"/>
+  <properties
+      key="Original ID"
+      value="ecfec20c-3cb7-4c8d-bce6-06945cde2248"/>
+  <properties
+      key="Semanticsearch"
+      value="overige contactgegevens"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

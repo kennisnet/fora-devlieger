@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Examen logistieksysteem"
+    id="id-0a20802b79f4768ac6dc10f1f2dabe1b"
+    documentation="Een systeem voor de examenvoorbereiding zoals het creeren van examengroepen, toekennen examenmateriaal, aanmaken examensets, toekennen afnameleider en surveillanten.">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="0990e7de-4fe1-4a99a-7b14-7ff8558cfce"/>
+  <properties
+      key="Original ID"
+      value="id-0990e7de4fe14a99a7b147ff8558cfce"/>
+  <properties
+      key="Semanticsearch"
+      value="examen logistieksysteem"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bestuursinformatiesysteem"
+    id="id-5d83c7161e9f3c4a2ad0154d4efa0b7b"
+    documentation="Systeem voor ondersteuning van het bestuursproces binnen een onderwijsinstelling. Hiermee worden bestuurs- en commissieagenda's, verslagen en overige bestuursdocumenten bijgehouden, geordend, op het internet gepubliceerd en doorzoekbaar gemaakt met zoektechnologie en notificatiediensten, en discussiefora ondersteund.">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="bcbb2992-7440-49afb-d52a-22b2fb59d15"/>
+  <properties
+      key="Original ID"
+      value="id-bcbb2992744049afbd52a22b2fb59d15"/>
+  <properties
+      key="Semanticsearch"
+      value="bestuursinformatiesysteem"/>
+</archimate:ApplicationComponent>

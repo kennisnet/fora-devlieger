@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-756c4e42dd05b37f360f974164be1ad8"
+    documentation="instellinggegevens en verantwoording naar sectorraden, b.v. voor scholen op de kaart">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="instelling en verantwoording"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="9f27458d-270d-49ef-8703-0ff15bf49237"/>
+  <properties
+      key="Original ID"
+      value="id-9f27458d-270d-49ef-8703-0ff15bf49237"/>
+  <properties
+      key="Semanticsearch"
+      value="id-9f27458d-270d-49ef-8703-0ff15bf49237"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-d776f26f0c64c0ba874469f4eda60c13.xml#id-d776f26f0c64c0ba874469f4eda60c13"/>
+</archimate:FlowRelationship>

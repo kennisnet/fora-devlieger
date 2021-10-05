@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portaal"
+    id="id-fbada262e89d52ac2f6229a725118576"
+    documentation="Een applicatie component waarvandaan gebruikers naar andere applicaties of diensten worden doorverwezen.">
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Object ID"
+      value="7bbef7a7-8349-48fc-bea7-c20c4408f863"/>
+  <properties
+      key="Original ID"
+      value="id-7bbef7a7-8349-48fc-bea7-c20c4408f863"/>
+  <properties
+      key="Semanticsearch"
+      value="portaal"/>
+</archimate:ApplicationComponent>

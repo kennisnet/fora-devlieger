@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bureau leerplicht"
+    id="id-23baa8f932d79e30aacafd4999a6bfa3"
+    documentation="Gemeentelijke leerplichtambtenaren">
+  <properties
+      key="Object ID"
+      value="6e633549-5350-4bbc-9e63-78235dae20db"/>
+  <properties
+      key="Original ID"
+      value="id-6e633549-5350-4bbc-9e63-78235dae20db"/>
+  <properties
+      key="Semanticsearch"
+      value="bureau leerplicht"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

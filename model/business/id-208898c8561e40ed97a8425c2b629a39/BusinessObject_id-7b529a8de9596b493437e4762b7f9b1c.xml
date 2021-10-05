@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verplichting"
+    id="id-7b529a8de9596b493437e4762b7f9b1c"
+    documentation="Bij het verplichtingenstelsel worden alle bedragen die aan contracten die in een bepaalde periode (meestal een jaar) worden afgesloten, als uitgaven in de begroting opgenomen. (bron: Wikipedia)">
+  <properties
+      key="Object ID"
+      value="81ae5b17-a805-4959-8fa7-f1c8f7e503f5"/>
+  <properties
+      key="Original ID"
+      value="id-81ae5b17-a805-4959-8fa7-f1c8f7e503f5"/>
+  <properties
+      key="Semanticsearch"
+      value="verplichting"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Financiën"/>
+</archimate:BusinessObject>

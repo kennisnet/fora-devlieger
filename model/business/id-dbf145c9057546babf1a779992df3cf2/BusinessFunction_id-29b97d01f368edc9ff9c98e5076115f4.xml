@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Algemeen facilitair beheer"
+    id="id-29b97d01f368edc9ff9c98e5076115f4"
+    documentation="Diensten op ondersteunend gebied, zoals beheer van terreinen en gebouwen, toegangs- en parkeercontrole, catering, enzovoort.">
+  <properties
+      key="Object ID"
+      value="262772be-5d16-4a81-9aed-b9e8163d0a4d"/>
+  <properties
+      key="Original ID"
+      value="id-262772be-5d16-4a81-9aed-b9e8163d0a4d"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="algemeen facilitair beheer"/>
+</archimate:BusinessFunction>

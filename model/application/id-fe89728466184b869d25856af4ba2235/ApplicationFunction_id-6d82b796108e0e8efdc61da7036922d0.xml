@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Middelenplanning"
+    id="id-6d82b796108e0e8efdc61da7036922d0"
+    documentation="Het matchen van benodigde middelen versus de beschikbare middelen.  &#xA;Zoals: * apparatuur * personeel * leercontent * ruimte">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="c98e1a73-3c83-4098b-352b-772a8603019"/>
+  <properties
+      key="Original ID"
+      value="id-c98e1a733c834098b352b772a8603019"/>
+  <properties
+      key="Semanticsearch"
+      value="middelenplanning"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

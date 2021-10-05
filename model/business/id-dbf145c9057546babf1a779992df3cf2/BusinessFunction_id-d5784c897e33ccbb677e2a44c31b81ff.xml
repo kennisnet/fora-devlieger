@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Advies en Diplomering"
+    id="id-d5784c897e33ccbb677e2a44c31b81ff"
+    documentation="Het geven van een advies met betrekking tot een passende niveau en schooltype aan de leerling die de basisschool verlaat. In het voortgezet onderwijs reikt de school een diploma uit aan de geslaagde leerlingen.">
+  <properties
+      key="Werkingsgebied"
+      value="VO"/>
+  <properties
+      key="Object ID"
+      value="ff76cabd-9f97-4a6b-b5cf-fb498674cd3b"/>
+  <properties
+      key="Original ID"
+      value="ff76cabd-9f97-4a6b-b5cf-fb498674cd3b"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="advies en diplomering"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

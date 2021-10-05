@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensuitwisseling"
+    id="id-ceba7039760c56c046fc4e902d95e5fa"
+    documentation="Uitwisseling van gegevens tussen bron- en doelsystemen.&#xA;De zogenoemde connecting services, orchestration en service bus. &#xA;* Enterprise Application Integration &#xA;* Gateways &#xA;* Message Broker  &#xA;* ESB">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="634a8f9b-c56c-4b028-c674-d48c7320313"/>
+  <properties
+      key="Original ID"
+      value="id-634a8f9bc56c4b028c674d48c7320313"/>
+  <properties
+      key="Semanticsearch"
+      value="gegevensuitwisseling"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

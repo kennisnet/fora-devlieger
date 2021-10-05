@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Taakbeleid-, taakvraag- en taaktoedelingbeheer"
+    id="id-7bdbbe0cc5f64fc0c0ad46fbfa02a473">
+  <properties
+      key="Object ID"
+      value="68fe3caa-8c3b-40dd-b328-3248268a3e6c"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-68fe3caa-8c3b-40dd-b328-3248268a3e6c"/>
+  <properties
+      key="Semanticsearch"
+      value="taakbeleid-, taakvraag- en taaktoedelingbeheer"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

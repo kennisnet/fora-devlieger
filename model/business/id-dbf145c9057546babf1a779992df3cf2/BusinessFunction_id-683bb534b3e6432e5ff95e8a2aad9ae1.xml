@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plusklasbegeleiding"
+    id="id-683bb534b3e6432e5ff95e8a2aad9ae1"
+    documentation="Extra ondersteuning buiten de reguliere onderwijstaak om, specifiek gericht op een plusklas.">
+  <properties
+      key="Object ID"
+      value="c935cb8f-9105-4117-8975-d890224386ec"/>
+  <properties
+      key="Original ID"
+      value="c935cb8f-9105-4117-8975-d890224386ec"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="plusklasbegeleiding"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

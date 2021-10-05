@@ -1,0 +1,21 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eindexamenbesluit VO"
+    id="id-a036b110ad5392c39b6912acd493812e"
+    documentation="Eindexamenbesluit VO">
+  <properties
+      key="Verwijzing"
+      value="https://wetten.overheid.nl/jci1.3:c:BWBR0004593&amp;z=2020-08-01&amp;g=2020-08-01"/>
+  <properties
+      key="Juriconnect"
+      value="jci1.3:c:BWBR0004593&amp;z=2020-08-01&amp;g=2020-08-01"/>
+  <properties
+      key="Object ID"
+      value="06fb2785-3452-416aa-9f00-ae7ab632f75"/>
+  <properties
+      key="Original ID"
+      value="id-06fb27853452416aa9f00ae7ab632f75"/>
+  <properties
+      key="Semanticsearch"
+      value="eindexamenbesluit vo"/>
+</archimate:Driver>

@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d3bada4bdf43bbd252496ab7215e522c"
+    documentation="toegang tot (digitaal) lesmateriaal">
+  <properties
+      key="Grondslag"
+      value="organisatie (ECK keten)"/>
+  <properties
+      key="Benaming"
+      value="basis"/>
+  <properties
+      key="Gegevenssoort"
+      value="Leerling"/>
+  <properties
+      key="Object ID"
+      value="e6e8d661-e154-4f81-a5fb-e7c35474e577"/>
+  <properties
+      key="Original ID"
+      value="e6e8d661-e154-4f81-a5fb-e7c35474e577"/>
+  <properties
+      key="Semanticsearch"
+      value="e6e8d661-e154-4f81-a5fb-e7c35474e577"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-ce200b8a26a1091ab3681ff1bf5566ba.xml#id-ce200b8a26a1091ab3681ff1bf5566ba"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-bb25b08d53338a7c5cffa9614de392d3.xml#id-bb25b08d53338a7c5cffa9614de392d3"/>
+</archimate:FlowRelationship>

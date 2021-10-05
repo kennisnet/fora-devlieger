@@ -1,0 +1,21 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Services over opleidingseenheden en kenmerken"
+    id="id-485969679c2cac0ee151ad07161aba9e"
+    documentation="Service van het [[RIO Register]] waarmee afnemende partijen informatie kunnen ophalen over het onderwijs dat een onderwijsaanbieder levert.">
+  <properties
+      key="Object ID"
+      value="5a2349f2-d1d5-41318-e926-543c10020f5"/>
+  <properties
+      key="Original ID"
+      value="id-5a2349f2d1d541318e926543c10020f5"/>
+  <properties
+      key="SWC type"
+      value="Landelijke service"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Semanticsearch"
+      value="services over opleidingseenheden en kenmerken"/>
+</archimate:ApplicationService>

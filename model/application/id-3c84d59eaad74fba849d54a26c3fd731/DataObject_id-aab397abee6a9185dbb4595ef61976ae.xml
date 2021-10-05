@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registratieformulier incidenten / ongevallen"
+    id="id-aab397abee6a9185dbb4595ef61976ae"
+    documentation="Formuleer waarmee incidenten en ongevallen kunnen worden vastgelegd.">
+  <properties
+      key="Object ID"
+      value="5d8ed169-b22a-4d5c-88e5-5f2da4d8759e"/>
+  <properties
+      key="Original ID"
+      value="id-5d8ed169-b22a-4d5c-88e5-5f2da4d8759e"/>
+  <properties
+      key="Semanticsearch"
+      value="registratieformulier incidenten / ongevallen"/>
+</archimate:DataObject>

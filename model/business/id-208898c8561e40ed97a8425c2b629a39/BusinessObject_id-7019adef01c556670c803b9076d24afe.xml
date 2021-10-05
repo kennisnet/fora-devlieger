@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schoolgids"
+    id="id-7019adef01c556670c803b9076d24afe"
+    documentation="De schoolgids is een informatiedocument bedoeld voor ouders/verzorgers.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="670af618-c1b8-4cb0-870f-80dab6f25cfd"/>
+  <properties
+      key="Original ID"
+      value="id-670af618-c1b8-4cb0-870f-80dab6f25cfd"/>
+  <properties
+      key="Semanticsearch"
+      value="schoolgids"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Schoolleiding"/>
+</archimate:BusinessObject>

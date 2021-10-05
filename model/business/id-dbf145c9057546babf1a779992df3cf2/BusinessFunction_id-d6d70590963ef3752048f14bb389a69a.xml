@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samenwerken en communiceren leerlingen"
+    id="id-d6d70590963ef3752048f14bb389a69a"
+    documentation="Communicatie via een manier die voor leerlingen en leraren voorspelbaar is.  Verschillende uitingen worden op verschillende kanalen uitgewisseld.">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="dc7b02d4-63bf-4f44-9cc6-96488370af73"/>
+  <properties
+      key="Original ID"
+      value="dc7b02d4-63bf-4f44-9cc6-96488370af73"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="samenwerken en communiceren leerlingen"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

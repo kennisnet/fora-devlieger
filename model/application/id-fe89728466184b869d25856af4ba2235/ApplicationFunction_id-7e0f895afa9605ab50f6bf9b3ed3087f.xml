@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architectuurbeheer"
+    id="id-7e0f895afa9605ab50f6bf9b3ed3087f"
+    documentation="Het beheren van de architectuurbeschrijvingen, principes, standaardprofielen en technisch referentiemodel.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="3429b522-248f-448ca-587b-f73ce262475"/>
+  <properties
+      key="Original ID"
+      value="id-3429b522248f448ca587bf73ce262475"/>
+  <properties
+      key="Semanticsearch"
+      value="architectuurbeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

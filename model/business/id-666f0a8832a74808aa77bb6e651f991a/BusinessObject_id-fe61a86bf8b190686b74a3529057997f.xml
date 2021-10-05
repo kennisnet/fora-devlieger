@@ -1,0 +1,48 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resultaat"
+    id="id-fe61a86bf8b190686b74a3529057997f"
+    documentation="Resultaat is een vastgelegde waarneming van een onderwijsactiviteit">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="d316985a-750f-4fcfb-0867-d699c6ea7d1"/>
+  <properties
+      key="Original ID"
+      value="id-d316985a750f4fcfb0867d699c6ea7d1"/>
+  <properties
+      key="Semanticsearch"
+      value="resultaat"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Afgeleid van"
+      value="Resultaat (KOI) https://purl.edustandaard.nl/concept/983d79c5-0cf7-4391-a76b-2ebdb9c242c9"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

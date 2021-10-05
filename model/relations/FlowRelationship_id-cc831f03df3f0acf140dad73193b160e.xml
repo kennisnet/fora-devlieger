@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-cc831f03df3f0acf140dad73193b160e"
+    documentation="subsidies aan sectorraden">
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="subsidiëring sectorraden"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="426c580a-b08c-4165-8aef-f464118a8495"/>
+  <properties
+      key="Original ID"
+      value="id-426c580a-b08c-4165-8aef-f464118a8495"/>
+  <properties
+      key="Semanticsearch"
+      value="id-426c580a-b08c-4165-8aef-f464118a8495"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-d776f26f0c64c0ba874469f4eda60c13.xml#id-d776f26f0c64c0ba874469f4eda60c13"/>
+</archimate:FlowRelationship>

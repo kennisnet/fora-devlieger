@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-192ef5d37a32ad2294cef24243290ee6"
+    documentation="regelen van publicatie kanalen">
+  <properties
+      key="Referentie"
+      value="vensters, scholen op de kaart"/>
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="marketing PR"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="042548a4-86ff-4257-a1b9-fdeba3579648"/>
+  <properties
+      key="Original ID"
+      value="id-042548a4-86ff-4257-a1b9-fdeba3579648"/>
+  <properties
+      key="Semanticsearch"
+      value="id-042548a4-86ff-4257-a1b9-fdeba3579648"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-d776f26f0c64c0ba874469f4eda60c13.xml#id-d776f26f0c64c0ba874469f4eda60c13"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-282647da540aa35fc56f911ad73b0618.xml#id-282647da540aa35fc56f911ad73b0618"/>
+</archimate:FlowRelationship>

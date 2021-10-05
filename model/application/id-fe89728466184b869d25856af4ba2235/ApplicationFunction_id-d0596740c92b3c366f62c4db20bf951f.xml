@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prognoses en lange termijn planning"
+    id="id-d0596740c92b3c366f62c4db20bf951f">
+  <properties
+      key="Object ID"
+      value="66ae1538-df61-448e-97a6-fe1e59545070"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-66ae1538-df61-448e-97a6-fe1e59545070"/>
+  <properties
+      key="Semanticsearch"
+      value="prognoses en lange termijn planning"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lumpsumbekostiging"
+    id="id-2029870376e772f86b694ca72a7fc015"
+    documentation="De lumpsumbekostiging is een totaal bedrag aan rijksbekostiging die het Ministerie van OCW aan de Nederlandse schoolbesturen geeft.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Financiën"/>
+  <properties
+      key="Object ID"
+      value="299174bb-b036-4695a-931a-34b2b5b3aa6"/>
+  <properties
+      key="Original ID"
+      value="id-299174bbb0364695a931a34b2b5b3aa6"/>
+  <properties
+      key="Semanticsearch"
+      value="lumpsumbekostiging"/>
+</archimate:BusinessObject>

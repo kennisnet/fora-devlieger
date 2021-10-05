@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Docent"
+    id="id-35929d96552e52a798cb0170cf5ae74e"
+    documentation="Identificerende gegevens van een docent, gebruikt in de koppeling naar het onderwijsprogramma">
+  <properties
+      key="Object ID"
+      value="40c2493a-f0f6-448a-be74-47030deb533a"/>
+  <properties
+      key="Original ID"
+      value="id-40c2493a-f0f6-448a-be74-47030deb533a"/>
+  <properties
+      key="Semanticsearch"
+      value="docent"/>
+</archimate:DataObject>

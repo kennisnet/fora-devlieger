@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Buiten- en tussenschoolse opvang"
+    id="id-be995271635c0b4f215222f6e6dc6d4e"
+    documentation="Het verzorgen van (professionele) opvang voor en na schooltijden en tussen de middag.">
+  <properties
+      key="Werkingsgebied"
+      value="PO"/>
+  <properties
+      key="Object ID"
+      value="6e3a5304-0f36-4da3-a7cc-96d60e9f41af"/>
+  <properties
+      key="Original ID"
+      value="id-6e3a5304-0f36-4da3-a7cc-96d60e9f41af"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="buiten- en tussenschoolse opvang"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

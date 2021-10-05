@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat beleid voor"
+    id="id-35847f1cb910626712fa6906858c3be0"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="7a8b5f1b-c3a1-48988-6084-ca3637abeff"/>
+  <properties
+      key="Original ID"
+      value="id-7a8b5f1bc3a1489886084ca3637abeff"/>
+  <properties
+      key="Semanticsearch"
+      value="omvat beleid voor"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-bb834a794ea44cf89c2895e7a7112657.xml#id-bb834a794ea44cf89c2895e7a7112657"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c787effa7ba34101840a6a97bcceaf8a.xml#id-c787effa7ba34101840a6a97bcceaf8a"/>
+</archimate:AssociationRelationship>

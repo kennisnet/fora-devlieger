@@ -1,0 +1,48 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijstijd"
+    id="id-e97b33d0490a491fd8468e53da37ee4a"
+    documentation="Het aantal uren onderwijs dat een leerling krijgt.">
+  <properties
+      key="Beschikbaarheid"
+      value="Laag"/>
+  <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Laag"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Afgeleid van"
+      value="https://www.rijksoverheid.nl/onderwerpen/schooltijden-en-onderwijstijd/overzicht-aantal-uren-onderwijstijd"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Statusdatum"
+      value="12-7-2021"/>
+  <properties
+      key="Bron"
+      value="FORA-WG Informatiemodel O&amp;O"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Object ID"
+      value="9a0cc4f0-37b8-413e8-21ae-c9a91f0825a"/>
+  <properties
+      key="Original ID"
+      value="id-9a0cc4f037b8413e821aec9a91f0825a"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijstijd"/>
+</archimate:BusinessObject>

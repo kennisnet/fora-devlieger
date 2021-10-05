@@ -1,0 +1,23 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-fda0d65fab1daee952580990287beb57">
+  <properties
+      key="Verbindingsrol"
+      value="aanbevolen"/>
+  <properties
+      key="Object ID"
+      value="996dbefb-113f-4971-9b20-7d3a05263ea8"/>
+  <properties
+      key="Original ID"
+      value="id-996dbefb-113f-4971-9b20-7d3a05263ea8"/>
+  <properties
+      key="Semanticsearch"
+      value="id-996dbefb-113f-4971-9b20-7d3a05263ea8"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-248cf4321c0cd6c14781dbfdb278874a.xml#id-248cf4321c0cd6c14781dbfdb278874a"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-4f13f8885040a5dbbe5c3cad8bd732a7.xml#id-4f13f8885040a5dbbe5c3cad8bd732a7"/>
+</archimate:RealizationRelationship>

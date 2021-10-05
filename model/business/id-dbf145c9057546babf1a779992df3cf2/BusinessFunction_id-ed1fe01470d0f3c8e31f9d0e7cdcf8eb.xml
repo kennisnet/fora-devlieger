@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veiligheidswaarborging"
+    id="id-ed1fe01470d0f3c8e31f9d0e7cdcf8eb"
+    documentation="Het waarborgen van sociale, psychische en fysieke veiligheid van leerlingen, ouders en medewerkers.">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="78a1f6ca-2efe-404c-8c1a-2b9fbf69497d"/>
+  <properties
+      key="Original ID"
+      value="id-78a1f6ca-2efe-404c-8c1a-2b9fbf69497d"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="veiligheidswaarborging"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

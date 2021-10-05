@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afdeling onderwijsadministratie"
+    id="id-e34d4cfda3dd71d7c4c227bbc8e7adda"
+    documentation="De onderwijsadministratie is binnen een onderwijsinstelling verantwoordelijk voor de correcte registratie van gegevens over een onderwijsvolger. Deze verantwoordelijkheid ligt niet altijd (alleen) bij een aparte afdeling binnen de onderwijsinstelling te liggen">
+  <properties
+      key="Werkingsgebied"
+      value="Onderwijsinstellingen"/>
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+  <properties
+      key="Object ID"
+      value="52d5adfe-010a-491e-8a5a-928072fa0857"/>
+  <properties
+      key="Original ID"
+      value="id-52d5adfe-010a-491e-8a5a-928072fa0857"/>
+  <properties
+      key="Semanticsearch"
+      value="afdeling onderwijsadministratie"/>
+</archimate:BusinessRole>

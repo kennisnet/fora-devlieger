@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-84e8a462bd266c446fdbeab56d88ad58"
+    documentation="uitwisseling verzuimgegevens tussen DUO en gemeente, inclusief verzuimloket">
+  <properties
+      key="Referentie"
+      value="verzuimregister DUO. Let op zinnetje: &quot;Bent u niet aangesloten op het Verzuimloket van DUO, dan moet u het verzuim bij de leerplichtambtenaar melden.&quot; website DUO"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="verzuimgegevens"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="00c5c9aa-038f-4a3e-aae8-334c8138bebe"/>
+  <properties
+      key="Original ID"
+      value="id-00c5c9aa-038f-4a3e-aae8-334c8138bebe"/>
+  <properties
+      key="Semanticsearch"
+      value="id-00c5c9aa-038f-4a3e-aae8-334c8138bebe"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-23baa8f932d79e30aacafd4999a6bfa3.xml#id-23baa8f932d79e30aacafd4999a6bfa3"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toetssysteem"
+    id="id-5e8f9676410bca6d4072bef692c20cef"
+    documentation="Systeem of geheel van systemen en modules waarmee [[Toets]]en en toetsitems kunnen worden gemaakt, bijgewerkt, verwijderd en vaak ook afgenomen.">
+  <properties
+      key="Object ID"
+      value="88714cd8-8010-4192-9231-c6da3e8a488a"/>
+  <properties
+      key="Original ID"
+      value="id-88714cd8-8010-4192-9231-c6da3e8a488a"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Semanticsearch"
+      value="toetssysteem"/>
+</archimate:ApplicationComponent>

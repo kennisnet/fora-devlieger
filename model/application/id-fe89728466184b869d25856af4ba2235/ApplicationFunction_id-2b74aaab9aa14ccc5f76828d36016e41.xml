@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Narrowcasting"
+    id="id-2b74aaab9aa14ccc5f76828d36016e41"
+    documentation="Het beheren en publiceren van informatie via audiovisuele displays naar specifieke doelgroepen">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="b811990d-3ee2-48edb-2743-d51ee4dcae5"/>
+  <properties
+      key="Original ID"
+      value="id-b811990d3ee248edb2743d51ee4dcae5"/>
+  <properties
+      key="Semanticsearch"
+      value="narrowcasting"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

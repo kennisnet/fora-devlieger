@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Feedback formuleren en delen"
+    id="id-cb5bdefde2acdb95aeee95f5ece7a064">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="5a3b9c04-90c6-418f8-92b5-ea73fe3b5d2"/>
+  <properties
+      key="Original ID"
+      value="id-5a3b9c0490c6418f892b5ea73fe3b5d2"/>
+  <properties
+      key="Semanticsearch"
+      value="feedback formuleren en delen"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

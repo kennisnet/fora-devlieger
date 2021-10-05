@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e2a69bfc8f6674994fde62bab187c60f"
+    documentation="samenwerking met lerarenopleiding t.b.v.. stages van studenten">
+  <properties
+      key="Referentie"
+      value="ROSA: ketenfunctie Stage"/>
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="stage"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="096a779d-c0d4-45c8-be28-88c182ca3bb1"/>
+  <properties
+      key="Original ID"
+      value="id-096a779d-c0d4-45c8-be28-88c182ca3bb1"/>
+  <properties
+      key="Semanticsearch"
+      value="id-096a779d-c0d4-45c8-be28-88c182ca3bb1"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-32bea6cfaa1276178226d49f143b91ba.xml#id-32bea6cfaa1276178226d49f143b91ba"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

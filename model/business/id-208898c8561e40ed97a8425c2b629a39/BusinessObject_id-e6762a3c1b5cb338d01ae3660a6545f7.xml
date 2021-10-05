@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deelname- en aanwezigheidgegevens"
+    id="id-e6762a3c1b5cb338d01ae3660a6545f7"
+    documentation="Gegevens met betrekking tot de aan- en afwezigheid van de leerling en de redenen van afwezigheid, vastgelegd in de [[Aanwezigheidsregistratie]]">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Midden"/>
+  <properties
+      key="Object ID"
+      value="624b735e-897f-428f-bb88-d3ecb4ee68d8"/>
+  <properties
+      key="Original ID"
+      value="id-624b735e-897f-428f-bb88-d3ecb4ee68d8"/>
+  <properties
+      key="Semanticsearch"
+      value="deelname- en aanwezigheidgegevens"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

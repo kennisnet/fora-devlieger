@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relatiebeheer"
+    id="id-b4e6b25902450788dadc2947cdfaf347"
+    documentation="Het beheren van gegevens over relaties.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="0a63d3c2-c083-4299a-0dfa-26604197592"/>
+  <properties
+      key="Original ID"
+      value="id-0a63d3c2c0834299a0dfa26604197592"/>
+  <properties
+      key="Semanticsearch"
+      value="relatiebeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

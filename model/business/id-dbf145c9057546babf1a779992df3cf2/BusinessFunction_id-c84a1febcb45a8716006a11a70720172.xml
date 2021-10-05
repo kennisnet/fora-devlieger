@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandeling"
+    id="id-c84a1febcb45a8716006a11a70720172"
+    documentation="Het behandelen van gediagnosticeerde didactische en/of psychologische problemen.">
+  <properties
+      key="Object ID"
+      value="35610d62-4d47-4cae-acac-18dc788a3aad"/>
+  <properties
+      key="Original ID"
+      value="id-35610d62-4d47-4cae-acac-18dc788a3aad"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="behandeling"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

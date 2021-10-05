@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referentieniveau moderne vreemde talen"
+    id="id-3fb18b103889242318ac2183a883061a"
+    documentation="Een referentieniveau moderne vreemde talen is een beschrijving van de taalvaardigheid van een leerling op een bepaald overgangsmoment in het onderwijs.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Bron"
+      value="FORA-WG Informatiemodel O&amp;O"/>
+  <properties
+      key="Object ID"
+      value="464c45aa-10bb-42ffb-d6dc-90c77333aa3"/>
+  <properties
+      key="Original ID"
+      value="id-464c45aa10bb42ffbd6dc90c77333aa3"/>
+  <properties
+      key="Semanticsearch"
+      value="referentieniveau moderne vreemde talen"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Statusdatum"
+      value="12-7-2021"/>
+  <properties
+      key="Sector"
+      value="VO"/>
+</archimate:BusinessObject>

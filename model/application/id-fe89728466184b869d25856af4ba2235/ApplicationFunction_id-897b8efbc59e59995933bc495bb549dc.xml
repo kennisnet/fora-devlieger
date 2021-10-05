@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plagiaatdetectie"
+    id="id-897b8efbc59e59995933bc495bb549dc">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="7357efed-ff7d-4ac3a-e2fb-b22e9f03ed3"/>
+  <properties
+      key="Original ID"
+      value="id-7357efedff7d4ac3ae2fbb22e9f03ed3"/>
+  <properties
+      key="Semanticsearch"
+      value="plagiaatdetectie"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

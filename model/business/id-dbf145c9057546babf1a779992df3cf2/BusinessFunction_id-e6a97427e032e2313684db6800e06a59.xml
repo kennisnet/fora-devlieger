@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Materiaalontwikkeling"
+    id="id-e6a97427e032e2313684db6800e06a59"
+    documentation="Het maken van leermaterialen (waaronder toetsmateriaal) en/of samenstellen van bestaand materiaal en het delen van dit materiaal met anderen.">
+  <properties
+      key="Object ID"
+      value="6fe42208-bc17-47fe-bef8-8b857853325f"/>
+  <properties
+      key="Original ID"
+      value="id-6fe42208-bc17-47fe-bef8-8b857853325f"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="materiaalontwikkeling"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,27 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WVO"
+    id="id-1343bf85f07f72dd4ff300b30b29d320"
+    documentation="Wet op het voortgezet onderwijs">
+  <properties
+      key="Verwijzing"
+      value="https://wetten.overheid.nl/jci1.3:c:BWBR0002399"/>
+  <properties
+      key="Juriconnect"
+      value="jci1.3:c:BWBR0002399"/>
+  <properties
+      key="Object ID"
+      value="517b7f5f-f60d-48098-56ac-1b75a3e6697"/>
+  <properties
+      key="Original ID"
+      value="id-517b7f5ff60d4809856ac1b75a3e6697"/>
+  <properties
+      key="Semanticsearch"
+      value="wvo"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Wet"/>
+</archimate:Driver>

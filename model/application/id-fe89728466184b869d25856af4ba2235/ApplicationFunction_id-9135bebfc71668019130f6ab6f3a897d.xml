@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitwisseling leerlinggegevens"
+    id="id-9135bebfc71668019130f6ab6f3a897d"
+    documentation="Dienst voor het beschikbaar stellen en afnemen van leerlinggegevens tussen leerlingadministraties (gegevensleverancier) en derden (afnemer)">
+  <properties
+      key="Object ID"
+      value="a7990052-3f10-4627-9d55-786be9bfc5ea"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="a7990052-3f10-4627-9d55-786be9bfc5ea"/>
+  <properties
+      key="Semanticsearch"
+      value="uitwisseling leerlinggegevens"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

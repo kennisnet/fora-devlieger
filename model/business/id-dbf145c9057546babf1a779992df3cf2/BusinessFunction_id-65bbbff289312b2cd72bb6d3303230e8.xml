@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planning en roostering"
+    id="id-65bbbff289312b2cd72bb6d3303230e8"
+    documentation="Het op basis van verwachte (geprognosticeerde) en vastgestelde behoeften inplannen van klassen en (semiautomatisch) samenstellen van klassikale, groepsgewijze en/of individuele roosters. Roostering kan ad-hoc worden aangepast aan omstandigheden.">
+  <properties
+      key="Object ID"
+      value="99c4b58d-a949-4b83-b8bd-dc906ebaaf2d"/>
+  <properties
+      key="Original ID"
+      value="id-99c4b58d-a949-4b83-b8bd-dc906ebaaf2d"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="planning en roostering"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

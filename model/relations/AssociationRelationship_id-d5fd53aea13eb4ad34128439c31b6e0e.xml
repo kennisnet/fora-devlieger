@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gaat volgens"
+    id="id-d5fd53aea13eb4ad34128439c31b6e0e"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="901e861a-04af-4146b-7ad8-07e0e5131a0"/>
+  <properties
+      key="Original ID"
+      value="id-901e861a04af4146b7ad807e0e5131a0"/>
+  <properties
+      key="Semanticsearch"
+      value="gaat volgens"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c9a5864b3f0bd6114f65be6a9dd0a027.xml#id-c9a5864b3f0bd6114f65be6a9dd0a027"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-726f6987b079ca4764469b86ff596bf2.xml#id-726f6987b079ca4764469b86ff596bf2"/>
+</archimate:AssociationRelationship>

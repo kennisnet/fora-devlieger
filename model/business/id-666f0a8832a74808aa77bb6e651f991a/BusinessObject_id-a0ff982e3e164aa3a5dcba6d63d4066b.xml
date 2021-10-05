@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veiligheid"
+    id="id-a0ff982e3e164aa3a5dcba6d63d4066b"
+    documentation="Veiligheid is een situatie waarin een bepaald gevaar niets kan aanrichten">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Sociale veiligheid"/>
+  <properties
+      key="Object ID"
+      value="ff1ee568-af09-4a28b-74bc-d64a03f1bf9"/>
+  <properties
+      key="Original ID"
+      value="id-ff1ee568af094a28b74bcd64a03f1bf9"/>
+  <properties
+      key="Semanticsearch"
+      value="veiligheid"/>
+</archimate:BusinessObject>

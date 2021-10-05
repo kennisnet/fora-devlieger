@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inzien vakkenpakket"
+    id="id-42626a634f180ab3f8b143066d4efb1e">
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="Object ID"
+      value="b90c8c13-f30e-4abaa-4d12-6481ecd8ebd"/>
+  <properties
+      key="Original ID"
+      value="id-b90c8c13f30e4abaa4d126481ecd8ebd"/>
+  <properties
+      key="Semanticsearch"
+      value="inzien vakkenpakket"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

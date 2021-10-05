@@ -1,0 +1,51 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referentieniveau rekenen"
+    id="id-82df9c694af25afea4fadd58712603bc"
+    documentation="Een referentieniveau rekenen is een beschrijving van de rekenvaardigheid van een leerling op een bepaald overgangsmoment in het onderwijs.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Object ID"
+      value="8bb4c3f8-f4d5-4aaa9-e126-cf28ec3323f"/>
+  <properties
+      key="Original ID"
+      value="id-8bb4c3f8f4d54aaa9e126cf28ec3323f"/>
+  <properties
+      key="Semanticsearch"
+      value="referentieniveau rekenen"/>
+  <properties
+      key="Toelichting"
+      value="Het geheel aan beschrijvingen wordt aangeduid met ‘het referentiekader’ en is vastgelegd in de Wet referentieniveaus Nederlandse taal en rekenen die op 1 augustus 2010 van kracht is geworden."/>
+  <properties
+      key="Afgeleid van"
+      value="rijksoverheid.nl, https://wij-leren.nl/referentieniveau.php"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Statusdatum"
+      value="12-7-2021"/>
+</archimate:BusinessObject>

@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facturen en betalingen buitenschoolse activiteiten"
+    id="id-ec6e76e5ee1cb4f09399d99c57de0385">
+  <properties
+      key="Object ID"
+      value="fd8b9a20-2fb7-421c-a2f2-ed6432f05830"/>
+  <properties
+      key="Original ID"
+      value="fd8b9a20-2fb7-421c-a2f2-ed6432f05830"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Semanticsearch"
+      value="facturen en betalingen buitenschoolse activiteiten"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

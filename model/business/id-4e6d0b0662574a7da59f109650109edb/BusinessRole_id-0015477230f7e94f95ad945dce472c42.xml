@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Externe dienstverleners (fac, hrm, fin, etc.)"
+    id="id-0015477230f7e94f95ad945dce472c42"
+    documentation="Administratiekoantoren en dienstverlenede bedrijven, b.v. schoonmaak, onderhoud gebouwen, HRM administratie e.v.a.">
+  <properties
+      key="Object ID"
+      value="205721d4-006d-466d-84fc-1a5bea883036"/>
+  <properties
+      key="Original ID"
+      value="id-205721d4-006d-466d-84fc-1a5bea883036"/>
+  <properties
+      key="Semanticsearch"
+      value="externe dienstverleners (fac, hrm, fin, etc.)"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

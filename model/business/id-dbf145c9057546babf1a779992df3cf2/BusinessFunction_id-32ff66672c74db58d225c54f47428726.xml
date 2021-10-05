@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beleid beveiliging"
+    id="id-32ff66672c74db58d225c54f47428726"
+    documentation="Vastgestelde gedragslijn voor de realisatie van doelstellingen en verplichtingen op het gebied van fysieke, sociale en digitale beveiliging.">
+  <properties
+      key="Object ID"
+      value="1fd4703f-2b35-45fa-a637-de5eb2b7f19b"/>
+  <properties
+      key="Original ID"
+      value="id-1fd4703f-2b35-45fa-a637-de5eb2b7f19b"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="beleid beveiliging"/>
+</archimate:BusinessFunction>

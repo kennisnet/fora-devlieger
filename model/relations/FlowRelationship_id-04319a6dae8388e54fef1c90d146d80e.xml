@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-04319a6dae8388e54fef1c90d146d80e"
+    documentation="alle marketing en PR naar media toe">
+  <properties
+      key="Referentie"
+      value="ROSA: ketenfunctie vraagbundeling en inkoop"/>
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="marketing en PR diensten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="e27f935c-f9ce-4cb4-a977-18775e7fc341"/>
+  <properties
+      key="Original ID"
+      value="e27f935c-f9ce-4cb4-a977-18775e7fc341"/>
+  <properties
+      key="Semanticsearch"
+      value="e27f935c-f9ce-4cb4-a977-18775e7fc341"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-d4809764370f9bf543ed5583147762b6.xml#id-d4809764370f9bf543ed5583147762b6"/>
+</archimate:FlowRelationship>

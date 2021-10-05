@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Crediteurgegevensbeheer (derden)"
+    id="id-d1c4df01c3242ea9b07ee0f9d130244e">
+  <properties
+      key="Object ID"
+      value="2f315bc8-0405-416e-8fad-86ca27e9c472"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-2f315bc8-0405-416e-8fad-86ca27e9c472"/>
+  <properties
+      key="Semanticsearch"
+      value="crediteurgegevensbeheer (derden)"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

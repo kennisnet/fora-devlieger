@@ -1,0 +1,21 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OnderwijsinstellingsID"
+    id="id-2d850d0d2c597767ed08c26fbfc1950a"
+    documentation="De eenheid waarmee een onderwijsinstelling wordt geassocieerd in de digitale keten.">
+  <properties
+      key="Object ID"
+      value="c35b4bc3-f254-4d77-94ba-8e00d2c15c5e"/>
+  <properties
+      key="Original ID"
+      value="c35b4bc3-f254-4d77-94ba-8e00d2c15c5e"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsinstellingsid"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Gegevens"/>
+</archimate:DataObject>

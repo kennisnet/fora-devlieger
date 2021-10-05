@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leermateriaal beheren"
+    id="id-32b6c40b3dadbbf16ecb869d40e5249f">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="16f26914-d3a1-42e2b-f932-6f62f05d335"/>
+  <properties
+      key="Original ID"
+      value="id-16f26914d3a142e2bf9326f62f05d335"/>
+  <properties
+      key="Semanticsearch"
+      value="leermateriaal beheren"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

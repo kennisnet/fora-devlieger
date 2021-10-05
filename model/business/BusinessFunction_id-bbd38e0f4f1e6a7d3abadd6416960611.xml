@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oudercommunicatie bestuursbreed"
+    id="id-bbd38e0f4f1e6a7d3abadd6416960611"
+    documentation="Communicatie over bestuurgerelateerde zaken.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="faf1d841-a86b-41b38-505a-baf8b7aef01"/>
+  <properties
+      key="Original ID"
+      value="id-faf1d841a86b41b38505abaf8b7aef01"/>
+  <properties
+      key="Semanticsearch"
+      value="oudercommunicatie bestuursbreed"/>
+</archimate:BusinessFunction>

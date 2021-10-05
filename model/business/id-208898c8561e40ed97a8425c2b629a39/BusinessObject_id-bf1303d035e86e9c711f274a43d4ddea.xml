@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijs begeleidingsgegevens"
+    id="id-bf1303d035e86e9c711f274a43d4ddea"
+    documentation="Gegevens met betrekking tot de voortgang van het leerproces van de leerling, denk aan OPP, observaties, evaluatiegesprekken">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Midden"/>
+  <properties
+      key="Object ID"
+      value="e23acad7-8532-45c3-aeb5-b02aef6de0b5"/>
+  <properties
+      key="Original ID"
+      value="e23acad7-8532-45c3-aeb5-b02aef6de0b5"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijs begeleidingsgegevens"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

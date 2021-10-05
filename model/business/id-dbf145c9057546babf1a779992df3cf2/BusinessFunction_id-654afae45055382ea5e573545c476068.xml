@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Advies domein IV"
+    id="id-654afae45055382ea5e573545c476068"
+    documentation="Advies-dienstverlening op het gebied van informatievoorziening">
+  <properties
+      key="Object ID"
+      value="a698c832-4b68-4323-81b7-fd352ca94178"/>
+  <properties
+      key="Original ID"
+      value="a698c832-4b68-4323-81b7-fd352ca94178"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="advies domein iv"/>
+</archimate:BusinessFunction>

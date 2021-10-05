@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intranet"
+    id="id-f8a90a7fdb663a176040896616f76247"
+    documentation="Geheel van netwerkverbindingen en daarop bereikbare digitale services, gebruikt binnen een organisatie.">
+  <properties
+      key="Object ID"
+      value="581b6f76-8a30-44f6-bafe-ccc18fe280d8"/>
+  <properties
+      key="Original ID"
+      value="id-581b6f76-8a30-44f6-bafe-ccc18fe280d8"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Semanticsearch"
+      value="intranet"/>
+</archimate:ApplicationComponent>

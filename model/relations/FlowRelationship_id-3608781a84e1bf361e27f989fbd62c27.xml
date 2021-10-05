@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3608781a84e1bf361e27f989fbd62c27"
+    documentation="gebruik van SLO gegevens door CITO">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="leerplannen"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="0974bc47-55f8-4825-b17d-d62e06de45cf"/>
+  <properties
+      key="Original ID"
+      value="id-0974bc47-55f8-4825-b17d-d62e06de45cf"/>
+  <properties
+      key="Semanticsearch"
+      value="id-0974bc47-55f8-4825-b17d-d62e06de45cf"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-5018c2e632e276107d40d5180f65d7fb.xml#id-5018c2e632e276107d40d5180f65d7fb"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-d45ad2785ce309a8a5bccab9dfee007a.xml#id-d45ad2785ce309a8a5bccab9dfee007a"/>
+</archimate:FlowRelationship>

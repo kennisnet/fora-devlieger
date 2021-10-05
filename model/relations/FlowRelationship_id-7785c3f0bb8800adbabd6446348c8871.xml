@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7785c3f0bb8800adbabd6446348c8871"
+    documentation="verantwoording naar Raad van Toezicht (actueel tot jaarverslag)">
+  <properties
+      key="Referentie"
+      value="burgerlijk wetboek (2 titel 9), wet PO (art 171), Wet VO, wet EC"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="verantwoording"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="6dd39a4e-41e6-40c9-a6fa-819df8cae2c4"/>
+  <properties
+      key="Original ID"
+      value="id-6dd39a4e-41e6-40c9-a6fa-819df8cae2c4"/>
+  <properties
+      key="Semanticsearch"
+      value="id-6dd39a4e-41e6-40c9-a6fa-819df8cae2c4"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-c26e841c5d3ae3ddd24dfb6d3703c0ce.xml#id-c26e841c5d3ae3ddd24dfb6d3703c0ce"/>
+</archimate:FlowRelationship>

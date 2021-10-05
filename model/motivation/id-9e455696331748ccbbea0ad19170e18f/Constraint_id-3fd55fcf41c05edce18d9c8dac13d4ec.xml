@@ -1,0 +1,21 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ECK ID"
+    id="id-3fd55fcf41c05edce18d9c8dac13d4ec"
+    documentation="Standaard die het [[Keten-ID (ECK-ID)]] beschrijft">
+  <properties
+      key="Object ID"
+      value="66b5fbda-3c09-427e-9773-c9a7afb70a0b"/>
+  <properties
+      key="Original ID"
+      value="id-66b5fbda-3c09-427e-9773-c9a7afb70a0b"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Standaard"/>
+  <properties
+      key="Semanticsearch"
+      value="eck id"/>
+</archimate:Constraint>

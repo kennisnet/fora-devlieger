@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Team communicatie systeem"
+    id="id-a104bfb057584af0f903d0e2b7b0ecc6"
+    documentation="Systeem of geheel van systemen en modules voor online communicatie met kleine en grote teams, binnen en buiten de organisatie">
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Object ID"
+      value="14b9c759-b744-486eb-bebc-4cdfbc8c679"/>
+  <properties
+      key="Original ID"
+      value="id-14b9c759b744486ebbebc4cdfbc8c679"/>
+  <properties
+      key="Semanticsearch"
+      value="team communicatie systeem"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-31b1c8f708467d51dfb2dbb1c25dd546"
+    documentation="aanmelding bij gemeente">
+  <properties
+      key="Referentie"
+      value="wet op primair onderwijs art 74-85, art 112, wet op voorgezet onderwijs, wet op expertisecentra, enz."/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="oprichten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Organisatie"/>
+  <properties
+      key="Object ID"
+      value="7ebf9b86-0ff4-4069-9e4f-553f4211b576"/>
+  <properties
+      key="Original ID"
+      value="id-7ebf9b86-0ff4-4069-9e4f-553f4211b576"/>
+  <properties
+      key="Semanticsearch"
+      value="id-7ebf9b86-0ff4-4069-9e4f-553f4211b576"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-a44eaf311e0d73501a14ee9d560f6362.xml#id-a44eaf311e0d73501a14ee9d560f6362"/>
+</archimate:FlowRelationship>

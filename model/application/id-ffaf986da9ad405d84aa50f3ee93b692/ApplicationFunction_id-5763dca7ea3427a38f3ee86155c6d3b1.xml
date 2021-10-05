@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking geboortedatum leerling"
+    id="id-5763dca7ea3427a38f3ee86155c6d3b1">
+  <properties
+      key="Object ID"
+      value="7efe9a52-a312-4094-8c27-35f223153cef"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-7efe9a52-a312-4094-8c27-35f223153cef"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking geboortedatum leerling"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

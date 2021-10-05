@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Achternaam"
+    id="id-cc6c657a54562cfcd519f7bf1b6436ef"
+    documentation="Familie- of achternaam van een persoon.">
+  <properties
+      key="Object ID"
+      value="b82ec88c-aafb-47c9-bb78-8a35e650e156"/>
+  <properties
+      key="Original ID"
+      value="b82ec88c-aafb-47c9-bb78-8a35e650e156"/>
+  <properties
+      key="Semanticsearch"
+      value="achternaam"/>
+</archimate:DataObject>

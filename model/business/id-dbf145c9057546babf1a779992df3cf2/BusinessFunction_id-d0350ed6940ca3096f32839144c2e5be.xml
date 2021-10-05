@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bepaling leerarrangementen"
+    id="id-d0350ed6940ca3096f32839144c2e5be"
+    documentation="Het bepalen van de gewenste leerroute van een onderwijsvolger binnen een onderwijsorganisatie en over de grenzen van onderwijsorganisaties heen.">
+  <properties
+      key="Object ID"
+      value="8a8b2787-8e68-4b9d-ac5b-5525dedbe328"/>
+  <properties
+      key="Original ID"
+      value="id-8a8b2787-8e68-4b9d-ac5b-5525dedbe328"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="bepaling leerarrangementen"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

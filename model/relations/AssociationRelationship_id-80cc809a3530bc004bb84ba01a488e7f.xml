@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="stelt op"
+    id="id-80cc809a3530bc004bb84ba01a488e7f"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="45bea663-d596-4615b-b63f-567f60cb9f9"/>
+  <properties
+      key="Original ID"
+      value="id-45bea663d5964615bb63f567f60cb9f9"/>
+  <properties
+      key="Semanticsearch"
+      value="stelt op"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-fe1b2577e4ea2ad0728bcc8e6d825a52.xml#id-fe1b2577e4ea2ad0728bcc8e6d825a52"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-576c31d48739fba85d7bd7344cd9ad0a.xml#id-576c31d48739fba85d7bd7344cd9ad0a"/>
+</archimate:AssociationRelationship>

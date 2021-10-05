@@ -1,0 +1,24 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inspectie van het Onderwijs"
+    id="id-33a7ec7daae142828c597eb68d55fef5"
+    documentation="De Onderwijsinspectie houdt toezicht op scholen">
+  <properties
+      key="Type"
+      value="Actor"/>
+  <properties
+      key="Object ID"
+      value="df88ba43-827d-478a-a9bd-f300a0cee700"/>
+  <properties
+      key="Original ID"
+      value="df88ba43-827d-478a-a9bd-f300a0cee700"/>
+  <properties
+      key="Semanticsearch"
+      value="inspectie van het onderwijs"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Organisatie"/>
+</archimate:BusinessActor>

@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruikersnamen"
+    id="id-59a311062d582ee41cad363f14a3c938"
+    documentation="Verzameling van identificerende gegevens waaronder een gebruiker bekend is in verschillende systemen">
+  <properties
+      key="Object ID"
+      value="4f6a7bac-3a2f-42a5-8922-512015dad8ea"/>
+  <properties
+      key="Original ID"
+      value="id-4f6a7bac-3a2f-42a5-8922-512015dad8ea"/>
+  <properties
+      key="Semanticsearch"
+      value="gebruikersnamen"/>
+</archimate:DataObject>

@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incidentregistratie"
+    id="id-bf5b85698a48eb6dafe97cacf3f65401"
+    documentation="Het vastleggen van het wat, wanneer, wie, waar, waarmee, en waarom van gebeurtenissen die de gang van zaken in school verstoren of zouden kunnen verstoren. (cf. Definities van incidenten in het onderwijs - Advies, Mooij &amp; De Wit (2009) i.o.v. Min.OCW)">
+  <properties
+      key="Object ID"
+      value="7098e963-c6f0-4f78-878e-fd4fd0c2815d"/>
+  <properties
+      key="Original ID"
+      value="id-7098e963-c6f0-4f78-878e-fd4fd0c2815d"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="incidentregistratie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

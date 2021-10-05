@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vereist (vanuit po)"
+    id="id-af0e49b9f0eca30163b646dbc222fdaf"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="0dbddea2-ebe7-4680b-45a9-4f55241e162"/>
+  <properties
+      key="Original ID"
+      value="id-0dbddea2ebe74680b45a94f55241e162"/>
+  <properties
+      key="Semanticsearch"
+      value="vereist (vanuit po)"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-faabaa8b0fdd335dd7633643786fe538.xml#id-faabaa8b0fdd335dd7633643786fe538"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c30e05485c72ec3386f686e4962fe1cc.xml#id-c30e05485c72ec3386f686e4962fe1cc"/>
+</archimate:AssociationRelationship>

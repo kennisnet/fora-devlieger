@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ed76e65e454d6c4697957e2cd79ae301"
+    documentation="samenwerking met kinderdagverblijven c.q. integratie met kinderdagverblijf (IKC)">
+  <properties
+      key="Referentie"
+      value="wet PO art 45"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="richten, oprichten en inrichten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Organisatie"/>
+  <properties
+      key="Object ID"
+      value="1b3edeeb-f07f-413d-be63-64fdade00667"/>
+  <properties
+      key="Original ID"
+      value="id-1b3edeeb-f07f-413d-be63-64fdade00667"/>
+  <properties
+      key="Semanticsearch"
+      value="id-1b3edeeb-f07f-413d-be63-64fdade00667"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-2c9515cc27b21c8c9d19e7d28735d8be.xml#id-2c9515cc27b21c8c9d19e7d28735d8be"/>
+</archimate:FlowRelationship>

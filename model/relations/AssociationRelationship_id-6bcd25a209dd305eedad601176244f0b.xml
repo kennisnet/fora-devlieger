@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat"
+    id="id-6bcd25a209dd305eedad601176244f0b"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="38f10bd9-467e-4453b-85c2-092f312428b"/>
+  <properties
+      key="Original ID"
+      value="id-38f10bd9467e4453b85c2092f312428b"/>
+  <properties
+      key="Semanticsearch"
+      value="omvat"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-6ae9bd44eade5c36eefc9e5cd4d8e1f1.xml#id-6ae9bd44eade5c36eefc9e5cd4d8e1f1"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-7ab2b7c1c17821e137f586d0977d8e94.xml#id-7ab2b7c1c17821e137f586d0977d8e94"/>
+</archimate:AssociationRelationship>

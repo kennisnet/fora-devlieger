@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enquetebeheer"
+    id="id-3bf3ca4cc6282c7d872b548d91c0b6c3"
+    documentation="Het ontwikkelen, testen, publiceren en afnemen van enquetes.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="b4bf6049-015f-4470b-6dde-8d79d009010"/>
+  <properties
+      key="Original ID"
+      value="id-b4bf6049015f4470b6dde8d79d009010"/>
+  <properties
+      key="Semanticsearch"
+      value="enquetebeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

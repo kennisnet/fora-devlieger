@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vervaardiging jaarverslag"
+    id="id-d24d5937536ba7b4256d72462508265c"
+    documentation="Het conform wettelijke verplichting jaarlijks opstellen van een verantwoordingsdocument (jaarverslag) dat bestaat uit het bestuursverslag en de jaarrekening.">
+  <properties
+      key="Object ID"
+      value="8116c7f6-da63-4583-801e-fae243fa02dc"/>
+  <properties
+      key="Original ID"
+      value="id-8116c7f6-da63-4583-801e-fae243fa02dc"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="vervaardiging jaarverslag"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

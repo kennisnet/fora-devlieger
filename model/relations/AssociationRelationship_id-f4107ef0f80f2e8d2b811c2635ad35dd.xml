@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geeft kaders voor"
+    id="id-f4107ef0f80f2e8d2b811c2635ad35dd"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="52f5a9fe-fcc0-414a8-13fa-006e10d4810"/>
+  <properties
+      key="Original ID"
+      value="id-52f5a9fefcc0414a813fa006e10d4810"/>
+  <properties
+      key="Semanticsearch"
+      value="geeft kaders voor"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-801d780a2bf8b003bff305853c7bf9fe.xml#id-801d780a2bf8b003bff305853c7bf9fe"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3b518de389d2b8aa422e59d1990e3617.xml#id-3b518de389d2b8aa422e59d1990e3617"/>
+</archimate:AssociationRelationship>

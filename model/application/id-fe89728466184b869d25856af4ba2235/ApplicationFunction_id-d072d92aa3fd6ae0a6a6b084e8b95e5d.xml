@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leermiddelenlijst publicatie"
+    id="id-d072d92aa3fd6ae0a6a6b084e8b95e5d"
+    documentation="Het publiceren van het aanbod van leermiddelen door de instelling en door derden en het tonen van de  leermiddelenlijsten (catalogus, webshop).">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="1d7a019c-acd4-4bd68-6a9f-d11006d31fb"/>
+  <properties
+      key="Original ID"
+      value="id-1d7a019cacd44bd686a9fd11006d31fb"/>
+  <properties
+      key="Semanticsearch"
+      value="leermiddelenlijst publicatie"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

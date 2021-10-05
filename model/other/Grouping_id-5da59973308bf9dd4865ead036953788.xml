@@ -1,0 +1,21 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Algemeen"
+    id="id-5da59973308bf9dd4865ead036953788"
+    documentation="Bedrijfsdomein met algemene onderdelen zoals portaal, samenwerken, klachtenfuncties.">
+  <properties
+      key="Object ID"
+      value="c1d191e9-108c-4da7-90fa-ec39a6cdcc59"/>
+  <properties
+      key="Original ID"
+      value="c1d191e9-108c-4da7-90fa-ec39a6cdcc59"/>
+  <properties
+      key="Semanticsearch"
+      value="algemeen"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Groep"/>
+</archimate:Grouping>

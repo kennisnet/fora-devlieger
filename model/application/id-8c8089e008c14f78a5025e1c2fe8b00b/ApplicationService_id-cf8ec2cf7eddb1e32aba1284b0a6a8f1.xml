@@ -1,0 +1,21 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Services over organisatorische eenheden en relaties"
+    id="id-cf8ec2cf7eddb1e32aba1284b0a6a8f1"
+    documentation="Service van het [[RIO Register]] waarmee afnemende partijen informatie kunnen ophalen over de interne organisatiestructuur van een onderwijsorganisatie.">
+  <properties
+      key="Object ID"
+      value="ba84a0b3-103a-4e4f8-ebbe-98f437b6b46"/>
+  <properties
+      key="Original ID"
+      value="id-ba84a0b3103a4e4f8ebbe98f437b6b46"/>
+  <properties
+      key="SWC type"
+      value="Landelijke service"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Semanticsearch"
+      value="services over organisatorische eenheden en relaties"/>
+</archimate:ApplicationService>

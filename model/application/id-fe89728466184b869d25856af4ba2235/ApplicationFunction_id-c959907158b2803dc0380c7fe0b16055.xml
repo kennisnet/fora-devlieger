@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Studiewijzer beheren en publiceren"
+    id="id-c959907158b2803dc0380c7fe0b16055">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="afc2a3a4-6ca8-420b9-58a0-69a427896d2"/>
+  <properties
+      key="Original ID"
+      value="id-afc2a3a46ca8420b958a069a427896d2"/>
+  <properties
+      key="Semanticsearch"
+      value="studiewijzer beheren en publiceren"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

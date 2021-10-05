@@ -1,0 +1,21 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BP Authenticatie service"
+    id="id-258bb7031ecaf9565cf0fc451303c20d"
+    documentation="Standaard SAML authenticatieservice die Netwerkproviders, Service providers en Uitgevers kunnen aanroepen om de identiteit en authenticatie van hun gebruikers te verifieren. Basispoort levert het Basispoort ID, het ECK ID (indien beschikbaar) en of de gebruiker vanaf school toegang verzoekt of niet.">
+  <properties
+      key="Object ID"
+      value="a7569c21-3149-4b06b-ce85-cfee837d2d3"/>
+  <properties
+      key="Original ID"
+      value="id-a7569c2131494b06bce85cfee837d2d3"/>
+  <properties
+      key="SWC type"
+      value="Landelijke service"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Semanticsearch"
+      value="bp authenticatie service"/>
+</archimate:ApplicationService>

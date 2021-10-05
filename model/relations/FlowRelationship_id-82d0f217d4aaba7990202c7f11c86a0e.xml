@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-82d0f217d4aaba7990202c7f11c86a0e"
+    documentation="overstap naar andere school&#xA;Leerlinggegevens">
+  <properties
+      key="Referentie"
+      value="wet op het voortgezet onderwijs (art 69s) en Wijzigingswet educatie en beroepsonderwijs (vroegtijdig aanmelden) en besluit uitwisseling leer- en begeleidingsgegevens ; ROSA: ketenproces aanmelden en inschrijven"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="basis en zorg"/>
+  <properties
+      key="Gegevenssoort"
+      value="Leerling"/>
+  <properties
+      key="Object ID"
+      value="25a14bc1-2f72-4045-b374-ca69f6f54261"/>
+  <properties
+      key="Original ID"
+      value="id-25a14bc1-2f72-4045-b374-ca69f6f54261"/>
+  <properties
+      key="Semanticsearch"
+      value="id-25a14bc1-2f72-4045-b374-ca69f6f54261"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-95b8467eba8eeaa35b7503013e44a1da.xml#id-95b8467eba8eeaa35b7503013e44a1da"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e4a51c986969e261a8c673a44e07e816"
+    documentation="Ict-samenwerking met DUO en bekostiging">
+  <properties
+      key="Grondslag"
+      value="???"/>
+  <properties
+      key="Benaming"
+      value="DUO en bekostiging"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="2e30b3de-406a-4fbc-b8dc-bf5b76ad31ee"/>
+  <properties
+      key="Original ID"
+      value="id-2e30b3de-406a-4fbc-b8dc-bf5b76ad31ee"/>
+  <properties
+      key="Semanticsearch"
+      value="id-2e30b3de-406a-4fbc-b8dc-bf5b76ad31ee"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-33a7ec7daae142828c597eb68d55fef5.xml#id-33a7ec7daae142828c597eb68d55fef5"/>
+</archimate:FlowRelationship>

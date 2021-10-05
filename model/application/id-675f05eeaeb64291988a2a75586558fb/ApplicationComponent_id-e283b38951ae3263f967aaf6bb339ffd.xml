@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document Management Systeem (DMS)"
+    id="id-e283b38951ae3263f967aaf6bb339ffd"
+    documentation="Een systeem dat het maken, beheren en archiveren van documenten ondersteunt. &#xA;Bijvoorbeeld: Corsa Microsoft">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="feb16d83-b2ba-4832b-cca2-e70a4e17afb"/>
+  <properties
+      key="Original ID"
+      value="id-feb16d83b2ba4832bcca2e70a4e17afb"/>
+  <properties
+      key="Semanticsearch"
+      value="document management systeem (dms)"/>
+</archimate:ApplicationComponent>

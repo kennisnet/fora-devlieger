@@ -1,0 +1,17 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8441b9e55bb804c3439f6957839ba833">
+  <properties
+      key="Object ID"
+      value="3f012c9a-f7df-9063-5288-52d39b58d4a9"/>
+  <properties
+      key="Toelichting"
+      value="Deze relatie is afgeleid van de relatie van [[FORA/id-7bbef7a7-8349-48fc-bea7-c20c4408f863]] met [[FORA/id-c8468440-abd1-4c85-9939-7e9b87744b7f]]."/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0c10c5a255137fd6d70dfd4c22679259.xml#id-0c10c5a255137fd6d70dfd4c22679259"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-17328ed9350743a9ecdfa5dda39fe43e.xml#id-17328ed9350743a9ecdfa5dda39fe43e"/>
+</archimate:AssignmentRelationship>

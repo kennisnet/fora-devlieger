@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4087c9f23567560003cb000a6fbb54a9"
+    documentation="belasting afdrachten">
+  <properties
+      key="Referentie"
+      value="diverse belastingwetten, ook de sociale verzekeringswetten vallen hieronder. Een deel wordt al door DUO van de lumpsum afgeroomd"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="belastingen"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="e037d59a-bd9c-4995-a86b-ebe624c621b8"/>
+  <properties
+      key="Original ID"
+      value="e037d59a-bd9c-4995-a86b-ebe624c621b8"/>
+  <properties
+      key="Semanticsearch"
+      value="e037d59a-bd9c-4995-a86b-ebe624c621b8"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-38aef2328cdc1e0ed361b18a3f9aca08.xml#id-38aef2328cdc1e0ed361b18a3f9aca08"/>
+</archimate:FlowRelationship>

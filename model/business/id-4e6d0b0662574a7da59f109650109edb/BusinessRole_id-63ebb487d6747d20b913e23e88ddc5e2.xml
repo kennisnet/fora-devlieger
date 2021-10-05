@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pensioenfonds en sociale verzekeringen"
+    id="id-63ebb487d6747d20b913e23e88ddc5e2"
+    documentation="Pensioenfondsen en sociale fondsen en verzekeringen">
+  <properties
+      key="Object ID"
+      value="406d612c-8ff6-48b4-be86-0f49b63a6ac4"/>
+  <properties
+      key="Original ID"
+      value="id-406d612c-8ff6-48b4-be86-0f49b63a6ac4"/>
+  <properties
+      key="Semanticsearch"
+      value="pensioenfonds en sociale verzekeringen"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

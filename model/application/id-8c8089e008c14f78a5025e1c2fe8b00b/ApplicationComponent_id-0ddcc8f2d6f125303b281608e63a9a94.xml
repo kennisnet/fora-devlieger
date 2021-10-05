@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RIO Register"
+    id="id-0ddcc8f2d6f125303b281608e63a9a94"
+    documentation="RIO biedt de basisstructuur waarin onderwijsinstellingen de registratie van de eigen organisatiestructuur en het eigen opleidingsaanbod kunnen vastleggen. Met RIO leggen onderwijsinstellingen de eigen structuur en inrichting eenduidig vast volgens de zogeheten ‘onderwijskundige werkelijkheid’.">
+  <properties
+      key="Object ID"
+      value="2ac59d3d-fd2a-4073-9c95-a7db20a9f692"/>
+  <properties
+      key="Original ID"
+      value="id-2ac59d3d-fd2a-4073-9c95-a7db20a9f692"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Landelijke voorziening"/>
+  <properties
+      key="Semanticsearch"
+      value="rio register"/>
+</archimate:ApplicationComponent>

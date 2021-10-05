@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portaalfunctie"
+    id="id-17328ed9350743a9ecdfa5dda39fe43e">
+  <properties
+      key="Object ID"
+      value="c8468440-abd1-4c85-9939-7e9b87744b7f"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="c8468440-abd1-4c85-9939-7e9b87744b7f"/>
+  <properties
+      key="Semanticsearch"
+      value="portaalfunctie"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

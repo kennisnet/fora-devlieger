@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kaartbeheer"
+    id="id-0c5dc130d8f0012844ced9ce2b7d8400"
+    documentation="Het produceren en beheren van kaarten zoals de instellingspas.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="af575708-ffdf-4b399-30f1-f77d07de2b8"/>
+  <properties
+      key="Original ID"
+      value="id-af575708ffdf4b39930f1f77d07de2b8"/>
+  <properties
+      key="Semanticsearch"
+      value="kaartbeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

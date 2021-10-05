@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerlingvoortganginformatie"
+    id="id-784689d996ad885971e9a1424afbcd87"
+    documentation="Informatie over de voortgang en resultaten van een leerling.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Product"/>
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Statusdatum"
+      value="23-8-2021"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="90131969-15bb-4367a-6e83-425a9523f08"/>
+  <properties
+      key="Original ID"
+      value="id-9013196915bb4367a6e83425a9523f08"/>
+  <properties
+      key="Semanticsearch"
+      value="leerlingvoortganginformatie"/>
+</archimate:BusinessObject>

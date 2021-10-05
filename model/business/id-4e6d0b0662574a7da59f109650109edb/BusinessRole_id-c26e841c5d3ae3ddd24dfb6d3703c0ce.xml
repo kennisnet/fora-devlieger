@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Raad van Toezicht"
+    id="id-c26e841c5d3ae3ddd24dfb6d3703c0ce"
+    documentation="Raad van toezicht, of ander bovenbestuurlijk gremium">
+  <properties
+      key="Object ID"
+      value="bd7b8fa7-5a35-4df9-9209-5e66dbe5408f"/>
+  <properties
+      key="Original ID"
+      value="bd7b8fa7-5a35-4df9-9209-5e66dbe5408f"/>
+  <properties
+      key="Semanticsearch"
+      value="raad van toezicht"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

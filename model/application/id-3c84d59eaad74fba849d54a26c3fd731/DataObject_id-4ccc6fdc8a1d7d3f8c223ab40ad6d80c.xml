@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerjaar"
+    id="id-4ccc6fdc8a1d7d3f8c223ab40ad6d80c"
+    documentation="Het leerjaar van de opleiding waar de leerling aan deelneemt.">
+  <properties
+      key="Object ID"
+      value="b631ec8e-c49f-4da1-9f84-5ad149776bee"/>
+  <properties
+      key="Original ID"
+      value="b631ec8e-c49f-4da1-9f84-5ad149776bee"/>
+  <properties
+      key="Semanticsearch"
+      value="leerjaar"/>
+</archimate:DataObject>

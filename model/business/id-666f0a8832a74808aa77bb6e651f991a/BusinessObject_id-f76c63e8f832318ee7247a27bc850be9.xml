@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arbobeleid"
+    id="id-f76c63e8f832318ee7247a27bc850be9"
+    documentation="Arbobeleid is het beleid dat een werkgever binnen zijn bedrijf voert op het gebied van arbeidsomstandigheden. Een goed arbobeleid beperkt de gezondheidsrisico`s in het bedrijf,">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Personeel"/>
+  <properties
+      key="Object ID"
+      value="5e3db497-b44e-4979a-eb0a-6defb7bf501"/>
+  <properties
+      key="Original ID"
+      value="id-5e3db497b44e4979aeb0a6defb7bf501"/>
+  <properties
+      key="Semanticsearch"
+      value="arbobeleid"/>
+</archimate:BusinessObject>

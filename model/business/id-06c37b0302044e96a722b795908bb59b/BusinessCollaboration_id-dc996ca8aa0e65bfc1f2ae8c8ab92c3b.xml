@@ -1,0 +1,21 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overheid"
+    id="id-dc996ca8aa0e65bfc1f2ae8c8ab92c3b"
+    documentation="Organisaties aan wie het gezag is toevertrouwd, m.n. door de wet (bron: Van Dale)">
+  <properties
+      key="Object ID"
+      value="d27b6736-7ce5-4030-8241-c5dc24556d97"/>
+  <properties
+      key="Original ID"
+      value="d27b6736-7ce5-4030-8241-c5dc24556d97"/>
+  <properties
+      key="Semanticsearch"
+      value="overheid"/>
+  <properties
+      key="SWC Type"
+      value="Werkingsgebied"/>
+  <properties
+      key="Werkingsgebied"
+      value="Overheid"/>
+</archimate:BusinessCollaboration>

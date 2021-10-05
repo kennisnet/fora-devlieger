@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betaling"
+    id="id-9dae38896bda458414c61e5cb856fa49"
+    documentation="Verantwoordelijkheid voor het (laten) uitvoeren van de overdracht van geld of goederen aan een andere partij (bron: Wikipedia)">
+  <properties
+      key="Object ID"
+      value="d3753d47-970b-49e7-aed3-31bc64f82b23"/>
+  <properties
+      key="Original ID"
+      value="d3753d47-970b-49e7-aed3-31bc64f82b23"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="betaling"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

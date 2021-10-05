@@ -1,0 +1,42 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerlingengeleding van de medezeggenschap"
+    id="id-e9d49abf813f0b27bcccf831fc9041ce"
+    documentation="De geleding van de medezeggenschapsraad bestaande uit leerlingen">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Schoolleiding"/>
+  <properties
+      key="Object ID"
+      value="0102943b-a20f-4b9a8-2d52-eea50e5a7f7"/>
+  <properties
+      key="Original ID"
+      value="id-0102943ba20f4b9a82d52eea50e5a7f7"/>
+  <properties
+      key="Semanticsearch"
+      value="leerlingengeleding van de medezeggenschap"/>
+  <properties
+      key="Synoniem"
+      value="LMR"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Sector"
+      value="VO"/>
+</archimate:BusinessObject>

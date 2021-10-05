@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beoordelaar"
+    id="id-18b106466bf151fa8a1392ee4bd7a0fc"
+    documentation="De beoordelaar beoordeelt de afnamerespons op een afgenomen toets, en wijst een score toe.">
+  <properties
+      key="Werkingsgebied"
+      value="Onderwijsveld"/>
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+  <properties
+      key="Object ID"
+      value="0702a13e-834d-46cd-978f-cf471a52c574"/>
+  <properties
+      key="Original ID"
+      value="id-0702a13e-834d-46cd-978f-cf471a52c574"/>
+  <properties
+      key="Semanticsearch"
+      value="beoordelaar"/>
+</archimate:BusinessRole>

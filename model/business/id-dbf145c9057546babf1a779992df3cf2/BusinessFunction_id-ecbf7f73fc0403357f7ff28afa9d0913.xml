@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medezeggenschap"
+    id="id-ecbf7f73fc0403357f7ff28afa9d0913"
+    documentation="Het organiseren van medezeggenschap op schoolniveau.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="c4c3d637-d11a-448a9-5577-16536291c6e"/>
+  <properties
+      key="Original ID"
+      value="id-c4c3d637d11a448a9557716536291c6e"/>
+  <properties
+      key="Semanticsearch"
+      value="medezeggenschap"/>
+</archimate:BusinessFunction>

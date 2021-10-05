@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geslacht"
+    id="id-b3d25e24ab75c71fcef4d891590f5132"
+    documentation="Geslacht van de leerling">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Midden"/>
+  <properties
+      key="Object ID"
+      value="f18045e9-f563-4ae8-8461-1ef35d1c1fd5"/>
+  <properties
+      key="Original ID"
+      value="f18045e9-f563-4ae8-8461-1ef35d1c1fd5"/>
+  <properties
+      key="Semanticsearch"
+      value="geslacht"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

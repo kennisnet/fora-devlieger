@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referentiekader"
+    id="id-801d780a2bf8b003bff305853c7bf9fe"
+    documentation="Een referentiekader is een beschrijving van wat leerlingen moeten kennen en kunnen op een bepaald moment in het onderwijs.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="a4924365-874e-4e359-c7b3-5f082c1ef98"/>
+  <properties
+      key="Original ID"
+      value="id-a4924365874e4e359c7b35f082c1ef98"/>
+  <properties
+      key="Semanticsearch"
+      value="referentiekader"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Statusdatum"
+      value="12-7-2021"/>
+</archimate:BusinessObject>

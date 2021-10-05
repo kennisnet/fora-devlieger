@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medische gegevens"
+    id="id-cdfb7d353e204fc5a9e63d34fa662404"
+    documentation="Alle gegevens die noodzakelijk zijn met het oog op de gezondheid of het welzijn van de leerling waarover de onderwijsinstelling beschikt">
+  <properties
+      key="Object ID"
+      value="86f94f0b-92c2-4360-9986-1d441981e0a8"/>
+  <properties
+      key="Original ID"
+      value="id-86f94f0b-92c2-4360-9986-1d441981e0a8"/>
+  <properties
+      key="Semanticsearch"
+      value="medische gegevens"/>
+</archimate:DataObject>

@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevens verzameling"
+    id="id-58c48f69e06c23a66fbb2c7f865e4344"
+    documentation="Het verzamelen en registreren van gegevens voor beslissingsondersteuning en inzichten.  &#xA;Denk aan: &#xA;* Data science &#xA;* Business Intelligence">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="e2ed9657-3a28-4900b-52ca-5dc939f7866"/>
+  <properties
+      key="Original ID"
+      value="id-e2ed96573a284900b52ca5dc939f7866"/>
+  <properties
+      key="Semanticsearch"
+      value="gegevens verzameling"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d0524b42504e3a3dc5c8fe62b1e4b426"
+    documentation="gegevens t.b.v. inschrijving bij KvK (directeur, tekenbevoegde etc.)">
+  <properties
+      key="Referentie"
+      value="Wet op de Kamer van koophandel"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="basis en functie"/>
+  <properties
+      key="Gegevenssoort"
+      value="Medewerker"/>
+  <properties
+      key="Object ID"
+      value="b90e3477-c1de-4834-8b79-8c8486f00f36"/>
+  <properties
+      key="Original ID"
+      value="b90e3477-c1de-4834-8b79-8c8486f00f36"/>
+  <properties
+      key="Semanticsearch"
+      value="b90e3477-c1de-4834-8b79-8c8486f00f36"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-9edbecb23b82123ac753fb6919f7a159.xml#id-9edbecb23b82123ac753fb6919f7a159"/>
+</archimate:FlowRelationship>

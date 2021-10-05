@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyse en rapportage"
+    id="id-2ea5452e7294b7a3ea219fb8a5c978f8">
+  <properties
+      key="Object ID"
+      value="73e7061f-2ac6-43c8-aa1f-05e27727f24a"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-73e7061f-2ac6-43c8-aa1f-05e27727f24a"/>
+  <properties
+      key="Semanticsearch"
+      value="analyse en rapportage"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

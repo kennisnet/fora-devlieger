@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klachten- en bezwarenregistratie"
+    id="id-773c032fdaa883118e46e65cd16c50ff"
+    documentation="Ondersteuning bij het registreren  van klachten en bezwaren.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="c1b82818-ba4e-48308-7e56-b358e7b324e"/>
+  <properties
+      key="Original ID"
+      value="id-c1b82818ba4e483087e56b358e7b324e"/>
+  <properties
+      key="Semanticsearch"
+      value="klachten- en bezwarenregistratie"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

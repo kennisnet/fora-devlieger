@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitgaande betaling"
+    id="id-b9aa31c4068ebee03b3f4743a1d27fd0"
+    documentation="Een betaling is de overdracht van geld of goederen van de ene partij (zoals een persoon of een bedrijf) aan de andere. (bron: Wikipedia)">
+  <properties
+      key="Object ID"
+      value="5e6831ee-3415-46eb-96e8-323488db70b9"/>
+  <properties
+      key="Original ID"
+      value="id-5e6831ee-3415-46eb-96e8-323488db70b9"/>
+  <properties
+      key="Semanticsearch"
+      value="uitgaande betaling"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Financiën"/>
+</archimate:BusinessObject>

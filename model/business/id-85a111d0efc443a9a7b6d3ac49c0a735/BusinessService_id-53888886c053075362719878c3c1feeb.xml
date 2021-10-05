@@ -1,0 +1,21 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(M) Landelijke dienst"
+    id="id-53888886c053075362719878c3c1feeb"
+    documentation="De dienstverlening van een Landelijke voorziening is beschikbaar (&quot;served by&quot;) een Landelijke dienst.">
+  <properties
+      key="Object ID"
+      value="d92d8f03-e2e5-4ac1b-8585-4b6d1491411"/>
+  <properties
+      key="Original ID"
+      value="id-d92d8f03e2e54ac1b85854b6d1491411"/>
+  <properties
+      key="SWC type"
+      value="Landelijke dienst"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="Semanticsearch"
+      value="(m) landelijke dienst"/>
+</archimate:BusinessService>

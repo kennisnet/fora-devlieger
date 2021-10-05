@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-284ec960ea8052d13b06bc14b760c548"
+    documentation="gegevens publicaties van DUO">
+  <properties
+      key="Referentie"
+      value="zie https://duo.nl/open_onderwijsdata/"/>
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="eindresultaten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="11a4bffa-69e7-4003-9b19-bd5974da9817"/>
+  <properties
+      key="Original ID"
+      value="id-11a4bffa-69e7-4003-9b19-bd5974da9817"/>
+  <properties
+      key="Semanticsearch"
+      value="id-11a4bffa-69e7-4003-9b19-bd5974da9817"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-282647da540aa35fc56f911ad73b0618.xml#id-282647da540aa35fc56f911ad73b0618"/>
+</archimate:FlowRelationship>

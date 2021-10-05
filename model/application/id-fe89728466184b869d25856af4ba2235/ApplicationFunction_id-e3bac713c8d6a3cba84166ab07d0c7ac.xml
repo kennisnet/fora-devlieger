@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opdracht samenstellen en toekennen"
+    id="id-e3bac713c8d6a3cba84166ab07d0c7ac">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="e89db22e-8032-4ed48-1cdb-3746906ab2c"/>
+  <properties
+      key="Original ID"
+      value="id-e89db22e80324ed481cdb3746906ab2c"/>
+  <properties
+      key="Semanticsearch"
+      value="opdracht samenstellen en toekennen"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

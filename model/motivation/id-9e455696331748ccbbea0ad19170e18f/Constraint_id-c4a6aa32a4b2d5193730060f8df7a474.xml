@@ -1,0 +1,24 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ECK ID 201703"
+    id="id-c4a6aa32a4b2d5193730060f8df7a474"
+    documentation="[[ECK ID]]">
+  <properties
+      key="Versieaanduiding"
+      value="201703"/>
+  <properties
+      key="Object ID"
+      value="622ac84e-7a94-433d-bcd3-0a4866f2ac7b"/>
+  <properties
+      key="Original ID"
+      value="id-622ac84e-7a94-433d-bcd3-0a4866f2ac7b"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Standaardversie"/>
+  <properties
+      key="Semanticsearch"
+      value="eck id 201703"/>
+</archimate:Constraint>

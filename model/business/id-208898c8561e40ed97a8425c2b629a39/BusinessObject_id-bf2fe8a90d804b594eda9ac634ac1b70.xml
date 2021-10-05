@@ -1,0 +1,48 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aangeboden opleiding"
+    id="id-bf2fe8a90d804b594eda9ac634ac1b70"
+    documentation="Opleidingseenheid die door een Onderwijsaanbieder aangeboden wordt in een bepaalde vorm, al dan niet op een bepaalde Onderwijslocatie, waarop een onderwijsvolger zich kan inschrijven.">
+  <properties
+      key="Object ID"
+      value="17ca5470-ce19-48b5-8afa-82c8ec6f7edb"/>
+  <properties
+      key="Original ID"
+      value="id-17ca5470-ce19-48b5-8afa-82c8ec6f7edb"/>
+  <properties
+      key="Semanticsearch"
+      value="aangeboden opleiding"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Product"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Afgeleid van"
+      value="RIO"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Statusdatum"
+      value="12-7-2021"/>
+  <properties
+      key="Bron"
+      value="FORA-WG Informatiemodel O&amp;O"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+</archimate:BusinessObject>

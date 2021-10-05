@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsvoorbereiding"
+    id="id-5793e3ae72eee007e7b1744998576ed4"
+    documentation="Het voorbereiden van alle direct aan het onderwijs gerelateerde activiteiten.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="9b15aa32-aa59-4bd6b-347c-6d891f8ac2c"/>
+  <properties
+      key="Original ID"
+      value="id-9b15aa32aa594bd6b347c6d891f8ac2c"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsvoorbereiding"/>
+</archimate:BusinessFunction>

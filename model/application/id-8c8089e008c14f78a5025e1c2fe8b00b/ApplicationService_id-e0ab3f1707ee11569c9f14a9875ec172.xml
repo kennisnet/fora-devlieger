@@ -1,0 +1,21 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Services over leveranciers en mandaten"
+    id="id-e0ab3f1707ee11569c9f14a9875ec172"
+    documentation="Service van het [[Onderwijs serviceregister (OSR)]] waarmee onderwijsinstellingen infromatie over hun leveranciers en uitgegeven mandaten kunnen ophalen en hun mandaten kunnen bijwerken.">
+  <properties
+      key="Object ID"
+      value="b2d2107b-f580-476b8-6515-368b7e197c7"/>
+  <properties
+      key="Original ID"
+      value="id-b2d2107bf580476b86515368b7e197c7"/>
+  <properties
+      key="SWC type"
+      value="Landelijke service"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Semanticsearch"
+      value="services over leveranciers en mandaten"/>
+</archimate:ApplicationService>

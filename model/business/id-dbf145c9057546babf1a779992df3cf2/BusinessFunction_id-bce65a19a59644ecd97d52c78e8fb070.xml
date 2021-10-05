@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samenwerken en communiceren medewerkers en extern"
+    id="id-bce65a19a59644ecd97d52c78e8fb070"
+    documentation="Uitwisseling van berichten en/of documenten met collega's binnen en buiten de eigen onderwijsorganisatie, leveranciers en andere interne en externe partijen.">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="0cc86529-3d07-4143-a074-28f072817642"/>
+  <properties
+      key="Original ID"
+      value="id-0cc86529-3d07-4143-a074-28f072817642"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="samenwerken en communiceren medewerkers en extern"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

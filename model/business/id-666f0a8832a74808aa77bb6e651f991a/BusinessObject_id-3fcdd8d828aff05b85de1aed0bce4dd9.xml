@@ -1,0 +1,48 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Profielwerkstuk"
+    id="id-3fcdd8d828aff05b85de1aed0bce4dd9"
+    documentation="Het profielwerkstuk is een werkstuk, een presentatie daaronder begrepen, waarin op geïntegreerde wijze kennis, inzicht en vaardigheden aan de orde komen die van betekenis zijn in het desbetreffende profiel.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="16dfad4e-acd5-47b38-4587-686a6aa13d8"/>
+  <properties
+      key="Original ID"
+      value="id-16dfad4eacd547b384587686a6aa13d8"/>
+  <properties
+      key="Semanticsearch"
+      value="profielwerkstuk"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Synoniem"
+      value="PWS"/>
+  <properties
+      key="Sector"
+      value="VO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evenementenbeheer"
+    id="id-a60834721ac8011c113715b349938171"
+    documentation="Het ondersteunen van evenmenten zoals opendagen, kennisdeling, feestelijkheden, ... incl. het beheer van gegevens">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="9576493a-427a-44aab-3531-b9b81fa5f5a"/>
+  <properties
+      key="Original ID"
+      value="id-9576493a427a44aab3531b9b81fa5f5a"/>
+  <properties
+      key="Semanticsearch"
+      value="evenementenbeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRM-systeem"
+    id="id-a3c2780bd96137a9b82abd29f0c3b84b"
+    documentation="Een systeem dat  relatiebeheer en de marketing ondersteunt. &#xA;Zoals: onderhouden relaties, werving, campagnebeheer, evenementenbeheer &#xA;Voorbeeld: Microsoft Dynamics CRM">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="56e908d0-0a3b-4a749-a214-3355a687c55"/>
+  <properties
+      key="Original ID"
+      value="id-56e908d00a3b4a749a2143355a687c55"/>
+  <properties
+      key="Semanticsearch"
+      value="crm-systeem"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2c5d98036f2261b6391f906db8929a4c"
+    documentation="aanmelden school / opleiding bij inspectie">
+  <properties
+      key="Referentie"
+      value="wet op het onderwijstoezicht (art 11b), wet PO (schoolplan), wet VO, wet EC"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="richten en oprichten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Organisatie"/>
+  <properties
+      key="Object ID"
+      value="559a4b81-d37e-40c5-949c-d87243524489"/>
+  <properties
+      key="Original ID"
+      value="id-559a4b81-d37e-40c5-949c-d87243524489"/>
+  <properties
+      key="Semanticsearch"
+      value="id-559a4b81-d37e-40c5-949c-d87243524489"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-33a7ec7daae142828c597eb68d55fef5.xml#id-33a7ec7daae142828c597eb68d55fef5"/>
+</archimate:FlowRelationship>

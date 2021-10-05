@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking e-mailadres leerling"
+    id="id-fe0c862b2d0d3f0e792c35a912a2603d">
+  <properties
+      key="Object ID"
+      value="9d392701-b9e7-43fa-83af-3f4a11491fc0"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-9d392701-b9e7-43fa-83af-3f4a11491fc0"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking e-mailadres leerling"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

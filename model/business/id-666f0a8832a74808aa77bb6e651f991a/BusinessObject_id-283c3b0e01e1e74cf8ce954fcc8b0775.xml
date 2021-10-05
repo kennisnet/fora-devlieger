@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eindterm"
+    id="id-283c3b0e01e1e74cf8ce954fcc8b0775"
+    documentation="Een eindterm is een doel uit de bovenbouw van het voortgezet onderwijs. De globale eindtermen zijn beschreven in het examenprogramma en specifieke eindtermen in de syllabus en handreiking schoolexamen.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="5cf0afa1-a5ff-497d9-14fe-ec028a2d8b0"/>
+  <properties
+      key="Original ID"
+      value="id-5cf0afa1a5ff497d914feec028a2d8b0"/>
+  <properties
+      key="Semanticsearch"
+      value="eindterm"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Sector"
+      value="VO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

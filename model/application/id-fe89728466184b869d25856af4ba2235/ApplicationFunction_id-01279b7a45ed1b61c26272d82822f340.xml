@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkoopondersteuning"
+    id="id-01279b7a45ed1b61c26272d82822f340"
+    documentation="Ondersteuning van het inkoopproces">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="eacb3758-dcd8-411c8-a22b-9de4bef257d"/>
+  <properties
+      key="Original ID"
+      value="id-eacb3758dcd8411c8a22b9de4bef257d"/>
+  <properties
+      key="Semanticsearch"
+      value="inkoopondersteuning"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

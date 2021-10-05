@@ -1,0 +1,21 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NL LOM"
+    id="id-b369b7c2b06c6b1704e31710839ea079"
+    documentation="Er is een internationale standaard voor metadata: IEEE LOM (Learning Object Metadata). Hiervan is een variant gemaakt voor het Nederlandse onderwijs: NL LOM. De meest recente versie van de afspraak is te vinden op de NL-LOM wiki.">
+  <properties
+      key="Object ID"
+      value="2836f71c-aa2c-4c17-9a0b-a562169cb186"/>
+  <properties
+      key="Original ID"
+      value="id-2836f71c-aa2c-4c17-9a0b-a562169cb186"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Standaard"/>
+  <properties
+      key="Semanticsearch"
+      value="nl lom"/>
+</archimate:Constraint>

@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanbestedingsondersteuning"
+    id="id-1c440362dc2d1fed6d17d9419a94fd97"
+    documentation="Het ondersteunen van de uitvoering van aanbestedingen">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="9ebe5b52-1104-405da-a1e9-dca7b3302a0"/>
+  <properties
+      key="Original ID"
+      value="id-9ebe5b521104405daa1e9dca7b3302a0"/>
+  <properties
+      key="Semanticsearch"
+      value="aanbestedingsondersteuning"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

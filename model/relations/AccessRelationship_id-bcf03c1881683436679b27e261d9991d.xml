@@ -1,0 +1,22 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bcf03c1881683436679b27e261d9991d"
+    documentation="alleen voor PO: ECK ID pas aanvragen bij inschrijving"
+    accessType="1">
+  <properties
+      key="Object ID"
+      value="5d3053e0-f03c-4e62-b37f-79713e645133"/>
+  <properties
+      key="Original ID"
+      value="id-5d3053e0-f03c-4e62-b37f-79713e645133"/>
+  <properties
+      key="Semanticsearch"
+      value="id-5d3053e0-f03c-4e62-b37f-79713e645133"/>
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-18f0d75642754eb351922ebe853e6241.xml#id-18f0d75642754eb351922ebe853e6241"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-7c3e09b74558b42a2f0105ebf102fb3c.xml#id-7c3e09b74558b42a2f0105ebf102fb3c"/>
+</archimate:AccessRelationship>

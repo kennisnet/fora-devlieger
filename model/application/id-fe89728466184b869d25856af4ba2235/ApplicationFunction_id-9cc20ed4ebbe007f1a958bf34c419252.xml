@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leverancierbeheer"
+    id="id-9cc20ed4ebbe007f1a958bf34c419252"
+    documentation="Het beheren van leveranciergegevens">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="36ee7e16-c574-476fa-6509-078c3736dfc"/>
+  <properties
+      key="Original ID"
+      value="id-36ee7e16c574476fa6509078c3736dfc"/>
+  <properties
+      key="Semanticsearch"
+      value="leverancierbeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

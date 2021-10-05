@@ -1,0 +1,24 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Edukoppeling ouder"
+    id="id-4ba8565acb67c593914087cff1dc1626"
+    documentation="[[Edukoppeling transactiestandaard]]">
+  <properties
+      key="Versieaanduiding"
+      value="ouder"/>
+  <properties
+      key="Object ID"
+      value="019b9749-31c7-44cc-b5e0-2e48e2827680"/>
+  <properties
+      key="Original ID"
+      value="id-019b9749-31c7-44cc-b5e0-2e48e2827680"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Standaardversie"/>
+  <properties
+      key="Semanticsearch"
+      value="edukoppeling ouder"/>
+</archimate:Constraint>

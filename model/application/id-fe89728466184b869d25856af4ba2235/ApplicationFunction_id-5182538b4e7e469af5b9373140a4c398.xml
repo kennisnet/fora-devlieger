@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Videostreaming"
+    id="id-5182538b4e7e469af5b9373140a4c398"
+    documentation="Het streamen van videomateriaal.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="5dfb1cb0-bbe9-40299-b18b-8dc01ba02d1"/>
+  <properties
+      key="Original ID"
+      value="id-5dfb1cb0bbe940299b18b8dc01ba02d1"/>
+  <properties
+      key="Semanticsearch"
+      value="videostreaming"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

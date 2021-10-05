@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Office suite"
+    id="id-0b619832c5eb27459dc28dc584d382d6"
+    documentation="Verzameling van applicaties en componenten voor tekstverwerking, rekenbladen, presentaties en eenvoudige gegevensverwerking.">
+  <properties
+      key="Object ID"
+      value="95c783b6-52df-4790-85fb-705cc4139484"/>
+  <properties
+      key="Original ID"
+      value="id-95c783b6-52df-4790-85fb-705cc4139484"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Semanticsearch"
+      value="office suite"/>
+</archimate:ApplicationComponent>

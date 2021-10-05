@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BRON Bekostiging uitwisseling"
+    id="id-fda928b1557f9c30c9177ababd3890b2">
+  <properties
+      key="Object ID"
+      value="d8d5cdff-c55d-4307-b9fd-c912525f1381"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="d8d5cdff-c55d-4307-b9fd-c912525f1381"/>
+  <properties
+      key="Semanticsearch"
+      value="bron bekostiging uitwisseling"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

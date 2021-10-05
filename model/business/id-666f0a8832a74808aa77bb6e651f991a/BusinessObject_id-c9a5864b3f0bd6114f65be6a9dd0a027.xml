@@ -1,0 +1,44 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Examinering"
+    id="id-c9a5864b3f0bd6114f65be6a9dd0a027">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="67ec56ea-6dbd-4dd3a-9ae8-c851b642ee3"/>
+  <properties
+      key="Original ID"
+      value="id-67ec56ea6dbd4dd3a9ae8c851b642ee3"/>
+  <properties
+      key="Semanticsearch"
+      value="examinering"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+  <properties
+      key="Sector"
+      value="VO"/>
+</archimate:BusinessObject>

@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3134fd825c8114a38fd7b1df2be8821f"
+    documentation="gegevensuitwisseling tussen leerling en ouder/voogd">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="basis en zorg"/>
+  <properties
+      key="Gegevenssoort"
+      value="Leerling"/>
+  <properties
+      key="Object ID"
+      value="f5996de3-726c-406c-a387-3ed38a2a74c9"/>
+  <properties
+      key="Original ID"
+      value="f5996de3-726c-406c-a387-3ed38a2a74c9"/>
+  <properties
+      key="Semanticsearch"
+      value="f5996de3-726c-406c-a387-3ed38a2a74c9"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-9f6e7f2ecff830bbf7d7c60692b6e802.xml#id-9f6e7f2ecff830bbf7d7c60692b6e802"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-b8b81b18212ddd02afecfe10c2b1f773.xml#id-b8b81b18212ddd02afecfe10c2b1f773"/>
+</archimate:FlowRelationship>

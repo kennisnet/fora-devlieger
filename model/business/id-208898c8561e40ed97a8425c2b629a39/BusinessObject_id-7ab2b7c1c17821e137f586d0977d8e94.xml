@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanmeldgegevens"
+    id="id-7ab2b7c1c17821e137f586d0977d8e94"
+    documentation="Gegevens die een leerling of student overlegt aan een onderwijsinstelling, zodat de onderwijsinstelling de leerling of student kan aanmelden.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="649a9480-0975-4dd6-a2ac-6d1fc220e55f"/>
+  <properties
+      key="Original ID"
+      value="id-649a9480-0975-4dd6-a2ac-6d1fc220e55f"/>
+  <properties
+      key="Semanticsearch"
+      value="aanmeldgegevens"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Overeenkomst"/>
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Statusdatum"
+      value="12-7-2021"/>
+  <properties
+      key="Bron"
+      value="FORA-WG Informatiemodel O&amp;O"/>
+</archimate:BusinessObject>

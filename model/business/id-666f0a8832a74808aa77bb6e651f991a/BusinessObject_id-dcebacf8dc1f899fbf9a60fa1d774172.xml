@@ -1,0 +1,48 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referentieniveau"
+    id="id-dcebacf8dc1f899fbf9a60fa1d774172"
+    documentation="Een referentieniveau is een beschrijving van een vaardigheid van een leerling op een bepaald overgangsmoment in het onderwijs.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="b787e0a6-e021-4fdfb-7a6b-49c70705742"/>
+  <properties
+      key="Original ID"
+      value="id-b787e0a6e0214fdfb7a6b49c70705742"/>
+  <properties
+      key="Semanticsearch"
+      value="referentieniveau"/>
+  <properties
+      key="Afgeleid van"
+      value="rijksoverheid.nl, https://wij-leren.nl/referentieniveau.php"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Statusdatum"
+      value="12-7-2021"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+</archimate:BusinessObject>

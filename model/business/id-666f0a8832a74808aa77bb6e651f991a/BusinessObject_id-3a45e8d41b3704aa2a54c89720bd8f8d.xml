@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Two tier bestuursmodel"
+    id="id-3a45e8d41b3704aa2a54c89720bd8f8d"
+    documentation="Een two-tier-systeem is een dualistisch bestuursmodel, waarbij er een scheiding is tussen directie en toezichthouders en het bestuur de dagelijkse leiding heeft over de onderneming.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Bevoegd gezag"/>
+  <properties
+      key="Object ID"
+      value="2ea20e26-e5bf-4993b-30f2-295d75024b4"/>
+  <properties
+      key="Original ID"
+      value="id-2ea20e26e5bf4993b30f2295d75024b4"/>
+  <properties
+      key="Semanticsearch"
+      value="two tier bestuursmodel"/>
+</archimate:BusinessObject>

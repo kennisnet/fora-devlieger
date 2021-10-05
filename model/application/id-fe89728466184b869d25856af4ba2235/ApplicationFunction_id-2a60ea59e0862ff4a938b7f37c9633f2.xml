@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerving identificatiegegevens"
+    id="id-2a60ea59e0862ff4a938b7f37c9633f2">
+  <properties
+      key="Object ID"
+      value="3157da14-2daa-402b-b8b0-59baad7f6ed9"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-3157da14-2daa-402b-b8b0-59baad7f6ed9"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerving identificatiegegevens"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,20 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SaaS aanbieder dashboard leerproces"
+    id="id-bc2506ce0f25164c1ac92c6f397d582b">
+  <properties
+      key="Object ID"
+      value="ff4d148d-3224-433b-b669-c2d4e169d099"/>
+  <properties
+      key="Original ID"
+      value="ff4d148d-3224-433b-b669-c2d4e169d099"/>
+  <properties
+      key="Semanticsearch"
+      value="saas aanbieder dashboard leerproces"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

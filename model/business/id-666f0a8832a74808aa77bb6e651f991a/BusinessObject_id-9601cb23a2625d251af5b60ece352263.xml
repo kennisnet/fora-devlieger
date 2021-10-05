@@ -1,0 +1,51 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centraal examen"
+    id="id-9601cb23a2625d251af5b60ece352263"
+    documentation="Het centraal examen is een toets over dat gedeelte van het examenprogramma dat als zodanig is aangeduid.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="ae47ca72-accf-43cc8-7667-89c12b27bc7"/>
+  <properties
+      key="Original ID"
+      value="id-ae47ca72accf43cc8766789c12b27bc7"/>
+  <properties
+      key="Semanticsearch"
+      value="centraal examen"/>
+  <properties
+      key="Toelichting"
+      value="Het wordt gekenmerkt door landelijke standaardisering van opgaven, (gelijke of gelijkwaardige) afnamecondities en beoordeling."/>
+  <properties
+      key="Afgeleid van"
+      value="https://www2.cito.nl/static/oenw/ttb/beglist1.htm#CENTRAAL%20EXAMEN"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Sector"
+      value="VO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

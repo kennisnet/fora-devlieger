@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="faciliteert"
+    id="id-49020e946d881317c2426c380fc8271f"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="b318f79d-ab7a-4aa08-b502-c33b7b1185f"/>
+  <properties
+      key="Original ID"
+      value="id-b318f79dab7a4aa08b502c33b7b1185f"/>
+  <properties
+      key="Semanticsearch"
+      value="faciliteert"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-d25e0013559980559fceeaf5e4a250eb.xml#id-d25e0013559980559fceeaf5e4a250eb"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-43d5890b61cd143ec0c68545201dafaf.xml#id-43d5890b61cd143ec0c68545201dafaf"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,39 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formatieve toets"
+    id="id-72b39f86ec58b05ffe2ae1ae9d0d5be3"
+    documentation="Een formatieve toets is een toets die meet hoe ver leerlingen gevorderd zijn in het behalen van bepaalde doelen.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="aaddc95f-b69a-437ca-d906-c363b5cb443"/>
+  <properties
+      key="Original ID"
+      value="id-aaddc95fb69a437cad906c363b5cb443"/>
+  <properties
+      key="Semanticsearch"
+      value="formatieve toets"/>
+  <properties
+      key="Toelichting"
+      value="Deze toetsen geven tevens inzicht in de vervolgstappen die ondernomen kunnen worden om alsnog de gestelde doelen te behalen of nieuwe doelen te formuleren. Waarbij het resultaat van de formatieve toets niet in directe zin meeweegt in de kwalificatie."/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+</archimate:BusinessObject>

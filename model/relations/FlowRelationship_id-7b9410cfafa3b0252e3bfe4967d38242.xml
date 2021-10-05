@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7b9410cfafa3b0252e3bfe4967d38242"
+    documentation="ondersteuning van raden van bestuurders">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="beleid"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="fb40eaae-0498-4ff8-b4e0-3383cae440a0"/>
+  <properties
+      key="Original ID"
+      value="fb40eaae-0498-4ff8-b4e0-3383cae440a0"/>
+  <properties
+      key="Semanticsearch"
+      value="fb40eaae-0498-4ff8-b4e0-3383cae440a0"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-c26e841c5d3ae3ddd24dfb6d3703c0ce.xml#id-c26e841c5d3ae3ddd24dfb6d3703c0ce"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-3f792b732e87df35f7f2f8915a8b5abb.xml#id-3f792b732e87df35f7f2f8915a8b5abb"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-794dfe0734602ead3f813a7d3b1c14e4"
+    documentation="samenwerking met kinderdagverblijven / IKC">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="diverse diensten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="eb38f342-88dc-4b81-bbca-ecb19b3aaf73"/>
+  <properties
+      key="Original ID"
+      value="eb38f342-88dc-4b81-bbca-ecb19b3aaf73"/>
+  <properties
+      key="Semanticsearch"
+      value="eb38f342-88dc-4b81-bbca-ecb19b3aaf73"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-2c9515cc27b21c8c9d19e7d28735d8be.xml#id-2c9515cc27b21c8c9d19e7d28735d8be"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

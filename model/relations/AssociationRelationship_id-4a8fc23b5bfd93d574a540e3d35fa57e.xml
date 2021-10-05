@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="regisseert bouw van"
+    id="id-4a8fc23b5bfd93d574a540e3d35fa57e"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="dbe1b515-3168-4215a-f3d0-182a41f830a"/>
+  <properties
+      key="Original ID"
+      value="id-dbe1b51531684215af3d0182a41f830a"/>
+  <properties
+      key="Semanticsearch"
+      value="regisseert bouw van"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-aaf34fa7c78da784d7e580fdc50b2a10.xml#id-aaf34fa7c78da784d7e580fdc50b2a10"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c787effa7ba34101840a6a97bcceaf8a.xml#id-c787effa7ba34101840a6a97bcceaf8a"/>
+</archimate:AssociationRelationship>

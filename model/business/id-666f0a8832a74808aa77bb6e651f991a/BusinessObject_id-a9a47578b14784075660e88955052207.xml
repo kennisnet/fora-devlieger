@@ -1,0 +1,42 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incident"
+    id="id-a9a47578b14784075660e88955052207"
+    documentation="Een gebeurtenis die de gang van zaken in de context van de school kan verstoren.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Sociale veiligheid"/>
+  <properties
+      key="Object ID"
+      value="96720114-e6b9-43749-8b06-a0afaba928c"/>
+  <properties
+      key="Original ID"
+      value="id-96720114e6b9437498b06a0afaba928c"/>
+  <properties
+      key="Semanticsearch"
+      value="incident"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

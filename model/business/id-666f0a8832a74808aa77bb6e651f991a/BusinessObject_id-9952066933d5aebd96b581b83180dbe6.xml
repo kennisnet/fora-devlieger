@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schoolondersteuningsprofiel"
+    id="id-9952066933d5aebd96b581b83180dbe6"
+    documentation="In het schoolondersteuningsprofiel staat welke extra ondersteuning de school kan bieden aan leerlingen. Ook staat hierin welke ambities de school heeft voor de toekomst.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Overeenkomst"/>
+  <properties
+      key="Domein"
+      value="Passend onderwijs"/>
+  <properties
+      key="Object ID"
+      value="5e530ac8-623d-419f9-6180-347ff9a456c"/>
+  <properties
+      key="Original ID"
+      value="id-5e530ac8623d419f96180347ff9a456c"/>
+  <properties
+      key="Semanticsearch"
+      value="schoolondersteuningsprofiel"/>
+</archimate:BusinessObject>

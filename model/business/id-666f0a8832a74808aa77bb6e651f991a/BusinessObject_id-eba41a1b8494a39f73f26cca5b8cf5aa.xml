@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dislocatie"
+    id="id-eba41a1b8494a39f73f26cca5b8cf5aa"
+    documentation="Een dislocatie is een deel van een school - in een ander gebouw en op een andere locatie dan het hoofdgebouw - waarmee feitelijk ruimtegebrek in het hoofdgebouw van de school wordt opgevangen.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Huisvesting"/>
+  <properties
+      key="Object ID"
+      value="205640cd-e323-436eb-dad5-8adde48c3dc"/>
+  <properties
+      key="Original ID"
+      value="id-205640cde323436ebdad58adde48c3dc"/>
+  <properties
+      key="Semanticsearch"
+      value="dislocatie"/>
+</archimate:BusinessObject>

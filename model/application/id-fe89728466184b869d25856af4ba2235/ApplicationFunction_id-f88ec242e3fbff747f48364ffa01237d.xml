@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer self-service"
+    id="id-f88ec242e3fbff747f48364ffa01237d">
+  <properties
+      key="Object ID"
+      value="1b7d9608-5d9f-45a3-a624-6a9d7da9cbe3"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-1b7d9608-5d9f-45a3-a624-6a9d7da9cbe3"/>
+  <properties
+      key="Semanticsearch"
+      value="customer self-service"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

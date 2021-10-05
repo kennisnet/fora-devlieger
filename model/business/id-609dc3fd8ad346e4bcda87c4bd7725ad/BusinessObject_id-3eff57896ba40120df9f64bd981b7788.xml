@@ -1,0 +1,14 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatieobject Bedrijfsvoering"
+    id="id-3eff57896ba40120df9f64bd981b7788">
+  <properties
+      key="Object ID"
+      value="dd5ac479-6a67-4ba6a-81ca-fe918794aab"/>
+  <properties
+      key="Original ID"
+      value="id-dd5ac4796a674ba6a81cafe918794aab"/>
+  <properties
+      key="Semanticsearch"
+      value="informatieobject bedrijfsvoering"/>
+</archimate:BusinessObject>

@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ddb8a4a5cf3860df0af6c9f407a0fb63"
+    documentation="zorgbeleid voor de school">
+  <properties
+      key="Referentie"
+      value="zie handreiking gegevensuitwisseling van het Nederlands Jeugdinstituut (2016), maar ook de brief van de VNG over het ontbreken van een wettelijk kader voor gegevensuitwisseling (Nji site) en overzicht wetten op de Nji site (zorgverzekeringswet, wet langdurige zorg, passend onderwijs, participatiewet, wet publieke gezondheid, WMO, jeugdstrafrecht)"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="beleid"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="3b828a65-2a1d-4a7f-a809-a26a15b3cb7a"/>
+  <properties
+      key="Original ID"
+      value="id-3b828a65-2a1d-4a7f-a809-a26a15b3cb7a"/>
+  <properties
+      key="Semanticsearch"
+      value="id-3b828a65-2a1d-4a7f-a809-a26a15b3cb7a"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-130c8fd3954afe9aec757fccb8439afd.xml#id-130c8fd3954afe9aec757fccb8439afd"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vormt"
+    id="id-e056e6809150b1a412598c00ce6ab050"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="d6dd2dbd-2e61-48a0b-baa4-3ff6fb09b10"/>
+  <properties
+      key="Original ID"
+      value="id-d6dd2dbd2e6148a0bbaa43ff6fb09b10"/>
+  <properties
+      key="Semanticsearch"
+      value="vormt"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-b2df83979b0b941e2612d73ca5cf302a.xml#id-b2df83979b0b941e2612d73ca5cf302a"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-bf2fe8a90d804b594eda9ac634ac1b70.xml#id-bf2fe8a90d804b594eda9ac634ac1b70"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stelsel van kwaliteitszorg"
+    id="id-4b0c5b07856dc262b1f66f48b0de4382"
+    documentation="Beleid rondom het waarborgen van de kwaliteit van het onderwijs.">
+  <properties
+      key="Object ID"
+      value="efc6c50f-11a9-4b33-93f5-4819ebb8568d"/>
+  <properties
+      key="Original ID"
+      value="efc6c50f-11a9-4b33-93f5-4819ebb8568d"/>
+  <properties
+      key="Semanticsearch"
+      value="stelsel van kwaliteitszorg"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

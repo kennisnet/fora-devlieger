@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generiek bedrijfsvoering systeem"
+    id="id-1930e7f0083b82e41022edd773ba3a9c"
+    documentation="Algemene term voor Systeem of geheel van systemen en modules dat wordt gebruikt in het kader van bedrijfsvoering">
+  <properties
+      key="Object ID"
+      value="2b4533ad-e4b8-489f-875f-e843de6ae954"/>
+  <properties
+      key="Original ID"
+      value="id-2b4533ad-e4b8-489f-875f-e843de6ae954"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Semanticsearch"
+      value="generiek bedrijfsvoering systeem"/>
+</archimate:ApplicationComponent>

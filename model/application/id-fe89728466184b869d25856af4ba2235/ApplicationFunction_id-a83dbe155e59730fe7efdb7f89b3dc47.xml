@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planning leerroutes"
+    id="id-a83dbe155e59730fe7efdb7f89b3dc47">
+  <properties
+      key="Object ID"
+      value="b1f33087-d553-40cd-bdb1-8810b03e7487"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="b1f33087-d553-40cd-bdb1-8810b03e7487"/>
+  <properties
+      key="Semanticsearch"
+      value="planning leerroutes"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

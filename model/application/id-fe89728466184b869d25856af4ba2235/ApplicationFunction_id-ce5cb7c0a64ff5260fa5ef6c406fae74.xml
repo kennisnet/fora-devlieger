@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Faciliteitenbeheer"
+    id="id-ce5cb7c0a64ff5260fa5ef6c406fae74"
+    documentation="Het beheren (incl. reserveren en uitlenen) van faciliteiten">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="637a3dc6-5d17-47ec8-fc9a-cda777a4390"/>
+  <properties
+      key="Original ID"
+      value="id-637a3dc65d1747ec8fc9acda777a4390"/>
+  <properties
+      key="Semanticsearch"
+      value="faciliteitenbeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

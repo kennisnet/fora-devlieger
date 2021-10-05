@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Functioneel beheer"
+    id="id-fe55529b67cdfe9203392e90dedad925"
+    documentation="Ondersteuning van het functioneel beheerproces.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="134a4db5-1a11-488ca-38e4-33cfcb48c42"/>
+  <properties
+      key="Original ID"
+      value="id-134a4db51a11488ca38e433cfcb48c42"/>
+  <properties
+      key="Semanticsearch"
+      value="functioneel beheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

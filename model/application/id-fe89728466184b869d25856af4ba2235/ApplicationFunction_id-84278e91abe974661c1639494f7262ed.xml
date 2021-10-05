@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inzage voortgang- en resultaatgegevens"
+    id="id-84278e91abe974661c1639494f7262ed">
+  <properties
+      key="Object ID"
+      value="23fd9d78-fbd9-4f3a-acd2-096f17287db1"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-23fd9d78-fbd9-4f3a-acd2-096f17287db1"/>
+  <properties
+      key="Semanticsearch"
+      value="inzage voortgang- en resultaatgegevens"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

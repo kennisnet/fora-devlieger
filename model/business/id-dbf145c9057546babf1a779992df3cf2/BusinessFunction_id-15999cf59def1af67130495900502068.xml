@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Toegang tot) aanbod leermateriaal"
+    id="id-15999cf59def1af67130495900502068"
+    documentation="Er is één digitale verzamelplek waar de leerlingen naartoe kunnen, vanaf waar ze worden verwezen naar al het digitaal leermateriaal voor hun lessen. Leerlingen kunnen overal met hun schoolaccount bij en hoeven niet opnieuw in te loggen wanneer ze naar de site van een andere partij gaan. Toegang tot individueel leermateriaal (maatwerk). Arrangementen en op maat samengestelde pakketten leermateriaal kan voor individuele leerlingen of groepen worden klaargezet.">
+  <properties
+      key="Object ID"
+      value="7a7053fd-d552-41b8-9850-6ae663fcc551"/>
+  <properties
+      key="Original ID"
+      value="id-7a7053fd-d552-41b8-9850-6ae663fcc551"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="(toegang tot) aanbod leermateriaal"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

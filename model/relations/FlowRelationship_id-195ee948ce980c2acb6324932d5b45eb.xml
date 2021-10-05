@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-195ee948ce980c2acb6324932d5b45eb"
+    documentation="communicatie naar (potentiéle) ouders van leerlingen/studenten">
+  <properties
+      key="Referentie"
+      value="wet PO, art 13, schoolgids, wet VO art 24a, schoolgids"/>
+  <properties
+      key="Grondslag"
+      value="organisatie en wettelijk"/>
+  <properties
+      key="Benaming"
+      value="richten en inrichten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Organisatie"/>
+  <properties
+      key="Object ID"
+      value="c7cbc07e-7051-4fb9-b64e-7328fd2142b3"/>
+  <properties
+      key="Original ID"
+      value="c7cbc07e-7051-4fb9-b64e-7328fd2142b3"/>
+  <properties
+      key="Semanticsearch"
+      value="c7cbc07e-7051-4fb9-b64e-7328fd2142b3"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-9f6e7f2ecff830bbf7d7c60692b6e802.xml#id-9f6e7f2ecff830bbf7d7c60692b6e802"/>
+</archimate:FlowRelationship>

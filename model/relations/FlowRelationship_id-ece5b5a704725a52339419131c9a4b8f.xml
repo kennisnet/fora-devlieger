@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ece5b5a704725a52339419131c9a4b8f"
+    documentation="inkoop van toetsmateriaal">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="inkoop"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="9177fe26-8a3d-43fc-96d9-ce88e54f0a8f"/>
+  <properties
+      key="Original ID"
+      value="id-9177fe26-8a3d-43fc-96d9-ce88e54f0a8f"/>
+  <properties
+      key="Semanticsearch"
+      value="id-9177fe26-8a3d-43fc-96d9-ce88e54f0a8f"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-d45ad2785ce309a8a5bccab9dfee007a.xml#id-d45ad2785ce309a8a5bccab9dfee007a"/>
+</archimate:FlowRelationship>

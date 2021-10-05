@@ -1,0 +1,21 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RIO Informatiemodel"
+    id="id-20eac54b771fe2ae885f704bdbdde6d1"
+    documentation="Met [[Register voor onderwijsinstellingen]] kunnen onderwijsinstellingen het wie, wat, waar en hoe van de eigen organisatieonderdelen registreren.">
+  <properties
+      key="Object ID"
+      value="742927ae-0229-4046-abd1-8e3b5e45a041"/>
+  <properties
+      key="Original ID"
+      value="id-742927ae-0229-4046-abd1-8e3b5e45a041"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Standaard"/>
+  <properties
+      key="Semanticsearch"
+      value="rio informatiemodel"/>
+</archimate:Constraint>

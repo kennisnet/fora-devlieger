@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer begeleidingsdossier"
+    id="id-0c97e94cb61db672d4802b8e9c7c034c">
+  <properties
+      key="Object ID"
+      value="f3754aee-4413-46a7-a47f-b24d8ed0104d"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="f3754aee-4413-46a7-a47f-b24d8ed0104d"/>
+  <properties
+      key="Semanticsearch"
+      value="beheer begeleidingsdossier"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

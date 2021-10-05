@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Code goed bestuur"
+    id="id-fc0438cd2f92c8e46c682916a9eb4a05"
+    documentation="Code goed bestuur is een sectoraal document waarin richting wordt gegeven aan goed bestuur in verschillende sectoren">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Bevoegd gezag"/>
+  <properties
+      key="Object ID"
+      value="9a085c38-1304-4d78a-91c9-05125bec2b3"/>
+  <properties
+      key="Original ID"
+      value="id-9a085c3813044d78a91c905125bec2b3"/>
+  <properties
+      key="Semanticsearch"
+      value="code goed bestuur"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+</archimate:BusinessObject>

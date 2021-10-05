@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formatieplanning en personeelroostering"
+    id="id-3b546991e4308aee7f5e67e06e1698a6"
+    documentation="Het op basis van verwachte (geprognosticeerde) en vastgestelde behoeften indelen van beschikbare medewerkers in (meer)jarenplanningen en roosters.">
+  <properties
+      key="Object ID"
+      value="cfbbc9bd-045b-4f77-96f6-204249545a9d"/>
+  <properties
+      key="Original ID"
+      value="cfbbc9bd-045b-4f77-96f6-204249545a9d"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="formatieplanning en personeelroostering"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Examennummer"
+    id="id-ae48b99cfb0ba60fd54d837ca377bb37">
+  <properties
+      key="Object ID"
+      value="78a42709-50b3-48c8-ac22-d57770d7fbdd"/>
+  <properties
+      key="Original ID"
+      value="id-78a42709-50b3-48c8-ac22-d57770d7fbdd"/>
+  <properties
+      key="Semanticsearch"
+      value="examennummer"/>
+</archimate:DataObject>

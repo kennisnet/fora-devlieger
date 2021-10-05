@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realisatie en onderhoud van digitale toegankelijkheid"
+    id="id-cf299474211b2e24469ec679511e0a50"
+    documentation="Het ervoor zorgen dat applicaties goed toegankelijk zijn op verschillende type devices. Hierbij moet rekening gehouden worden met mensen met een auditieve of visuele beperking.">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="82c21616-f0a5-403d-b529-12b0bbcae677"/>
+  <properties
+      key="Original ID"
+      value="id-82c21616-f0a5-403d-b529-12b0bbcae677"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="realisatie en onderhoud van digitale toegankelijkheid"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

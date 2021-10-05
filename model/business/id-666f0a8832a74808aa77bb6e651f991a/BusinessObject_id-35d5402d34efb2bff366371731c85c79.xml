@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stage"
+    id="id-35d5402d34efb2bff366371731c85c79"
+    documentation="Stage is een langer durend onderdeel van een opleiding waarbij de leerling in de praktijk leert, doorgaans bij een andere instelling dan de eigen school.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="66c119f5-fcdb-4b23b-d887-e95e9b6b2f4"/>
+  <properties
+      key="Original ID"
+      value="id-66c119f5fcdb4b23bd887e95e9b6b2f4"/>
+  <properties
+      key="Semanticsearch"
+      value="stage"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Sector"
+      value="VO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

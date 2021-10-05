@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Faciliteitenbeheersysteem"
+    id="id-bd3e3a5c156c09dcbf4a0229725ca067"
+    documentation="Een systeem voor het registreren en beheren van facilitaire middelen zoals ruimten, lockers, meubilair, inventaris, , vierkante meters, inclusief het magazijnbeheer">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="4e0d047d-6e5d-44bb8-da0d-b99b217a3ac"/>
+  <properties
+      key="Original ID"
+      value="id-4e0d047d6e5d44bb8da0db99b217a3ac"/>
+  <properties
+      key="Semanticsearch"
+      value="faciliteitenbeheersysteem"/>
+</archimate:ApplicationComponent>

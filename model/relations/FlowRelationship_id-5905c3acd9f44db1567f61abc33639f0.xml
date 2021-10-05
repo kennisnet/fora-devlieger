@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5905c3acd9f44db1567f61abc33639f0"
+    documentation="instellinggegevens voor vakbond (OR)">
+  <properties
+      key="Referentie"
+      value="wet PO (art 38), wet VO, wet EC ; ROSA: ketenfunctie participatie en inspraak"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="instelling"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="7d0bba5c-2e20-4638-a915-e60da5b9c2fd"/>
+  <properties
+      key="Original ID"
+      value="id-7d0bba5c-2e20-4638-a915-e60da5b9c2fd"/>
+  <properties
+      key="Semanticsearch"
+      value="id-7d0bba5c-2e20-4638-a915-e60da5b9c2fd"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-fda9cae2798fe84e93bc43ee6c2aac7e.xml#id-fda9cae2798fe84e93bc43ee6c2aac7e"/>
+</archimate:FlowRelationship>

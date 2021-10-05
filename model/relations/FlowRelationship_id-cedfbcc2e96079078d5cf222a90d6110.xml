@@ -1,0 +1,27 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-cedfbcc2e96079078d5cf222a90d6110"
+    documentation="Samenwerking CvtE en CITO">
+  <properties
+      key="Grondslag"
+      value="organisatie / wettelijk"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="fb725296-66cb-42ef-bc50-7459dabf2a15"/>
+  <properties
+      key="Original ID"
+      value="fb725296-66cb-42ef-bc50-7459dabf2a15"/>
+  <properties
+      key="Semanticsearch"
+      value="fb725296-66cb-42ef-bc50-7459dabf2a15"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-d45ad2785ce309a8a5bccab9dfee007a.xml#id-d45ad2785ce309a8a5bccab9dfee007a"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-33a7ec7daae142828c597eb68d55fef5.xml#id-33a7ec7daae142828c597eb68d55fef5"/>
+</archimate:FlowRelationship>

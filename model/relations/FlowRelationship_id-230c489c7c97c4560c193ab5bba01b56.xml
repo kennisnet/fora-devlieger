@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-230c489c7c97c4560c193ab5bba01b56"
+    documentation="inspectiebeleid voor school">
+  <properties
+      key="Referentie"
+      value="wet op het onderwijstoezicht ; ROSA: ketenfunctie beleid en wetgeving"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="beleid"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="6ac892c8-64f3-48d7-aaaa-931d4d1ad769"/>
+  <properties
+      key="Original ID"
+      value="id-6ac892c8-64f3-48d7-aaaa-931d4d1ad769"/>
+  <properties
+      key="Semanticsearch"
+      value="id-6ac892c8-64f3-48d7-aaaa-931d4d1ad769"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-33a7ec7daae142828c597eb68d55fef5.xml#id-33a7ec7daae142828c597eb68d55fef5"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

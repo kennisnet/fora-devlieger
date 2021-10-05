@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsbegeleidingssysteem"
+    id="id-58c885afe866a201c7aa7b648237cf9d"
+    documentation="Systeem of geheel van systemen en modules voor [[Onderwijsbegeleiding]] dat ingezet worden om Passend Onderwijs te faciliteren.">
+  <properties
+      key="Object ID"
+      value="483f3ee6-36e8-4370-a07f-06fc79dff18b"/>
+  <properties
+      key="Original ID"
+      value="id-483f3ee6-36e8-4370-a07f-06fc79dff18b"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsbegeleidingssysteem"/>
+</archimate:ApplicationComponent>

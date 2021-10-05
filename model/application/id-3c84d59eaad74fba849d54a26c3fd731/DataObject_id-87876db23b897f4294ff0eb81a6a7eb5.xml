@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Advies VO"
+    id="id-87876db23b897f4294ff0eb81a6a7eb5"
+    documentation="Gegevens voor overstapadvies">
+  <properties
+      key="Object ID"
+      value="6b1b2e6a-ee35-43b3-8d37-c4a883f7c409"/>
+  <properties
+      key="Original ID"
+      value="id-6b1b2e6a-ee35-43b3-8d37-c4a883f7c409"/>
+  <properties
+      key="Semanticsearch"
+      value="advies vo"/>
+</archimate:DataObject>

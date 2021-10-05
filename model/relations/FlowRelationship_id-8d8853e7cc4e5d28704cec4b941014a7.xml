@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8d8853e7cc4e5d28704cec4b941014a7"
+    documentation="gegevensuitwisseling met leerling/student">
+  <properties
+      key="Referentie"
+      value="wet PO (art 10.3, 40b) wet VO, wet EC ; ROSA: ketenfunctie toetsen en diplomering. Leerrouteplanning"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="alles"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="c7f98862-e0ce-4465-816c-677ffa3d15ec"/>
+  <properties
+      key="Original ID"
+      value="c7f98862-e0ce-4465-816c-677ffa3d15ec"/>
+  <properties
+      key="Semanticsearch"
+      value="c7f98862-e0ce-4465-816c-677ffa3d15ec"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-b8b81b18212ddd02afecfe10c2b1f773.xml#id-b8b81b18212ddd02afecfe10c2b1f773"/>
+</archimate:FlowRelationship>

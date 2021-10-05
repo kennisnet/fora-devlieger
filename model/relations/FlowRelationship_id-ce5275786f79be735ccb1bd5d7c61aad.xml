@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ce5275786f79be735ccb1bd5d7c61aad"
+    documentation="versturen van scholenplan van gemeente naar DUO (scholenplan -> &quot;plan van nieuwe scholen&quot;)">
+  <properties
+      key="Referentie"
+      value="wet op PO art 74., wet VO, wet EC"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="oprichten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Organisatie"/>
+  <properties
+      key="Object ID"
+      value="a45b929a-fae9-4696-9fe2-76fdb7b85f3b"/>
+  <properties
+      key="Original ID"
+      value="a45b929a-fae9-4696-9fe2-76fdb7b85f3b"/>
+  <properties
+      key="Semanticsearch"
+      value="a45b929a-fae9-4696-9fe2-76fdb7b85f3b"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-a44eaf311e0d73501a14ee9d560f6362.xml#id-a44eaf311e0d73501a14ee9d560f6362"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vastleggen en inzien gesprekshistorie"
+    id="id-66341693b624d3eae689c063323582d1"
+    documentation="Vastleggen en beschikbaar stellen van berichthistorie aan deelnemende partijen.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="ed153d52-080a-42068-9598-dd6e6f39f23"/>
+  <properties
+      key="Original ID"
+      value="id-ed153d52080a420689598dd6e6f39f23"/>
+  <properties
+      key="Semanticsearch"
+      value="vastleggen en inzien gesprekshistorie"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

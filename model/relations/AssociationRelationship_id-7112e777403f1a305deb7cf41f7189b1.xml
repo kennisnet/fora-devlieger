@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is directie van"
+    id="id-7112e777403f1a305deb7cf41f7189b1"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="fc2f9cef-f03c-4ec58-562a-823b30c36f2"/>
+  <properties
+      key="Original ID"
+      value="id-fc2f9ceff03c4ec58562a823b30c36f2"/>
+  <properties
+      key="Semanticsearch"
+      value="is directie van"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-7db8acf01780e1db331a6f16788cc837.xml#id-7db8acf01780e1db331a6f16788cc837"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-aa67e2e5b56dd455488d6db14bfc086e.xml#id-aa67e2e5b56dd455488d6db14bfc086e"/>
+</archimate:AssociationRelationship>

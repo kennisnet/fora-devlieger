@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsbond"
+    id="id-fda9cae2798fe84e93bc43ee6c2aac7e"
+    documentation="Aob, PO in actie, CNV Onderwijs, UNIENFTO, Leraren in Actie, FNV Overheid, FvOv">
+  <properties
+      key="Object ID"
+      value="95efab25-8f9a-4a17-9bb4-112104e96f47"/>
+  <properties
+      key="Original ID"
+      value="id-95efab25-8f9a-4a17-9bb4-112104e96f47"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsbond"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

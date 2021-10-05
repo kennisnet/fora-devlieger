@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opleidingontwikkeling"
+    id="id-64569e497777cbfb565489abb303ab60"
+    documentation="Het samenstellen van les-, toets- en examenprogramma's, curricula en/of leerlijnen en het variëren en arrangeren in het beschikbare aanbod. Opleidinginformatie wordt gepubliceerd in de studiewijzer.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="3a7136da-2b0d-4fefb-7cc6-4590c395678"/>
+  <properties
+      key="Original ID"
+      value="id-3a7136da2b0d4fefb7cc64590c395678"/>
+  <properties
+      key="Semanticsearch"
+      value="opleidingontwikkeling"/>
+</archimate:BusinessFunction>

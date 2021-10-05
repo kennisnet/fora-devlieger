@@ -1,0 +1,21 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HO"
+    id="id-d5fa720c1960a378c77d9ab5b608d06d"
+    documentation="Hoger onderwijs">
+  <properties
+      key="Werkingsgebied"
+      value="Sector HO"/>
+  <properties
+      key="Type"
+      value="Werkingsgebied"/>
+  <properties
+      key="Object ID"
+      value="54dcd3df-89c2-40e2-9ddc-377322c16788"/>
+  <properties
+      key="Original ID"
+      value="id-54dcd3df-89c2-40e2-9ddc-377322c16788"/>
+  <properties
+      key="Semanticsearch"
+      value="ho"/>
+</archimate:BusinessCollaboration>

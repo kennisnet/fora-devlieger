@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticatiemiddeluitgifte en -intrekking"
+    id="id-6778094a42c185f41cec4cd89938acff">
+  <properties
+      key="Object ID"
+      value="16c4abaf-003a-4b2c-a358-afd18f748ed0"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-16c4abaf-003a-4b2c-a358-afd18f748ed0"/>
+  <properties
+      key="Semanticsearch"
+      value="authenticatiemiddeluitgifte en -intrekking"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

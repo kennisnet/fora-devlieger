@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisatiebestuur"
+    id="id-3f792b732e87df35f7f2f8915a8b5abb"
+    documentation="Algemene vereniging schoolleiders, stichting van het onderwijs, onderwijsbestuurdersvereniging (OBV), BvPO, VKBBO, bestuurdersvereniging VO, VTOI?">
+  <properties
+      key="Object ID"
+      value="0afcb5b9-572d-4f27-906d-d5b9bfcec8a3"/>
+  <properties
+      key="Original ID"
+      value="id-0afcb5b9-572d-4f27-906d-d5b9bfcec8a3"/>
+  <properties
+      key="Semanticsearch"
+      value="organisatiebestuur"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

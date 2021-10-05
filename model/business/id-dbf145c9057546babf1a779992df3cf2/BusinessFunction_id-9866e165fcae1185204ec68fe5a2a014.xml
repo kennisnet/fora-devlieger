@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Problemmanagement"
+    id="id-9866e165fcae1185204ec68fe5a2a014"
+    documentation="Verantwoordelijkheid voor het signaleren, rapporteren, adresseren van structurele verbeterpunten in de ict-dienstverlening. Onderdeel van ict-servicemanagement.">
+  <properties
+      key="Object ID"
+      value="fd399a2a-03d5-46c0-8e60-ccdf2f8d6b94"/>
+  <properties
+      key="Original ID"
+      value="fd399a2a-03d5-46c0-8e60-ccdf2f8d6b94"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="problemmanagement"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

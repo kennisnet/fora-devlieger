@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT-objecten beheer"
+    id="id-7039eeaa9644daf1827a3ad65a98ddbc"
+    documentation="Het beheren van hard- en softwarecomponenten.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="93c58207-53b1-4968a-9882-3b9001f821c"/>
+  <properties
+      key="Original ID"
+      value="id-93c5820753b14968a98823b9001f821c"/>
+  <properties
+      key="Semanticsearch"
+      value="it-objecten beheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

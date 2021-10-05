@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-70e3b944c01020b50f7d86ea9ce17c56"
+    documentation="belasting afdrachten via administratiekantoor">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="belastingen"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="60e4af6e-d3a1-445c-83e7-e651113687d9"/>
+  <properties
+      key="Original ID"
+      value="id-60e4af6e-d3a1-445c-83e7-e651113687d9"/>
+  <properties
+      key="Semanticsearch"
+      value="id-60e4af6e-d3a1-445c-83e7-e651113687d9"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-01b80521844b4b972bda8e1441bad429.xml#id-01b80521844b4b972bda8e1441bad429"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-38aef2328cdc1e0ed361b18a3f9aca08.xml#id-38aef2328cdc1e0ed361b18a3f9aca08"/>
+</archimate:FlowRelationship>

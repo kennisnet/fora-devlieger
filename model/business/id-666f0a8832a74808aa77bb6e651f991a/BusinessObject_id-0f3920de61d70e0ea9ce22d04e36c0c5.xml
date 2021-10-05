@@ -1,0 +1,48 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beoordeling"
+    id="id-0f3920de61d70e0ea9ce22d04e36c0c5"
+    documentation="Beoordeling is het oordeel van de professional over het functioneren van een leerling.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="08296ca5-ad4f-4fdeb-c245-e7aaee06894"/>
+  <properties
+      key="Original ID"
+      value="id-08296ca5ad4f4fdebc245e7aaee06894"/>
+  <properties
+      key="Semanticsearch"
+      value="beoordeling"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Toelichting"
+      value="Een actieve en subjectieve weging"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

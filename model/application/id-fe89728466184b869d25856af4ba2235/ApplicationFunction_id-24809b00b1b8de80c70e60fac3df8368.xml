@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Messaging"
+    id="id-24809b00b1b8de80c70e60fac3df8368">
+  <properties
+      key="Object ID"
+      value="09f53d60-9823-4261-b0f6-85fcadb4d86a"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-09f53d60-9823-4261-b0f6-85fcadb4d86a"/>
+  <properties
+      key="Semanticsearch"
+      value="messaging"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

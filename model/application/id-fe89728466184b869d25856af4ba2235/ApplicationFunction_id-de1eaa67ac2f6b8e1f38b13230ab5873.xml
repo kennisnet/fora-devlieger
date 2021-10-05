@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontsluiting digitaal leermateriaal"
+    id="id-de1eaa67ac2f6b8e1f38b13230ab5873">
+  <properties
+      key="Object ID"
+      value="b456bb37-df46-4233-827d-0bcf3f59ab4c"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="b456bb37-df46-4233-827d-0bcf3f59ab4c"/>
+  <properties
+      key="Semanticsearch"
+      value="ontsluiting digitaal leermateriaal"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adres"
+    id="id-48e7b3b0f6fb84823613f47fdf4f647f"
+    documentation="Woon- of briefadres in Nederland. Ook de gemeente waarbinnen het adres zich bevindt wordt vastgelegd.">
+  <properties
+      key="Object ID"
+      value="9a7bfa21-20c9-455e-9f4c-57b577fb4a63"/>
+  <properties
+      key="Original ID"
+      value="id-9a7bfa21-20c9-455e-9f4c-57b577fb4a63"/>
+  <properties
+      key="Semanticsearch"
+      value="adres"/>
+</archimate:DataObject>

@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerroutebijstelling"
+    id="id-f7d7dca5b25ea58bb36a667148ff1a96"
+    documentation="Het bijstellen van de gewenste leerroute van een onderwijsvolger binnen een onderwijsorganisatie en over de grenzen van onderwijsorganisaties heen.">
+  <properties
+      key="Object ID"
+      value="bb10b535-c513-4b07-a582-dc8d7dab118c"/>
+  <properties
+      key="Original ID"
+      value="bb10b535-c513-4b07-a582-dc8d7dab118c"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="leerroutebijstelling"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

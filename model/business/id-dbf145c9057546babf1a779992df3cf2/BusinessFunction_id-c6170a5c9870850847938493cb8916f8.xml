@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiemanagement"
+    id="id-c6170a5c9870850847938493cb8916f8"
+    documentation="Het ervoor zorgen dat de informatiebehoeften die vanuit verschillende werk- en bedrijfsprocessen van de instelling ontstaan worden vertaald in informatievoorziening.">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="833dc02e-f3e2-4ce9-a9f6-5df7d380a318"/>
+  <properties
+      key="Original ID"
+      value="id-833dc02e-f3e2-4ce9-a9f6-5df7d380a318"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="informatiemanagement"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kenniscentra"
+    id="id-0c459c4df4dc3a74e0759ad0a3d7f936"
+    documentation="Stichting Leerkracht, CAOP, arbeidsmarktplatforms (APPO, Voion, Som en Zestor), Nji">
+  <properties
+      key="Object ID"
+      value="5d24603a-9bcc-4d81-baf0-929470d64f66"/>
+  <properties
+      key="Original ID"
+      value="id-5d24603a-9bcc-4d81-baf0-929470d64f66"/>
+  <properties
+      key="Semanticsearch"
+      value="kenniscentra"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

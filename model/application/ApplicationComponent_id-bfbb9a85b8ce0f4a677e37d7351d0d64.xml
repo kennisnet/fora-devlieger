@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referentiecomponent"
+    id="id-bfbb9a85b8ce0f4a677e37d7351d0d64">
+  <properties
+      key="Object ID"
+      value="7ef4e162-a47a-44aaa-60eb-bcffc5bb91a"/>
+  <properties
+      key="Original ID"
+      value="id-7ef4e162a47a44aaa60ebbcffc5bb91a"/>
+  <properties
+      key="Semanticsearch"
+      value="referentiecomponent"/>
+</archimate:ApplicationComponent>

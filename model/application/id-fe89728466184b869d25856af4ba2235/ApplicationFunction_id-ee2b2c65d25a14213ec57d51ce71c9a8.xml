@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klachtafhandeling"
+    id="id-ee2b2c65d25a14213ec57d51ce71c9a8">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="7a6c31f9-8e1e-43989-68a8-4017a4b6359"/>
+  <properties
+      key="Original ID"
+      value="id-7a6c31f98e1e4398968a84017a4b6359"/>
+  <properties
+      key="Semanticsearch"
+      value="klachtafhandeling"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

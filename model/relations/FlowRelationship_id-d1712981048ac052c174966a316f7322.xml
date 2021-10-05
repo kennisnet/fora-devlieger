@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d1712981048ac052c174966a316f7322"
+    documentation="informatie over het onderwijs">
+  <properties
+      key="Referentie"
+      value="ROSA: ketenfunctie onderwijsontwikkeling"/>
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="richten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Organisatie"/>
+  <properties
+      key="Object ID"
+      value="7d9f5f21-442d-410a-be0b-b5b18ad3be6e"/>
+  <properties
+      key="Original ID"
+      value="id-7d9f5f21-442d-410a-be0b-b5b18ad3be6e"/>
+  <properties
+      key="Semanticsearch"
+      value="id-7d9f5f21-442d-410a-be0b-b5b18ad3be6e"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-fdca9521fa68319206be63757a1c4252.xml#id-fdca9521fa68319206be63757a1c4252"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5161fed59dd9c199c1967a88a49f323a"
+    documentation="gegevensuitwisseling in de zorgketen">
+  <properties
+      key="Referentie"
+      value="H5 WMO 2015"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="NIET BENOEMD"/>
+  <properties
+      key="Gegevenssoort"
+      value="Leerling"/>
+  <properties
+      key="Object ID"
+      value="23e7cf67-2bb4-4b19-9424-2ecd5ec3cf5e"/>
+  <properties
+      key="Original ID"
+      value="id-23e7cf67-2bb4-4b19-9424-2ecd5ec3cf5e"/>
+  <properties
+      key="Semanticsearch"
+      value="id-23e7cf67-2bb4-4b19-9424-2ecd5ec3cf5e"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-ef98c02f9711c66e2f17171745adab88.xml#id-ef98c02f9711c66e2f17171745adab88"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-130c8fd3954afe9aec757fccb8439afd.xml#id-130c8fd3954afe9aec757fccb8439afd"/>
+</archimate:FlowRelationship>

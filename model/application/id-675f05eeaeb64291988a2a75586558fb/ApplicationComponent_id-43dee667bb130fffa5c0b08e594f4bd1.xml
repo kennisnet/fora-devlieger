@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Narrowcastingsysteem"
+    id="id-43dee667bb130fffa5c0b08e594f4bd1"
+    documentation="Een systeem voor het 1-richting communiceren van informatie via audio-visuele apparatuur binnen de instelling zoals publicatieschermen in het restaurant, het openleercentrum, een aula enz... &#xA;Bijvoorbeeld: Evado">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="0e5cd5b7-7ccf-43159-f4be-a18628a04b4"/>
+  <properties
+      key="Original ID"
+      value="id-0e5cd5b77ccf43159f4bea18628a04b4"/>
+  <properties
+      key="Semanticsearch"
+      value="narrowcastingsysteem"/>
+</archimate:ApplicationComponent>

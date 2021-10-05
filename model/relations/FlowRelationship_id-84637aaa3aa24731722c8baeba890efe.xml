@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-84637aaa3aa24731722c8baeba890efe"
+    documentation="bekostiging, maar ook diverse diensten">
+  <properties
+      key="Referentie"
+      value="Wet passend onderwijs"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="passend onderwijs"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="215e14a9-61ae-4776-b34b-912ed933c321"/>
+  <properties
+      key="Original ID"
+      value="id-215e14a9-61ae-4776-b34b-912ed933c321"/>
+  <properties
+      key="Semanticsearch"
+      value="id-215e14a9-61ae-4776-b34b-912ed933c321"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-ef98c02f9711c66e2f17171745adab88.xml#id-ef98c02f9711c66e2f17171745adab88"/>
+</archimate:FlowRelationship>

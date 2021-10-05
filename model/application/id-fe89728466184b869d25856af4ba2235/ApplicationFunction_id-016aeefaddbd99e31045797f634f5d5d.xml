@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BP Provisioning van leerling-, school- en klasgegevens voor LAS"
+    id="id-016aeefaddbd99e31045797f634f5d5d"
+    documentation="De standaard UWLR client waarmee Basispoort de gegevens van leerlingen, onderwijsinstellingen en medewerkers uitleest bij alle aangesloten LASsen. Uitlezen gebeurt nachtelijk, in batches.">
+  <properties
+      key="Object ID"
+      value="638a0546-a1ec-48e2b-efd2-82921f1b1c4"/>
+  <properties
+      key="Original ID"
+      value="id-638a0546a1ec48e2befd282921f1b1c4"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Semanticsearch"
+      value="bp provisioning van leerling-, school- en klasgegevens voor las"/>
+</archimate:ApplicationFunction>

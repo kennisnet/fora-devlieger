@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-55e79281cda3a0e522c7781f3cf6c65f"
+    documentation="jaarlijkse accountantscontrole">
+  <properties
+      key="Referentie"
+      value="Alle onderwijs wetten (zie &quot;school accountant&quot; op wetten.overheid.nl. Regeling wijziging en nieuwe vaststelling onderwijsaccountantsprotocol OCW 2017). ; Basis: burgerlijk wetboek, wet PO, wet VO, wet EC ; ROSA: ketenfunctie informatieverwerking"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="accountants diensten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="191d4cda-522f-486a-afb4-e388d62a2174"/>
+  <properties
+      key="Original ID"
+      value="id-191d4cda-522f-486a-afb4-e388d62a2174"/>
+  <properties
+      key="Semanticsearch"
+      value="id-191d4cda-522f-486a-afb4-e388d62a2174"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-01b80521844b4b972bda8e1441bad429.xml#id-01b80521844b4b972bda8e1441bad429"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

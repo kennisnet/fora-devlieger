@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="staat op"
+    id="id-d8dccf8f465c492704db39982b4ed910"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="d4516517-ae4b-4d9e8-7620-4d60c1b32ba"/>
+  <properties
+      key="Original ID"
+      value="id-d4516517ae4b4d9e876204d60c1b32ba"/>
+  <properties
+      key="Semanticsearch"
+      value="staat op"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c787effa7ba34101840a6a97bcceaf8a.xml#id-c787effa7ba34101840a6a97bcceaf8a"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-d7f7fa06d5f4cae1bf6e570a52182704.xml#id-d7f7fa06d5f4cae1bf6e570a52182704"/>
+</archimate:AssociationRelationship>

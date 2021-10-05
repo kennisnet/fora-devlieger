@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registratie verwerkingsactiviteiten"
+    id="id-315172c0c185e04061459cf563340cf3"
+    documentation="Het bijhouden van een register van verwerkingsactiviteiten in het kader van de AVG, waarin is vastgelegd welke persoonsgegevens de onderwijsorganisatie verwerkt.">
+  <properties
+      key="Object ID"
+      value="f5772759-bb3d-4f6f-99fc-cabc89244d52"/>
+  <properties
+      key="Original ID"
+      value="f5772759-bb3d-4f6f-99fc-cabc89244d52"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="registratie verwerkingsactiviteiten"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archivering"
+    id="id-82d88fdcbaf9ca5b73b6ec19e45b4c56"
+    documentation="Het archiveren van informatie, bijvoorbeeld documenten.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="5b89cfa6-a3c4-4f04b-abe9-a26b3b05a32"/>
+  <properties
+      key="Original ID"
+      value="id-5b89cfa6a3c44f04babe9a26b3b05a32"/>
+  <properties
+      key="Semanticsearch"
+      value="archivering"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

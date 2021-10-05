@@ -1,0 +1,21 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Services over scholen diensten en endpoints"
+    id="id-a037296b3ca8590d72fbecf8faf903a3"
+    documentation="Service van het [[Onderwijs serviceregister (OSR)]] waarmee afnemende partijen informatie over de onderwijsinstellingen en adressering van de gepubliceerde endpoints kunnen ophalen.">
+  <properties
+      key="Object ID"
+      value="0bdb5d01-18ae-44969-3cd9-368b5e23731"/>
+  <properties
+      key="Original ID"
+      value="id-0bdb5d0118ae449693cd9368b5e23731"/>
+  <properties
+      key="SWC type"
+      value="Landelijke service"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Semanticsearch"
+      value="services over scholen diensten en endpoints"/>
+</archimate:ApplicationService>

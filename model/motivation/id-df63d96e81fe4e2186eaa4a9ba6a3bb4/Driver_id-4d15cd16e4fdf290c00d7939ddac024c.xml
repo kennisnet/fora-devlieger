@@ -1,0 +1,21 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grondslag: gerechtvaardigd belang"
+    id="id-4d15cd16e4fdf290c00d7939ddac024c"
+    documentation="Het gerechtvaardigd belang is eigenlijk vooral een belangenafweging. De verwerking moet noodzakelijk zijn voor de gerechtvaardigde belangen van de verwerkingsverantwoordelijke of een derde, tenzij de privacybelangen van de betrokkene zwaarder wegen. Hierbij moet bijvoorbeeld rekening gehouden worden met de vraag in hoeverre de betrokkene had mogen verwachten dat de verwerking plaats zou vinden en met welk doel dan.&#xA;Lees hier verder: https://www.charlotteslaw.nl/de-6-grondslagen-van-de-avg/&#xA;© Charlotte's Law">
+  <properties
+      key="Object ID"
+      value="da17f639-45ba-4438-8fc0-1f71d0c95f3f"/>
+  <properties
+      key="Original ID"
+      value="da17f639-45ba-4438-8fc0-1f71d0c95f3f"/>
+  <properties
+      key="Semanticsearch"
+      value="grondslag: gerechtvaardigd belang"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Grondslag"/>
+</archimate:Driver>

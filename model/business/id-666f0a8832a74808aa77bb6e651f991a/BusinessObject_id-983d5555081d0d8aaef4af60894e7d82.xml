@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Passiva"
+    id="id-983d5555081d0d8aaef4af60894e7d82"
+    documentation="Passiva is het vermogen waarmee de onderneming van de rechtspersoon is gefinancierd.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Financiën"/>
+  <properties
+      key="Object ID"
+      value="0adec688-158f-44618-0b31-33ecf9cb6b0"/>
+  <properties
+      key="Original ID"
+      value="id-0adec688158f446180b3133ecf9cb6b0"/>
+  <properties
+      key="Semanticsearch"
+      value="passiva"/>
+</archimate:BusinessObject>

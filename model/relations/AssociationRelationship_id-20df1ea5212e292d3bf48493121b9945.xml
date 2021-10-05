@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="regelt"
+    id="id-20df1ea5212e292d3bf48493121b9945"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="7c5c8aa5-23d2-408a8-60bb-b1d880429d8"/>
+  <properties
+      key="Original ID"
+      value="id-7c5c8aa523d2408a860bbb1d880429d8"/>
+  <properties
+      key="Semanticsearch"
+      value="regelt"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c541c4ceee5eead4e352c9c641418454.xml#id-c541c4ceee5eead4e352c9c641418454"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-2598c7872c8ee403b0a552d6c3f678fb.xml#id-2598c7872c8ee403b0a552d6c3f678fb"/>
+</archimate:AssociationRelationship>

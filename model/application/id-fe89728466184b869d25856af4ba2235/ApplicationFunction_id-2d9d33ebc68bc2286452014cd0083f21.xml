@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Backup-beheer"
+    id="id-2d9d33ebc68bc2286452014cd0083f21"
+    documentation="Het maken, beveiligen en beheren van backups.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="52be983e-e52a-483ab-8596-a1940e3c327"/>
+  <properties
+      key="Original ID"
+      value="id-52be983ee52a483ab8596a1940e3c327"/>
+  <properties
+      key="Semanticsearch"
+      value="backup-beheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

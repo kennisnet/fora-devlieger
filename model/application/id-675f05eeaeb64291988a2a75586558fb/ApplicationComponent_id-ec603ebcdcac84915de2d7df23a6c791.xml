@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerling volgsysteem (LVS)"
+    id="id-ec603ebcdcac84915de2d7df23a6c791"
+    documentation="Een leerlingvolgsysteem (LVS) is een Systeem of geheel van systemen en modules dat inzicht geeft in de studievoortgang van een onderwijsvolger of groep.">
+  <properties
+      key="Object ID"
+      value="57051d3b-9331-4f9e-90ea-2db2f57ed44d"/>
+  <properties
+      key="Original ID"
+      value="id-57051d3b-9331-4f9e-90ea-2db2f57ed44d"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Semanticsearch"
+      value="leerling volgsysteem (lvs)"/>
+</archimate:ApplicationComponent>

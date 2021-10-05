@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bekwaamheden- en bevoegdhedenbeheer"
+    id="id-d35dc5a15a3cec346892205d3164a4c1">
+  <properties
+      key="Object ID"
+      value="36bba836-8133-4d2d-b8ec-f710969590c9"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-36bba836-8133-4d2d-b8ec-f710969590c9"/>
+  <properties
+      key="Semanticsearch"
+      value="bekwaamheden- en bevoegdhedenbeheer"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arrangement"
+    id="id-30174840e3bb54b55c0e3871a527a838"
+    documentation="Arrangement is extra onderwijsondersteuning op maat, met inzet van (bovenschoolse) voorzieningen, expertise en financiën. Een arrangement kan variëren van licht curatief en tijdelijk van aard tot intensief en langdurend of structureel van aard.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="5967327d-53b1-436c-80e7-2eacb4157c3d"/>
+  <properties
+      key="Original ID"
+      value="id-5967327d-53b1-436c-80e7-2eacb4157c3d"/>
+  <properties
+      key="Semanticsearch"
+      value="arrangement"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Overeenkomst"/>
+  <properties
+      key="Domein"
+      value="Passend onderwijs"/>
+</archimate:BusinessObject>

@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verlof- en verzuimadministratie en -begeleiding"
+    id="id-8322c67ae48003815d71302df22e6d9b"
+    documentation="De registratie van gewerkte uren, toegekend en opgenomen verlof en ziek- en herstelmeldingen, en daarnaast ook de analyse van het verzuim en het signaleren van vervolgacties in het kader van de Arbowetgeving en Poortwachter om het verzuim van medewerkers te voorkomen en verhelpen.">
+  <properties
+      key="Object ID"
+      value="f8826c3d-8897-4785-9f77-b902694d67c7"/>
+  <properties
+      key="Original ID"
+      value="f8826c3d-8897-4785-9f77-b902694d67c7"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="verlof- en verzuimadministratie en -begeleiding"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

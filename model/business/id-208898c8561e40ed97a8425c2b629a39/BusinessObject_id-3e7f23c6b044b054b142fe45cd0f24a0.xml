@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Crediteur"
+    id="id-3e7f23c6b044b054b142fe45cd0f24a0"
+    documentation="Een crediteur is een leverancier (een persoon of bedrijf) aan wie moet worden betaald voor het leveren van een goed of een dienst. (bron: Wikipedia)">
+  <properties
+      key="Object ID"
+      value="1811b349-3cff-4b90-8fe4-b752e8ad1d16"/>
+  <properties
+      key="Original ID"
+      value="id-1811b349-3cff-4b90-8fe4-b752e8ad1d16"/>
+  <properties
+      key="Semanticsearch"
+      value="crediteur"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Financiën"/>
+</archimate:BusinessObject>

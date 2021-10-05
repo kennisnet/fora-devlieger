@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c8407c9256cdd3855be5d2a444158125"
+    documentation="communicatie met leerplichtambtenaar">
+  <properties
+      key="Referentie"
+      value="leerplichtwet 1969 ; ROSA: ketenfunctie preventie schooluitval, ketenfunctie kwaliteitsbewaking en toezicht"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="deelname"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="2ed2cf56-2f1f-4296-a1b9-47c2bc4448f9"/>
+  <properties
+      key="Original ID"
+      value="id-2ed2cf56-2f1f-4296-a1b9-47c2bc4448f9"/>
+  <properties
+      key="Semanticsearch"
+      value="id-2ed2cf56-2f1f-4296-a1b9-47c2bc4448f9"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-23baa8f932d79e30aacafd4999a6bfa3.xml#id-23baa8f932d79e30aacafd4999a6bfa3"/>
+</archimate:FlowRelationship>

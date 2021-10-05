@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financienbeheer en formatieplanning"
+    id="id-332de9478acc375fea7e5854cfa47700">
+  <properties
+      key="Object ID"
+      value="96bf5a38-3dfc-4b53-b827-a63b6c79c95e"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-96bf5a38-3dfc-4b53-b827-a63b6c79c95e"/>
+  <properties
+      key="Semanticsearch"
+      value="financienbeheer en formatieplanning"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

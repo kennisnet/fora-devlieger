@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Postcode"
+    id="id-5711f005084ef14373e5a3a0607b5cd0"
+    documentation="Postcode behorende bij het woon- of verblijfadres van de leerling">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Midden"/>
+  <properties
+      key="Object ID"
+      value="7d81e958-ac7c-4b83-b0b6-6ab959a5fde4"/>
+  <properties
+      key="Original ID"
+      value="id-7d81e958-ac7c-4b83-b0b6-6ab959a5fde4"/>
+  <properties
+      key="Semanticsearch"
+      value="postcode"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

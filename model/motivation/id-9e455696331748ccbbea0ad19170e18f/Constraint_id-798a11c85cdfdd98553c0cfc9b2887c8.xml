@@ -1,0 +1,20 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begrippenset kerndoelen"
+    id="id-798a11c85cdfdd98553c0cfc9b2887c8">
+  <properties
+      key="Object ID"
+      value="ec148a75-b90b-49f7-809d-2c9ae79ceee5"/>
+  <properties
+      key="Original ID"
+      value="ec148a75-b90b-49f7-809d-2c9ae79ceee5"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Standaard"/>
+  <properties
+      key="Semanticsearch"
+      value="begrippenset kerndoelen"/>
+</archimate:Constraint>

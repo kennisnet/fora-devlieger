@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Documentwaarmerking- en ondertekensysteem"
+    id="id-353860372647bbc2ad2672ead17ed90b"
+    documentation="Een systeem ter ondersteuning van het waarmerken van documenten, zoals het zorgdragen voor een digitale handtekening.  &#xA;Bijvoorbeeld: Evado, DocuSign">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="af484ff4-2963-40e4b-e1df-c1cec783d68"/>
+  <properties
+      key="Original ID"
+      value="id-af484ff4296340e4be1dfc1cec783d68"/>
+  <properties
+      key="Semanticsearch"
+      value="documentwaarmerking- en ondertekensysteem"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schoolklimaat"
+    id="id-740bd12dbb85df94b8432f3fc01be5e8"
+    documentation="Schoolklimaat is de omgeving waarin leerlingen en medewerkers de omgeving op een bepaalde manier ervaren.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Sociale veiligheid"/>
+  <properties
+      key="Object ID"
+      value="dbb75310-1890-4a9e8-2585-bc5f40f506c"/>
+  <properties
+      key="Original ID"
+      value="id-dbb7531018904a9e82585bc5f40f506c"/>
+  <properties
+      key="Semanticsearch"
+      value="schoolklimaat"/>
+</archimate:BusinessObject>

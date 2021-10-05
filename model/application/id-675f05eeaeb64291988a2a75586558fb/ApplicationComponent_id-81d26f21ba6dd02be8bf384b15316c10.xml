@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Software-ontwikkelsysteem"
+    id="id-81d26f21ba6dd02be8bf384b15316c10"
+    documentation="Systeem dat ondersteuning biedt aan het ontwikkelen van software.  &#xA;Denk aan: bepalen requirements programmeren versiebeheer kwaliteitsborging, acceptatie uitrollen.&#xA;Bijvoorbeeld: Jira, PHPStorm, Azure DevOps platform, MS Visual Studio, VersionControl, TeamCity">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="b700297c-2fe9-41dfa-9f90-95a783e3810"/>
+  <properties
+      key="Original ID"
+      value="id-b700297c2fe941dfa9f9095a783e3810"/>
+  <properties
+      key="Semanticsearch"
+      value="software-ontwikkelsysteem"/>
+</archimate:ApplicationComponent>

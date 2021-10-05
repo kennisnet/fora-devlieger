@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="hoort bij"
+    id="id-1712f425ae2699806b12625b3d578fd6"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="d5174ea5-616e-49c29-07ae-2964d9d3afd"/>
+  <properties
+      key="Original ID"
+      value="id-d5174ea5616e49c2907ae2964d9d3afd"/>
+  <properties
+      key="Semanticsearch"
+      value="hoort bij"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-838e455e786705d99a13d8d477150929.xml#id-838e455e786705d99a13d8d477150929"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-bf2fe8a90d804b594eda9ac634ac1b70.xml#id-bf2fe8a90d804b594eda9ac634ac1b70"/>
+</archimate:AssociationRelationship>

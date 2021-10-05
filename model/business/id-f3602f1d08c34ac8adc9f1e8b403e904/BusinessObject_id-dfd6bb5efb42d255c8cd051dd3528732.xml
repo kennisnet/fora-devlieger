@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Persoonlijke kenmerken"
+    id="id-dfd6bb5efb42d255c8cd051dd3528732"
+    documentation="Geslacht van de leerling&#xA;Geboortedatum van de leerling">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Midden"/>
+  <properties
+      key="Object ID"
+      value="a6775305-9acd-4848-a667-03c8086c8a98"/>
+  <properties
+      key="Original ID"
+      value="a6775305-9acd-4848-a667-03c8086c8a98"/>
+  <properties
+      key="Semanticsearch"
+      value="persoonlijke kenmerken"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

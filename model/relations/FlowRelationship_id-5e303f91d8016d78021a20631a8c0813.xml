@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5e303f91d8016d78021a20631a8c0813"
+    documentation="publicatie van leerling gegevens, waaronder foto's, op de website van de school">
+  <properties
+      key="Grondslag"
+      value="bepaald door school"/>
+  <properties
+      key="Benaming"
+      value="basis"/>
+  <properties
+      key="Gegevenssoort"
+      value="Leerling"/>
+  <properties
+      key="Object ID"
+      value="f546ca54-133e-49eb-9350-62eec10b5130"/>
+  <properties
+      key="Original ID"
+      value="f546ca54-133e-49eb-9350-62eec10b5130"/>
+  <properties
+      key="Semanticsearch"
+      value="f546ca54-133e-49eb-9350-62eec10b5130"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-282647da540aa35fc56f911ad73b0618.xml#id-282647da540aa35fc56f911ad73b0618"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personele inzet"
+    id="id-45d5d4dc777a7d3eb82c7682d089da90"
+    documentation="Inzet verricht door medewerkers.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="0a09a6e7-731d-4931-91b9-2c93285cabb2"/>
+  <properties
+      key="Original ID"
+      value="id-0a09a6e7-731d-4931-91b9-2c93285cabb2"/>
+  <properties
+      key="Semanticsearch"
+      value="personele inzet"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

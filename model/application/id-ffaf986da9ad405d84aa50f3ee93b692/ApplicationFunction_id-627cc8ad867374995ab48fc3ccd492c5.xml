@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking BSN / Onderwijsnummer / PGN leerling"
+    id="id-627cc8ad867374995ab48fc3ccd492c5">
+  <properties
+      key="Object ID"
+      value="f56d5ec8-4994-40d1-8bf7-b0577a108f66"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="f56d5ec8-4994-40d1-8bf7-b0577a108f66"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking bsn / onderwijsnummer / pgn leerling"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

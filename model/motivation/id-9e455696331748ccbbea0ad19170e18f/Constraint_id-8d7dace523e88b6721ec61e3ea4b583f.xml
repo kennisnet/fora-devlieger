@@ -1,0 +1,20 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevenswoordenboek DUO"
+    id="id-8d7dace523e88b6721ec61e3ea4b583f">
+  <properties
+      key="Object ID"
+      value="65fde89d-b2cb-4e51-9c1d-aa2a315187cf"/>
+  <properties
+      key="Original ID"
+      value="id-65fde89d-b2cb-4e51-9c1d-aa2a315187cf"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Standaard"/>
+  <properties
+      key="Semanticsearch"
+      value="gegevenswoordenboek duo"/>
+</archimate:Constraint>

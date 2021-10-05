@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integraal HuisvestingsPlan Onderwijs"
+    id="id-284df352e1b354fb514ed97a3d45c86e"
+    documentation="Integraal HuisvestingsPlan Onderwijs is een plan waarin gemeenten na overleg met betrokken schoolbesturen het huisvestingsbeleid en het investeringsprogramma voor een periode van 4 jaar vastleggen in een meerjarenprogramma (IHP), met een doorkijk naar meerdere jaren na deze periode.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Huisvesting"/>
+  <properties
+      key="Object ID"
+      value="4808bb7e-4ca8-454e9-db9c-2debcb772f6"/>
+  <properties
+      key="Original ID"
+      value="id-4808bb7e4ca8454e9db9c2debcb772f6"/>
+  <properties
+      key="Semanticsearch"
+      value="integraal huisvestingsplan onderwijs"/>
+</archimate:BusinessObject>

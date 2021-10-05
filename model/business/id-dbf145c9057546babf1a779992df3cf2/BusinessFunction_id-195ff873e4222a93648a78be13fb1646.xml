@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TLV-aanvraag"
+    id="id-195ff873e4222a93648a78be13fb1646"
+    documentation="Het aanvragen van een toelaatbaarheidsverklaring voor speciaal (basis)onderwijs.">
+  <properties
+      key="Object ID"
+      value="693d9c74-e3ac-48d4-8aa5-c992a2eb0ffc"/>
+  <properties
+      key="Original ID"
+      value="id-693d9c74-e3ac-48d4-8aa5-c992a2eb0ffc"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="tlv-aanvraag"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

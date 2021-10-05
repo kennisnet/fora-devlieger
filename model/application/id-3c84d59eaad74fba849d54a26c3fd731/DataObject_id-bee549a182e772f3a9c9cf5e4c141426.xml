@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geslacht"
+    id="id-bee549a182e772f3a9c9cf5e4c141426"
+    documentation="Aanduiding voor het geslacht van een leerling.">
+  <properties
+      key="Object ID"
+      value="4c75a122-b83f-4e05-b568-2aeba9d0ee51"/>
+  <properties
+      key="Original ID"
+      value="id-4c75a122-b83f-4e05-b568-2aeba9d0ee51"/>
+  <properties
+      key="Semanticsearch"
+      value="geslacht"/>
+</archimate:DataObject>

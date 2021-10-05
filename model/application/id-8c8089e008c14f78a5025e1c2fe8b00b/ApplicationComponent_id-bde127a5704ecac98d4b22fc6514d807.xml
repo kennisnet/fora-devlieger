@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overdrachtvoorziening"
+    id="id-bde127a5704ecac98d4b22fc6514d807"
+    documentation="Systeem waarmee [[Overstapdossier]]s kunnen worden uitgewisseld tussen ontvangende en latende onderwijsinstellingen en met [[Samenwerkingsverband passend onderwijs]]. OSO en VVA zijn bekende voorbeelden.">
+  <properties
+      key="Object ID"
+      value="686c4619-29c1-49da-9d3f-95afcf2f0111"/>
+  <properties
+      key="Original ID"
+      value="id-686c4619-29c1-49da-9d3f-95afcf2f0111"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Landelijke voorziening"/>
+  <properties
+      key="Semanticsearch"
+      value="overdrachtvoorziening"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leer ondersteunend systeem"
+    id="id-8879d6614cfdc1a768ce420db49ae4a8"
+    documentation="Verzamelterm voor dyslexie-, dyscalculie-, remedial-teaching en andere systemen die bijdragen aan [[Onderwijsbegeleiding]] van leerlingen op een specifiek punt.">
+  <properties
+      key="Object ID"
+      value="13cd64cc-73a6-4c25-845e-19aa27cf4cc1"/>
+  <properties
+      key="Original ID"
+      value="id-13cd64cc-73a6-4c25-845e-19aa27cf4cc1"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Semanticsearch"
+      value="leer ondersteunend systeem"/>
+</archimate:ApplicationComponent>

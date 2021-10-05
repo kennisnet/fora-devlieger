@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ondersteuning samenwerken in leerlingprojecten"
+    id="id-40421e1e3288c7068c9c3d88ab16d6e3"
+    documentation="Ondersteuning samenwerken in leerlingprojecten">
+  <properties
+      key="Object ID"
+      value="242215a3-fd69-431d-ac8f-5b64eb0ca46d"/>
+  <properties
+      key="Original ID"
+      value="id-242215a3-fd69-431d-ac8f-5b64eb0ca46d"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="ondersteuning samenwerken in leerlingprojecten"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

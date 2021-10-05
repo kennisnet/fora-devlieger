@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking onderwijsbegeleidingsgegevens"
+    id="id-c46b32df19dd8cfb8c024d6b5e0289ca">
+  <properties
+      key="Object ID"
+      value="e45b6982-f068-4e33-831a-2c0192548fb3"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="e45b6982-f068-4e33-831a-2c0192548fb3"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking onderwijsbegeleidingsgegevens"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Webserverbeheer"
+    id="id-845ffb5d97349ae9d0607d36a75e5c23"
+    documentation="Het beheren van webservers.&#xA;Denk aan: * plaatsen content * performance beheer (caching) * filteren verkeer * routing verkeer * monitoring   Bijvoorbeeld: * Apache * IIS * NGINX &#xA;Opmerking: Focus ligt niet op de content maar op de werking en inrichting van de lokale infrastructuur ervan.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="b6b1a26d-4aca-4413b-4d26-99372026c5d"/>
+  <properties
+      key="Original ID"
+      value="id-b6b1a26d4aca4413b4d2699372026c5d"/>
+  <properties
+      key="Semanticsearch"
+      value="webserverbeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

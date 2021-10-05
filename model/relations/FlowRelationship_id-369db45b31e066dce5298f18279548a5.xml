@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-369db45b31e066dce5298f18279548a5"
+    documentation="lidmaatschap medewerkers bij vakverenigingen">
+  <properties
+      key="Referentie"
+      value="Vrijstellingsbesluit Wbp, art 6"/>
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="basis medewerker"/>
+  <properties
+      key="Gegevenssoort"
+      value="Medewerker"/>
+  <properties
+      key="Object ID"
+      value="8df18ef7-8baa-4fb2-8a52-c59c163bf5f0"/>
+  <properties
+      key="Original ID"
+      value="id-8df18ef7-8baa-4fb2-8a52-c59c163bf5f0"/>
+  <properties
+      key="Semanticsearch"
+      value="id-8df18ef7-8baa-4fb2-8a52-c59c163bf5f0"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-c16e48ab2ccac443d862399a46bc4e67.xml#id-c16e48ab2ccac443d862399a46bc4e67"/>
+</archimate:FlowRelationship>

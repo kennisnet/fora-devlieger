@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veiligheidsbeleid"
+    id="id-1c50dc01a56a21f6060fd24d765b1d9d"
+    documentation="Veiligheidsbeleid is beleid waarin concrete doelen en verantwoordelijkheden beschreven staan om de veiligheid in de leer- en werkomgeving te verbeteren.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Sociale veiligheid"/>
+  <properties
+      key="Object ID"
+      value="6a3037c8-239d-4ded9-f262-e83ba4f7c7d"/>
+  <properties
+      key="Original ID"
+      value="id-6a3037c8239d4ded9f262e83ba4f7c7d"/>
+  <properties
+      key="Semanticsearch"
+      value="veiligheidsbeleid"/>
+</archimate:BusinessObject>

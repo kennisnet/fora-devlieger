@@ -1,0 +1,27 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WEC"
+    id="id-67e740264a0084d6e088b26a730a2c78"
+    documentation="Wet op de expertisecentra">
+  <properties
+      key="Verwijzing"
+      value="https://wetten.overheid.nl/jci1.3:c:BWBR0003549&amp;z=2020-09-01&amp;g=2020-09-01"/>
+  <properties
+      key="Juriconnect"
+      value="jci1.3:c:BWBR0003549&amp;z=2020-09-01&amp;g=2020-09-01"/>
+  <properties
+      key="Object ID"
+      value="4b8e51c0-36cf-423a9-0c07-72e84bb4711"/>
+  <properties
+      key="Original ID"
+      value="id-4b8e51c036cf423a90c0772e84bb4711"/>
+  <properties
+      key="Semanticsearch"
+      value="wec"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Wet"/>
+</archimate:Driver>

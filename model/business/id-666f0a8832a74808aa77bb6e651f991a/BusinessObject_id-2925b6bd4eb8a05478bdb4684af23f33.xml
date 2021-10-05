@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ondersteuningsbehoefte"
+    id="id-2925b6bd4eb8a05478bdb4684af23f33"
+    documentation="Ondersteuningsbehoeften verwijzen naar dat wat de betrokken opvoeders (leraren en ouders) en andere professionals (zoals een pedagogisch medewerker of een intern begeleider) nodig hebben om de onderwijs- en opvoedingsbehoeften te kunnen realiseren.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Passend onderwijs"/>
+  <properties
+      key="Object ID"
+      value="002d9b6b-4012-4a18b-c22c-b69163ee6ec"/>
+  <properties
+      key="Original ID"
+      value="id-002d9b6b40124a18bc22cb69163ee6ec"/>
+  <properties
+      key="Semanticsearch"
+      value="ondersteuningsbehoefte"/>
+</archimate:BusinessObject>

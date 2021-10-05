@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerlingnummer"
+    id="id-b550acbfade3b0db70967b2247171789"
+    documentation="Identificatie van de leerling die binnen de onderwijsinstelling wordt gebruikt. Het leerlingnummer wordt meestal gemaakt in de leelingadministratie.">
+  <properties
+      key="Object ID"
+      value="f511a07b-1e74-4e13-a0a2-2ecc9285e48a"/>
+  <properties
+      key="Original ID"
+      value="f511a07b-1e74-4e13-a0a2-2ecc9285e48a"/>
+  <properties
+      key="Semanticsearch"
+      value="leerlingnummer"/>
+</archimate:DataObject>

@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ace196b912bdc7e2694ff185e4066e73"
+    documentation="(wetenschappelijke)  kennis t.b.v. beleid van de school">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="beleid"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="b69726ac-3f1d-4106-b92c-83965ccab284"/>
+  <properties
+      key="Original ID"
+      value="b69726ac-3f1d-4106-b92c-83965ccab284"/>
+  <properties
+      key="Semanticsearch"
+      value="b69726ac-3f1d-4106-b92c-83965ccab284"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-0c459c4df4dc3a74e0759ad0a3d7f936.xml#id-0c459c4df4dc3a74e0759ad0a3d7f936"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

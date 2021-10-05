@@ -1,0 +1,24 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ministerie van OCW"
+    id="id-584ebf14c9049c775936aefec6dc655c"
+    documentation="Het Ministerie van OCW bestaat uit verschillende onderdelen. Voor het onderwijs zijn relevant: het [[Kerndepartement OCW]], [[DUO]] en de [[Inspectie van het Onderwijs]].">
+  <properties
+      key="Type"
+      value="Actor"/>
+  <properties
+      key="Object ID"
+      value="5e3f31ce-8798-40b6-bd4b-a9f83d190eb7"/>
+  <properties
+      key="Original ID"
+      value="id-5e3f31ce-8798-40b6-bd4b-a9f83d190eb7"/>
+  <properties
+      key="Semanticsearch"
+      value="ministerie van ocw"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Organisatie"/>
+</archimate:BusinessActor>

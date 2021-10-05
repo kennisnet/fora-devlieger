@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klachten en bezwaren"
+    id="id-0c3477e829bcdfa433e4bb6415c35b68"
+    documentation="Het behandelen van klachten en bezwaren van leerlingen, ouders en medewerkers.">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="1eeb064e-a5ac-4242-84c8-2556fdda55b1"/>
+  <properties
+      key="Original ID"
+      value="id-1eeb064e-a5ac-4242-84c8-2556fdda55b1"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="klachten en bezwaren"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

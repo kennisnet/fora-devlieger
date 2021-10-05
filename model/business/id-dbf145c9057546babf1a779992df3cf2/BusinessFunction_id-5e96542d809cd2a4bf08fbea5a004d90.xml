@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toetsafname"
+    id="id-5e96542d809cd2a4bf08fbea5a004d90"
+    documentation="Het afnemen van een opdracht (oefening, toets, examen) en, waar nodig, uitvoeren van supervisie over de afname.">
+  <properties
+      key="Object ID"
+      value="fd3502f4-2b83-453b-94b9-c49158ac1098"/>
+  <properties
+      key="Original ID"
+      value="fd3502f4-2b83-453b-94b9-c49158ac1098"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="toetsafname"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

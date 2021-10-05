@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lerarenopleiding"
+    id="id-32bea6cfaa1276178226d49f143b91ba"
+    documentation="Pabo's, HBO en WO opleidingen tot leraar">
+  <properties
+      key="Object ID"
+      value="e9db6065-6713-4d89-b11d-e6939efddbbe"/>
+  <properties
+      key="Original ID"
+      value="e9db6065-6713-4d89-b11d-e6939efddbbe"/>
+  <properties
+      key="Semanticsearch"
+      value="lerarenopleiding"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incident- en veiligheidsrapportage"
+    id="id-f108818f91a0f639ce7cd950345aafe5"
+    documentation="Peiodiek rapport met overzicht van alle gebeurtenissen op het gebied van fysieke en digitale veiligheid.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="841f5117-6cd0-4a8a-8baa-500b496e897b"/>
+  <properties
+      key="Original ID"
+      value="id-841f5117-6cd0-4a8a-8baa-500b496e897b"/>
+  <properties
+      key="Semanticsearch"
+      value="incident- en veiligheidsrapportage"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Sociale veiligheid"/>
+</archimate:BusinessObject>

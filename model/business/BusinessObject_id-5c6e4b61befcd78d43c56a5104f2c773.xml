@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beslissing tot verwijdering"
+    id="id-5c6e4b61befcd78d43c56a5104f2c773"
+    documentation="Beslissing van het bevoegd gezag om een leerling van school te verwijderen.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Statusdatum"
+      value="19-8-2021"/>
+  <properties
+      key="Bron"
+      value="FORA-WG Informatiemodel O&amp;O"/>
+  <properties
+      key="Object ID"
+      value="47cf82ba-f12f-4bff9-4fcd-96a647c0280"/>
+  <properties
+      key="Original ID"
+      value="id-47cf82baf12f4bff94fcd96a647c0280"/>
+  <properties
+      key="Semanticsearch"
+      value="beslissing tot verwijdering"/>
+</archimate:BusinessObject>

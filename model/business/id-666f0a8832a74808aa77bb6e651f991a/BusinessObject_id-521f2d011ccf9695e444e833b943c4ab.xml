@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelingsperspectief"
+    id="id-521f2d011ccf9695e444e833b943c4ab"
+    documentation="Het ontwikkelingsperspectief is het niveau wat uiteindelijk van het kind verwacht wordt.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Overeenkomst"/>
+  <properties
+      key="Domein"
+      value="Passend onderwijs"/>
+  <properties
+      key="Object ID"
+      value="76910e95-cfa5-42169-5be0-64390e2bd2b"/>
+  <properties
+      key="Original ID"
+      value="id-76910e95cfa5421695be064390e2bd2b"/>
+  <properties
+      key="Semanticsearch"
+      value="ontwikkelingsperspectief"/>
+</archimate:BusinessObject>

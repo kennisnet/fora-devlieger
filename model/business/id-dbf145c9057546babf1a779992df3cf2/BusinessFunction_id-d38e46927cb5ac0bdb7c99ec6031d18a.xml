@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verantwoording"
+    id="id-d38e46927cb5ac0bdb7c99ec6031d18a"
+    documentation="Het rapporteren naar belanghebbenden binnen en buiten het onderwijsdomein over de mate waarin de onderwijsorganisatie voldoet aan verplichtingen en afspraken. De onderwijsorganisatie legt verantwoording af aan o.a. DUO en ouders (ouder- en leerlingportaal).">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="06adcc28-1224-4b1d-8c75-fcf0043198d3"/>
+  <properties
+      key="Original ID"
+      value="id-06adcc28-1224-4b1d-8c75-fcf0043198d3"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="verantwoording"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

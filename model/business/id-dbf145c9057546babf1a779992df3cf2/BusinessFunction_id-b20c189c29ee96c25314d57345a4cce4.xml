@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inning ouderbijdragen"
+    id="id-b20c189c29ee96c25314d57345a4cce4"
+    documentation="Het innen van vrijwillige ouderbijdragen.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="50306057-504f-442a8-a4f9-9864d11cc46"/>
+  <properties
+      key="Original ID"
+      value="id-50306057504f442a8a4f99864d11cc46"/>
+  <properties
+      key="Semanticsearch"
+      value="inning ouderbijdragen"/>
+</archimate:BusinessFunction>

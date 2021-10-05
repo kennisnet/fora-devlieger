@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facturering"
+    id="id-0244688fcd6a2109a1eeabe964c2aabc"
+    documentation="Het uitbrengen van facturen, onderdeel van financieel beheer.">
+  <properties
+      key="Object ID"
+      value="ff4217de-ea9e-48aa-aeb6-470461131a42"/>
+  <properties
+      key="Original ID"
+      value="ff4217de-ea9e-48aa-aeb6-470461131a42"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="facturering"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

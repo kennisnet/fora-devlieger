@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-24396bd25b1fe40789049cfe2db597e7"
+    documentation="uitwisseling HRM gegevens met personeel">
+  <properties
+      key="Referentie"
+      value="burgerlijk wetboek art 655 en ander arbeidsrecht: ROSA: ketenfunctie Personeel en organisatie"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="HRM"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="6176a2ef-4170-4a91-be74-6369eee2054d"/>
+  <properties
+      key="Original ID"
+      value="id-6176a2ef-4170-4a91-be74-6369eee2054d"/>
+  <properties
+      key="Semanticsearch"
+      value="id-6176a2ef-4170-4a91-be74-6369eee2054d"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-67f020fef880e9de4e2bf844fa2a6da3.xml#id-67f020fef880e9de4e2bf844fa2a6da3"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Activabeheer"
+    id="id-f0f7e5d59bd3ff1e77e7ba050525d5a0"
+    documentation="Beheer van activa">
+  <properties
+      key="Object ID"
+      value="08120b2f-13a0-4fae-aa26-f6997039e408"/>
+  <properties
+      key="Original ID"
+      value="id-08120b2f-13a0-4fae-aa26-f6997039e408"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="activabeheer"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

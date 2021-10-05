@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-20f145e878fde9ffcc632f707a9296b5"
+    documentation="uitwisseling leerling gegevens met samenwerkingsverbanden passend onderwijs">
+  <properties
+      key="Referentie"
+      value="wet passend onderwijs; dus vooral wet PO, wet VO en wet EC, plus besluit uitwisseling leer- en begeleidingsgegevens"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="basis en zorg"/>
+  <properties
+      key="Gegevenssoort"
+      value="Leerling"/>
+  <properties
+      key="Object ID"
+      value="b7f568ac-c8d5-4886-80d7-f41eb98059f4"/>
+  <properties
+      key="Original ID"
+      value="b7f568ac-c8d5-4886-80d7-f41eb98059f4"/>
+  <properties
+      key="Semanticsearch"
+      value="b7f568ac-c8d5-4886-80d7-f41eb98059f4"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-ef98c02f9711c66e2f17171745adab88.xml#id-ef98c02f9711c66e2f17171745adab88"/>
+</archimate:FlowRelationship>

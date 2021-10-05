@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dyslexieprogramma"
+    id="id-233c87570df225774b5d6aef73830284">
+  <properties
+      key="Object ID"
+      value="25c0a8c6-1bab-4f4d-8432-20e1047d3a42"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-25c0a8c6-1bab-4f4d-8432-20e1047d3a42"/>
+  <properties
+      key="Semanticsearch"
+      value="dyslexieprogramma"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

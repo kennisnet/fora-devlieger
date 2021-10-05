@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klachtbehandeling"
+    id="id-061990a9ab195f30f1119da5e44d67ab"
+    documentation="Het afhandelen van klachten, al dan niet met betrokkenheid van een vertrouwenspersoon of de klachtencommissie.">
+  <properties
+      key="Object ID"
+      value="712bd16f-0135-42d6-a1d5-34ea1ac112ad"/>
+  <properties
+      key="Original ID"
+      value="id-712bd16f-0135-42d6-a1d5-34ea1ac112ad"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="klachtbehandeling"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

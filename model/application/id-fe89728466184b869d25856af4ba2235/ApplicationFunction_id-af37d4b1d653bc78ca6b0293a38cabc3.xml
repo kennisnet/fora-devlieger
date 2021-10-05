@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generatie overzichten en rapportages"
+    id="id-af37d4b1d653bc78ca6b0293a38cabc3">
+  <properties
+      key="Object ID"
+      value="4552a98e-a11e-490a-9011-c465c072d9dd"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-4552a98e-a11e-490a-9011-c465c072d9dd"/>
+  <properties
+      key="Semanticsearch"
+      value="generatie overzichten en rapportages"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

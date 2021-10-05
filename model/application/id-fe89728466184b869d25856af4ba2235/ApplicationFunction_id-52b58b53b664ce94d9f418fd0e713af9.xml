@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vervanging personele inzet"
+    id="id-52b58b53b664ce94d9f418fd0e713af9">
+  <properties
+      key="Object ID"
+      value="e7aa988c-c39a-4fda-9c2a-0e9c11dbcce4"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="e7aa988c-c39a-4fda-9c2a-0e9c11dbcce4"/>
+  <properties
+      key="Semanticsearch"
+      value="vervanging personele inzet"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

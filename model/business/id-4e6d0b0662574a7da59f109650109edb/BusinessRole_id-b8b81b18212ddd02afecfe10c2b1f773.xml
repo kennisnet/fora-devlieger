@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsvolger"
+    id="id-b8b81b18212ddd02afecfe10c2b1f773"
+    documentation="Leerling/student">
+  <properties
+      key="Werkingsgebied"
+      value="Onderwijsveld"/>
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Object ID"
+      value="4dc813b3-b251-4155-a797-c23b11d666d7"/>
+  <properties
+      key="Original ID"
+      value="id-4dc813b3-b251-4155-a797-c23b11d666d7"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsvolger"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

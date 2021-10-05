@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accountbeheer"
+    id="id-09087edabebc4ca3cc37927983ad365c">
+  <properties
+      key="Object ID"
+      value="5b406489-baea-41da-8f0b-d8dd2422d06e"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-5b406489-baea-41da-8f0b-d8dd2422d06e"/>
+  <properties
+      key="Semanticsearch"
+      value="accountbeheer"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

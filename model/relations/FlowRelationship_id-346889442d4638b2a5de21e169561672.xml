@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-346889442d4638b2a5de21e169561672"
+    documentation="Aanschaf ict-middelen, bijv. chromebook, ipad, laptop, etc.">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="Ict-middelen"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="5ea9794f-d2d2-4ae8-871b-ded92cfd6688"/>
+  <properties
+      key="Original ID"
+      value="id-5ea9794f-d2d2-4ae8-871b-ded92cfd6688"/>
+  <properties
+      key="Semanticsearch"
+      value="id-5ea9794f-d2d2-4ae8-871b-ded92cfd6688"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-9f6e7f2ecff830bbf7d7c60692b6e802.xml#id-9f6e7f2ecff830bbf7d7c60692b6e802"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-901ccbcad586bfeb9c6bbd237286eaaf.xml#id-901ccbcad586bfeb9c6bbd237286eaaf"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loopbaanoriëntatie en -begeleiding"
+    id="id-00a67382a08a3fa73cced17cd97b54c9"
+    documentation="Het begeleiden van een leerling in de oriëntatie op een vervolgopleiding of de arbeidsmarkt tot het moment dat de leerling een startkwalificatie bezit.">
+  <properties
+      key="Werkingsgebied"
+      value="VO"/>
+  <properties
+      key="Object ID"
+      value="970d11a4-f51f-4f6d-a6b2-3ee94534ab64"/>
+  <properties
+      key="Original ID"
+      value="id-970d11a4-f51f-4f6d-a6b2-3ee94534ab64"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="loopbaanoriëntatie en -begeleiding"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

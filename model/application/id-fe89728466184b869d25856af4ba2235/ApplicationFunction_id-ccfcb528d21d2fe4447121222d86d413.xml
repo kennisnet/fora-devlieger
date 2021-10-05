@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verkrijging ECKiD"
+    id="id-ccfcb528d21d2fe4447121222d86d413">
+  <properties
+      key="Object ID"
+      value="603c9f4d-fee5-48c7-a969-9a51bf36ad00"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-603c9f4d-fee5-48c7-a969-9a51bf36ad00"/>
+  <properties
+      key="Semanticsearch"
+      value="verkrijging eckid"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

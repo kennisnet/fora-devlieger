@@ -1,0 +1,21 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PO"
+    id="id-c7e3b709dcf3c0b0df98c4f971848e82"
+    documentation="Het primair onderwijs">
+  <properties
+      key="Werkingsgebied"
+      value="Sector PO"/>
+  <properties
+      key="Object ID"
+      value="85e95bad-c0f9-4307-893d-18e1c2b2debc"/>
+  <properties
+      key="Original ID"
+      value="id-85e95bad-c0f9-4307-893d-18e1c2b2debc"/>
+  <properties
+      key="Semanticsearch"
+      value="po"/>
+  <properties
+      key="SWC Type"
+      value="Werkingsgebied"/>
+</archimate:BusinessCollaboration>

@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Burgerservicenummer (BSN)"
+    id="id-264476c6492bb087ca89fadbfccbd4bf"
+    documentation="Burger Service Nummer. Uniek identificerend nummer voor elke inwoner van Nederland, dat gebruikt wordt in officiële communicatie binnen het overheidsdomein.">
+  <properties
+      key="Object ID"
+      value="76217497-7c0c-49a2-ad4c-d793582c8204"/>
+  <properties
+      key="Original ID"
+      value="id-76217497-7c0c-49a2-ad4c-d793582c8204"/>
+  <properties
+      key="Semanticsearch"
+      value="burgerservicenummer (bsn)"/>
+</archimate:DataObject>

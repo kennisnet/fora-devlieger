@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Corporate LMS-beheer"
+    id="id-74631cb7143cd190b7de9376d47bb466"
+    documentation="Het beheren en aanbieden van opleidingen aan medewerkers.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="dae65dbd-51fb-46729-6799-d2da4e869e2"/>
+  <properties
+      key="Original ID"
+      value="id-dae65dbd51fb467296799d2da4e869e2"/>
+  <properties
+      key="Semanticsearch"
+      value="corporate lms-beheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

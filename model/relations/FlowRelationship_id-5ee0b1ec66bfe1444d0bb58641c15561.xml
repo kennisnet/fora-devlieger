@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5ee0b1ec66bfe1444d0bb58641c15561"
+    documentation="formeren van een raad van toezicht">
+  <properties
+      key="Referentie"
+      value="wet PO (17a, e.a.), wet VO, wet EC ; ROSA: ketenfunctie: visievorming en governance"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="richten en oprichten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Organisatie"/>
+  <properties
+      key="Object ID"
+      value="d68f509d-9813-4ed4-8265-10497e804e51"/>
+  <properties
+      key="Original ID"
+      value="d68f509d-9813-4ed4-8265-10497e804e51"/>
+  <properties
+      key="Semanticsearch"
+      value="d68f509d-9813-4ed4-8265-10497e804e51"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-c26e841c5d3ae3ddd24dfb6d3703c0ce.xml#id-c26e841c5d3ae3ddd24dfb6d3703c0ce"/>
+</archimate:FlowRelationship>

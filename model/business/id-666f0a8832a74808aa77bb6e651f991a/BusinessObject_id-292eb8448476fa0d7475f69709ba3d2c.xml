@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsorganisatie"
+    id="id-292eb8448476fa0d7475f69709ba3d2c"
+    documentation="Een onderwijsorganisatie is een door een rechtspersoon aangestuurde groep personen die onderwijs gerelateerde zaken uitvoeren.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Huisvesting"/>
+  <properties
+      key="Object ID"
+      value="ccc4c3c8-e118-4af2b-79de-85dc5475276"/>
+  <properties
+      key="Original ID"
+      value="id-ccc4c3c8e1184af2b79de85dc5475276"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsorganisatie"/>
+</archimate:BusinessObject>

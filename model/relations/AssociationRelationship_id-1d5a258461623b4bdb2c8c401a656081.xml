@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="stelt vast"
+    id="id-1d5a258461623b4bdb2c8c401a656081"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="1e6b0e1a-11a2-4ce7b-6aa1-b98aa0f2a46"/>
+  <properties
+      key="Original ID"
+      value="id-1e6b0e1a11a24ce7b6aa1b98aa0f2a46"/>
+  <properties
+      key="Semanticsearch"
+      value="stelt vast"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-fe1b2577e4ea2ad0728bcc8e6d825a52.xml#id-fe1b2577e4ea2ad0728bcc8e6d825a52"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-edd8952e22b285cb01503d071389e9f5.xml#id-edd8952e22b285cb01503d071389e9f5"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,51 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ouder"
+    id="id-145e65ec86e7dc66ddfb2704b60e154d"
+    documentation="Ouder, voogd of verzorger die (mede) de wettelijke verantwoordelijkheid draagt voor een leerling.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Alias"
+      value="Verzorger, Voogd, Wettelijk vertegenwoordiger"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Statusdatum"
+      value="23-8-2021"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Afgeleid van"
+      value="https://wetten.overheid.nl/jci1.3:c:BWBR0003420&amp;hoofdstuk=I&amp;titeldeel=I&amp;artikel=1"/>
+  <properties
+      key="Object ID"
+      value="87bae9bc-b2fe-42428-6304-6e933642240"/>
+  <properties
+      key="Original ID"
+      value="id-87bae9bcb2fe4242863046e933642240"/>
+  <properties
+      key="Semanticsearch"
+      value="ouder"/>
+</archimate:BusinessObject>

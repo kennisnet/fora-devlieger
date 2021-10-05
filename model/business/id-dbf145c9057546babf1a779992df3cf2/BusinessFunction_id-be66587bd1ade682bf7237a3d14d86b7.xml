@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Debiteurenbeheer"
+    id="id-be66587bd1ade682bf7237a3d14d86b7"
+    documentation="Beheer van debiteuren">
+  <properties
+      key="Object ID"
+      value="ffa17853-7f46-4437-8534-300b46ac019d"/>
+  <properties
+      key="Original ID"
+      value="ffa17853-7f46-4437-8534-300b46ac019d"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="debiteurenbeheer"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

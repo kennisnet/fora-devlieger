@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dyscalculieprogramma"
+    id="id-13c4c25e1c1a233ce737a632cd4600fc">
+  <properties
+      key="Object ID"
+      value="acfd5108-9759-4d9c-aea6-3c52f45d53a8"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="acfd5108-9759-4d9c-aea6-3c52f45d53a8"/>
+  <properties
+      key="Semanticsearch"
+      value="dyscalculieprogramma"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

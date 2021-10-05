@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vervaardiging schoolgids"
+    id="id-efbfe610d19b665eabdc7b8afbced7dc"
+    documentation="Het maken en samenstellen van de schoolgids. De schoolgids is een informatiedocument bedoeld voor ouders/verzorgers.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="0557f1f9-8451-476fa-17a7-87afea38813"/>
+  <properties
+      key="Original ID"
+      value="id-0557f1f98451476fa17a787afea38813"/>
+  <properties
+      key="Semanticsearch"
+      value="vervaardiging schoolgids"/>
+</archimate:BusinessFunction>

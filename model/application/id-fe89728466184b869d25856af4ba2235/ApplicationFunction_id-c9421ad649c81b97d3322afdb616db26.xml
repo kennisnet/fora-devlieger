@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoring / logging"
+    id="id-c9421ad649c81b97d3322afdb616db26"
+    documentation="Het monitoren van systemen en het verzamelen en beheren van loggegevens">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="884d6345-aea1-4cb78-a121-1becd37cc20"/>
+  <properties
+      key="Original ID"
+      value="id-884d6345aea14cb78a1211becd37cc20"/>
+  <properties
+      key="Semanticsearch"
+      value="monitoring / logging"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

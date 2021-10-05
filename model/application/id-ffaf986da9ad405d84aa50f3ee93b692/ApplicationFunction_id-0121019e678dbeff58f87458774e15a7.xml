@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking onderwijsorganisatie leerling (groepsindeling, etc.)"
+    id="id-0121019e678dbeff58f87458774e15a7">
+  <properties
+      key="Object ID"
+      value="104af8c0-0344-47e5-8e7e-75271f27e7c5"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-104af8c0-0344-47e5-8e7e-75271f27e7c5"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking onderwijsorganisatie leerling (groepsindeling, etc.)"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

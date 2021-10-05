@@ -1,0 +1,54 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schoolsoort"
+    id="id-d7f781b89e21704020cf3deac0330e5f"
+    documentation="Een schoolsoort is een bij wet geregeld opleidingstraject voor leerlingen in het funderend onderwijs na de periode van het basisonderwijs">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Product"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="45a62727-72e7-44d7b-1af7-f6dd1d4f5a5"/>
+  <properties
+      key="Original ID"
+      value="id-45a6272772e744d7b1af7f6dd1d4f5a5"/>
+  <properties
+      key="Semanticsearch"
+      value="schoolsoort"/>
+  <properties
+      key="Alias"
+      value="Schooltype"/>
+  <properties
+      key="Toelichting"
+      value="De regelgeving spreekt van schoolsoort, niet van schooltype"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Voorbeeld"
+      value="vmbo-basis, -kader, gemengde leerweg, theoretische leerweg, havo, vwo (dat uiteenvalt in atheneum en gymnasium)"/>
+  <properties
+      key="Sector"
+      value="VO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datamanagementsysteem"
+    id="id-165bf921def7d456b45bec178b6a60e3"
+    documentation="Een systeem voor het beheren van databanken.&#xA;Zoals: Creeeren en configureren, Toegangsverlening, Monitoring. &#xA;Bijvoorbeeld: MS SQL server, Oracle, MySQL">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="b4b473cd-6532-48d78-fc3c-4a8d75bfc9a"/>
+  <properties
+      key="Original ID"
+      value="id-b4b473cd653248d78fc3c4a8d75bfc9a"/>
+  <properties
+      key="Semanticsearch"
+      value="datamanagementsysteem"/>
+</archimate:ApplicationComponent>

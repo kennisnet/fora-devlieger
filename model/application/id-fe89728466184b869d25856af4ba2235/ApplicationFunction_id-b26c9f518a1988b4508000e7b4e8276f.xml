@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkplekbeheer"
+    id="id-b26c9f518a1988b4508000e7b4e8276f"
+    documentation="Het beheren van werkstations">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="e5d39b2c-2a10-4e17b-471d-9ddf0c3395d"/>
+  <properties
+      key="Original ID"
+      value="id-e5d39b2c2a104e17b471d9ddf0c3395d"/>
+  <properties
+      key="Semanticsearch"
+      value="werkplekbeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

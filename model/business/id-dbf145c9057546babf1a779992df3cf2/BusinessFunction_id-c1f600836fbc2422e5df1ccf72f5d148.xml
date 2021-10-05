@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personeel en organisatie"
+    id="id-c1f600836fbc2422e5df1ccf72f5d148"
+    documentation="Het ervoor zorgdragen dat er competente medewerkers beschikbaar zijn voor de uitvoering van bedrijfsprocessen.">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="289391d0-b6ce-4699-88e2-f4b4ed0653b1"/>
+  <properties
+      key="Original ID"
+      value="id-289391d0-b6ce-4699-88e2-f4b4ed0653b1"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="personeel en organisatie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

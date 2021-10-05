@@ -1,0 +1,30 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vereniging Hogescholen"
+    id="id-ff8cb595cb5e1c53129e869e6dc2f73d"
+    documentation="De Vereniging Hogescholen is de belangen- en werkgeversvereniging van de Nederlandse hogescholen">
+  <properties
+      key="Werkingsgebied"
+      value="Vereniging hogescholen"/>
+  <properties
+      key="Type"
+      value="Actor"/>
+  <properties
+      key="Externe verwijzing"
+      value="http://www.vereniginghogescholen.nl/"/>
+  <properties
+      key="Object ID"
+      value="f741b945-f04f-4039-b53c-4e727f239e57"/>
+  <properties
+      key="Original ID"
+      value="f741b945-f04f-4039-b53c-4e727f239e57"/>
+  <properties
+      key="Semanticsearch"
+      value="vereniging hogescholen"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Organisatie"/>
+</archimate:BusinessActor>

@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Middelen"
+    id="id-659cc59d1123679700195c57ae14e4f3"
+    documentation="Financiële of materiële bezittingen.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="cbe71e69-4080-4cab-8033-072916115f98"/>
+  <properties
+      key="Original ID"
+      value="cbe71e69-4080-4cab-8033-072916115f98"/>
+  <properties
+      key="Semanticsearch"
+      value="middelen"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

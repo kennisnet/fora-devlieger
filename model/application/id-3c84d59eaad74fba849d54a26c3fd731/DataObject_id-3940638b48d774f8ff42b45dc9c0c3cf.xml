@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nationaliteit"
+    id="id-3940638b48d774f8ff42b45dc9c0c3cf">
+  <properties
+      key="Object ID"
+      value="05fc7195-bc77-44fa-b387-010e99d39c39"/>
+  <properties
+      key="Original ID"
+      value="id-05fc7195-bc77-44fa-b387-010e99d39c39"/>
+  <properties
+      key="Semanticsearch"
+      value="nationaliteit"/>
+</archimate:DataObject>

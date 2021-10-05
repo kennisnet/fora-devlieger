@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VO-ondersteunende organisaties"
+    id="id-734982873d17c8ee00edf6a5b534bad1"
+    documentation="Organisatie die specifieke ondersteuning levert voor vo-instellingen">
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Werkingsgebied"
+      value="VO-ondersteunende organisaties"/>
+  <properties
+      key="Object ID"
+      value="ba68f0ec-2784-4d70-a441-db7d8182db21"/>
+  <properties
+      key="Original ID"
+      value="ba68f0ec-2784-4d70-a441-db7d8182db21"/>
+  <properties
+      key="Semanticsearch"
+      value="vo-ondersteunende organisaties"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

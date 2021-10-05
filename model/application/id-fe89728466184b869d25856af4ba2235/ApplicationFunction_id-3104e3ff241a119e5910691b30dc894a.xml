@@ -1,0 +1,20 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerken algemene contactgegevens leerling"
+    id="id-3104e3ff241a119e5910691b30dc894a">
+  <properties
+      key="Object ID"
+      value="676445a4-8cd8-4b1a-bfda-112e596a637f"/>
+  <properties
+      key="Original ID"
+      value="id-676445a4-8cd8-4b1a-bfda-112e596a637f"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerken algemene contactgegevens leerling"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

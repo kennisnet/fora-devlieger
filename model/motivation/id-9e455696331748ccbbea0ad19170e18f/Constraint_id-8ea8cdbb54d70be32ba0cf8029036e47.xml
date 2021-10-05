@@ -1,0 +1,24 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Edukoppeling 1.2"
+    id="id-8ea8cdbb54d70be32ba0cf8029036e47"
+    documentation="[[Edukoppeling transactiestandaard]]">
+  <properties
+      key="Versieaanduiding"
+      value="1.2"/>
+  <properties
+      key="Object ID"
+      value="d73dcdca-d602-4b7e-bfb4-3975499ca0da"/>
+  <properties
+      key="Original ID"
+      value="d73dcdca-d602-4b7e-bfb4-3975499ca0da"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Standaardversie"/>
+  <properties
+      key="Semanticsearch"
+      value="edukoppeling 1.2"/>
+</archimate:Constraint>

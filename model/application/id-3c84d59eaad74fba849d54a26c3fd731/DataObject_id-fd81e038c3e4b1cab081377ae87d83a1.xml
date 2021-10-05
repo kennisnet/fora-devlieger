@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voornaam"
+    id="id-fd81e038c3e4b1cab081377ae87d83a1">
+  <properties
+      key="Object ID"
+      value="95d3c198-ea72-48ab-b845-1ebc6de0beb8"/>
+  <properties
+      key="Original ID"
+      value="id-95d3c198-ea72-48ab-b845-1ebc6de0beb8"/>
+  <properties
+      key="Semanticsearch"
+      value="voornaam"/>
+</archimate:DataObject>

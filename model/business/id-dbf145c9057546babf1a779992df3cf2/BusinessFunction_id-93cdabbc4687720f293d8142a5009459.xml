@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsbegeleiding"
+    id="id-93cdabbc4687720f293d8142a5009459"
+    documentation="Het (aanvullend) begeleiden van groepen leerlingen of individuen met specifieke behoeften.  Plusklassen, remedial teaching. Worden ook aparte programma's voor ingezet.">
+  <properties
+      key="Object ID"
+      value="34a5b880-c192-4936-9ba4-53c8603de165"/>
+  <properties
+      key="Original ID"
+      value="id-34a5b880-c192-4936-9ba4-53c8603de165"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsbegeleiding"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

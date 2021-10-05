@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inning ouderbijdrage boeken"
+    id="id-7b32d296e05be5af2167e181aba6c781"
+    documentation="Verantwoordelijkheid voor het innen van de bijdrage van ouders of verzorgers voor centraal aangeschafte boeken (en andere leermiddelen)">
+  <properties
+      key="Object ID"
+      value="b720f7c9-0cd0-4182-b060-ae0869c3b5fd"/>
+  <properties
+      key="Original ID"
+      value="b720f7c9-0cd0-4182-b060-ae0869c3b5fd"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="inning ouderbijdrage boeken"/>
+</archimate:BusinessFunction>

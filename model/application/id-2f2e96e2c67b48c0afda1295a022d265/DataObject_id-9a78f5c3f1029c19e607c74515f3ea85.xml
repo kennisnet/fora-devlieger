@@ -1,0 +1,21 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorisatie"
+    id="id-9a78f5c3f1029c19e607c74515f3ea85"
+    documentation="Het recht van een geauthentiseerde identiteit om gebruik te maken van bepaalde functionaliteit. ECK D&amp;T 2.1, Edukoppeling 2017-07-05">
+  <properties
+      key="Object ID"
+      value="ebc07833-5dd1-4041-8f6a-6a3446463123"/>
+  <properties
+      key="Original ID"
+      value="ebc07833-5dd1-4041-8f6a-6a3446463123"/>
+  <properties
+      key="Semanticsearch"
+      value="autorisatie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Gegevens"/>
+</archimate:DataObject>

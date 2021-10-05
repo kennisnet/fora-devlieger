@@ -1,0 +1,21 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BP Methode Product details voor Netwerkproviders"
+    id="id-80445fe4045314978bc3289ed3ed91f9"
+    documentation="JSON Service waarmee Basispoort de beschikbare Methodes en Producten voor een leerling of onderwijsinstelling levert, inclusief details over deze producten. &#xA;&#xA;De netwerkprovider roept de service voor de lijst met beschikbare methodes en producten aan voor elke inlog op zijn portaal. De service voor de details van de methodes en producten zou maar een keer per dag moeten worden aangeroepen, want bevat veel informatie die relatief statisch is.">
+  <properties
+      key="Object ID"
+      value="074598a5-2f60-4e9ab-35a6-642ace347c3"/>
+  <properties
+      key="Original ID"
+      value="id-074598a52f604e9ab35a6642ace347c3"/>
+  <properties
+      key="SWC type"
+      value="Landelijke service"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Semanticsearch"
+      value="bp methode product details voor netwerkproviders"/>
+</archimate:ApplicationService>

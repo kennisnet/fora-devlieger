@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sociale veiligheid"
+    id="id-6c8aefc84f27ad967a78bd71f40deeb1"
+    documentation="Sociale veiligheid is de bescherming of het zich beschermd voelen tegen grensoverschrijdend sociaal gedrag en contact.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Sociale veiligheid"/>
+  <properties
+      key="Object ID"
+      value="2cba3501-c4d7-43999-3f74-2549d63d427"/>
+  <properties
+      key="Original ID"
+      value="id-2cba3501c4d7439993f742549d63d427"/>
+  <properties
+      key="Semanticsearch"
+      value="sociale veiligheid"/>
+</archimate:BusinessObject>

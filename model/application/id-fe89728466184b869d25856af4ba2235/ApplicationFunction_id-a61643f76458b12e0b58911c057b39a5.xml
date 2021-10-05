@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planning coordinatie zorginzet"
+    id="id-a61643f76458b12e0b58911c057b39a5">
+  <properties
+      key="Object ID"
+      value="32055f0b-83c6-4b39-a64b-f6eeeef2045b"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-32055f0b-83c6-4b39-a64b-f6eeeef2045b"/>
+  <properties
+      key="Semanticsearch"
+      value="planning coordinatie zorginzet"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

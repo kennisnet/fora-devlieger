@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veiligheidsrapportage"
+    id="id-870d6e9e13dd829499b0bc399a838b7f"
+    documentation="Het (periodiek) rapporteren over de veiligheidssituatie op school, ter evaluatie van het bestaande veiligheidsbeleid of ter onderbouwing van nieuw veiligheidsbeleid.">
+  <properties
+      key="Object ID"
+      value="37bd90fd-3db4-498b-9924-107c7a4038af"/>
+  <properties
+      key="Original ID"
+      value="id-37bd90fd-3db4-498b-9924-107c7a4038af"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="veiligheidsrapportage"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

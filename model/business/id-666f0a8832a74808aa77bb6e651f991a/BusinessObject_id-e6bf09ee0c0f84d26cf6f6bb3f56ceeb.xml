@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Extra ondersteuning"
+    id="id-e6bf09ee0c0f84d26cf6f6bb3f56ceeb"
+    documentation="Extra ondersteuning omvat alle vormen van onderwijsondersteuning die de basisondersteuning overstijgen.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Passend onderwijs"/>
+  <properties
+      key="Object ID"
+      value="c789b32d-d0c8-40c0a-bf0d-c0ce8054be7"/>
+  <properties
+      key="Original ID"
+      value="id-c789b32dd0c840c0abf0dc0ce8054be7"/>
+  <properties
+      key="Semanticsearch"
+      value="extra ondersteuning"/>
+</archimate:BusinessObject>

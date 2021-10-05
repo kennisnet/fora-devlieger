@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-85139a7b7b7d61aa456fa208d9aed0d1"
+    documentation="gegevens voor de ECK keten">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="instelling"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="eba369c0-fcb5-4136-8eac-89c6a4de636f"/>
+  <properties
+      key="Original ID"
+      value="eba369c0-fcb5-4136-8eac-89c6a4de636f"/>
+  <properties
+      key="Semanticsearch"
+      value="eba369c0-fcb5-4136-8eac-89c6a4de636f"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-ce200b8a26a1091ab3681ff1bf5566ba.xml#id-ce200b8a26a1091ab3681ff1bf5566ba"/>
+</archimate:FlowRelationship>

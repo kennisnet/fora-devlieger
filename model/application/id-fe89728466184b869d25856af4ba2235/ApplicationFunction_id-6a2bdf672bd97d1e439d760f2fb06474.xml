@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remedial teaching programma"
+    id="id-6a2bdf672bd97d1e439d760f2fb06474">
+  <properties
+      key="Object ID"
+      value="60910b89-4637-471e-a961-e70a7a314dc8"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-60910b89-4637-471e-a961-e70a7a314dc8"/>
+  <properties
+      key="Semanticsearch"
+      value="remedial teaching programma"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

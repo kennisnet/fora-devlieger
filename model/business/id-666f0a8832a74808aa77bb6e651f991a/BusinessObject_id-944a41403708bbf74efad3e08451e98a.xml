@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schoolexamen"
+    id="id-944a41403708bbf74efad3e08451e98a"
+    documentation="Het schoolexamen in een vak bestaat uit een of meer toetsen, ontwikkeld door de school, als onderdeel van het eindexamen.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="500aa9b5-042d-44eb8-8fe7-596eed220be"/>
+  <properties
+      key="Original ID"
+      value="id-500aa9b5042d44eb88fe7596eed220be"/>
+  <properties
+      key="Semanticsearch"
+      value="schoolexamen"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Sector"
+      value="VO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Videocontentbeheer"
+    id="id-fd1bf4a2f07f053aa61a7dc4e6d317c4"
+    documentation="Het opnemen, beheren en publiceren van video's.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="eccc1f51-fdaf-48ff8-d959-fc8525ff8fa"/>
+  <properties
+      key="Original ID"
+      value="id-eccc1f51fdaf48ff8d959fc8525ff8fa"/>
+  <properties
+      key="Semanticsearch"
+      value="videocontentbeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

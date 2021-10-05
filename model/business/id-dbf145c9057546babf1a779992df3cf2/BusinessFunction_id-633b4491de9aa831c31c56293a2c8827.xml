@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ouderbetrokkenheid ouder - school"
+    id="id-633b4491de9aa831c31c56293a2c8827"
+    documentation="Participatie en buitenschoolse activiteiten en extracurriculaire activiteiten, waaronder:&#xA;* Algemene schoolmededelingen aan ouders&#xA;* Informatieavonden&#xA;* Activiteitencommissie&#xA;* Voorleesouders, luizenouders&#xA;* Schoolopvoering">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="65e5e2ad-95b9-46dd-b8ea-eb975dd7ca7d"/>
+  <properties
+      key="Original ID"
+      value="id-65e5e2ad-95b9-46dd-b8ea-eb975dd7ca7d"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="ouderbetrokkenheid ouder - school"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

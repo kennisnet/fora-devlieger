@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer en verwerking zorgdossier"
+    id="id-0d1657c18ec8ba954d42cb8e0ceced53"
+    documentation="Inclusief het toevoegen van bijlagen">
+  <properties
+      key="Object ID"
+      value="d2e3aa8c-ecd6-4986-8645-92a54705dee6"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="d2e3aa8c-ecd6-4986-8645-92a54705dee6"/>
+  <properties
+      key="Semanticsearch"
+      value="beheer en verwerking zorgdossier"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

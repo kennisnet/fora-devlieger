@@ -1,0 +1,48 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerlijn"
+    id="id-21ca90c4d1f5f7e9f9b6b1d1c12b7ed4"
+    documentation="Een leerlijn is een beredeneerde opbouw van tussendoelen en inhouden naar een einddoel.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="a0f89043-7e89-45569-633a-0ab9cd3c0b2"/>
+  <properties
+      key="Original ID"
+      value="id-a0f890437e8945569633a0ab9cd3c0b2"/>
+  <properties
+      key="Semanticsearch"
+      value="leerlijn"/>
+  <properties
+      key="Bron"
+      value="FORA-WG Informatieomdel O&amp;O"/>
+  <properties
+      key="Afgeleid van"
+      value="https://opendata.slo.nl/Begrippenlijst/"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Statusdatum"
+      value="12-7-2021"/>
+</archimate:BusinessObject>

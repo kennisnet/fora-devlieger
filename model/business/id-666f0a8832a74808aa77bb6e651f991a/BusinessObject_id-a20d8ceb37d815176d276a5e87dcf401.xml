@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Speciaal (voortgezet) onderwijs"
+    id="id-a20d8ceb37d815176d276a5e87dcf401"
+    documentation="Het speciaal onderwijs is er voor leerlingen die specialistische of intensieve onderwijsbegeleiding nodig hebben.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Product"/>
+  <properties
+      key="Domein"
+      value="Passend onderwijs"/>
+  <properties
+      key="Object ID"
+      value="f01e72c5-5215-4854b-3110-18831585f4f"/>
+  <properties
+      key="Original ID"
+      value="id-f01e72c552154854b311018831585f4f"/>
+  <properties
+      key="Semanticsearch"
+      value="speciaal (voortgezet) onderwijs"/>
+</archimate:BusinessObject>

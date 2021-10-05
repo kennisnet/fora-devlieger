@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0d00b5b3f871bb7cd343b94d50a11fad"
+    documentation="personeelsgegevens t.b.v. RvT">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="hrm"/>
+  <properties
+      key="Gegevenssoort"
+      value="Medewerker"/>
+  <properties
+      key="Object ID"
+      value="af19b58a-1698-42cf-95e6-0b04233dbe15"/>
+  <properties
+      key="Original ID"
+      value="af19b58a-1698-42cf-95e6-0b04233dbe15"/>
+  <properties
+      key="Semanticsearch"
+      value="af19b58a-1698-42cf-95e6-0b04233dbe15"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-c26e841c5d3ae3ddd24dfb6d3703c0ce.xml#id-c26e841c5d3ae3ddd24dfb6d3703c0ce"/>
+</archimate:FlowRelationship>

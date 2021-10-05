@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vervaardiging strategisch meerjarenplan"
+    id="id-810c4ae650452e79787d72dc1e445aca"
+    documentation="Het maken en samenstellen van het strategisch meerjarenplan. Het strategisch meerjarenplan is een document dat de strategische koers van de organisatie voor de (middel)langetermijn bevat.">
+  <properties
+      key="Object ID"
+      value="7a349681-fdc7-4887-955b-76482bf454ba"/>
+  <properties
+      key="Original ID"
+      value="id-7a349681-fdc7-4887-955b-76482bf454ba"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="vervaardiging strategisch meerjarenplan"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

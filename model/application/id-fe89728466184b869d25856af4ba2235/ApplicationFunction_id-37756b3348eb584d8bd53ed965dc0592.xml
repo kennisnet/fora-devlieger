@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer leerlingdossier"
+    id="id-37756b3348eb584d8bd53ed965dc0592">
+  <properties
+      key="Object ID"
+      value="d2374571-3830-4964-88d3-5528dd9644eb"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="d2374571-3830-4964-88d3-5528dd9644eb"/>
+  <properties
+      key="Semanticsearch"
+      value="beheer leerlingdossier"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

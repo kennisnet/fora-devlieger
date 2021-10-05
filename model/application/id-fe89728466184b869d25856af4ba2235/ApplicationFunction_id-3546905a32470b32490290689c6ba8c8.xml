@@ -1,0 +1,20 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerken persoonlijke kenmerken leerling"
+    id="id-3546905a32470b32490290689c6ba8c8">
+  <properties
+      key="Object ID"
+      value="8a127f62-57c4-45fa-bf43-27ed84b248e1"/>
+  <properties
+      key="Original ID"
+      value="id-8a127f62-57c4-45fa-bf43-27ed84b248e1"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerken persoonlijke kenmerken leerling"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,51 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Diploma-uitreiking"
+    id="id-9f1c2d8ed65f65a00de0973a64ef657b"
+    documentation="Diploma-uitreiking is een gebeurtenis waarbij iemand die succesvol een studie of cursus heeft afgerond een diploma krijgt">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="ccc2a7b3-606d-4ca4a-bd9f-800673bc12d"/>
+  <properties
+      key="Original ID"
+      value="id-ccc2a7b3606d4ca4abd9f800673bc12d"/>
+  <properties
+      key="Semanticsearch"
+      value="diploma-uitreiking"/>
+  <properties
+      key="Toelichting"
+      value="De gebeurtenis is de feestelijke omlijsting. De kern is de formele handeling met handtekeningen."/>
+  <properties
+      key="Afgeleid van"
+      value="https://nl.wiktionary.org/wiki/diploma-uitreiking"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+</archimate:BusinessObject>

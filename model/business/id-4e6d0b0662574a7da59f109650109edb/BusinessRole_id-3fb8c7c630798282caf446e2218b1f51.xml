@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HO-instelling"
+    id="id-3fb8c7c630798282caf446e2218b1f51"
+    documentation="Onderwijsinstelling die onderwijs volgens de Wet op het Hoger Onderwijs verzorgt">
+  <properties
+      key="Werkingsgebied"
+      value="HO-instellingen"/>
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Object ID"
+      value="32549b0c-3ca8-4beb-aa3a-b4c2f3f18f04"/>
+  <properties
+      key="Original ID"
+      value="id-32549b0c-3ca8-4beb-aa3a-b4c2f3f18f04"/>
+  <properties
+      key="Semanticsearch"
+      value="ho-instelling"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

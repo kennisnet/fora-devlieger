@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsvakbond"
+    id="id-11bfe42dd3094871930ea223b8b3409a">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Bevoegd gezag"/>
+  <properties
+      key="Object ID"
+      value="feedebad-b336-4ec59-146a-f870f359a47"/>
+  <properties
+      key="Original ID"
+      value="id-feedebadb3364ec59146af870f359a47"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsvakbond"/>
+</archimate:BusinessObject>

@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e3e00fde76550e51156f0d5a229726ce"
+    documentation="financiële rapportages aan de inspectie">
+  <properties
+      key="Referentie"
+      value="wet onderwijs inspectie"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="financieel toezicht"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="7877ba42-72c2-4d66-9e70-1dfd7b1bbb4c"/>
+  <properties
+      key="Original ID"
+      value="id-7877ba42-72c2-4d66-9e70-1dfd7b1bbb4c"/>
+  <properties
+      key="Semanticsearch"
+      value="id-7877ba42-72c2-4d66-9e70-1dfd7b1bbb4c"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-33a7ec7daae142828c597eb68d55fef5.xml#id-33a7ec7daae142828c597eb68d55fef5"/>
+</archimate:FlowRelationship>

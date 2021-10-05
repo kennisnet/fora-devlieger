@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e9459ddb37f2920bf648e82c0525b271"
+    documentation="KvK regelgeving voor de school">
+  <properties
+      key="Referentie"
+      value="burgerlijk wetboek"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="instelling en regelgeving"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="ac1b053b-e772-407d-b2c1-48acd1cddf9d"/>
+  <properties
+      key="Original ID"
+      value="ac1b053b-e772-407d-b2c1-48acd1cddf9d"/>
+  <properties
+      key="Semanticsearch"
+      value="ac1b053b-e772-407d-b2c1-48acd1cddf9d"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-9edbecb23b82123ac753fb6919f7a159.xml#id-9edbecb23b82123ac753fb6919f7a159"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

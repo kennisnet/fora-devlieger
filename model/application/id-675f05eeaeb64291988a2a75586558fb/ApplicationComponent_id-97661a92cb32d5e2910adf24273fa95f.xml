@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Instant) messaging app"
+    id="id-97661a92cb32d5e2910adf24273fa95f"
+    documentation="App waarmee berichten zeer snel tussen deelnemers kunnen worden uitgewisseld.">
+  <properties
+      key="Object ID"
+      value="6baf5b4e-3e71-4461-b41f-3bd6a3f41283"/>
+  <properties
+      key="Original ID"
+      value="id-6baf5b4e-3e71-4461-b41f-3bd6a3f41283"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Semanticsearch"
+      value="(instant) messaging app"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BP Methode Product details voor uitgevers"
+    id="id-b68e74a52e9923231a9d52561ef0a618"
+    documentation="Functionaliteit waarmee Basispoort gegevens over Methodes, Producten en actuele Licenties ophaalt bij uitgevers. &#xA;&#xA;Basispoort haalt details van Methodes en Producten dagelijks op. &#xA;&#xA;Licentieinformatie bevat alleen identifiers van gelicenseerde producten en methodes voor een leerling of onderwijsinstelling. Basispoort haalt deze op als een leerling inlogt bij een netwerkprovider (dwz naar aalleiding van een call op service &quot;BP Methode Product details voor Netwerkproviders&quot;) of op het portaal van Basispoort zelf.">
+  <properties
+      key="Object ID"
+      value="a76b784e-9cf2-4fcba-239a-6d8f3cb6011"/>
+  <properties
+      key="Original ID"
+      value="id-a76b784e9cf24fcba239a6d8f3cb6011"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Semanticsearch"
+      value="bp methode product details voor uitgevers"/>
+</archimate:ApplicationFunction>

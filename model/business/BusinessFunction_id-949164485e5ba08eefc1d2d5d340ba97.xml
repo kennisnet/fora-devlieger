@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerlingcommunicatie individueel"
+    id="id-949164485e5ba08eefc1d2d5d340ba97"
+    documentation="Communicatie over onderwijs en resultaten met een individuele leerling.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="76169d80-e000-496d9-992d-f8e767afcd8"/>
+  <properties
+      key="Original ID"
+      value="id-76169d80e000496d9992df8e767afcd8"/>
+  <properties
+      key="Semanticsearch"
+      value="leerlingcommunicatie individueel"/>
+</archimate:BusinessFunction>

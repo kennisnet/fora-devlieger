@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-cb1f5ffbc0a57f1f8546309e78ca34a6"
+    documentation="financiering DUO door OCW">
+  <properties
+      key="Referentie"
+      value="zie begroting OCW"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="financiering"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="3c5b35fb-61cd-49a6-baab-15d8ab14440b"/>
+  <properties
+      key="Original ID"
+      value="id-3c5b35fb-61cd-49a6-baab-15d8ab14440b"/>
+  <properties
+      key="Semanticsearch"
+      value="id-3c5b35fb-61cd-49a6-baab-15d8ab14440b"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-584ebf14c9049c775936aefec6dc655c.xml#id-584ebf14c9049c775936aefec6dc655c"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+</archimate:FlowRelationship>

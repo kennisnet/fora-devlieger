@@ -1,0 +1,20 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a82de32ad75a08041894df4a29e133a5">
+  <properties
+      key="Object ID"
+      value="91ae1d3e-d491-4bbb9-8ecd-4c93a003951"/>
+  <properties
+      key="Original ID"
+      value="id-91ae1d3ed4914bbb98ecd4c93a003951"/>
+  <properties
+      key="Semanticsearch"
+      value="id-91ae1d3ed4914bbb98ecd4c93a003951"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-6b8bd176449ad6d5c5856c3d13b8449c.xml#id-6b8bd176449ad6d5c5856c3d13b8449c"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-83271c0b89066b911be92aaaa453f8f2.xml#id-83271c0b89066b911be92aaaa453f8f2"/>
+</archimate:AggregationRelationship>

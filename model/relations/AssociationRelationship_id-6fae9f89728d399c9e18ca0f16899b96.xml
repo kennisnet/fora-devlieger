@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="stelt eisen aan"
+    id="id-6fae9f89728d399c9e18ca0f16899b96"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="1df5cee5-754a-47109-4e09-f013417ae9f"/>
+  <properties
+      key="Original ID"
+      value="id-1df5cee5754a471094e09f013417ae9f"/>
+  <properties
+      key="Semanticsearch"
+      value="stelt eisen aan"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3bdaf239ff39360516fcdad0c4d77aea.xml#id-3bdaf239ff39360516fcdad0c4d77aea"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c787effa7ba34101840a6a97bcceaf8a.xml#id-c787effa7ba34101840a6a97bcceaf8a"/>
+</archimate:AssociationRelationship>

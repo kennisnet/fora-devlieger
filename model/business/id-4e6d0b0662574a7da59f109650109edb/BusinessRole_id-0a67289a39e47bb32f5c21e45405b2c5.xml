@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LAS-leverancier"
+    id="id-0a67289a39e47bb32f5c21e45405b2c5"
+    documentation="Organisatie die leerling-administraties levert.">
+  <properties
+      key="Object ID"
+      value="988c6aaa-7e9d-4bfc-8978-beb840329366"/>
+  <properties
+      key="Original ID"
+      value="id-988c6aaa-7e9d-4bfc-8978-beb840329366"/>
+  <properties
+      key="Semanticsearch"
+      value="las-leverancier"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

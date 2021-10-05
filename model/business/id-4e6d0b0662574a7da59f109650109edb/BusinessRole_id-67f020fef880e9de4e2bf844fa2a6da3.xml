@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ondersteunend personeel"
+    id="id-67f020fef880e9de4e2bf844fa2a6da3"
+    documentation="Onderwijs-ondersteunend / niet onderwijzend personeel">
+  <properties
+      key="Benaming"
+      value="alles"/>
+  <properties
+      key="Beschrijving"
+      value="administraties en lesmateriaal en deelnemer gegevens voor het ondersteunend personeel"/>
+  <properties
+      key="Object ID"
+      value="b3a65bae-59b5-4dd9-af55-0a23dbe00f0d"/>
+  <properties
+      key="Original ID"
+      value="b3a65bae-59b5-4dd9-af55-0a23dbe00f0d"/>
+  <properties
+      key="Semanticsearch"
+      value="ondersteunend personeel"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

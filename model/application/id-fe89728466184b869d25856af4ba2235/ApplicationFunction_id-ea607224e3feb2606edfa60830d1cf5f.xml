@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inschrijven opdracht, project en excursie"
+    id="id-ea607224e3feb2606edfa60830d1cf5f">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="1b075139-807e-46449-c27c-2a101527d02"/>
+  <properties
+      key="Original ID"
+      value="id-1b075139807e46449c27c2a101527d02"/>
+  <properties
+      key="Semanticsearch"
+      value="inschrijven opdracht, project en excursie"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

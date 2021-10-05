@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="stelt inrichtingseisen aan"
+    id="id-b3ad4fcdff275306c913e9d8e82a2309"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="fa066a84-554a-4ad4a-666d-5d873e16520"/>
+  <properties
+      key="Original ID"
+      value="id-fa066a84554a4ad4a666d5d873e16520"/>
+  <properties
+      key="Semanticsearch"
+      value="stelt inrichtingseisen aan"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-f76c63e8f832318ee7247a27bc850be9.xml#id-f76c63e8f832318ee7247a27bc850be9"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c787effa7ba34101840a6a97bcceaf8a.xml#id-c787effa7ba34101840a6a97bcceaf8a"/>
+</archimate:AssociationRelationship>

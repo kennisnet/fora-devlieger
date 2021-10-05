@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking financiële gegevens leerling"
+    id="id-5ab25ebf58479f7c0b745f1bf8800e80">
+  <properties
+      key="Object ID"
+      value="e88f0cc1-6b24-48a8-ac2a-29fa5b4834d4"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="e88f0cc1-6b24-48a8-ac2a-29fa5b4834d4"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking financiële gegevens leerling"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

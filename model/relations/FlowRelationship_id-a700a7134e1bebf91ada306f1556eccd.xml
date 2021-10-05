@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a700a7134e1bebf91ada306f1556eccd"
+    documentation="mede besturing van de school door medezeggenschapsraad">
+  <properties
+      key="Referentie"
+      value="wet medezeggenschap scholen"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk?"/>
+  <properties
+      key="Benaming"
+      value="instelling, visie en resultaten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="30e2fc4e-b67b-415a-957a-1334d2cead72"/>
+  <properties
+      key="Original ID"
+      value="id-30e2fc4e-b67b-415a-957a-1334d2cead72"/>
+  <properties
+      key="Semanticsearch"
+      value="id-30e2fc4e-b67b-415a-957a-1334d2cead72"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-b146acf28144d00a8e6f1e7088869604.xml#id-b146acf28144d00a8e6f1e7088869604"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

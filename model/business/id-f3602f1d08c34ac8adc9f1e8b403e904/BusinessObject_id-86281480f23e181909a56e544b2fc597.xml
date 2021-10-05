@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Naam"
+    id="id-86281480f23e181909a56e544b2fc597"
+    documentation="familienaam van de leerling">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Midden"/>
+  <properties
+      key="Object ID"
+      value="0062db09-fa15-4266-bdb4-b708e0f91968"/>
+  <properties
+      key="Original ID"
+      value="id-0062db09-fa15-4266-bdb4-b708e0f91968"/>
+  <properties
+      key="Semanticsearch"
+      value="naam"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

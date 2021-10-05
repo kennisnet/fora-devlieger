@@ -1,0 +1,51 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Niveau"
+    id="id-72fdc54abacd9b5662ba5391402a015e"
+    documentation="Een niveau is een aanduiding voor een kwalificerende eigenschap van een onderwijseenheid. Voldoende niveau aan het eind van een onderwijseenheid  geeft toegang tot een hoger niveau.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="e4d3d3c7-85d4-42489-f7e0-63607565e43"/>
+  <properties
+      key="Original ID"
+      value="id-e4d3d3c785d442489f7e063607565e43"/>
+  <properties
+      key="Semanticsearch"
+      value="niveau"/>
+  <properties
+      key="Toelichting"
+      value="Er is niet een eenduidige liniaal waarlangs het niveau van een leereenheid kan worden uitgedrukt in een getal. Daarom wordt dat uitgedrukt in het soort onderwijs en indien meer nauwkeurigheid gewenst is aangevuld met leerjaren of andere tussengelegen meetmomenten."/>
+  <properties
+      key="Bron"
+      value="FORA-WG Informatiemodel O&amp;O"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Voorbeeld"
+      value="bovenbouw primair onderwijs, onderbouw vmbo tl"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

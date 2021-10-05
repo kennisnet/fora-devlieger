@@ -1,0 +1,21 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsondersteuning"
+    id="id-28793771489fcac604bb2abc8398d758"
+    documentation="Bedrijfsdomein voor zaken die het onderwijs ondersteunen.">
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Groep"/>
+  <properties
+      key="Object ID"
+      value="68f51108-5eee-4f13a-8ced-4802bb6f159"/>
+  <properties
+      key="Original ID"
+      value="id-68f511085eee4f13a8ced4802bb6f159"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsondersteuning"/>
+</archimate:Grouping>

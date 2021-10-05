@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lesprogramma beheren"
+    id="id-3c790f9de3c5e2b55da538210a93feab">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="3c74f53d-75f8-499f9-3c05-3d2c578115b"/>
+  <properties
+      key="Original ID"
+      value="id-3c74f53d75f8499f93c053d2c578115b"/>
+  <properties
+      key="Semanticsearch"
+      value="lesprogramma beheren"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

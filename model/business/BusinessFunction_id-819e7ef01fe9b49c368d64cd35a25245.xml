@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facilitering oudercommunicatie"
+    id="id-819e7ef01fe9b49c368d64cd35a25245"
+    documentation="Het faciliteren van communicatie met ouders/verzorgers in het kader van onderwijs, preventie en zorg.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="6981f369-baa2-4cc19-6c4e-2cc557bc834"/>
+  <properties
+      key="Original ID"
+      value="id-6981f369baa24cc196c4e2cc557bc834"/>
+  <properties
+      key="Semanticsearch"
+      value="facilitering oudercommunicatie"/>
+</archimate:BusinessFunction>

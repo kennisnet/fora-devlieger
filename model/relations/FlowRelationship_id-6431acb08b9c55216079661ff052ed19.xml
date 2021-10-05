@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6431acb08b9c55216079661ff052ed19"
+    documentation="Kanaal om lesmateriaal (digitaal en folio) beschikbaar te maken">
+  <properties
+      key="Referentie"
+      value="ROSA: ketenproces WCK keten"/>
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="toegang tot lesmateriaal"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="bdfa6bb5-1051-4f10-9fb1-f1ac93c2589d"/>
+  <properties
+      key="Original ID"
+      value="bdfa6bb5-1051-4f10-9fb1-f1ac93c2589d"/>
+  <properties
+      key="Semanticsearch"
+      value="bdfa6bb5-1051-4f10-9fb1-f1ac93c2589d"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-4eee299cb31ca824b19ec4b980289bdb.xml#id-4eee299cb31ca824b19ec4b980289bdb"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

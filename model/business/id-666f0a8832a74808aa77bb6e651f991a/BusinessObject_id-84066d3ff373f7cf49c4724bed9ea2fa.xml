@@ -1,0 +1,48 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kerndoel"
+    id="id-84066d3ff373f7cf49c4724bed9ea2fa"
+    documentation="Een kerndoel is een beschrijving van welke onderwerpen moeten worden aangeboden in de verplichte onderwijstijd.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="019a65bd-c378-4b56a-4c16-64208910018"/>
+  <properties
+      key="Original ID"
+      value="id-019a65bdc3784b56a4c1664208910018"/>
+  <properties
+      key="Semanticsearch"
+      value="kerndoel"/>
+  <properties
+      key="Toelichting"
+      value="Voor het Nederlandse onderwijs zijn kerndoelen en referentieniveaus omschreven die in de wet zijn vastgelegd."/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Afgeleid van"
+      value="https://opendata.slo.nl/Begrippenlijst/"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

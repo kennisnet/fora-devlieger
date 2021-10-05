@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beeldmateriaal"
+    id="id-caf6ae96847007ae4e7fc654f67ed46f"
+    documentation="Foto’s en videobeelden (met of zonder geluid) van activiteiten van de school.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="cfe41fbd-c36a-4d95-80ef-9bc087a9eef2"/>
+  <properties
+      key="Original ID"
+      value="cfe41fbd-c36a-4d95-80ef-9bc087a9eef2"/>
+  <properties
+      key="Semanticsearch"
+      value="beeldmateriaal"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+</archimate:BusinessObject>

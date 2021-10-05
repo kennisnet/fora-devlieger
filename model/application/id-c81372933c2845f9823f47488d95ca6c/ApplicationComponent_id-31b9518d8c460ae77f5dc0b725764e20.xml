@@ -1,0 +1,17 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ketenpartner ict"
+    id="id-31b9518d8c460ae77f5dc0b725764e20">
+  <properties
+      key="Object ID"
+      value="17f07941-ad91-40cb-9ded-4dec8a6efb54"/>
+  <properties
+      key="Original ID"
+      value="id-17f07941-ad91-40cb-9ded-4dec8a6efb54"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Semanticsearch"
+      value="ketenpartner ict"/>
+</archimate:ApplicationComponent>

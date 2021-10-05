@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="toont"
+    id="id-b4aebcc5d094d0a2bd2ea81c5d318e44"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="0528c8e2-77ee-4a9f9-2715-1b62066503e"/>
+  <properties
+      key="Original ID"
+      value="id-0528c8e277ee4a9f927151b62066503e"/>
+  <properties
+      key="Semanticsearch"
+      value="toont"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-4dc68f98ce2e1c97402da46264ae2ddf.xml#id-4dc68f98ce2e1c97402da46264ae2ddf"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-83271c0b89066b911be92aaaa453f8f2.xml#id-83271c0b89066b911be92aaaa453f8f2"/>
+</archimate:AssociationRelationship>

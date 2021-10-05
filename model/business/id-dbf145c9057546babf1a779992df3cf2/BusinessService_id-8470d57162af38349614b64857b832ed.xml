@@ -1,0 +1,21 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegang tot digitaal lesmateriaal"
+    id="id-8470d57162af38349614b64857b832ed"
+    documentation="Het proces dat beschrijft hoe een gebruiker toegelaten kan worden tot het educatieve digitale product en in staat wordt gesteld gebruik te maken van digitaal leermateriaal. Bron: ECK D&amp;T 2.1">
+  <properties
+      key="Object ID"
+      value="d3877536-0622-43588-8962-3c890161479"/>
+  <properties
+      key="Original ID"
+      value="id-d387753606224358889623c890161479"/>
+  <properties
+      key="SWC type"
+      value="Landelijke dienst"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Semanticsearch"
+      value="toegang tot digitaal lesmateriaal"/>
+</archimate:BusinessService>

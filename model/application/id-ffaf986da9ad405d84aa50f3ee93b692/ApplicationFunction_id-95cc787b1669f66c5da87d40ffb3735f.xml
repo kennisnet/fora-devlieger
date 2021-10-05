@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking klas, leerjaar, onderwijstype- of methode leerling"
+    id="id-95cc787b1669f66c5da87d40ffb3735f">
+  <properties
+      key="Object ID"
+      value="2a2a9e5e-4a54-4859-94bb-d7de79a4c9b7"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-2a2a9e5e-4a54-4859-94bb-d7de79a4c9b7"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking klas, leerjaar, onderwijstype- of methode leerling"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

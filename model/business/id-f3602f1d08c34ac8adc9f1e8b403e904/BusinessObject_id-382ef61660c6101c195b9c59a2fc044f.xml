@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nationaliteit en geboorteplaats"
+    id="id-382ef61660c6101c195b9c59a2fc044f"
+    documentation="Nationaliteit en geboorteplaats van de leerling">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Midden"/>
+  <properties
+      key="Object ID"
+      value="6d0fde14-11cd-4913-9a13-690b68240aae"/>
+  <properties
+      key="Original ID"
+      value="id-6d0fde14-11cd-4913-9a13-690b68240aae"/>
+  <properties
+      key="Semanticsearch"
+      value="nationaliteit en geboorteplaats"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

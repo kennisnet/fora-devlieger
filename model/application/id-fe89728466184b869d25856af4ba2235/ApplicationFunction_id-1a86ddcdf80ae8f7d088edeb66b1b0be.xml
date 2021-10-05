@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Master Information &amp; Datamanagement"
+    id="id-1a86ddcdf80ae8f7d088edeb66b1b0be"
+    documentation="Ondersteuning van het beheren van gegevens door het verwijderen van duplicaten, het standaardiseren van data (massa onderhoud), het vastleggen &amp; honoreren van regels (business rules) en het aanwijzen van een autoritieve databron.&#xA;Onderdelen die vaak binnen MIDM voorkomen zijn:&#xA;* Bron identificatie &#xA;* Data transformatie &#xA;* Data normalisatie &#xA;* Gegevensregels administratie (&amp; toepassen) &#xA;* Fout of afwijking identificatie &amp; correctie &#xA;* Data consolidatie &#xA;* Data opslagbeheer &#xA;* Data distributie &#xA;* Data classificatie &#xA;* Taxonomiebeheer &#xA;* Schema mapping &#xA;* Product codificatie &#xA;* Data verrijking &#xA;* Data hierarchiebeheer (autoritaire bronnen) &#xA;* Business semantics management &#xA;* Data governance">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="3983fa7c-acd6-42cb8-42f6-b1bb586d3fc"/>
+  <properties
+      key="Original ID"
+      value="id-3983fa7cacd642cb842f6b1bb586d3fc"/>
+  <properties
+      key="Semanticsearch"
+      value="master information &amp; datamanagement"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

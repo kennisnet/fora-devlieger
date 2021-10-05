@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ict-beleidsplan"
+    id="id-dbe6dbf16cd5a897f04c1fd8680b59c4"
+    documentation="Architectuur en inrichtingskeuzes, eigenschappen en keuzes die bepalend zijn hoe de onderwijsinstelling is georganiseerd en functioneert">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="8aad57e6-11d9-4f84-8d13-8331622b0d95"/>
+  <properties
+      key="Original ID"
+      value="id-8aad57e6-11d9-4f84-8d13-8331622b0d95"/>
+  <properties
+      key="Semanticsearch"
+      value="ict-beleidsplan"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Bevoegd gezag"/>
+</archimate:BusinessObject>

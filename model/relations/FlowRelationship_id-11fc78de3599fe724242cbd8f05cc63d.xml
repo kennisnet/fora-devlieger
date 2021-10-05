@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-11fc78de3599fe724242cbd8f05cc63d"
+    documentation="communicatie met (potentiële) leerling">
+  <properties
+      key="Referentie"
+      value="wet PO, art 45a"/>
+  <properties
+      key="Grondslag"
+      value="organisatie en wettelijk"/>
+  <properties
+      key="Benaming"
+      value="instelling, visie en resultaten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="198b1f0f-d48e-45ec-96d2-f1763513f987"/>
+  <properties
+      key="Original ID"
+      value="id-198b1f0f-d48e-45ec-96d2-f1763513f987"/>
+  <properties
+      key="Semanticsearch"
+      value="id-198b1f0f-d48e-45ec-96d2-f1763513f987"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-b8b81b18212ddd02afecfe10c2b1f773.xml#id-b8b81b18212ddd02afecfe10c2b1f773"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Databasesysteem"
+    id="id-550453743fa8e29b50e19d22c2e8eba9"
+    documentation="Databasemanagementsysteem. &#xA;Denk aan: SQLserver, Oracle">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="28c63ea3-ed99-4277a-bb73-bf77ec19d9a"/>
+  <properties
+      key="Original ID"
+      value="id-28c63ea3ed994277abb73bf77ec19d9a"/>
+  <properties
+      key="Semanticsearch"
+      value="databasesysteem"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bestuur"
+    id="id-87f08873022f92b5a853889712cb7fac"
+    documentation="Het uitvoeren van bestuurstaken.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="c2459732-db76-4a9da-f654-0829f0bd05e"/>
+  <properties
+      key="Original ID"
+      value="id-c2459732db764a9daf6540829f0bd05e"/>
+  <properties
+      key="Semanticsearch"
+      value="bestuur"/>
+</archimate:BusinessFunction>

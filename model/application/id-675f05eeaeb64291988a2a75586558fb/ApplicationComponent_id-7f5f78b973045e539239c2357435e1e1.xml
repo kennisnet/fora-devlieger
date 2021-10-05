@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plagiaatdetectie systeem"
+    id="id-7f5f78b973045e539239c2357435e1e1">
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Object ID"
+      value="82dd361e-4819-42eb8-cb3d-3e136684f79"/>
+  <properties
+      key="Original ID"
+      value="id-82dd361e481942eb8cb3d3e136684f79"/>
+  <properties
+      key="Semanticsearch"
+      value="plagiaatdetectie systeem"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking beeldmateriaal leerling"
+    id="id-32489dabe8bfad3b9498e7fc69447b35">
+  <properties
+      key="Object ID"
+      value="539a6e96-33cb-49c3-a336-d44876133ebd"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-539a6e96-33cb-49c3-a336-d44876133ebd"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking beeldmateriaal leerling"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

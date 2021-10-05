@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geboortedatum"
+    id="id-ce5d81440fba997aae4b0ba3a81e5a73"
+    documentation="Geboortedatum van de leerling">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Midden"/>
+  <properties
+      key="Object ID"
+      value="47bbd8cc-2dc7-4332-a834-af6cff070b12"/>
+  <properties
+      key="Original ID"
+      value="id-47bbd8cc-2dc7-4332-a834-af6cff070b12"/>
+  <properties
+      key="Semanticsearch"
+      value="geboortedatum"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

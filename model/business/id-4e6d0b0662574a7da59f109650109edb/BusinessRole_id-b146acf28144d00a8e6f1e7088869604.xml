@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medezeggenschapsraad"
+    id="id-b146acf28144d00a8e6f1e7088869604"
+    documentation="Medenzeggenschapsraad (wet medezeggenschap op scholen)">
+  <properties
+      key="Object ID"
+      value="43d99bf9-e32b-4095-a388-358d723ca58f"/>
+  <properties
+      key="Original ID"
+      value="id-43d99bf9-e32b-4095-a388-358d723ca58f"/>
+  <properties
+      key="Semanticsearch"
+      value="medezeggenschapsraad"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

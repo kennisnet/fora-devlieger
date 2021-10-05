@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-635513bc250f3094efba4adc5e9c4b75"
+    documentation="selectie van toetsmateriaal t.b.v. de school / opleiding">
+  <properties
+      key="Referentie"
+      value="wet PO art 8.7, art 9b e.a., wet VO, wet EC"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="inrichten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Organisatie"/>
+  <properties
+      key="Object ID"
+      value="77096614-873f-46c0-8819-1a1dd0ee75de"/>
+  <properties
+      key="Original ID"
+      value="id-77096614-873f-46c0-8819-1a1dd0ee75de"/>
+  <properties
+      key="Semanticsearch"
+      value="id-77096614-873f-46c0-8819-1a1dd0ee75de"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-c9ac65fd637949e62c19f0350f4387f4.xml#id-c9ac65fd637949e62c19f0350f4387f4"/>
+</archimate:FlowRelationship>

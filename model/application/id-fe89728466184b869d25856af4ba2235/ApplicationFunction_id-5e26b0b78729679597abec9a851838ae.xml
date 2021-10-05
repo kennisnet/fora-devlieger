@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vergaderen met live video en audio"
+    id="id-5e26b0b78729679597abec9a851838ae"
+    documentation="Live meetings met kleine en grote groepen waarbij videobeeld en geluid van alle deelnemers beschikbaar is voor alle deelnemers.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="5c878779-c5fe-4df5a-0107-73eceb3bc48"/>
+  <properties
+      key="Original ID"
+      value="id-5c878779c5fe4df5a010773eceb3bc48"/>
+  <properties
+      key="Semanticsearch"
+      value="vergaderen met live video en audio"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

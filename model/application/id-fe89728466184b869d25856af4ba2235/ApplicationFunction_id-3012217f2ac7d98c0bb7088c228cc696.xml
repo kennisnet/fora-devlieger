@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Webcontent-beheer"
+    id="id-3012217f2ac7d98c0bb7088c228cc696"
+    documentation="Het beheren en publiceren van content op websites">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="aa6a5644-0579-492c9-6167-80ea36193ae"/>
+  <properties
+      key="Original ID"
+      value="id-aa6a56440579492c9616780ea36193ae"/>
+  <properties
+      key="Semanticsearch"
+      value="webcontent-beheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

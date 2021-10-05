@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2e97892b8cce3ac0e76ecb13c4380a9a"
+    documentation="gegevensleveranties aan DUO">
+  <properties
+      key="Referentie"
+      value="https://duo.nl/zakelijk/voortgezet-onderwijs/personeel/levering-personeelsgegevens.jsp ; zie ook wet op de expertise centra artikel 38 (is voor speciaal onderwijs), wet PO (art38),"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="basis medewerker, kwalificaties, salaris, inzet en verzuim"/>
+  <properties
+      key="Gegevenssoort"
+      value="Medewerker"/>
+  <properties
+      key="Object ID"
+      value="bf9c28f0-65db-4cd8-901a-49bda36bb4b1"/>
+  <properties
+      key="Original ID"
+      value="bf9c28f0-65db-4cd8-901a-49bda36bb4b1"/>
+  <properties
+      key="Semanticsearch"
+      value="bf9c28f0-65db-4cd8-901a-49bda36bb4b1"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+</archimate:FlowRelationship>

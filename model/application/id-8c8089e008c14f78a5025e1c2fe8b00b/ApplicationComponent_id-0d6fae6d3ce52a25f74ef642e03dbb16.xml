@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijs serviceregister (OSR)"
+    id="id-0d6fae6d3ce52a25f74ef642e03dbb16"
+    documentation="De voorziening Onderwijs Serviceregister (OSR) zal de rol van &quot;telefoonboek&quot; voor de onderwijsketen vervullen. In het OSR worden de relatie tussen scholen, leveranciers en diensten vastgelegd. Hiermee zal het OSR een standaardoplossing bieden omtrent routerings- en autorisatievraagstukken.">
+  <properties
+      key="Object ID"
+      value="94498f6c-4ae9-45f6-bddc-98f14f3b3c0c"/>
+  <properties
+      key="Original ID"
+      value="id-94498f6c-4ae9-45f6-bddc-98f14f3b3c0c"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Landelijke voorziening"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijs serviceregister (osr)"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Horizontale verantwoording"
+    id="id-c5b2c1e1d18c2e2f111ed3d1ea283762"
+    documentation="Het actief betrekken van het team, MR, ouders en leerlingen bij de organisatie en het beleid in en om de school.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="0f339d5b-8914-48aeb-b12d-cd14cf51d27"/>
+  <properties
+      key="Original ID"
+      value="id-0f339d5b891448aebb12dcd14cf51d27"/>
+  <properties
+      key="Semanticsearch"
+      value="horizontale verantwoording"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgaanbieder"
+    id="id-130c8fd3954afe9aec757fccb8439afd"
+    documentation="Jeugdzorg, Schoolmaatschappelijk werk, Jeugdbescherming; jeugdhulp, centrum jeugd en gezin, onderwijsachterstanden/VVE">
+  <properties
+      key="Object ID"
+      value="a8f98cc9-8f84-45e5-9914-f625c677c7fc"/>
+  <properties
+      key="Original ID"
+      value="a8f98cc9-8f84-45e5-9914-f625c677c7fc"/>
+  <properties
+      key="Semanticsearch"
+      value="zorgaanbieder"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

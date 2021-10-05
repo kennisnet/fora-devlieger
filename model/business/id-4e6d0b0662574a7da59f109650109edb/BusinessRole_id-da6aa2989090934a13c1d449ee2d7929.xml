@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sectorale onderwijsondersteunende organisaties"
+    id="id-da6aa2989090934a13c1d449ee2d7929"
+    documentation="PO-, VO- of MBO-ondersteunende organisatie">
+  <properties
+      key="Werkingsgebied"
+      value="PO-ondersteunende organisaties,VO-ondersteunende organisaties,BVE-ondersteunende organisaties,HO-ondersteunende organisaties"/>
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Object ID"
+      value="c4d4037d-c453-4585-a230-fc2d3e6897fa"/>
+  <properties
+      key="Original ID"
+      value="c4d4037d-c453-4585-a230-fc2d3e6897fa"/>
+  <properties
+      key="Semanticsearch"
+      value="sectorale onderwijsondersteunende organisaties"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

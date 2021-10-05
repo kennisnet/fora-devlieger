@@ -1,0 +1,24 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accreditatie-organisatie"
+    id="id-d5cacfcc7ccc388e881544a6e99bbab6"
+    documentation="Organisatie die belast is met het evalueren van de kwaliteit van het onderwijs. Voor primair en voortgezet onderwijs is dit de Inspectie van het Onderwijs.">
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Object ID"
+      value="5331ff96-88ff-4174-8b30-94a10cd20219"/>
+  <properties
+      key="Original ID"
+      value="id-5331ff96-88ff-4174-8b30-94a10cd20219"/>
+  <properties
+      key="Semanticsearch"
+      value="accreditatie-organisatie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

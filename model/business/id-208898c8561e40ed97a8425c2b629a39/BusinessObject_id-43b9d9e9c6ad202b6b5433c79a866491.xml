@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gezondheidsgegevens"
+    id="id-43b9d9e9c6ad202b6b5433c79a866491"
+    documentation="Gegevens die noodzakelijk zijn met het oog op de gezondheid of het welzijn van de leerling, voor zover deze van belang zijn bij het nemen van aanvullende maatregelen om goed onderwijs te kunnen volgen (bv. extra tijd bij toetsen)">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Midden"/>
+  <properties
+      key="Object ID"
+      value="6331c3ee-72c7-4d25-848c-c31a5309c550"/>
+  <properties
+      key="Original ID"
+      value="id-6331c3ee-72c7-4d25-848c-c31a5309c550"/>
+  <properties
+      key="Semanticsearch"
+      value="gezondheidsgegevens"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Leerlingbegeleiding en -zorg"/>
+</archimate:BusinessObject>

@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoek en diagnostiek"
+    id="id-a02deac09226eb9f5711cb02a7af92fc"
+    documentation="Het bepalen van onderliggende oorzaken van didactische en/of psychologische problemen en het eventueel stellen van een diagnose.">
+  <properties
+      key="Object ID"
+      value="46db2a8e-5a2c-4974-a1ca-9160cdb943fd"/>
+  <properties
+      key="Original ID"
+      value="id-46db2a8e-5a2c-4974-a1ca-9160cdb943fd"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="onderzoek en diagnostiek"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

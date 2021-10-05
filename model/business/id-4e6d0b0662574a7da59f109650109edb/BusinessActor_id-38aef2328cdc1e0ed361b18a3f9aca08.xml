@@ -1,0 +1,21 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Belastingdienst"
+    id="id-38aef2328cdc1e0ed361b18a3f9aca08"
+    documentation="Agentschap van het Ministerie van Financien, belast met het invorderen van de rijksbelastingen.">
+  <properties
+      key="Object ID"
+      value="ed455bcf-d155-4d3f-a988-cee3794c14a3"/>
+  <properties
+      key="Original ID"
+      value="ed455bcf-d155-4d3f-a988-cee3794c14a3"/>
+  <properties
+      key="Semanticsearch"
+      value="belastingdienst"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Organisatie"/>
+</archimate:BusinessActor>

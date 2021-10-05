@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticatiemiddelontwerp"
+    id="id-3c8cb9201ceead598c633bb7d9d060f5">
+  <properties
+      key="Object ID"
+      value="1b7966d7-0c0d-4140-9f31-a532413231f4"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-1b7966d7-0c0d-4140-9f31-a532413231f4"/>
+  <properties
+      key="Semanticsearch"
+      value="authenticatiemiddelontwerp"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

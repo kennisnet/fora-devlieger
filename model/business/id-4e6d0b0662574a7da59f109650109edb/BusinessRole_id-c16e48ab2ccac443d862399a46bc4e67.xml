@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vakvereniging"
+    id="id-c16e48ab2ccac443d862399a46bc4e67"
+    documentation="SRVO, Platform VVVO, VOO, vereniging filisofiedocenten, vakvereniging i&amp;i, VONKC, NVO, Nederlandse veriging van wiskunde leraren, KVLO, enz, enz. zie FvOv voor een overzicht">
+  <properties
+      key="Object ID"
+      value="2c7632b3-d9f3-42a9-b332-024a643fceec"/>
+  <properties
+      key="Original ID"
+      value="id-2c7632b3-d9f3-42a9-b332-024a643fceec"/>
+  <properties
+      key="Semanticsearch"
+      value="vakvereniging"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

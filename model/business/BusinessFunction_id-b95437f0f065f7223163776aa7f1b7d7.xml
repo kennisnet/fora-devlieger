@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerlingcommunicatie klasbreed"
+    id="id-b95437f0f065f7223163776aa7f1b7d7"
+    documentation="Communicatie over onderwijs en resultaten richting een klas">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="322759ef-a0ba-47d9a-cd90-a3d74db907d"/>
+  <properties
+      key="Original ID"
+      value="id-322759efa0ba47d9acd90a3d74db907d"/>
+  <properties
+      key="Semanticsearch"
+      value="leerlingcommunicatie klasbreed"/>
+</archimate:BusinessFunction>

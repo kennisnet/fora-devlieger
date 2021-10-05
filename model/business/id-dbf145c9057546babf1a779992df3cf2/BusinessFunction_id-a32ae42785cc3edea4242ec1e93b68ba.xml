@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerlingeninformatie"
+    id="id-a32ae42785cc3edea4242ec1e93b68ba"
+    documentation="Informeren van leerlingen over zaken van logistieke aard (zoals een wijziging in het rooster of een melding over een storing in een systeem). Denk hierbij ook aan een persoonlijke agenda voor leerlingen.">
+  <properties
+      key="Object ID"
+      value="8cb97b9a-6c62-4e30-af7f-e5e47abb542d"/>
+  <properties
+      key="Original ID"
+      value="id-8cb97b9a-6c62-4e30-af7f-e5e47abb542d"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="leerlingeninformatie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

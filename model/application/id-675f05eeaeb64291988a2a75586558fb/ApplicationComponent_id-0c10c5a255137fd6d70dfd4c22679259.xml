@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkerportaal"
+    id="id-0c10c5a255137fd6d70dfd4c22679259"
+    documentation="[[Portaal]] waarmee medewerkers toegang krijgen tot informatie vanuit de school.">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="f9c70c1b-6b4a-4a58b-b155-36305a9cd5c"/>
+  <properties
+      key="Original ID"
+      value="id-f9c70c1b6b4a4a58bb15536305a9cd5c"/>
+  <properties
+      key="Semanticsearch"
+      value="medewerkerportaal"/>
+</archimate:ApplicationComponent>

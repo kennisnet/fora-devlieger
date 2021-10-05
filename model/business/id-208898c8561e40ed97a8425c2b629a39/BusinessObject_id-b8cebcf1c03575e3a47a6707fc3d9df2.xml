@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leraar"
+    id="id-b8cebcf1c03575e3a47a6707fc3d9df2"
+    documentation="Docent">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="46b7afe8-9a6d-4da8-97d9-2c305eae23d9"/>
+  <properties
+      key="Original ID"
+      value="id-46b7afe8-9a6d-4da8-97d9-2c305eae23d9"/>
+  <properties
+      key="Semanticsearch"
+      value="leraar"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+</archimate:BusinessObject>

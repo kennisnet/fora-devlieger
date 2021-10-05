@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ffc761d083813eeaf64b3235c8585978"
+    documentation="onderwijs SW diensten">
+  <properties
+      key="Referentie"
+      value="ROSA: ketenfunctie informatieverwerking"/>
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="diensten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="042d6136-1df8-4609-8f01-5a91194de90a"/>
+  <properties
+      key="Original ID"
+      value="id-042d6136-1df8-4609-8f01-5a91194de90a"/>
+  <properties
+      key="Semanticsearch"
+      value="id-042d6136-1df8-4609-8f01-5a91194de90a"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-1974e1d55a4b79fe545c5bac251303c0.xml#id-1974e1d55a4b79fe545c5bac251303c0"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

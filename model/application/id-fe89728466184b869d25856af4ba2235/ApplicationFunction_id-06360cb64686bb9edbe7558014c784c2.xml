@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer identiteitsgegevens"
+    id="id-06360cb64686bb9edbe7558014c784c2">
+  <properties
+      key="Object ID"
+      value="86b52e3e-a56f-4192-8446-8a41b80a05a0"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-86b52e3e-a56f-4192-8446-8a41b80a05a0"/>
+  <properties
+      key="Semanticsearch"
+      value="beheer identiteitsgegevens"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

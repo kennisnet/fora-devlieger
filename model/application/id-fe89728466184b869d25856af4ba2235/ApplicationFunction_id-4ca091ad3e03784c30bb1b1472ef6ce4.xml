@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beoordelen toetsen en opdrachten"
+    id="id-4ca091ad3e03784c30bb1b1472ef6ce4">
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="Object ID"
+      value="b72543ac-000e-444f8-b5be-24a3df2b766"/>
+  <properties
+      key="Original ID"
+      value="id-b72543ac000e444f8b5be24a3df2b766"/>
+  <properties
+      key="Semanticsearch"
+      value="beoordelen toetsen en opdrachten"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

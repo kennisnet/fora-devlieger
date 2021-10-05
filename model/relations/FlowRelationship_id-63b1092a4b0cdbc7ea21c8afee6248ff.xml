@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-63b1092a4b0cdbc7ea21c8afee6248ff"
+    documentation="gegevensuitwisseling met vakbonden">
+  <properties
+      key="Referentie"
+      value="Vrijstellingsbesluit Wbp, art 6"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="e032fa39-5cac-4967-a137-0c74e40728eb"/>
+  <properties
+      key="Original ID"
+      value="e032fa39-5cac-4967-a137-0c74e40728eb"/>
+  <properties
+      key="Semanticsearch"
+      value="e032fa39-5cac-4967-a137-0c74e40728eb"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-fda9cae2798fe84e93bc43ee6c2aac7e.xml#id-fda9cae2798fe84e93bc43ee6c2aac7e"/>
+</archimate:FlowRelationship>

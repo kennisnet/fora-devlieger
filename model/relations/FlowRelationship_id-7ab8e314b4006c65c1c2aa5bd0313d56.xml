@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7ab8e314b4006c65c1c2aa5bd0313d56"
+    documentation="huisvestingsdiensten">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="huisvesting"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="12b3742f-8019-444b-986b-f2dacc935853"/>
+  <properties
+      key="Original ID"
+      value="id-12b3742f-8019-444b-986b-f2dacc935853"/>
+  <properties
+      key="Semanticsearch"
+      value="id-12b3742f-8019-444b-986b-f2dacc935853"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-279340e10721c9599d515f6809a5d930.xml#id-279340e10721c9599d515f6809a5d930"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

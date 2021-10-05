@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer ict-middelen"
+    id="id-7710f7f48da84c102734b0f6b512f01d"
+    documentation="Het beheer van diverse soorten ict-middelen (hard- en softwarecomponenten), zoals:&#xA;- servers&#xA;- netwerken&#xA;- PC's, en daarop draaiende software&#xA;- devices / apparatuur, zoals laptops, smartphones, tablets e.d.&#xA;- werkplekken&#xA;- storage- en backupsystemen&#xA;- print- / kopieersystemen&#xA;- telefonienetwerk&#xA;- applicaties&#xA;&#xA;Dit omvat ook monitoring en signalering van de juiste werking,  de beschikbaarheid,  de veiligheid,  de capaciteit, het gebruik en de performance van de ict-middelen.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="b24d9cc3-0a49-4645b-2573-50d8a844699"/>
+  <properties
+      key="Original ID"
+      value="id-b24d9cc30a494645b257350d8a844699"/>
+  <properties
+      key="Semanticsearch"
+      value="beheer ict-middelen"/>
+</archimate:BusinessFunction>

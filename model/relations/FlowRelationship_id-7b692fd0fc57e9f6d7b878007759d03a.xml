@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7b692fd0fc57e9f6d7b878007759d03a"
+    documentation="subsidieregels voor bestuurlijke organisatie">
+  <properties
+      key="Referentie"
+      value="bijvoorbeeld: https://www.dus-i.nl/subsidies/lerarenontwikkelfonds ; zie ook: https://www.rijksoverheid.nl/documenten/rapporten/2005/06/10/lijst-voorbeelden-publiekrechtelijke-instelli"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="beleid"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="acc2ee91-dfb0-4f82-80aa-328f2ed545b6"/>
+  <properties
+      key="Original ID"
+      value="acc2ee91-dfb0-4f82-80aa-328f2ed545b6"/>
+  <properties
+      key="Semanticsearch"
+      value="acc2ee91-dfb0-4f82-80aa-328f2ed545b6"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-3f792b732e87df35f7f2f8915a8b5abb.xml#id-3f792b732e87df35f7f2f8915a8b5abb"/>
+</archimate:FlowRelationship>

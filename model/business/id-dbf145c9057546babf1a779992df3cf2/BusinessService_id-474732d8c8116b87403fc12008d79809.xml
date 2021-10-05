@@ -1,0 +1,21 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Register voor onderwijsinstellingen"
+    id="id-474732d8c8116b87403fc12008d79809"
+    documentation="Dienst van RIO waarin de onderwijskundige en juridische werkelijkheid van onderwijsinstellingen in is geregistreerd.">
+  <properties
+      key="Object ID"
+      value="4de0c698-afd1-4929b-d819-efe22a11eef"/>
+  <properties
+      key="Original ID"
+      value="id-4de0c698afd14929bd819efe22a11eef"/>
+  <properties
+      key="SWC type"
+      value="Landelijke dienst"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Semanticsearch"
+      value="register voor onderwijsinstellingen"/>
+</archimate:BusinessService>

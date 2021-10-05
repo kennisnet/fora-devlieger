@@ -1,0 +1,20 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Art. 42 WPO - Onderwijskundig rapport en schooladvies"
+    id="id-88e5e38e0f7b720dfec098d3e9256f0c">
+  <properties
+      key="Verwijzing"
+      value="https://wetten.overheid.nl/jci1.3:c:BWBR0003420&amp;hoofdstuk=I&amp;titeldeel=II&amp;afdeling=1&amp;paragraaf=4&amp;artikel=42"/>
+  <properties
+      key="Juriconnect"
+      value="jci1.3:c:BWBR0003420&amp;hoofdstuk=I&amp;titeldeel=II&amp;afdeling=1&amp;paragraaf=4&amp;artikel=42"/>
+  <properties
+      key="Object ID"
+      value="0d97fc78-1413-4fb68-b2e2-68c203756fa"/>
+  <properties
+      key="Original ID"
+      value="id-0d97fc7814134fb68b2e268c203756fa"/>
+  <properties
+      key="Semanticsearch"
+      value="art. 42 wpo - onderwijskundig rapport en schooladvies"/>
+</archimate:Driver>

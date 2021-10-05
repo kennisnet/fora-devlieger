@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Juridisch eigenaar"
+    id="id-343b852ea9a67dba33503043f6dfe93a"
+    documentation="Juridisch eigenaar is de eigenaar van het schoolgebouw, waarbij de volgende beperkingen gelden:&#xA;* Voor verhuur is vooraf toestemming nodig van de gemeente&#xA;* Geen bezwaren van het eigendom zonder toestemming van de gemeente en&#xA;* Niet mogen verkopen aan een derde.&#xA;&#xA;In principe is het schoolbestuur juridisch eigenaar van het schoolgebouw.&#xA;Het schoolbestuur heeft het gebouw in eigendom zolang het het gebouw nodig heeft voor het verzorgen van onderwijs. Als dit niet meer het geval is, gaat het eigendom terug naar de gemeente.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Huisvesting"/>
+  <properties
+      key="Object ID"
+      value="222a24e0-f6ea-4962b-935a-67d02c48b0a"/>
+  <properties
+      key="Original ID"
+      value="id-222a24e0f6ea4962b935a67d02c48b0a"/>
+  <properties
+      key="Semanticsearch"
+      value="juridisch eigenaar"/>
+</archimate:BusinessObject>

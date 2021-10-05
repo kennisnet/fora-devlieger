@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking onderwijshistorie en advies"
+    id="id-96974ad18981e6e5ba6aa6854516e664">
+  <properties
+      key="Object ID"
+      value="d348d847-cad9-4ec1-82ea-8a8f37cce58b"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="d348d847-cad9-4ec1-82ea-8a8f37cce58b"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking onderwijshistorie en advies"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

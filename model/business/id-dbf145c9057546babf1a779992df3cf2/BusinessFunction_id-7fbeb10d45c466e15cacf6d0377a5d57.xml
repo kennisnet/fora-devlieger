@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensbeheer"
+    id="id-7fbeb10d45c466e15cacf6d0377a5d57"
+    documentation="Het geheel van activiteiten, waaronder het  organiseren, catalogiseren, lokaliseren, opbergen, ophalen en onderhouden van gegevens, om in de onderwijsinstelling  op het juiste moment over de juiste gegevens van de juiste kwaliteit te beschikken.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="3ec2ca9e-538c-45338-8453-8b7f162485e"/>
+  <properties
+      key="Original ID"
+      value="id-3ec2ca9e538c4533884538b7f162485e"/>
+  <properties
+      key="Semanticsearch"
+      value="gegevensbeheer"/>
+</archimate:BusinessFunction>

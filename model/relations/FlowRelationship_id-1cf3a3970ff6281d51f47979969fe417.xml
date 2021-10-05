@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1cf3a3970ff6281d51f47979969fe417"
+    documentation="richtlijnen voor afnemen toets voor de school">
+  <properties
+      key="Referentie"
+      value="wet PO, wet VO, wet CE, wet CvtE"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="richtlijnen"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="3d209142-978d-4059-8bf9-0e33e94d7c63"/>
+  <properties
+      key="Original ID"
+      value="id-3d209142-978d-4059-8bf9-0e33e94d7c63"/>
+  <properties
+      key="Semanticsearch"
+      value="id-3d209142-978d-4059-8bf9-0e33e94d7c63"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-1974e1d55a4b79fe545c5bac251303c0.xml#id-1974e1d55a4b79fe545c5bac251303c0"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

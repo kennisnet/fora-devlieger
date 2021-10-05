@@ -1,0 +1,51 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referentieniveau Nederlandse taal"
+    id="id-67fe71bea48e705cf3e096f93c39fdc0"
+    documentation="Een referentieniveau Nederlandse taal is een beschrijving van de taalvaardigheid van een leerling op een bepaald overgangsmoment in het onderwijs.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Object ID"
+      value="4cb1f388-7bd7-4c2aa-6229-fe13cc26424"/>
+  <properties
+      key="Original ID"
+      value="id-4cb1f3887bd74c2aa6229fe13cc26424"/>
+  <properties
+      key="Semanticsearch"
+      value="referentieniveau nederlandse taal"/>
+  <properties
+      key="Toelichting"
+      value="Het geheel aan beschrijvingen wordt aangeduid met ‘het referentiekader’ en is vastgelegd in de Wet referentieniveaus Nederlandse taal en rekenen die op 1 augustus 2010 van kracht is geworden."/>
+  <properties
+      key="Afgeleid van"
+      value="rijksoverheid.nl, https://wij-leren.nl/referentieniveau.php"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Statusdatum"
+      value="12-7-2021"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+</archimate:BusinessObject>

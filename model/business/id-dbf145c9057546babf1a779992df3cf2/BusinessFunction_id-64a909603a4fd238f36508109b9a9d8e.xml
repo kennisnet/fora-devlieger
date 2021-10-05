@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financieel beheer en bekostiging"
+    id="id-64a909603a4fd238f36508109b9a9d8e"
+    documentation="Het beschikbaar maken van financiële middelen voor (onderdelen van) de onderwijsorganisatie.">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="833dc02a-3c95-4e4d-9b08-c2fd951a3371"/>
+  <properties
+      key="Original ID"
+      value="id-833dc02a-3c95-4e4d-9b08-c2fd951a3371"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="financieel beheer en bekostiging"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

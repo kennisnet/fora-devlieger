@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Device management"
+    id="id-21b2db97e9c3a452f96bcf840833a3f0"
+    documentation="Het beheren van devices / apparatuur">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="a3d70501-b106-4eb4b-7f50-87010d6fb45"/>
+  <properties
+      key="Original ID"
+      value="id-a3d70501b1064eb4b7f5087010d6fb45"/>
+  <properties
+      key="Semanticsearch"
+      value="device management"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

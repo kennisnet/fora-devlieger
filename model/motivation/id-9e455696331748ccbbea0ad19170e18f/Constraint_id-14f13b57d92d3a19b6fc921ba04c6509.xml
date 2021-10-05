@@ -1,0 +1,24 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UWLR Profiel LVS set"
+    id="id-14f13b57d92d3a19b6fc921ba04c6509"
+    documentation="[[UWLR]]">
+  <properties
+      key="Versieaanduiding"
+      value="Profiel LVS set"/>
+  <properties
+      key="Object ID"
+      value="1994d9fe-d784-4095-8417-1226a8c8aabd"/>
+  <properties
+      key="Original ID"
+      value="id-1994d9fe-d784-4095-8417-1226a8c8aabd"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Standaardversie"/>
+  <properties
+      key="Semanticsearch"
+      value="uwlr profiel lvs set"/>
+</archimate:Constraint>

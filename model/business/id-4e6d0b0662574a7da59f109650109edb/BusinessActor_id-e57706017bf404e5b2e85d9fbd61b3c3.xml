@@ -1,0 +1,21 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NRO"
+    id="id-e57706017bf404e5b2e85d9fbd61b3c3"
+    documentation="Nationaal Regieorgaan Onderwijsonderzoek">
+  <properties
+      key="Object ID"
+      value="95583aa6-f845-44a1-b0e9-345797ab99f3"/>
+  <properties
+      key="Original ID"
+      value="id-95583aa6-f845-44a1-b0e9-345797ab99f3"/>
+  <properties
+      key="Semanticsearch"
+      value="nro"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Organisatie"/>
+</archimate:BusinessActor>

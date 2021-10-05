@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begeleiden discalculie"
+    id="id-36a474c226a249122496d3af1eb767bf"
+    documentation="Extra ondersteuning buiten de reguliere onderwijstaak om, specifiek gericht op discalculie.">
+  <properties
+      key="Object ID"
+      value="4e3d9c2e-a8a3-406e-af71-27c939dec9c6"/>
+  <properties
+      key="Original ID"
+      value="id-4e3d9c2e-a8a3-406e-af71-27c939dec9c6"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="begeleiden discalculie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

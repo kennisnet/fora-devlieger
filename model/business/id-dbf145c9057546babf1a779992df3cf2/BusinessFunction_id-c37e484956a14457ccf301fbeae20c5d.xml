@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bekostigingsbeheer"
+    id="id-c37e484956a14457ccf301fbeae20c5d"
+    documentation="Het toedelen, bestemmen en aanwenden van bekostigingsgelden en het bewaken dat uitgaven vallen binnen de bekostigingsvoorwaarden.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="4343f9ba-12cf-441a8-3385-471d282f450"/>
+  <properties
+      key="Original ID"
+      value="id-4343f9ba12cf441a83385471d282f450"/>
+  <properties
+      key="Semanticsearch"
+      value="bekostigingsbeheer"/>
+</archimate:BusinessFunction>

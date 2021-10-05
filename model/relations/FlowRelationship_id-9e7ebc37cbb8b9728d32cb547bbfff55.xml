@@ -1,0 +1,27 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9e7ebc37cbb8b9728d32cb547bbfff55"
+    documentation="samenwerking tussen educatieve contentontwikkelaars, uitgevers en distributeurs">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="0dce7cf3-ce3e-4626-82e2-b398a31abfe3"/>
+  <properties
+      key="Original ID"
+      value="id-0dce7cf3-ce3e-4626-82e2-b398a31abfe3"/>
+  <properties
+      key="Semanticsearch"
+      value="id-0dce7cf3-ce3e-4626-82e2-b398a31abfe3"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-5143619ad1d78182bb11905d91133d41.xml#id-5143619ad1d78182bb11905d91133d41"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-ce200b8a26a1091ab3681ff1bf5566ba.xml#id-ce200b8a26a1091ab3681ff1bf5566ba"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="One tier bestuursmodel"
+    id="id-fa73ba0617fb3e23d960bf5466990c41"
+    documentation="Een one-tier systeem is een monistisch bestuursmodel, waarbij de toezichthouders deel uitmaken van het bestuur.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Bevoegd gezag"/>
+  <properties
+      key="Object ID"
+      value="e4d9507c-9d35-44efb-8a73-2cbbc675427"/>
+  <properties
+      key="Original ID"
+      value="id-e4d9507c9d3544efb8a732cbbc675427"/>
+  <properties
+      key="Semanticsearch"
+      value="one tier bestuursmodel"/>
+</archimate:BusinessObject>

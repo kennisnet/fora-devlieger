@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Telefoniebeheersysteem"
+    id="id-5d854ff358e5f7a51c39ee102f05f3a1"
+    documentation="Systeem voor het beheren van het (IP-) telefoonnetwerk.">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="86caaf0f-c5fc-44eca-8f6f-21b79adf942"/>
+  <properties
+      key="Original ID"
+      value="id-86caaf0fc5fc44eca8f6f21b79adf942"/>
+  <properties
+      key="Semanticsearch"
+      value="telefoniebeheersysteem"/>
+</archimate:ApplicationComponent>

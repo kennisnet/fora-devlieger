@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijs Coöperatie"
+    id="id-7fff2bd6c267c748cef097bf2934ec8d"
+    documentation="Onderwijs cooperatie, leraren ontwikkelingsfonds, lerarenregister(vrijwillig)">
+  <properties
+      key="Object ID"
+      value="59d929a4-39cd-48ee-8849-9d2faf40330d"/>
+  <properties
+      key="Original ID"
+      value="id-59d929a4-39cd-48ee-8849-9d2faf40330d"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijs coöperatie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

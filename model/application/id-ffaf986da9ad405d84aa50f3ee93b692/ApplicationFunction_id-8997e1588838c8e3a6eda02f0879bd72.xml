@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking naam school leerling"
+    id="id-8997e1588838c8e3a6eda02f0879bd72">
+  <properties
+      key="Object ID"
+      value="531f1992-9bac-4d85-9737-24a961feea41"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-531f1992-9bac-4d85-9737-24a961feea41"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking naam school leerling"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

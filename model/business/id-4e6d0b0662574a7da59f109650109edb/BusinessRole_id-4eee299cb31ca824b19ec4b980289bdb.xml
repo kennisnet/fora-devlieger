@@ -1,0 +1,24 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Educatieve distributeur"
+    id="id-4eee299cb31ca824b19ec4b980289bdb"
+    documentation="Distributeurs van [[Educatieve content]] en educatieve hulpmiddelen">
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Object ID"
+      value="da9ed770-de74-483d-a3ef-be6658c68e7d"/>
+  <properties
+      key="Original ID"
+      value="da9ed770-de74-483d-a3ef-be6658c68e7d"/>
+  <properties
+      key="Semanticsearch"
+      value="educatieve distributeur"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

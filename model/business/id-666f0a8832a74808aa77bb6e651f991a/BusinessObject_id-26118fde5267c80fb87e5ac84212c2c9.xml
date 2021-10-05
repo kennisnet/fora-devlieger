@@ -1,0 +1,48 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Profiel"
+    id="id-26118fde5267c80fb87e5ac84212c2c9"
+    documentation="Profiel is een in schooltijd verzorgd samenhangend onderwijsprogramma.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Product"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="f3dfe930-694f-4d948-6b85-9ec397148cc"/>
+  <properties
+      key="Original ID"
+      value="id-f3dfe930694f4d9486b859ec397148cc"/>
+  <properties
+      key="Semanticsearch"
+      value="profiel"/>
+  <properties
+      key="Toelichting"
+      value="Het betreft de bovenbouw van alle schoolsoorten."/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+  <properties
+      key="Sector"
+      value="VO"/>
+</archimate:BusinessObject>

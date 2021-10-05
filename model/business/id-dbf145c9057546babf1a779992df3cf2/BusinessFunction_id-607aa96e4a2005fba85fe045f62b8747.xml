@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Visie en governance"
+    id="id-607aa96e4a2005fba85fe045f62b8747"
+    documentation="Het ontwikkelen van een onderwijsbrede visie en het inrichten en bewaken van de onderwijsorganisatie en haar besturing.">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="1453137c-12e4-4737-8439-fd65425d5f08"/>
+  <properties
+      key="Original ID"
+      value="id-1453137c-12e4-4737-8439-fd65425d5f08"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="visie en governance"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

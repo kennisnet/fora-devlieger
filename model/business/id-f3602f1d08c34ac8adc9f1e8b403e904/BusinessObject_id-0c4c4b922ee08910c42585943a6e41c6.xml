@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adres"
+    id="id-0c4c4b922ee08910c42585943a6e41c6"
+    documentation="Woon- of verblijfadres van de leerling">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Midden"/>
+  <properties
+      key="Object ID"
+      value="c00e780d-738c-4bc7-a786-f1ab458293bb"/>
+  <properties
+      key="Original ID"
+      value="c00e780d-738c-4bc7-a786-f1ab458293bb"/>
+  <properties
+      key="Semanticsearch"
+      value="adres"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

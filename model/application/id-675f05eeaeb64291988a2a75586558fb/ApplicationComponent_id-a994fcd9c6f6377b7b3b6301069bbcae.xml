@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebouwbeheersysteem"
+    id="id-a994fcd9c6f6377b7b3b6301069bbcae"
+    documentation="Systeem voor het beheren en onderhouden van gebouwen en gebouwvoorzieningen (zoals electriciteit, luchtbehandeling, noodstroominstallaties, zonwering, kluisjes).">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="18366ffc-4f3c-417f8-56ea-50736dae029"/>
+  <properties
+      key="Original ID"
+      value="id-18366ffc4f3c417f856ea50736dae029"/>
+  <properties
+      key="Semanticsearch"
+      value="gebouwbeheersysteem"/>
+</archimate:ApplicationComponent>

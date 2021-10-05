@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ouderportaal"
+    id="id-1c9623fa27ad18cc249edacda4cb1f51"
+    documentation="[[Portaal]] waarmee ouders en verzorgers van leerlingen toegang krijgen tot informatie vanuit de school. Bevat ook vaak mogelijkheden voor communicatie met de onderwijsinstelling (leraren).">
+  <properties
+      key="Object ID"
+      value="cbbe64bf-e686-4e5a-b88c-c6a34264b838"/>
+  <properties
+      key="Original ID"
+      value="cbbe64bf-e686-4e5a-b88c-c6a34264b838"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Semanticsearch"
+      value="ouderportaal"/>
+</archimate:ApplicationComponent>

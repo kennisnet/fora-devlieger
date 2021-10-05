@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grootboekgegevensbeheer"
+    id="id-e7489d4e4428f632d2cfd3056cf92e91">
+  <properties
+      key="Object ID"
+      value="8f4c5cf4-c357-4938-accf-dbb874458f72"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-8f4c5cf4-c357-4938-accf-dbb874458f72"/>
+  <properties
+      key="Semanticsearch"
+      value="grootboekgegevensbeheer"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

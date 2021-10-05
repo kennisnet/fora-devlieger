@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerlingvolg functie"
+    id="id-3d8daf30bea97b1f4ee448b5b7199cca">
+  <properties
+      key="Object ID"
+      value="330da529-9d4b-469c-a6d1-da584daab748"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-330da529-9d4b-469c-a6d1-da584daab748"/>
+  <properties
+      key="Semanticsearch"
+      value="leerlingvolg functie"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

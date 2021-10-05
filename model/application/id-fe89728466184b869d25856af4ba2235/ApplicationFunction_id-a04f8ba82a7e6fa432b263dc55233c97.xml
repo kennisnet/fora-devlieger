@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Crediteurgegevensbeheer (leerlingen ouders)"
+    id="id-a04f8ba82a7e6fa432b263dc55233c97">
+  <properties
+      key="Object ID"
+      value="c3acbd53-74e2-491e-8299-a5a3710f555b"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="c3acbd53-74e2-491e-8299-a5a3710f555b"/>
+  <properties
+      key="Semanticsearch"
+      value="crediteurgegevensbeheer (leerlingen ouders)"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

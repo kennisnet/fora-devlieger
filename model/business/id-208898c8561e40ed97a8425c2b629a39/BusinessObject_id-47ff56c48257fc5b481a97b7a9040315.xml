@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toestemmingsgegevens"
+    id="id-47ff56c48257fc5b481a97b7a9040315"
+    documentation="Toestemming voor&#xA;- Uitwisseling&#xA;- Gebruik beeldmateriaal&#xA;- Opvragen van gegevens&#xA;- Inschakelen van gespecialiseerde zorg&#xA;&#xA;School vraagt deze toestemmingen aan de ouders, zo vroeg mogelijk tijdens de inschrijving / aanmelding.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="0574724f-6391-4015-9d7f-59ab5868f47e"/>
+  <properties
+      key="Original ID"
+      value="id-0574724f-6391-4015-9d7f-59ab5868f47e"/>
+  <properties
+      key="Semanticsearch"
+      value="toestemmingsgegevens"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Overeenkomst"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+</archimate:BusinessObject>

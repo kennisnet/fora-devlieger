@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pesten"
+    id="id-d04ec06cf806030a4be9a8a02f17104b"
+    documentation="Pesten is het psychisch of fysiek mishandelen van een of meer leerlingen door een of meer klasgenoten.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Sociale veiligheid"/>
+  <properties
+      key="Object ID"
+      value="c3e011ea-5241-4c359-5896-8c61df92a32"/>
+  <properties
+      key="Original ID"
+      value="id-c3e011ea52414c35958968c61df92a32"/>
+  <properties
+      key="Semanticsearch"
+      value="pesten"/>
+</archimate:BusinessObject>

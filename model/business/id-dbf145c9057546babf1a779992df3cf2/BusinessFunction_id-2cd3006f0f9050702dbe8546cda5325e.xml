@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opleiding en ontwikkeling"
+    id="id-2cd3006f0f9050702dbe8546cda5325e"
+    documentation="Het begeleiden en opleiden van medewerkers om specifieke kwaliteiten van medewerkers te verbeteren en om de aanwezige capaciteiten optimaal te benutten. Hieraan ligt vaak een personeelsbeoordeling ten grondslag.">
+  <properties
+      key="Object ID"
+      value="fb8995fd-08ce-4d48-998f-404174dc0544"/>
+  <properties
+      key="Original ID"
+      value="fb8995fd-08ce-4d48-998f-404174dc0544"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="opleiding en ontwikkeling"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

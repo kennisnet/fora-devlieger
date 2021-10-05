@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HO-ondersteunende organisaties"
+    id="id-cf78e1e3174510b999f2ed4e636ba2d1"
+    documentation="Organisatie die ondersteuning levert voor HO-instellingen.">
+  <properties
+      key="Werkingsgebied"
+      value="HO-ondersteunende organisaties"/>
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Object ID"
+      value="6c252d79-ee69-43c5-8d72-9966ad817294"/>
+  <properties
+      key="Original ID"
+      value="id-6c252d79-ee69-43c5-8d72-9966ad817294"/>
+  <properties
+      key="Semanticsearch"
+      value="ho-ondersteunende organisaties"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiepublicatie"
+    id="id-cd28140431fcb3484e68026b06257e43">
+  <properties
+      key="Object ID"
+      value="1f60cf00-5fca-4331-b91c-eba728b8dbbd"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-1f60cf00-5fca-4331-b91c-eba728b8dbbd"/>
+  <properties
+      key="Semanticsearch"
+      value="informatiepublicatie"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

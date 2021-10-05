@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PGN"
+    id="id-e865669321cd12eb0ebf32d15e25e6e7"
+    documentation="In het onderwijs heet het BSN het persoonsgebonden nummer (PGN). Ook wel onderwijsnummer genoemd. Het PGN is hetzelfde nummer als het BSN. Scholen zijn verplicht het PGN te gebruiken in hun administratie.">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Hoog"/>
+  <properties
+      key="Object ID"
+      value="26a90485-6837-4f56-a2b2-8052711fb491"/>
+  <properties
+      key="Original ID"
+      value="id-26a90485-6837-4f56-a2b2-8052711fb491"/>
+  <properties
+      key="Semanticsearch"
+      value="pgn"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

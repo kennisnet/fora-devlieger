@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afdeling ict-ondersteuning"
+    id="id-6117b5350a1e22a9c633124c9a5d302c"
+    documentation="Afdeling belast met het onderhoud en beheer van ict-middelen van de organisatie, volgens het ict-beleid.">
+  <properties
+      key="SWC type"
+      value="Rol"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="Object ID"
+      value="2357c719-2796-479c9-ed3a-e0aa2d0ed38"/>
+  <properties
+      key="Original ID"
+      value="id-2357c7192796479c9ed3ae0aa2d0ed38"/>
+  <properties
+      key="Semanticsearch"
+      value="afdeling ict-ondersteuning"/>
+</archimate:BusinessRole>

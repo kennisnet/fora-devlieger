@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5905185e183513ac26b62352f4877520"
+    documentation="alle relaties met gemeenten">
+  <properties
+      key="Referentie"
+      value="wet op PO (huisvesting art 91 -112. 136), art 112, art 114, wet op VO, e.v.a. (zie huisvesting onderwijs op www.overheid.nl): ROSA: ketenfunctie onderwijshuisvesting"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="huisvesting en aanvullende financiën (incl. verzekeringen)"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="6e627825-61c4-48e8-b298-ebb0a78dd01d"/>
+  <properties
+      key="Original ID"
+      value="id-6e627825-61c4-48e8-b298-ebb0a78dd01d"/>
+  <properties
+      key="Semanticsearch"
+      value="id-6e627825-61c4-48e8-b298-ebb0a78dd01d"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-a44eaf311e0d73501a14ee9d560f6362.xml#id-a44eaf311e0d73501a14ee9d560f6362"/>
+</archimate:FlowRelationship>

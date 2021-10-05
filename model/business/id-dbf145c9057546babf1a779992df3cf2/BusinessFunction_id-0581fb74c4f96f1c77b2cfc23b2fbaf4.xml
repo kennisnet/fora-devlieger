@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veiligheidsmonitoring"
+    id="id-0581fb74c4f96f1c77b2cfc23b2fbaf4"
+    documentation="Het periodiek monitoren of leerlingen, personeel en eventueel ouders zich veilig voelen in de context van de leer- of werkomgeving.">
+  <properties
+      key="Object ID"
+      value="cc4dac40-db5c-4697-917e-513eb7fdd175"/>
+  <properties
+      key="Original ID"
+      value="cc4dac40-db5c-4697-917e-513eb7fdd175"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="veiligheidsmonitoring"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

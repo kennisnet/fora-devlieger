@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Software-uitrol"
+    id="id-74cc7b373aecde8f373f3346a61caffe"
+    documentation="Het ondersteunen van het publiceren/deployen van software">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="afd95caf-df0f-4f3a8-3729-aa7b7538af2"/>
+  <properties
+      key="Original ID"
+      value="id-afd95cafdf0f4f3a83729aa7b7538af2"/>
+  <properties
+      key="Semanticsearch"
+      value="software-uitrol"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

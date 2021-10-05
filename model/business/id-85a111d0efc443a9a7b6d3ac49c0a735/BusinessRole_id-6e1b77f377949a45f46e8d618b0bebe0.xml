@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(M) Rol"
+    id="id-6e1b77f377949a45f46e8d618b0bebe0"
+    documentation="Bepaalde hoedanigheid waarin (&quot;assign&quot;) een Organisatie een Bedrijfsfunctie uitoefent (&quot;assign&quot;). Een Rol maakt deel uit (&quot;aggregate&quot;) van een Werkgingsgebied.">
+  <properties
+      key="Object ID"
+      value="47e83091-534b-4411-8afe-8af64af4c378"/>
+  <properties
+      key="Original ID"
+      value="id-47e83091-534b-4411-8afe-8af64af4c378"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="Semanticsearch"
+      value="(m) rol"/>
+</archimate:BusinessRole>

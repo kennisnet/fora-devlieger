@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking gegevens m.b.t. aanwezigheid (aanwezigheidsregistratie)"
+    id="id-bdc7521f018e0289d47b49bd858eadbd">
+  <properties
+      key="Object ID"
+      value="12074dac-c8f3-4468-ad38-d97817e4a2a6"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-12074dac-c8f3-4468-ad38-d97817e4a2a6"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking gegevens m.b.t. aanwezigheid (aanwezigheidsregistratie)"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="afgestemd op"
+    id="id-1902d6229a5fd0afd142d1680936272c"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="8672013c-bcc4-4802a-a02a-6eac7992170"/>
+  <properties
+      key="Original ID"
+      value="id-8672013cbcc44802aa02a6eac7992170"/>
+  <properties
+      key="Semanticsearch"
+      value="afgestemd op"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-e42f91bf9e67a068d4d0a5c201cc5316.xml#id-e42f91bf9e67a068d4d0a5c201cc5316"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-21ca90c4d1f5f7e9f9b6b1d1c12b7ed4.xml#id-21ca90c4d1f5f7e9f9b6b1d1c12b7ed4"/>
+</archimate:AssociationRelationship>

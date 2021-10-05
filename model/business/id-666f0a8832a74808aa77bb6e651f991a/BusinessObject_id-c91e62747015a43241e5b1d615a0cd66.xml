@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rijksbijdragen"
+    id="id-c91e62747015a43241e5b1d615a0cd66"
+    documentation="Rijksbijdragen is het totaal van de toegekende (normatieve) rijksbijdrage (lump sum) plus de aanvullende (project)subsidies.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Financiën"/>
+  <properties
+      key="Object ID"
+      value="877f88af-6172-4a28b-5c59-4b2ed123adb"/>
+  <properties
+      key="Original ID"
+      value="id-877f88af61724a28b5c594b2ed123adb"/>
+  <properties
+      key="Semanticsearch"
+      value="rijksbijdragen"/>
+</archimate:BusinessObject>

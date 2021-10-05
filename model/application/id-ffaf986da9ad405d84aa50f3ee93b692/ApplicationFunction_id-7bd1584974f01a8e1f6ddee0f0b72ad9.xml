@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking gezondheidsgegevens leerling (op eigen verzoek t.b.v. beheersmaatregel)"
+    id="id-7bd1584974f01a8e1f6ddee0f0b72ad9">
+  <properties
+      key="Object ID"
+      value="06026556-eac9-4c7d-8ff2-869ac39ddd1b"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-06026556-eac9-4c7d-8ff2-869ac39ddd1b"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking gezondheidsgegevens leerling (op eigen verzoek t.b.v. beheersmaatregel)"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

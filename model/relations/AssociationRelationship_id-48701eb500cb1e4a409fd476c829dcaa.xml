@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kan leiden tot"
+    id="id-48701eb500cb1e4a409fd476c829dcaa"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="f2820ec5-582e-46a6b-eba2-1a56b33b7c2"/>
+  <properties
+      key="Original ID"
+      value="id-f2820ec5582e46a6beba21a56b33b7c2"/>
+  <properties
+      key="Semanticsearch"
+      value="kan leiden tot"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-a9a47578b14784075660e88955052207.xml#id-a9a47578b14784075660e88955052207"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-5c6e4b61befcd78d43c56a5104f2c773.xml#id-5c6e4b61befcd78d43c56a5104f2c773"/>
+</archimate:AssociationRelationship>

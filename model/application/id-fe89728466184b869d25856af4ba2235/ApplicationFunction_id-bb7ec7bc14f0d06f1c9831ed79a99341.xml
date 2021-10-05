@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werktijden- en verlofbeheer"
+    id="id-bb7ec7bc14f0d06f1c9831ed79a99341">
+  <properties
+      key="Object ID"
+      value="341e5638-cc55-43c1-b776-fc942b81a8d0"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-341e5638-cc55-43c1-b776-fc942b81a8d0"/>
+  <properties
+      key="Semanticsearch"
+      value="werktijden- en verlofbeheer"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

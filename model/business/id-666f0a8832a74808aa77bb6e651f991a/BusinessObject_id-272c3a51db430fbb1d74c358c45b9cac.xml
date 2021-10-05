@@ -1,0 +1,39 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerlingbespreking"
+    id="id-272c3a51db430fbb1d74c358c45b9cac"
+    documentation="Bespreking door de leerkrachten e/o docenten e/o begeleiders van een leerling van zijn/haar (cognitieve) vorderingen en persoonlijke ontwikkeling.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="5ff34689-8989-43d2a-4602-8e2dc84fb9d"/>
+  <properties
+      key="Original ID"
+      value="id-5ff34689898943d2a46028e2dc84fb9d"/>
+  <properties
+      key="Semanticsearch"
+      value="leerlingbespreking"/>
+  <properties
+      key="Alias"
+      value="Rapportbespreking"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+</archimate:BusinessObject>

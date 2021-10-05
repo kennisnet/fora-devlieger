@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schoolbegroting"
+    id="id-863ecb88c42d6505adc502462bd4a897"
+    documentation="Schoolbegroting is een schatting vooraf van een deel van de baten en lasten die specifiek op betreffende school van toepassing zijn.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Financiën"/>
+  <properties
+      key="Object ID"
+      value="a3926eb0-7524-44e78-dcd1-463bb29af53"/>
+  <properties
+      key="Original ID"
+      value="id-a3926eb0752444e78dcd1463bb29af53"/>
+  <properties
+      key="Semanticsearch"
+      value="schoolbegroting"/>
+</archimate:BusinessObject>

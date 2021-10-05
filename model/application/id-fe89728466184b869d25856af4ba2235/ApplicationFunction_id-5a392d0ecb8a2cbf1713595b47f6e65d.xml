@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veiligheidsmanagement"
+    id="id-5a392d0ecb8a2cbf1713595b47f6e65d"
+    documentation="Ondersteuning bij het in beeld brengen van potentiele veiligheidsrisico's ten aanzien van personen (leerlingen, ouders en medewerkers).">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="77bf6c36-e003-429fa-9112-75db57cb92c"/>
+  <properties
+      key="Original ID"
+      value="id-77bf6c36e003429fa911275db57cb92c"/>
+  <properties
+      key="Semanticsearch"
+      value="veiligheidsmanagement"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

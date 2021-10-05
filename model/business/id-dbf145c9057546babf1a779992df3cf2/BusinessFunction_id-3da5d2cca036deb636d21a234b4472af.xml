@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realisatie beveiligingsmaatregelen"
+    id="id-3da5d2cca036deb636d21a234b4472af"
+    documentation="Het instellen van beveiligingsmaatregelen (ook wel 'beheersmaatregelen') gericht op het beperken van risico's ten aanzien van beschikbaarheid, integriteit en/of vetrouwelijkheid van informatie.">
+  <properties
+      key="Object ID"
+      value="776d177c-92ef-46c0-b5d6-9aa4b3ba0d9c"/>
+  <properties
+      key="Original ID"
+      value="id-776d177c-92ef-46c0-b5d6-9aa4b3ba0d9c"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="realisatie beveiligingsmaatregelen"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,26 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SLOA-instelling"
+    id="id-6f80fe5ef3299a9b344cac17c50ba0dd">
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Werkingsgebied"
+      value="SLOA-instellingen"/>
+  <properties
+      key="Object ID"
+      value="523c2ee8-ad52-4c85-a03f-23e8c8e45e1f"/>
+  <properties
+      key="Original ID"
+      value="id-523c2ee8-ad52-4c85-a03f-23e8c8e45e1f"/>
+  <properties
+      key="Semanticsearch"
+      value="sloa-instelling"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

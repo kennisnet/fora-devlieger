@@ -1,0 +1,48 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Groepsplan"
+    id="id-d6b65b408f8216c64e8bada35427839c"
+    documentation="Groepsplan is het leerplan (leerlijn) gericht op het werken in de klas; invulling vooral door de leraar; invloed methode.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="b0b15d9b-fccc-4d149-33f9-0b0c75baf90"/>
+  <properties
+      key="Original ID"
+      value="id-b0b15d9bfccc4d14933f90b0c75baf90"/>
+  <properties
+      key="Semanticsearch"
+      value="groepsplan"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Afgeleid van"
+      value="https://www.slo.nl/thema/vakspecifieke-thema/kunst-cultuur/leerplankader-kunstzinnige-orientatie/lexicon/leerlijn/"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+</archimate:BusinessObject>

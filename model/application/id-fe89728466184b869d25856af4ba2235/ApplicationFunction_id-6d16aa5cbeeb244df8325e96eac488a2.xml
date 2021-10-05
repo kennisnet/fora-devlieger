@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ander leer ondersteunend programma"
+    id="id-6d16aa5cbeeb244df8325e96eac488a2">
+  <properties
+      key="Object ID"
+      value="e247bda4-65b8-4f68-a0de-d04e2b926a6e"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="e247bda4-65b8-4f68-a0de-d04e2b926a6e"/>
+  <properties
+      key="Semanticsearch"
+      value="ander leer ondersteunend programma"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

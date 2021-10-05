@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Curriculumplanning"
+    id="id-b11507181e1f4cfd85bbbf8416a6e377"
+    documentation="Het ondersteunen van het maken van de structuur van een opleiding, zoals:&#xA;* de vakken &#xA;* de planning &#xA;* de volgorde &#xA;* de omvang &#xA;* het leerdoel &#xA;* ..">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="eeb7a891-8f29-4fb58-1607-04098b44f19"/>
+  <properties
+      key="Original ID"
+      value="id-eeb7a8918f294fb58160704098b44f19"/>
+  <properties
+      key="Semanticsearch"
+      value="curriculumplanning"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

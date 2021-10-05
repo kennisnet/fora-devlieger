@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerarrangement opstellen"
+    id="id-9b304b9b4eb5ccd5991441fd861e614c">
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="Object ID"
+      value="a31169b9-a86f-4935a-1f89-05f5a273f43"/>
+  <properties
+      key="Original ID"
+      value="id-a31169b9a86f4935a1f8905f5a273f43"/>
+  <properties
+      key="Semanticsearch"
+      value="leerarrangement opstellen"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

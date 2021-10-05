@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-43915d65159f0133343cd73460d460cc"
+    documentation="Inschrijving en ontwikkeling leerling">
+  <properties
+      key="Referentie"
+      value="wet PO (art 40b). Wet VO, wet EC, APV"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="basis en zorg"/>
+  <properties
+      key="Gegevenssoort"
+      value="Leerling"/>
+  <properties
+      key="Object ID"
+      value="68f199cc-f4b3-4af0-8170-c37a71768fee"/>
+  <properties
+      key="Original ID"
+      value="id-68f199cc-f4b3-4af0-8170-c37a71768fee"/>
+  <properties
+      key="Semanticsearch"
+      value="id-68f199cc-f4b3-4af0-8170-c37a71768fee"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-b8b81b18212ddd02afecfe10c2b1f773.xml#id-b8b81b18212ddd02afecfe10c2b1f773"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

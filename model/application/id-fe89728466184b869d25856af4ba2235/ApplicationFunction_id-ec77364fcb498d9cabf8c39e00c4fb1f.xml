@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Projectmanagement"
+    id="id-ec77364fcb498d9cabf8c39e00c4fb1f"
+    documentation="Het ondersteunen van het werken in een project.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="20af9707-06fd-4c90a-c4a8-fa79f3806bd"/>
+  <properties
+      key="Original ID"
+      value="id-20af970706fd4c90ac4a8fa79f3806bd"/>
+  <properties
+      key="Semanticsearch"
+      value="projectmanagement"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

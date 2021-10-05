@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteitskader onderwijshuisvesting"
+    id="id-539651cfca920a4f89a34c899f5bfed2"
+    documentation="Kwaliteitskader onderwijshuisvesting is een reeks samenhangende, eenduidig toepasbare kwaliteitscriteria voor een gebouw die positief bijdragen aan de leeromgeving van de leerlingen.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Huisvesting"/>
+  <properties
+      key="Object ID"
+      value="eccf9fee-5707-4f159-1c2b-bed854531b3"/>
+  <properties
+      key="Original ID"
+      value="id-eccf9fee57074f1591c2bbed854531b3"/>
+  <properties
+      key="Semanticsearch"
+      value="kwaliteitskader onderwijshuisvesting"/>
+</archimate:BusinessObject>

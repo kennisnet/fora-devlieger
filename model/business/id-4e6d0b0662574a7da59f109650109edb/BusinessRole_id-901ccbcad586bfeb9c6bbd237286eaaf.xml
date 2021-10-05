@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Externe ict-leverancier"
+    id="id-901ccbcad586bfeb9c6bbd237286eaaf"
+    documentation="Leveranciers van ict-middelen zoals computers, laptops, netwerk voorzieningen, WIFI, maar ook beheer en onderhoud">
+  <properties
+      key="Object ID"
+      value="d987d6b8-6d23-4f7e-a5f1-e8272bb4782a"/>
+  <properties
+      key="Original ID"
+      value="d987d6b8-6d23-4f7e-a5f1-e8272bb4782a"/>
+  <properties
+      key="Semanticsearch"
+      value="externe ict-leverancier"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

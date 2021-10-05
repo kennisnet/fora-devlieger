@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beeindiging arbeidsrelatie"
+    id="id-351baa3ecebb76cf17bec2fd539e6b4d">
+  <properties
+      key="Object ID"
+      value="2855e4cf-44ac-41b7-8215-e0e71598ad54"/>
+  <properties
+      key="Original ID"
+      value="id-2855e4cf-44ac-41b7-8215-e0e71598ad54"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Semanticsearch"
+      value="beeindiging arbeidsrelatie"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

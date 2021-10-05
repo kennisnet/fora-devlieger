@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schoolplanconstructie"
+    id="id-78f80027e8454ef27a2916ccaada86b2">
+  <properties
+      key="Object ID"
+      value="9a84fb52-296e-4516-aa40-c20794cc6015"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-9a84fb52-296e-4516-aa40-c20794cc6015"/>
+  <properties
+      key="Semanticsearch"
+      value="schoolplanconstructie"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

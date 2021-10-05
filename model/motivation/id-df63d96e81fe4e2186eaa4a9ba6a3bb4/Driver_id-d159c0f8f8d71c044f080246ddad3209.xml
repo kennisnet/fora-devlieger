@@ -1,0 +1,20 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Art. 53 Eindexamenbesluit VO - Certificaat en cijferlijst"
+    id="id-d159c0f8f8d71c044f080246ddad3209">
+  <properties
+      key="Verwijzing"
+      value="https://wetten.overheid.nl/jci1.3:c:BWBR0004593&amp;hoofdstuk=V&amp;artikel=53&amp;z=2020-08-01&amp;g=2020-08-01"/>
+  <properties
+      key="Juriconnect"
+      value="jci1.3:c:BWBR0004593&amp;hoofdstuk=V&amp;artikel=53&amp;z=2020-08-01&amp;g=2020-08-01"/>
+  <properties
+      key="Object ID"
+      value="7972c357-137e-49c69-e679-36608f3269f"/>
+  <properties
+      key="Original ID"
+      value="id-7972c357137e49c69e67936608f3269f"/>
+  <properties
+      key="Semanticsearch"
+      value="art. 53 eindexamenbesluit vo - certificaat en cijferlijst"/>
+</archimate:Driver>

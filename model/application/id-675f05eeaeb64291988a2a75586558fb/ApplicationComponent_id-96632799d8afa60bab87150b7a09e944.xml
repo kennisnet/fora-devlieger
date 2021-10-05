@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Device Management Systeem"
+    id="id-96632799d8afa60bab87150b7a09e944"
+    documentation="Een systeem ter ondersteuning van het beheer van  devices / apparatuur, zoals laptops, smartphones, tablets e.d.">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="00804949-6a40-41978-d6d4-d43c7bc8c98"/>
+  <properties
+      key="Original ID"
+      value="id-008049496a4041978d6d4d43c7bc8c98"/>
+  <properties
+      key="Semanticsearch"
+      value="device management systeem"/>
+</archimate:ApplicationComponent>

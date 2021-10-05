@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beschreven in"
+    id="id-54c1481f72d1040900985cbd1018e1c3"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="fec4b16f-6b84-4770b-e021-235c08f0b4b"/>
+  <properties
+      key="Original ID"
+      value="id-fec4b16f6b844770be021235c08f0b4b"/>
+  <properties
+      key="Semanticsearch"
+      value="beschreven in"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-283c3b0e01e1e74cf8ce954fcc8b0775.xml#id-283c3b0e01e1e74cf8ce954fcc8b0775"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-726f6987b079ca4764469b86ff596bf2.xml#id-726f6987b079ca4764469b86ff596bf2"/>
+</archimate:AssociationRelationship>

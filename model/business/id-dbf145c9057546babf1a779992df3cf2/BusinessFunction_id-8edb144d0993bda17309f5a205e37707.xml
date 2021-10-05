@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanstelling leerlingenraad"
+    id="id-8edb144d0993bda17309f5a205e37707"
+    documentation="Het instellen van een leerlingenraad die de mening van de leerlingen op een school vertegenwoordigt. Een school hoeft geen leerlingenraad te hebben.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="6b7237a4-b93a-4af08-20a2-1690b966092"/>
+  <properties
+      key="Original ID"
+      value="id-6b7237a4b93a4af0820a21690b966092"/>
+  <properties
+      key="Semanticsearch"
+      value="aanstelling leerlingenraad"/>
+</archimate:BusinessFunction>

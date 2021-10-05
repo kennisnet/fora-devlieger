@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-48acfa04618ea83ff75e4b7aa74a4af1"
+    documentation="data leveranties school aan inspectie">
+  <properties
+      key="Referentie"
+      value="zie &quot;internet schooldossier&quot; van de inspectie ; ROSA: ketenproces toezicht toetsen en examineren, ketenfunctie verticaal verantwoorden, ketenfunctie kwaliteitsbewaking en toezicht"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="inspectie indicatoren"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="73fd58b3-b786-4171-b710-56645346086e"/>
+  <properties
+      key="Original ID"
+      value="id-73fd58b3-b786-4171-b710-56645346086e"/>
+  <properties
+      key="Semanticsearch"
+      value="id-73fd58b3-b786-4171-b710-56645346086e"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-33a7ec7daae142828c597eb68d55fef5.xml#id-33a7ec7daae142828c597eb68d55fef5"/>
+</archimate:FlowRelationship>

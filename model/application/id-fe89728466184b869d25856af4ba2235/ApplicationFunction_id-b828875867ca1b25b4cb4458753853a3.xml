@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toetsafname"
+    id="id-b828875867ca1b25b4cb4458753853a3">
+  <properties
+      key="Object ID"
+      value="db02cbcd-bfb0-4530-a556-5588b5ce24eb"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="db02cbcd-bfb0-4530-a556-5588b5ce24eb"/>
+  <properties
+      key="Semanticsearch"
+      value="toetsafname"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

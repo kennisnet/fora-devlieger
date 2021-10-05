@@ -1,0 +1,26 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Art. 14 WPO - Klachtenregeling"
+    id="id-8089e4191139f979a9d107f89e034195">
+  <properties
+      key="Verwijzing"
+      value="https://wetten.overheid.nl/jci1.3:c:BWBR0003420&amp;hoofdstuk=I&amp;titeldeel=II&amp;afdeling=1&amp;paragraaf=1&amp;artikel=14&amp;z=2020-07-01&amp;g=2020-07-01"/>
+  <properties
+      key="Juriconnect"
+      value="jci1.3:c:BWBR0003420&amp;hoofdstuk=I&amp;titeldeel=II&amp;afdeling=1&amp;paragraaf=1&amp;artikel=14&amp;z=2020-07-01&amp;g=2020-07-01"/>
+  <properties
+      key="Object ID"
+      value="efb93b25-c8ba-43a2a-0b34-2c497f5ae10"/>
+  <properties
+      key="Original ID"
+      value="id-efb93b25c8ba43a2a0b342c497f5ae10"/>
+  <properties
+      key="Semanticsearch"
+      value="art. 14 wpo - klachtenregeling"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Wet"/>
+</archimate:Driver>

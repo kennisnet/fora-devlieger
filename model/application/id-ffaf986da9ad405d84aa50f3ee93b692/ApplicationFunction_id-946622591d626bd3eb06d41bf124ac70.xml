@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking gegevens ouders/verzorger/voogd leerling"
+    id="id-946622591d626bd3eb06d41bf124ac70">
+  <properties
+      key="Object ID"
+      value="504c5f53-638b-4228-aaf5-6c7161a4661d"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-504c5f53-638b-4228-aaf5-6c7161a4661d"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking gegevens ouders/verzorger/voogd leerling"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

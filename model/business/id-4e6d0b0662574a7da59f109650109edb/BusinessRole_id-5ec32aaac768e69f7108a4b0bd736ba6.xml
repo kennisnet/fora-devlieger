@@ -1,0 +1,20 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SaaS aanbieder ouderportaal"
+    id="id-5ec32aaac768e69f7108a4b0bd736ba6">
+  <properties
+      key="Object ID"
+      value="60a832d2-3407-4b37-9775-29198d970899"/>
+  <properties
+      key="Original ID"
+      value="id-60a832d2-3407-4b37-9775-29198d970899"/>
+  <properties
+      key="Semanticsearch"
+      value="saas aanbieder ouderportaal"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

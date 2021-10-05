@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scholengemeenschap"
+    id="id-5d6e22616d93bc116de31c5b294a7cfe"
+    documentation="Scholengemeenschap is een gemeenschap van twee of meer scholen voor voortgezet onderwijs">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Huisvesting"/>
+  <properties
+      key="Object ID"
+      value="306c8bb3-4fe0-4cbeb-ec89-54cecb738db"/>
+  <properties
+      key="Original ID"
+      value="id-306c8bb34fe04cbebec8954cecb738db"/>
+  <properties
+      key="Semanticsearch"
+      value="scholengemeenschap"/>
+</archimate:BusinessObject>

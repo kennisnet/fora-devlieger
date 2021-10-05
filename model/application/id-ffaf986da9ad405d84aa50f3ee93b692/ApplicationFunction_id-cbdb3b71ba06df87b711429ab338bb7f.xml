@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking nationaliteit en geboorteplaats leerling"
+    id="id-cbdb3b71ba06df87b711429ab338bb7f">
+  <properties
+      key="Object ID"
+      value="5295f426-f69a-4bad-acff-efe8e2505f8c"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-5295f426-f69a-4bad-acff-efe8e2505f8c"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking nationaliteit en geboorteplaats leerling"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

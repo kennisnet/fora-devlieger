@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9c0b10635a4255032de8f2dd73347331"
+    documentation="gebruik van administratiesystemen door externe dienstverleners">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="aanmelden, inschrijven, deelname en resultaten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="6aa2b536-dddc-45f7-a032-fcae6d1e037c"/>
+  <properties
+      key="Original ID"
+      value="id-6aa2b536-dddc-45f7-a032-fcae6d1e037c"/>
+  <properties
+      key="Semanticsearch"
+      value="id-6aa2b536-dddc-45f7-a032-fcae6d1e037c"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-0015477230f7e94f95ad945dce472c42.xml#id-0015477230f7e94f95ad945dce472c42"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-1974e1d55a4b79fe545c5bac251303c0.xml#id-1974e1d55a4b79fe545c5bac251303c0"/>
+</archimate:FlowRelationship>

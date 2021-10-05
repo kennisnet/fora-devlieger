@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a567528bbdfb1c058a1a8b463921c137"
+    documentation="samenwerking met de zorg keten">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="zorgdiensten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="132a3cc9-102d-4531-a9b3-24a3088fb309"/>
+  <properties
+      key="Original ID"
+      value="id-132a3cc9-102d-4531-a9b3-24a3088fb309"/>
+  <properties
+      key="Semanticsearch"
+      value="id-132a3cc9-102d-4531-a9b3-24a3088fb309"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-130c8fd3954afe9aec757fccb8439afd.xml#id-130c8fd3954afe9aec757fccb8439afd"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e2897bdbe74d06abe04d1b6326af5710"
+    documentation="aansluiten bij (gemeentelijke) zorgketen">
+  <properties
+      key="Referentie"
+      value="wet PO (art 8), wet VO 9art 17b), wet EC"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="oprichten en inrichten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Organisatie"/>
+  <properties
+      key="Object ID"
+      value="546a56f2-67ac-41b6-9ec6-b0afe6cec8ec"/>
+  <properties
+      key="Original ID"
+      value="id-546a56f2-67ac-41b6-9ec6-b0afe6cec8ec"/>
+  <properties
+      key="Semanticsearch"
+      value="id-546a56f2-67ac-41b6-9ec6-b0afe6cec8ec"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-130c8fd3954afe9aec757fccb8439afd.xml#id-130c8fd3954afe9aec757fccb8439afd"/>
+</archimate:FlowRelationship>

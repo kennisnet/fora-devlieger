@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Woonplaats"
+    id="id-681048d691844f526ed5056f332485c9"
+    documentation="Woonplaats, kan afwijken van de Gemeente (onderdeel van [[Adres]]) waar een leerling woont.">
+  <properties
+      key="Object ID"
+      value="d6095212-0090-41a9-9590-2efe887477bf"/>
+  <properties
+      key="Original ID"
+      value="d6095212-0090-41a9-9590-2efe887477bf"/>
+  <properties
+      key="Semanticsearch"
+      value="woonplaats"/>
+</archimate:DataObject>

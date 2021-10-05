@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e6ed4307ad5701d249b4efeb9c28adc7"
+    documentation="identiteit en authenticatie  voor toegang tot digitale voorzieningen, ook wet op de nummervoorziening">
+  <properties
+      key="Referentie"
+      value="wet op de nummervoorziening ==> wet PO art 178a lid 11, 12, 13 ; ROSA: ketenfunctie identificatie en toegang"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="toegang tot lesmateriaal"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="2f3fae85-090b-4b79-b6f4-0ef3c8de06a1"/>
+  <properties
+      key="Original ID"
+      value="id-2f3fae85-090b-4b79-b6f4-0ef3c8de06a1"/>
+  <properties
+      key="Semanticsearch"
+      value="id-2f3fae85-090b-4b79-b6f4-0ef3c8de06a1"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-ce200b8a26a1091ab3681ff1bf5566ba.xml#id-ce200b8a26a1091ab3681ff1bf5566ba"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

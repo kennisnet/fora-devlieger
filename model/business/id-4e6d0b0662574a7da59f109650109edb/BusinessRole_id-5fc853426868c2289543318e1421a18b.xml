@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Latende instelling"
+    id="id-5fc853426868c2289543318e1421a18b"
+    documentation="De latende instelling is de laatste [[onderwijsinstelling]] waar een [[onderwijsvolger]] een opleiding heeft gevolgd.">
+  <properties
+      key="Werkingsgebied"
+      value="Onderwijsinstellingen"/>
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+  <properties
+      key="Object ID"
+      value="dfcf9e9e-34eb-4cc6-8fcf-04378581533c"/>
+  <properties
+      key="Original ID"
+      value="dfcf9e9e-34eb-4cc6-8fcf-04378581533c"/>
+  <properties
+      key="Semanticsearch"
+      value="latende instelling"/>
+</archimate:BusinessRole>

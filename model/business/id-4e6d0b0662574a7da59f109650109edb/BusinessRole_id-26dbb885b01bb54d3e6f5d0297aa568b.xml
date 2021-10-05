@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Docent"
+    id="id-26dbb885b01bb54d3e6f5d0297aa568b"
+    documentation="Onderwijzend personeel">
+  <properties
+      key="Object ID"
+      value="d442d9b1-146b-4a2f-800d-b5bade3a6b1f"/>
+  <properties
+      key="Original ID"
+      value="d442d9b1-146b-4a2f-800d-b5bade3a6b1f"/>
+  <properties
+      key="Semanticsearch"
+      value="docent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

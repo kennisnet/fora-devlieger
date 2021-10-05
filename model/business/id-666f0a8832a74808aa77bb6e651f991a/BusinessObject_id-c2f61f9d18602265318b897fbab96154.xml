@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ouderbijdrage"
+    id="id-c2f61f9d18602265318b897fbab96154"
+    documentation="Ouderbijdrage is een vrijwillige bijdrage aan het schoolbestuur van ouders">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Financiën"/>
+  <properties
+      key="Object ID"
+      value="e175498e-2511-4a7b8-9ba0-7f7387d6052"/>
+  <properties
+      key="Original ID"
+      value="id-e175498e25114a7b89ba07f7387d6052"/>
+  <properties
+      key="Semanticsearch"
+      value="ouderbijdrage"/>
+</archimate:BusinessObject>

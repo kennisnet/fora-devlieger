@@ -1,0 +1,21 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanmaken ECK ID"
+    id="id-a69a2e711db27104fabdf8417c673232"
+    documentation="Service waarmee een ECK ID voor een of meer leerlingen wordt aangemaakt, op basis van een [[stampseudoniem/Aanmaken stampseudoniem]] van de leerling.">
+  <properties
+      key="Object ID"
+      value="5e845f8f-0cb2-466a8-7985-88f0ec15f30"/>
+  <properties
+      key="Original ID"
+      value="id-5e845f8f0cb2466a8798588f0ec15f30"/>
+  <properties
+      key="SWC type"
+      value="Landelijke service"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Semanticsearch"
+      value="aanmaken eck id"/>
+</archimate:ApplicationService>

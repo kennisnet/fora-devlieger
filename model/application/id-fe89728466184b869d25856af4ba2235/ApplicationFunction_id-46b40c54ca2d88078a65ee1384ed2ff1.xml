@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netwerkbeheer"
+    id="id-46b40c54ca2d88078a65ee1384ed2ff1"
+    documentation="Het beheren van het netwerk">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="8c38a29c-6b4f-4ae8a-86cd-a9411f3a010"/>
+  <properties
+      key="Original ID"
+      value="id-8c38a29c6b4f4ae8a86cda9411f3a010"/>
+  <properties
+      key="Semanticsearch"
+      value="netwerkbeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

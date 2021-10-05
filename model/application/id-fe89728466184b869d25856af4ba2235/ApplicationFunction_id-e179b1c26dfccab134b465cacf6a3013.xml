@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roosterinformatie inzien"
+    id="id-e179b1c26dfccab134b465cacf6a3013">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="0aad9262-6b03-42e79-e1e9-3df0486851b"/>
+  <properties
+      key="Original ID"
+      value="id-0aad92626b0342e79e1e93df0486851b"/>
+  <properties
+      key="Semanticsearch"
+      value="roosterinformatie inzien"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

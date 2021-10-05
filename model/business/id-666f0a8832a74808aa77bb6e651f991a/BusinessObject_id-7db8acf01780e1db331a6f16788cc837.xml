@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schoolleiding"
+    id="id-7db8acf01780e1db331a6f16788cc837"
+    documentation="Schoolleiding is de directie van een school of scholengemeenschap">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Schoolleiding"/>
+  <properties
+      key="Object ID"
+      value="a99e4b80-e772-47c29-3de3-fb0e56d88c2"/>
+  <properties
+      key="Original ID"
+      value="id-a99e4b80e77247c293de3fb0e56d88c2"/>
+  <properties
+      key="Semanticsearch"
+      value="schoolleiding"/>
+</archimate:BusinessObject>

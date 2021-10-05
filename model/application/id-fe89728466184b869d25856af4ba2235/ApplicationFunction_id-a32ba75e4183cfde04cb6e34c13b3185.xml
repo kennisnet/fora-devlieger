@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serverbeheer"
+    id="id-a32ba75e4183cfde04cb6e34c13b3185"
+    documentation="Het beheren van servers">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="9f0acb29-72e7-406bb-a352-c15e9b56eed"/>
+  <properties
+      key="Original ID"
+      value="id-9f0acb2972e7406bba352c15e9b56eed"/>
+  <properties
+      key="Semanticsearch"
+      value="serverbeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

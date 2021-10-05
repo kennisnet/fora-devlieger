@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-86368867f1abc3fa12950e514a13bda3"
+    documentation="gegevens t.b.v. belastingdienst">
+  <properties
+      key="Referentie"
+      value="wet op loonbelasting, (beperkte) vrijstelling van omzetbelasting, (beperkte) vrijstelling van vennootschapsbelasting"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="instelling"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="ee038acd-d5c9-4880-8332-975ad57dc291"/>
+  <properties
+      key="Original ID"
+      value="ee038acd-d5c9-4880-8332-975ad57dc291"/>
+  <properties
+      key="Semanticsearch"
+      value="ee038acd-d5c9-4880-8332-975ad57dc291"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-38aef2328cdc1e0ed361b18a3f9aca08.xml#id-38aef2328cdc1e0ed361b18a3f9aca08"/>
+</archimate:FlowRelationship>

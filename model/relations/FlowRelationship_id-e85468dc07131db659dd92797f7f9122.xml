@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e85468dc07131db659dd92797f7f9122"
+    documentation="aanvraag fusie effect rapportage">
+  <properties
+      key="Referentie"
+      value="wet PO artikel 64b"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="instelling en beleid"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="fd3d6e00-0779-4d2f-9d6a-eda0c79d5c1b"/>
+  <properties
+      key="Original ID"
+      value="fd3d6e00-0779-4d2f-9d6a-eda0c79d5c1b"/>
+  <properties
+      key="Semanticsearch"
+      value="fd3d6e00-0779-4d2f-9d6a-eda0c79d5c1b"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-3e6790bf6ee9d24bcd4f0191e6a97421.xml#id-3e6790bf6ee9d24bcd4f0191e6a97421"/>
+</archimate:FlowRelationship>

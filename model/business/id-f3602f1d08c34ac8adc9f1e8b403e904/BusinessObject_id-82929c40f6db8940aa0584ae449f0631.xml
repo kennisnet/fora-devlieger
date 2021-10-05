@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voornaam"
+    id="id-82929c40f6db8940aa0584ae449f0631"
+    documentation="Voornaam of -namen (incl voorletters)">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Midden"/>
+  <properties
+      key="Object ID"
+      value="9b52ca5e-9dc0-427b-83f9-8b05193c69bf"/>
+  <properties
+      key="Original ID"
+      value="id-9b52ca5e-9dc0-427b-83f9-8b05193c69bf"/>
+  <properties
+      key="Semanticsearch"
+      value="voornaam"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

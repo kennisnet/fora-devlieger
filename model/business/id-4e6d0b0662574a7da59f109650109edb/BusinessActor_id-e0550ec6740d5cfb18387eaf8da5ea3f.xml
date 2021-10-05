@@ -1,0 +1,30 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VO-raad"
+    id="id-e0550ec6740d5cfb18387eaf8da5ea3f"
+    documentation="De VO-raad is een vereniging van schoolbesturen en ruim scholen in het voortgezet onderwijs.">
+  <properties
+      key="Werkingsgebied"
+      value="VO-raad"/>
+  <properties
+      key="Externe verwijzing"
+      value="http://www.vo-raad.nl/"/>
+  <properties
+      key="Type"
+      value="Actor"/>
+  <properties
+      key="Object ID"
+      value="8bd708a9-17a3-4ba8-bcfc-5bad6e019f3d"/>
+  <properties
+      key="Original ID"
+      value="id-8bd708a9-17a3-4ba8-bcfc-5bad6e019f3d"/>
+  <properties
+      key="Semanticsearch"
+      value="vo-raad"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Organisatie"/>
+</archimate:BusinessActor>

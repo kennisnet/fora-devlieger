@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FG-aanstelling"
+    id="id-b9a722aa5ca2631bfffd34f1f96f09db"
+    documentation="Het aanstellen van een Functionaris voor Gegevensbescherming in het kader van de AVG">
+  <properties
+      key="Object ID"
+      value="35ebd628-dc52-43a9-9f63-1a7bb35db5b6"/>
+  <properties
+      key="Original ID"
+      value="id-35ebd628-dc52-43a9-9f63-1a7bb35db5b6"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="fg-aanstelling"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

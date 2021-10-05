@@ -1,0 +1,24 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CITO"
+    id="id-d45ad2785ce309a8a5bccab9dfee007a"
+    documentation="Centraal Instituut voor Toets Ontwikkeling (zie wet subsidiëring landelijke onderwijsondersteunende activiteiten)">
+  <properties
+      key="Type"
+      value="Actor"/>
+  <properties
+      key="Object ID"
+      value="08634116-e0d1-44ce-acd9-08b393a15cae"/>
+  <properties
+      key="Original ID"
+      value="id-08634116-e0d1-44ce-acd9-08b393a15cae"/>
+  <properties
+      key="Semanticsearch"
+      value="cito"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Organisatie"/>
+</archimate:BusinessActor>

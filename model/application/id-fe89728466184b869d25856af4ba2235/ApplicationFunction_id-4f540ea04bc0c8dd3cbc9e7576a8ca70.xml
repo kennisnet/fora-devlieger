@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document waarmerking- en ondertekening"
+    id="id-4f540ea04bc0c8dd3cbc9e7576a8ca70"
+    documentation="Het digitaal waarmerken en/of ondertekenen van documenten">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="7506f8ed-c5fb-4fb68-6440-f4ec73efd00"/>
+  <properties
+      key="Original ID"
+      value="id-7506f8edc5fb4fb686440f4ec73efd00"/>
+  <properties
+      key="Semanticsearch"
+      value="document waarmerking- en ondertekening"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

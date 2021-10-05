@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoring kwaliteitszorg"
+    id="id-3830a8fe9fe691988edfdf294fdefd8b"
+    documentation="Het bijhouden van en rapporteren over thema's op het gebied van (onderwijs) kwaliteit, conform het stelsel van kwaliteitszorg.">
+  <properties
+      key="Object ID"
+      value="08fd0e27-48b1-4ad4-b42c-1f031c5d34c6"/>
+  <properties
+      key="Original ID"
+      value="id-08fd0e27-48b1-4ad4-b42c-1f031c5d34c6"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="monitoring kwaliteitszorg"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

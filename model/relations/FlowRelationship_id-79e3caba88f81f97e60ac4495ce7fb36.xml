@@ -1,0 +1,30 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-79e3caba88f81f97e60ac4495ce7fb36"
+    documentation="marketing en PR">
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="richten en oprichten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Organisatie"/>
+  <properties
+      key="Object ID"
+      value="1c2cfb5a-fa75-42c0-8c86-c249461babe7"/>
+  <properties
+      key="Original ID"
+      value="id-1c2cfb5a-fa75-42c0-8c86-c249461babe7"/>
+  <properties
+      key="Semanticsearch"
+      value="id-1c2cfb5a-fa75-42c0-8c86-c249461babe7"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-d4809764370f9bf543ed5583147762b6.xml#id-d4809764370f9bf543ed5583147762b6"/>
+</archimate:FlowRelationship>

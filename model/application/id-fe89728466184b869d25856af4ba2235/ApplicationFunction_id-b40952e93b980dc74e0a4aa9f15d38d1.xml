@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proctoring"
+    id="id-b40952e93b980dc74e0a4aa9f15d38d1"
+    documentation="Het digitaal toezicht houden op het afnemen van toetsen of examens.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="5c039308-3744-4dafb-bd74-ca3f40dce4a"/>
+  <properties
+      key="Original ID"
+      value="id-5c03930837444dafbbd74ca3f40dce4a"/>
+  <properties
+      key="Semanticsearch"
+      value="proctoring"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

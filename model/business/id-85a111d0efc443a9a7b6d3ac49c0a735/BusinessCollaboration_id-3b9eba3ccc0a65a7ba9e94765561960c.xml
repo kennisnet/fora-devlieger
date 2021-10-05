@@ -1,0 +1,21 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(M) Werkingsgebied"
+    id="id-3b9eba3ccc0a65a7ba9e94765561960c"
+    documentation="Werkveld waarin Organisaties actief zijn. Werkingsgebieden bevatten (&quot;aggregate&quot;) Organisaties en Rollen. Werkingsgebieden kunnen ook geneste (&quot;aggregate&quot;) werkingsgebieden verwachten. &#xA;&#xA;Het omvattence werkingsgebied is het onderwijsdomein. Daar binnen vallen de werkingsgebieden:&#xA;Onderwijsveld, met daarbinnen PO, VO, MBO, HO&#xA;Private sector&#xA;Overheid&#xA;Ketenbreed&#xA;Voorschoolse educatie">
+  <properties
+      key="Object ID"
+      value="557ee74b-13fc-4c76b-9b69-3bc6fb999ec"/>
+  <properties
+      key="Original ID"
+      value="id-557ee74b13fc4c76b9b693bc6fb999ec"/>
+  <properties
+      key="SWC type"
+      value="Werkingsgebied"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="Semanticsearch"
+      value="(m) werkingsgebied"/>
+</archimate:BusinessCollaboration>

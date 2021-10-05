@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begeleiden dyslexie"
+    id="id-b8fbca5df915ef9c35f89331b225386d"
+    documentation="Extra ondersteuning buiten de reguliere onderwijstaak om, specifiek gericht op dyslexie.">
+  <properties
+      key="Object ID"
+      value="205cc804-6eca-4a5e-8724-3bc958c54f2a"/>
+  <properties
+      key="Original ID"
+      value="id-205cc804-6eca-4a5e-8724-3bc958c54f2a"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="begeleiden dyslexie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

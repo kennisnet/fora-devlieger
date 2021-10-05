@@ -1,0 +1,20 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begrippenset kernprogramma's"
+    id="id-af9ac871c1f0685b87076d2f48f47bbd">
+  <properties
+      key="Object ID"
+      value="da54a903-aca9-41f0-bd64-3b9b83ed6bb4"/>
+  <properties
+      key="Original ID"
+      value="da54a903-aca9-41f0-bd64-3b9b83ed6bb4"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Standaard"/>
+  <properties
+      key="Semanticsearch"
+      value="begrippenset kernprogramma's"/>
+</archimate:Constraint>

@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ruimtenbeheer"
+    id="id-bcd975f6dc5d084578ff0ef334b8879a"
+    documentation="Het beheren van gegevens over ruimten. Zoals geschiktheid voor praktijklessen, daglicht, vierkante meter enz.">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="df32f7f9-b546-456d9-0bb6-7f4d91ca39c"/>
+  <properties
+      key="Original ID"
+      value="id-df32f7f9b546456d90bb67f4d91ca39c"/>
+  <properties
+      key="Semanticsearch"
+      value="ruimtenbeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

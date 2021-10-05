@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kasbeheer"
+    id="id-7c5223e6cb0f3a1932456cdd8354213d">
+  <properties
+      key="Object ID"
+      value="397237ad-9607-4060-aa71-d762bd207dc3"/>
+  <properties
+      key="Original ID"
+      value="id-397237ad-9607-4060-aa71-d762bd207dc3"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Semanticsearch"
+      value="kasbeheer"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

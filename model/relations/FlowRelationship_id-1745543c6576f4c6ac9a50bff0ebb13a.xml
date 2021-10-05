@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1745543c6576f4c6ac9a50bff0ebb13a"
+    documentation="DUO-beleid voor school">
+  <properties
+      key="Referentie"
+      value="wet onderwijstoezicht, wet PO, wet VO, wet expertisecentra ; ROSA: ketenfunctie beleid en wetgeving"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="beleid"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="8cdffc7c-473c-4bc1-bd64-4deef23c0a79"/>
+  <properties
+      key="Original ID"
+      value="id-8cdffc7c-473c-4bc1-bd64-4deef23c0a79"/>
+  <properties
+      key="Semanticsearch"
+      value="id-8cdffc7c-473c-4bc1-bd64-4deef23c0a79"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

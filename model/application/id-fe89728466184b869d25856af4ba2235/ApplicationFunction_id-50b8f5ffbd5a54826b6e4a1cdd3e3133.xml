@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgverleners beheer"
+    id="id-50b8f5ffbd5a54826b6e4a1cdd3e3133">
+  <properties
+      key="Object ID"
+      value="150512c7-7a24-4650-af24-633a4504dd41"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-150512c7-7a24-4650-af24-633a4504dd41"/>
+  <properties
+      key="Semanticsearch"
+      value="zorgverleners beheer"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

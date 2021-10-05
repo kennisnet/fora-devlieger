@@ -1,0 +1,24 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiemodel"
+    id="id-726fc64dafffdcde009b68ced2afd7a7"
+    documentation="Om ervoor te zorgen dat de uitgewisselde gegevens juist zijn en op de juiste manier worden gebruikt, met de juiste betekenis, dienen er zeer goede afspraken gemaakt te worden. De afspraken over het meervoudig gebruik van gegevens en de (sectorale) gegevensuitwisseling zijn vastgelegd in informatiemodellen.">
+  <properties
+      key="SWC type"
+      value="Groep"/>
+  <properties
+      key="SWC subtype"
+      value="Gradaties"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="10eb5fbe-0f29-492cb-0925-08f7d2aa663"/>
+  <properties
+      key="Original ID"
+      value="id-10eb5fbe0f29492cb092508f7d2aa663"/>
+  <properties
+      key="Semanticsearch"
+      value="informatiemodel"/>
+</archimate:Grouping>

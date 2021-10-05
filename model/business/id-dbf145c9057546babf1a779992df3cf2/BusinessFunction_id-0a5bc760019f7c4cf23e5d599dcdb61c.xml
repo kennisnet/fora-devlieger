@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Passend onderwijs"
+    id="id-0a5bc760019f7c4cf23e5d599dcdb61c"
+    documentation="Het bepalen en bijstellen van de gewenste leerroute van een onderwijsvolger binnen een onderwijsorganisatie en over de grenzen van onderwijsorganisaties heen.&#xA;* Het onderzoeken van stimulerende en belemmerende factoren voor een leerling;&#xA;* Bepalen onderwijs- en begeleidingsbehoefte;&#xA;* Onderwijsondersteuning op maat;&#xA;* Ontwikkelingsperspectief en extra begeleiding.">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="2ae906b4-9994-4470-947c-3fd6e3c17123"/>
+  <properties
+      key="Original ID"
+      value="id-2ae906b4-9994-4470-947c-3fd6e3c17123"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="passend onderwijs"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

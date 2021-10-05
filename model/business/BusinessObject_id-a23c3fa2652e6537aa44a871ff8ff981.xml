@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inschrijving"
+    id="id-a23c3fa2652e6537aa44a871ff8ff981"
+    documentation="De inschrijving van een leerling bij een school.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Overeenkomst"/>
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Statusdatum"
+      value="12-7-2021"/>
+  <properties
+      key="Bron"
+      value="FORA-WG Informatiemodel O&amp;O"/>
+  <properties
+      key="Object ID"
+      value="72b62851-d625-4a3bb-6d16-d490efb43bc"/>
+  <properties
+      key="Original ID"
+      value="id-72b62851d6254a3bb6d16d490efb43bc"/>
+  <properties
+      key="Semanticsearch"
+      value="inschrijving"/>
+</archimate:BusinessObject>

@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begrotinggegevensbeheer"
+    id="id-ac70d33d7394302d6b42f98ad4aee7b3">
+  <properties
+      key="Object ID"
+      value="6b56ea4d-574a-4836-9518-9b1f14c0c47c"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-6b56ea4d-574a-4836-9518-9b1f14c0c47c"/>
+  <properties
+      key="Semanticsearch"
+      value="begrotinggegevensbeheer"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

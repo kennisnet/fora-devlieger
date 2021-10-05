@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Synchronisatie identiteit- en of autorisatiegegevens"
+    id="id-a86c81e4ed4639e48d6a5c41ae2f1331">
+  <properties
+      key="Object ID"
+      value="ecaef6a4-0314-4420-a414-04b55aae03f6"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="ecaef6a4-0314-4420-a414-04b55aae03f6"/>
+  <properties
+      key="Semanticsearch"
+      value="synchronisatie identiteit- en of autorisatiegegevens"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

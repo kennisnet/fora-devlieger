@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevens analyse"
+    id="id-b10c91c70271887b13af200c2820e633"
+    documentation="Het analyseren van gegevens voor beslissingsondersteuning.  &#xA;Denk aan: &#xA;* Data science &#xA;* Business Intelligence">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="d8c66925-6fb5-43239-53e9-8b464ddee2b"/>
+  <properties
+      key="Original ID"
+      value="id-d8c669256fb54323953e98b464ddee2b"/>
+  <properties
+      key="Semanticsearch"
+      value="gegevens analyse"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

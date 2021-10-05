@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Programmamanagement"
+    id="id-c69270d37cc0efa42097a11685ba3273"
+    documentation="Het ondersteunen van het werken aan een programma.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="d83ce924-51f7-4b989-c233-de807dfc744"/>
+  <properties
+      key="Original ID"
+      value="id-d83ce92451f74b989c233de807dfc744"/>
+  <properties
+      key="Semanticsearch"
+      value="programmamanagement"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

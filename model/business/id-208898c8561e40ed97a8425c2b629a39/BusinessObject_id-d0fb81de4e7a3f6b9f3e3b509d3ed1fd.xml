@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandelplan"
+    id="id-d0fb81de4e7a3f6b9f3e3b509d3ed1fd"
+    documentation="Een zorgplan (ook wel behandelplan genaamd) is een plan waarin een beschrijving en het doel van de behandeling en de algemene gegevens van een leerling in beschreven staat. (bron: Wikipedia)">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Object ID"
+      value="08e11545-7c92-4305-8789-6b644351f154"/>
+  <properties
+      key="Original ID"
+      value="id-08e11545-7c92-4305-8789-6b644351f154"/>
+  <properties
+      key="Semanticsearch"
+      value="behandelplan"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

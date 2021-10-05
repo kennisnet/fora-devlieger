@@ -1,0 +1,21 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(M) Wettelijke context"
+    id="id-e5731078d29ad4aa567ab41130395e24"
+    documentation="Wet- of regelgeving die de Bedrijfsfunctie motiveert (&quot;Influence&quot;). Wet- en regelgeving kan hierarchisch zijn ingericht (&quot;Aggregate&quot;).">
+  <properties
+      key="Object ID"
+      value="367b15d9-f101-43198-6a9f-e017785245c"/>
+  <properties
+      key="Original ID"
+      value="id-367b15d9f101431986a9fe017785245c"/>
+  <properties
+      key="SWC type"
+      value="Wet"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="Semanticsearch"
+      value="(m) wettelijke context"/>
+</archimate:Driver>

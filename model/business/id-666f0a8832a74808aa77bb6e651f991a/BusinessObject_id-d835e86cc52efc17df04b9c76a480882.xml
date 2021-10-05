@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bestuurlijke collegiale visitatie"
+    id="id-d835e86cc52efc17df04b9c76a480882"
+    documentation="Bestuurlijke collegiale visitatie is het gestructureerd bezoeken van bestuurders aan collega-bestuurders met als doel te leren en ontwikkelen door te reflecteren op het bestuurlijk handelen in de context van de onderwijsorganisatie">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Bevoegd gezag"/>
+  <properties
+      key="Object ID"
+      value="5108c76d-86aa-4b2ba-3204-c66ebc2b6d9"/>
+  <properties
+      key="Original ID"
+      value="id-5108c76d86aa4b2ba3204c66ebc2b6d9"/>
+  <properties
+      key="Semanticsearch"
+      value="bestuurlijke collegiale visitatie"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+</archimate:BusinessObject>

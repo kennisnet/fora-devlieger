@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkactiviteit"
+    id="id-9ebb702410fb17f8caf88d885e97c931"
+    documentation="Resultaat van arbeid verricht door een medewerker.">
+  <properties
+      key="Object ID"
+      value="c6f3d70b-9b09-4232-98fb-4d00ce0c70f9"/>
+  <properties
+      key="Original ID"
+      value="c6f3d70b-9b09-4232-98fb-4d00ce0c70f9"/>
+  <properties
+      key="Semanticsearch"
+      value="werkactiviteit"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

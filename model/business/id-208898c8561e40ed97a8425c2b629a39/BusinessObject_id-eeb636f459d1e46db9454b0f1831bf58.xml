@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beleidsplan"
+    id="id-eeb636f459d1e46db9454b0f1831bf58">
+  <properties
+      key="Object ID"
+      value="1c2c34c4-5b73-4be1-986d-d2c2e08cba23"/>
+  <properties
+      key="Original ID"
+      value="id-1c2c34c4-5b73-4be1-986d-d2c2e08cba23"/>
+  <properties
+      key="Semanticsearch"
+      value="beleidsplan"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Schoolbestuur"/>
+</archimate:BusinessObject>

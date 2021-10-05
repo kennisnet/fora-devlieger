@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsinstelling"
+    id="id-dce12943b414197c59b69ef01644c447"
+    documentation="Organisatie die onderwijs in Nederland verzorgt">
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Werkingsgebied"
+      value="Onderwijsinstellingen"/>
+  <properties
+      key="Object ID"
+      value="58995af9-afb4-488e-914e-f4c06ef7078b"/>
+  <properties
+      key="Original ID"
+      value="id-58995af9-afb4-488e-914e-f4c06ef7078b"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsinstelling"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

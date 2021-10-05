@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer leerlingnotities"
+    id="id-125b75123886f5e596d3a9a36f7dc330">
+  <properties
+      key="Object ID"
+      value="d01a8ac3-0a60-4dcc-a821-4f98d9d41b50"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="d01a8ac3-0a60-4dcc-a821-4f98d9d41b50"/>
+  <properties
+      key="Semanticsearch"
+      value="beheer leerlingnotities"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

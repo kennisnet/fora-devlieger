@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitstroom personeel"
+    id="id-f586717ac41d8729e4a3e11f525855e8"
+    documentation="Verantwoordelijkheid voor het correcte verloop van het proces van uitstroom van medewerkers, waaronder medewerkers die met pensioen gaan, medewerkers die vrijwillig elders hun loopbaan voortzetten en ontslag van medewerkers.">
+  <properties
+      key="Object ID"
+      value="7a1fae6b-3501-4e2c-8fd2-1a76a21b0bd3"/>
+  <properties
+      key="Original ID"
+      value="id-7a1fae6b-3501-4e2c-8fd2-1a76a21b0bd3"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="uitstroom personeel"/>
+</archimate:BusinessFunction>

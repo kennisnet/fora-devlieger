@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schorsing en verwijdering"
+    id="id-644e585eea269f76806da611e54ab216"
+    documentation="Het door het bevoegd gezag aan een leerling tijdelijk (schorsen) of definitief (verwijderen) ontzeggen van de toegang tot de onderwijsorganisatie.">
+  <properties
+      key="Object ID"
+      value="1382d825-9f84-4d0a-a34a-815a152cfa0a"/>
+  <properties
+      key="Original ID"
+      value="id-1382d825-9f84-4d0a-a34a-815a152cfa0a"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="schorsing en verwijdering"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

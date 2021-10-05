@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3d48b34159b06f6ae285aa0aecaf63f6"
+    documentation="verantwoording naar DUO">
+  <properties
+      key="Referentie"
+      value="https://duo.nl/zakelijk/voortgezet-onderwijs/verantwoording/jaarstukken-indienen.jsp ; wet PO art 171"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="verantwoording"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="4ba39d73-4411-41f8-83d0-4ec94f01ff6f"/>
+  <properties
+      key="Original ID"
+      value="id-4ba39d73-4411-41f8-83d0-4ec94f01ff6f"/>
+  <properties
+      key="Semanticsearch"
+      value="id-4ba39d73-4411-41f8-83d0-4ec94f01ff6f"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-c26e841c5d3ae3ddd24dfb6d3703c0ce.xml#id-c26e841c5d3ae3ddd24dfb6d3703c0ce"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+</archimate:FlowRelationship>

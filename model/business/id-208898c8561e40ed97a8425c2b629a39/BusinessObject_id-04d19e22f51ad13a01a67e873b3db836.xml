@@ -1,0 +1,48 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Groepindeling"
+    id="id-04d19e22f51ad13a01a67e873b3db836"
+    documentation="(Lijst van) groepen die worden gehanteerd bij het geven van onderwijs, en de koppeling van de groepen naar individuele leerlingen.">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Midden"/>
+  <properties
+      key="Object ID"
+      value="22a66635-272d-4668-a80b-0055e39ce9ea"/>
+  <properties
+      key="Original ID"
+      value="id-22a66635-272d-4668-a80b-0055e39ce9ea"/>
+  <properties
+      key="Semanticsearch"
+      value="groepindeling"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Voorbeeld"
+      value="jaargroep, stamgroep, klas"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+  <properties
+      key="Bron"
+      value="FORA-WG Informatiemodel O&amp;O"/>
+</archimate:BusinessObject>

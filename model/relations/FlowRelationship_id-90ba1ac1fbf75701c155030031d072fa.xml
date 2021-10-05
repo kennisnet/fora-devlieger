@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-90ba1ac1fbf75701c155030031d072fa"
+    documentation="gegevens t.b.v. inspectie">
+  <properties
+      key="Referentie"
+      value="wet op het onderwijstoezicht (b.v. art 11b) zie ook"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="basis, functie en kwalificaties"/>
+  <properties
+      key="Gegevenssoort"
+      value="Medewerker"/>
+  <properties
+      key="Object ID"
+      value="5d2d1415-dc9c-4839-bb8f-fda93eea37da"/>
+  <properties
+      key="Original ID"
+      value="id-5d2d1415-dc9c-4839-bb8f-fda93eea37da"/>
+  <properties
+      key="Semanticsearch"
+      value="id-5d2d1415-dc9c-4839-bb8f-fda93eea37da"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-33a7ec7daae142828c597eb68d55fef5.xml#id-33a7ec7daae142828c597eb68d55fef5"/>
+</archimate:FlowRelationship>

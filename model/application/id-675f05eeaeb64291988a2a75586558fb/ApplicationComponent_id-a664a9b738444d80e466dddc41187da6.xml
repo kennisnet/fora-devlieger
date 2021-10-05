@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loopbaanoriëntatie en -begeleidingsysteem (LOB)"
+    id="id-a664a9b738444d80e466dddc41187da6"
+    documentation="Systeem voor ondersteuning van loopbaanoriëntatie en -begeleiding.">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="78b782d1-248b-48efa-29c3-a0a22699bb7"/>
+  <properties
+      key="Original ID"
+      value="id-78b782d1248b48efa29c3a0a22699bb7"/>
+  <properties
+      key="Semanticsearch"
+      value="loopbaanoriëntatie en -begeleidingsysteem (lob)"/>
+</archimate:ApplicationComponent>

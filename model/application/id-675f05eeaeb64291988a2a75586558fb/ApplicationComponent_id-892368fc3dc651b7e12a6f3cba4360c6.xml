@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architectuurbeheersysteem"
+    id="id-892368fc3dc651b7e12a6f3cba4360c6"
+    documentation="Een systeem die het beschrijven en beheren van de enterprise-architectuur, de organisatie strategie en de organisatie uitlijning ondersteunt.">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="63db61e6-b86a-4e649-aac4-f926e66b4c7"/>
+  <properties
+      key="Original ID"
+      value="id-63db61e6b86a4e649aac4f926e66b4c7"/>
+  <properties
+      key="Semanticsearch"
+      value="architectuurbeheersysteem"/>
+</archimate:ApplicationComponent>

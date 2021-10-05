@@ -1,0 +1,21 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijs"
+    id="id-6b8bd176449ad6d5c5856c3d13b8449c"
+    documentation="Bedrijfsdomein van onderwijsfuncties (primair proces)">
+  <properties
+      key="Object ID"
+      value="f03e909e-e6fc-4fa2-ae6f-043144839311"/>
+  <properties
+      key="Original ID"
+      value="f03e909e-e6fc-4fa2-ae6f-043144839311"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijs"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Groep"/>
+</archimate:Grouping>

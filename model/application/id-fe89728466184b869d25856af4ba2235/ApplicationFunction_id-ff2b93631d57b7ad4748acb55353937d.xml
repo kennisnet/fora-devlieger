@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Print-/scan-/kopieerbeheer"
+    id="id-ff2b93631d57b7ad4748acb55353937d"
+    documentation="Het  beheer van huisdrukkerijapparatuur en multifunctionals">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="ab82fb00-0202-4a438-31f9-53bbff17a44"/>
+  <properties
+      key="Original ID"
+      value="id-ab82fb0002024a43831f953bbff17a44"/>
+  <properties
+      key="Semanticsearch"
+      value="print-/scan-/kopieerbeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

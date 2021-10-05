@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerken persoonsgegevens algemeen"
+    id="id-442f627c9d8bfe2154bc17201a7d7caa">
+  <properties
+      key="Object ID"
+      value="a4ee575d-01b4-40f0-9a3d-b30219b5bb5b"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="a4ee575d-01b4-40f0-9a3d-b30219b5bb5b"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerken persoonsgegevens algemeen"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

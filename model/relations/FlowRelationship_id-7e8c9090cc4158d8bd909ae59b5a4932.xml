@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7e8c9090cc4158d8bd909ae59b5a4932"
+    documentation="overige subsidies OCW">
+  <properties
+      key="Referentie"
+      value="zie begroting OCW"/>
+  <properties
+      key="Grondslag"
+      value="organisatie"/>
+  <properties
+      key="Benaming"
+      value="financiering"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="19bbdb1f-db28-4753-acd9-a906d3525cca"/>
+  <properties
+      key="Original ID"
+      value="id-19bbdb1f-db28-4753-acd9-a906d3525cca"/>
+  <properties
+      key="Semanticsearch"
+      value="id-19bbdb1f-db28-4753-acd9-a906d3525cca"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-584ebf14c9049c775936aefec6dc655c.xml#id-584ebf14c9049c775936aefec6dc655c"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-8661905a8d8c0e6ae12e9fef06dbb397.xml#id-8661905a8d8c0e6ae12e9fef06dbb397"/>
+</archimate:FlowRelationship>

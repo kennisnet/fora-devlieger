@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Media"
+    id="id-d4809764370f9bf543ed5583147762b6"
+    documentation="Gebruikelijke media kanalen: radio, TV, kranten, generieke internetsites">
+  <properties
+      key="Object ID"
+      value="ee6ef6f8-72d9-4000-84fb-de4578058551"/>
+  <properties
+      key="Original ID"
+      value="ee6ef6f8-72d9-4000-84fb-de4578058551"/>
+  <properties
+      key="Semanticsearch"
+      value="media"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

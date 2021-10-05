@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f7606a0db817d0613f4037321202cbcc"
+    documentation="financiering passend onderwijs">
+  <properties
+      key="Referentie"
+      value="Wet passend onderwijs, wet PO art 132, wet VO, wet EC"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="passend onderwijs"/>
+  <properties
+      key="Gegevenssoort"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Object ID"
+      value="6f7771f0-30e8-4bce-80e3-7b1a271db9d3"/>
+  <properties
+      key="Original ID"
+      value="id-6f7771f0-30e8-4bce-80e3-7b1a271db9d3"/>
+  <properties
+      key="Semanticsearch"
+      value="id-6f7771f0-30e8-4bce-80e3-7b1a271db9d3"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-ef98c02f9711c66e2f17171745adab88.xml#id-ef98c02f9711c66e2f17171745adab88"/>
+</archimate:FlowRelationship>

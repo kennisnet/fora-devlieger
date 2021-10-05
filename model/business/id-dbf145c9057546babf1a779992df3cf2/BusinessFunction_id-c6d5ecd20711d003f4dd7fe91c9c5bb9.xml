@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer van referentieinformatie"
+    id="id-c6d5ecd20711d003f4dd7fe91c9c5bb9"
+    documentation="Het aanmaken, verwerken en vernietigen van referentiegegevens.">
+  <properties
+      key="Object ID"
+      value="c9c707e1-b523-4715-a028-e4c45f77c5cc"/>
+  <properties
+      key="Original ID"
+      value="c9c707e1-b523-4715-a028-e4c45f77c5cc"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="beheer van referentieinformatie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

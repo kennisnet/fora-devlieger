@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salarisverwerking"
+    id="id-b685dcbaf4a21ad7d008015cbb6b6133"
+    documentation="Salarisverwerking omvat activiteiten met betrekking tot het verwerken van salarisbetaling, en ook de verwerking van declaraties.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="0668f09a-fa8b-4f52a-fa59-2a9b5cf5abe"/>
+  <properties
+      key="Original ID"
+      value="id-0668f09afa8b4f52afa592a9b5cf5abe"/>
+  <properties
+      key="Semanticsearch"
+      value="salarisverwerking"/>
+</archimate:BusinessFunction>

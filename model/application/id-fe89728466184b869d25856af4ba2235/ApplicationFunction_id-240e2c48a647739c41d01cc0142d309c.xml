@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer van kwaliteitsdata"
+    id="id-240e2c48a647739c41d01cc0142d309c">
+  <properties
+      key="Object ID"
+      value="41e52bd5-927d-4c36-b598-45d345ed5232"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-41e52bd5-927d-4c36-b598-45d345ed5232"/>
+  <properties
+      key="Semanticsearch"
+      value="beheer van kwaliteitsdata"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

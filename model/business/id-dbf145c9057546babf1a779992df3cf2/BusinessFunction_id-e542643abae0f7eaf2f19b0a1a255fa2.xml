@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteitszorg"
+    id="id-e542643abae0f7eaf2f19b0a1a255fa2"
+    documentation="Het zorgdragen voor de kwaliteit van het onderwijs. Kwaliteitszorg omvat alle activiteiten en maatregelen waarmee het bestuur en de school de onderwijskwaliteit bewaken en verbeteren.">
+  <properties
+      key="Object ID"
+      value="66a32cc1-a650-4996-ad6f-8dc9dcfdd871"/>
+  <properties
+      key="Original ID"
+      value="id-66a32cc1-a650-4996-ad6f-8dc9dcfdd871"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="kwaliteitszorg"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,21 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DLO"
+    id="id-ec02a8c52e881e468b7afcfc934fcec0"
+    documentation="De Digitale Leeromgeving is het geheel van systemen en applicaties dat leerlingen en medewerkers in staat stelt hun activiteiten uit te voeren.&#xA;Dit is niet één pakket, systeem of applicatie: het is een door de school georganiseerd landschap van digitale diensten.">
+  <properties
+      key="Object ID"
+      value="81638fee-f2ec-46e8-b256-4a48147e66f8"/>
+  <properties
+      key="Original ID"
+      value="id-81638fee-f2ec-46e8-b256-4a48147e66f8"/>
+  <properties
+      key="Semanticsearch"
+      value="dlo"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Groep"/>
+</archimate:Grouping>

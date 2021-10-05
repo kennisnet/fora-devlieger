@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archiveringssysteem"
+    id="id-05161e8aafa35a8d2a9ce45a6ce50f72"
+    documentation="Systeem ten behoeve van het archiveren van informatie, bijvoorbeeld documenten.">
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Object ID"
+      value="a6716bf6-05e1-4cc39-a9a8-fc52cf7e172"/>
+  <properties
+      key="Original ID"
+      value="id-a6716bf605e14cc39a9a8fc52cf7e172"/>
+  <properties
+      key="Semanticsearch"
+      value="archiveringssysteem"/>
+</archimate:ApplicationComponent>

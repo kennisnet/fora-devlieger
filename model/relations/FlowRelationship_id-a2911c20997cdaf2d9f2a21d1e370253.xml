@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a2911c20997cdaf2d9f2a21d1e370253"
+    documentation="alle data uitwisseling met DUO">
+  <properties
+      key="Referentie"
+      value="zie DUO website, wet PO art 161 en 178b ; ROSA: ketenfunctie verticaal verantwoorden, ketenfunctie preventie schooluitval, ketenfunctie kwaliteitsbewaking en toezicht"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="inschrijvingen, deelname, eindresultaten en uitschrijven"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Uitvoering"/>
+  <properties
+      key="Object ID"
+      value="4703ff3a-dac1-4b10-97bc-f40be4668544"/>
+  <properties
+      key="Original ID"
+      value="id-4703ff3a-dac1-4b10-97bc-f40be4668544"/>
+  <properties
+      key="Semanticsearch"
+      value="id-4703ff3a-dac1-4b10-97bc-f40be4668544"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+</archimate:FlowRelationship>

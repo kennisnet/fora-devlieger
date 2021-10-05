@@ -1,0 +1,20 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begrippenset RTTI"
+    id="id-83714d17dcad428a5e13a76f09a045a7">
+  <properties
+      key="Object ID"
+      value="8ca378a8-37e8-451a-98ae-35f608e3efd0"/>
+  <properties
+      key="Original ID"
+      value="id-8ca378a8-37e8-451a-98ae-35f608e3efd0"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Standaard"/>
+  <properties
+      key="Semanticsearch"
+      value="begrippenset rtti"/>
+</archimate:Constraint>

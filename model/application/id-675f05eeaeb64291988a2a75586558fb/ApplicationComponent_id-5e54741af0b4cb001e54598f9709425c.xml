@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mediatheekbeheer systeem"
+    id="id-5e54741af0b4cb001e54598f9709425c"
+    documentation="Een systeem dat het beheren en werven van collecties bestaande uit materialen ondersteunt (denk aan boeken, tijdschriften, artikelen, multimedia).&#xA;Daarnaast voorziet het systeem ook in een centrale repository en het aanbieden, reserveren en uitlenen van materialen. &#xA;Bijvoorbeeld: Aura">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="3d85d0d5-dd04-48f48-567c-a2e9326c2ce"/>
+  <properties
+      key="Original ID"
+      value="id-3d85d0d5dd0448f48567ca2e9326c2ce"/>
+  <properties
+      key="Semanticsearch"
+      value="mediatheekbeheer systeem"/>
+</archimate:ApplicationComponent>

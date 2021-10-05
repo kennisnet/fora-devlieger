@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inschrijving projecten en excursies"
+    id="id-bad1b279b76630428bfc88451784ccb9"
+    documentation="Inschrijven voor projecten en excursies.">
+  <properties
+      key="Object ID"
+      value="741d4ed2-9dd8-4158-b804-275008a845d7"/>
+  <properties
+      key="Original ID"
+      value="id-741d4ed2-9dd8-4158-b804-275008a845d7"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="inschrijving projecten en excursies"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

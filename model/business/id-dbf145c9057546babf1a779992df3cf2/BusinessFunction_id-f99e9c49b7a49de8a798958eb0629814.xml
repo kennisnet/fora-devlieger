@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijshuisvesting"
+    id="id-f99e9c49b7a49de8a798958eb0629814"
+    documentation="Het voorzien in gebouw en terreinen, verzekeringen, onderhoud, verbouwingen, energie en water, beheer (in termen van huur, lease en koop) en rente van vastgoed van de onderwijsorganisatie.">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="3f9e97bf-f5cf-4416-bead-bacc9332e238"/>
+  <properties
+      key="Original ID"
+      value="id-3f9e97bf-f5cf-4416-bead-bacc9332e238"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijshuisvesting"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

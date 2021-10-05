@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Adaptief) digitaal leermateriaal"
+    id="id-7c59f052556cab3558142bf1c5f69e43"
+    documentation="Digitaal leermateriaal, waarbij indien het adaptief is,&#xA; het pad door het materiaal dat de leerling doorloopt, zich aanpast op basis van de uitkomsten van de voortgang van de leerling">
+  <properties
+      key="Object ID"
+      value="a66fe1f3-cbbb-4571-b2b8-f5207c52698b"/>
+  <properties
+      key="Original ID"
+      value="a66fe1f3-cbbb-4571-b2b8-f5207c52698b"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Semanticsearch"
+      value="(adaptief) digitaal leermateriaal"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PO-ondersteunende organisaties"
+    id="id-7d2604ed85e6951484d5c6e0c5686839"
+    documentation="Organisatie die specifieke ondersteuning levert voor PO-instellingen.">
+  <properties
+      key="Type"
+      value="Rol"/>
+  <properties
+      key="Werkingsgebied"
+      value="PO-ondersteunende organisaties"/>
+  <properties
+      key="Object ID"
+      value="f0a4b64f-e061-4bcf-abee-d4fafda86fca"/>
+  <properties
+      key="Original ID"
+      value="f0a4b64f-e061-4bcf-abee-d4fafda86fca"/>
+  <properties
+      key="Semanticsearch"
+      value="po-ondersteunende organisaties"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+</archimate:BusinessRole>

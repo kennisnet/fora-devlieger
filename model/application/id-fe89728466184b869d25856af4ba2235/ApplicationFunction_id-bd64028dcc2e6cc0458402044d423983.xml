@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer duurzame inzetbaarheid en persoonlijk budget"
+    id="id-bd64028dcc2e6cc0458402044d423983">
+  <properties
+      key="Object ID"
+      value="577e4ac9-759a-4c39-b2d3-0f7961ecba58"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-577e4ac9-759a-4c39-b2d3-0f7961ecba58"/>
+  <properties
+      key="Semanticsearch"
+      value="beheer duurzame inzetbaarheid en persoonlijk budget"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

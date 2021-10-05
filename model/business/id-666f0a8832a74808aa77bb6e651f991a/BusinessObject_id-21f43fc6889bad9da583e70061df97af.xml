@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsaanbieder"
+    id="id-21f43fc6889bad9da583e70061df97af"
+    documentation="Onderwijsaanbieder is een organisatie die door een onderwijsbestuur is ingesteld voor het verzorgen van onderwijs.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Huisvesting"/>
+  <properties
+      key="Object ID"
+      value="9f10c1b0-4fd6-4ad3b-bce5-3bcec2c6d49"/>
+  <properties
+      key="Original ID"
+      value="id-9f10c1b04fd64ad3bbce53bcec2c6d49"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijsaanbieder"/>
+</archimate:BusinessObject>

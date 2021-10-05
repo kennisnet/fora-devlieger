@@ -1,0 +1,21 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsvoering"
+    id="id-ea538452917a9a0efe72dec6283447af"
+    documentation="Bedrijfsdomein voor bedrijfsvoeringsfuncties">
+  <properties
+      key="Object ID"
+      value="6d37a16c-046b-438c-86ce-a699c0a0bb20"/>
+  <properties
+      key="Original ID"
+      value="id-6d37a16c-046b-438c-86ce-a699c0a0bb20"/>
+  <properties
+      key="Semanticsearch"
+      value="bedrijfsvoering"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Groep"/>
+</archimate:Grouping>

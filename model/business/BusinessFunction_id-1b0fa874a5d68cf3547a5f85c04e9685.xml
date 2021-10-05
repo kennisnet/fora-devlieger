@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oudercommunicatie schoolbreed"
+    id="id-1b0fa874a5d68cf3547a5f85c04e9685"
+    documentation="Communicatie over klasoverstijgende schoolgerelateerde zaken.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="ad6e34fe-cb8f-4e218-13e6-4b306636c1b"/>
+  <properties
+      key="Original ID"
+      value="id-ad6e34fecb8f4e21813e64b306636c1b"/>
+  <properties
+      key="Semanticsearch"
+      value="oudercommunicatie schoolbreed"/>
+</archimate:BusinessFunction>

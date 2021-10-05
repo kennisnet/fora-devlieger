@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobiele nummer"
+    id="id-18deb8b4924e3426bef27f67b8e549fb"
+    documentation="Telefoonnummer van de GSM van de leerling.">
+  <properties
+      key="Object ID"
+      value="7aed25e4-5b90-441e-a7ae-44d5f05ce1e0"/>
+  <properties
+      key="Original ID"
+      value="id-7aed25e4-5b90-441e-a7ae-44d5f05ce1e0"/>
+  <properties
+      key="Semanticsearch"
+      value="mobiele nummer"/>
+</archimate:DataObject>

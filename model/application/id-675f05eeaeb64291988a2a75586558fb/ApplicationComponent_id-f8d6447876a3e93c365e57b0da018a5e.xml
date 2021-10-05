@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integratiesysteem"
+    id="id-f8d6447876a3e93c365e57b0da018a5e"
+    documentation="Een systeem dat zorgdraagt voor de  uitwisseling van gegevens tussen applicaties, zoals identiteitsgegevens. &#xA;Bevat ondermeer: API's Business logica (input/output scripts) Databank Monitoring (performance en errors) &#xA;Andere trefwoorden: ESB Broker">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="db0a6af2-aead-439a9-8e70-066852f50fc"/>
+  <properties
+      key="Original ID"
+      value="id-db0a6af2aead439a98e70066852f50fc"/>
+  <properties
+      key="Semanticsearch"
+      value="integratiesysteem"/>
+</archimate:ApplicationComponent>

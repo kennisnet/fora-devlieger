@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerking zorgbegeleidingsgegevens (gezondheidsgegevens)"
+    id="id-45e8e74aae26ca4b9db7db67830ef803">
+  <properties
+      key="Object ID"
+      value="244ccad5-e410-4a2f-8c71-288e087cf18a"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-244ccad5-e410-4a2f-8c71-288e087cf18a"/>
+  <properties
+      key="Semanticsearch"
+      value="verwerking zorgbegeleidingsgegevens (gezondheidsgegevens)"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

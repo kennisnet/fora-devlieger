@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betrokkenheid van externe hulpverleners"
+    id="id-c7dd24b7ff98b57dfd53cbdb73bda5c9"
+    documentation="Informatie over of er hulpverleners bij een leerling betrokken zijn, buiten de ondersteuning vanuit de onderwijsinstelling, en met welk doeleinde.">
+  <properties
+      key="Object ID"
+      value="02fa1c29-a0a5-4e92-acd9-154d9c53863a"/>
+  <properties
+      key="Original ID"
+      value="id-02fa1c29-a0a5-4e92-acd9-154d9c53863a"/>
+  <properties
+      key="Semanticsearch"
+      value="betrokkenheid van externe hulpverleners"/>
+</archimate:DataObject>

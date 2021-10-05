@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voortgang leerproces"
+    id="id-58dfd7e7f4eccc3d2faea3b35fa7206c"
+    documentation="Gegevens met betrekking tot de resultaten die door de leerling behaald zijn, denk aan (rapport)cijfers, beoordelingen, etc">
+  <properties
+      key="Beschikbaarheid"
+      value="Midden"/>
+  <properties
+      key="Integriteit"
+      value="Midden"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Midden"/>
+  <properties
+      key="Object ID"
+      value="6c7fa055-61d8-4b81-b2f3-4a93cf1c1ec3"/>
+  <properties
+      key="Original ID"
+      value="id-6c7fa055-61d8-4b81-b2f3-4a93cf1c1ec3"/>
+  <properties
+      key="Semanticsearch"
+      value="voortgang leerproces"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

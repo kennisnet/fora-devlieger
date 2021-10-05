@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerlingbegeleiding"
+    id="id-3fa2ed984da0906e839fa366de110a96"
+    documentation="Het begeleiden van de ontwikkeling van leerlingen">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="1e1b05dd-7a7d-49648-579e-262c7d422ec"/>
+  <properties
+      key="Original ID"
+      value="id-1e1b05dd7a7d49648579e262c7d422ec"/>
+  <properties
+      key="Semanticsearch"
+      value="leerlingbegeleiding"/>
+</archimate:BusinessFunction>

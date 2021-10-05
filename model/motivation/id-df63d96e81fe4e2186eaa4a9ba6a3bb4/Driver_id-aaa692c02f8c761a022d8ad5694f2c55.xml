@@ -1,0 +1,20 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wet referentieniveaus Nederlandse taal en rekenen"
+    id="id-aaa692c02f8c761a022d8ad5694f2c55">
+  <properties
+      key="Verwijzing"
+      value="https://wetten.overheid.nl/jci1.3:c:BWBR0027679"/>
+  <properties
+      key="Juriconnect"
+      value="jci1.3:c:BWBR0027679"/>
+  <properties
+      key="Object ID"
+      value="4a89d346-17a9-4718b-b3f4-cc4ac8f47f9"/>
+  <properties
+      key="Original ID"
+      value="id-4a89d34617a94718bb3f4cc4ac8f47f9"/>
+  <properties
+      key="Semanticsearch"
+      value="wet referentieniveaus nederlandse taal en rekenen"/>
+</archimate:Driver>

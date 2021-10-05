@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toezicht"
+    id="id-6e529315a112a4be1b17e73b5250c93c"
+    documentation="&quot;Het (intern) toezicht houden op het beleid en de behaalde resultaten van het uitvoerend bestuur.&#xA; &#xA; De taken van intern toezichthouders bestaan onder meer uit:&#xA; - het toezien op de uitvoering van de taken en de uitoefening van de bevoegdheden door het bestuur;&#xA; - de naleving van de wettelijke verplichtingen en toepassing van de code voor goed bestuur;&#xA; - het toezien op rechtmatige en doelmatige besteding van middelen;&#xA; - het goedkeuren van de begroting, bestuursverslag en meerjarenplan (art. 17c lid 1 WPO, art. 28i lid 1 WEC, art. 24e1 lid 1 WVO). &#xA; (Bron: Functionele scheiding van bestuur en tozeicht in de praktijk, Juli 2018, Inspectie van het Onderwijs)&quot;">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="700fe756-da73-4762a-3b45-07383e28118"/>
+  <properties
+      key="Original ID"
+      value="id-700fe756da734762a3b4507383e28118"/>
+  <properties
+      key="Semanticsearch"
+      value="toezicht"/>
+</archimate:BusinessFunction>

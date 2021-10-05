@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jaarverslagconstructie"
+    id="id-e7e0ed6c463049def8617063953bbef3">
+  <properties
+      key="Object ID"
+      value="29fb79c6-a189-4859-b13a-41abae7bc506"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="id-29fb79c6-a189-4859-b13a-41abae7bc506"/>
+  <properties
+      key="Semanticsearch"
+      value="jaarverslagconstructie"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c38cf08432967d71d66f27e38d317d58"
+    documentation="uitwisseling leerlinggegevens met zorg partijen">
+  <properties
+      key="Referentie"
+      value="zie handreiking gegevensuitwisseling van het Nederlands Jeugdinstituut (2016), maar ook de brief van de VNG over het ontbreken van een wettelijk kader voor gegevensuitwisseling (Nji site) en overzicht wetten op de Nji site (zorgverzekeringswet, wet langdurige zorg, passend onderwijs, participatiewet, wet publieke gezondheid, WMO, jeugdstrafrecht)"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="basis en zorg"/>
+  <properties
+      key="Gegevenssoort"
+      value="Leerling"/>
+  <properties
+      key="Object ID"
+      value="2dc7d0ec-130f-4ca1-8229-3145758fc862"/>
+  <properties
+      key="Original ID"
+      value="id-2dc7d0ec-130f-4ca1-8229-3145758fc862"/>
+  <properties
+      key="Semanticsearch"
+      value="id-2dc7d0ec-130f-4ca1-8229-3145758fc862"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-130c8fd3954afe9aec757fccb8439afd.xml#id-130c8fd3954afe9aec757fccb8439afd"/>
+</archimate:FlowRelationship>

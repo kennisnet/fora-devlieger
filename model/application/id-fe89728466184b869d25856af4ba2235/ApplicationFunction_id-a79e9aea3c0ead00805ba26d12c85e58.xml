@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zoekondersteuning"
+    id="id-a79e9aea3c0ead00805ba26d12c85e58"
+    documentation="Het ondersteunen bij het vinden van de juiste informatie.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="c2417775-499a-4ba78-90bc-c124404dd0c"/>
+  <properties
+      key="Original ID"
+      value="id-c2417775499a4ba7890bcc124404dd0c"/>
+  <properties
+      key="Semanticsearch"
+      value="zoekondersteuning"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

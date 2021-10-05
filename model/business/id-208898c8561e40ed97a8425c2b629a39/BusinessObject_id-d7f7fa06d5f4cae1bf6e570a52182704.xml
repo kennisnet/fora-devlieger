@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijslocatie"
+    id="id-d7f7fa06d5f4cae1bf6e570a52182704"
+    documentation="Onderwijslocatie is een punt op een geografische kaart waar onderwijs wordt aangeboden.">
+  <properties
+      key="Object ID"
+      value="e4037a1c-0a0b-4989-8c9d-696b21e5f474"/>
+  <properties
+      key="Original ID"
+      value="e4037a1c-0a0b-4989-8c9d-696b21e5f474"/>
+  <properties
+      key="Semanticsearch"
+      value="onderwijslocatie"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Huisvesting"/>
+</archimate:BusinessObject>

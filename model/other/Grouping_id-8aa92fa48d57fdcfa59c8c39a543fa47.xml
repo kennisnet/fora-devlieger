@@ -1,0 +1,21 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(M) Bedrijfsdomein"
+    id="id-8aa92fa48d57fdcfa59c8c39a543fa47"
+    documentation="Domein waarbinnen de activiteiten van de organisatie zich afspeelt. Wordt gebruikt voor afbakening en scoping van de onderdelen.">
+  <properties
+      key="Object ID"
+      value="61e02e9b-aeaf-4801-962a-fd95ad2dec35"/>
+  <properties
+      key="Original ID"
+      value="id-61e02e9b-aeaf-4801-962a-fd95ad2dec35"/>
+  <properties
+      key="Semanticsearch"
+      value="(m) bedrijfsdomein"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Groep"/>
+</archimate:Grouping>

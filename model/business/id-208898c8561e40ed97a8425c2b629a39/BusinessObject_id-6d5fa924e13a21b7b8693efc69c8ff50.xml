@@ -1,0 +1,39 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerker"
+    id="id-6d5fa924e13a21b7b8693efc69c8ff50"
+    documentation="Een individu die werkactiviteiten uitvoert in opdracht van een onderwijsinstelling.">
+  <properties
+      key="Object ID"
+      value="38297e4d-bb5c-4b40-a3ea-b5d2d83ec7bf"/>
+  <properties
+      key="Original ID"
+      value="id-38297e4d-bb5c-4b40-a3ea-b5d2d83ec7bf"/>
+  <properties
+      key="Semanticsearch"
+      value="medewerker"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Bron"
+      value="FORA-WG Informatiemodel Bedrijfsvoering"/>
+  <properties
+      key="Afgeleid van"
+      value="HORA"/>
+</archimate:BusinessObject>

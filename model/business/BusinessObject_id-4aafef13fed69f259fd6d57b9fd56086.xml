@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referentiekader taal en rekenen"
+    id="id-4aafef13fed69f259fd6d57b9fd56086"
+    documentation="Het referentiekader taal en rekenen is het geheel van referentieniveaus en beschrijft wat leerlingen moeten kennen en kunnen m.b.t. de Nederlandse taal en rekenen/wiskunde op een bepaald overgangsmoment in het onderwijs">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Bron"
+      value="Werkgroep onderwijsbegrippen PO-Raad en VO-raad"/>
+  <properties
+      key="Object ID"
+      value="98156f01-4ce2-42e6a-8aca-e319b96131d"/>
+  <properties
+      key="Original ID"
+      value="id-98156f014ce242e6a8acae319b96131d"/>
+  <properties
+      key="Semanticsearch"
+      value="referentiekader taal en rekenen"/>
+  <properties
+      key="Status"
+      value="Definitief"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+</archimate:BusinessObject>

@@ -1,0 +1,24 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grondstof"
+    id="id-474bee3dfe630bad8e8abe241dddb148"
+    documentation="Voor grondstof-standaarden moeten nog meer specificaties en activiteiten worden uitgevoerd om interoperabiliteit te kunnen realiseren. Dit vergt specialistische kennis.">
+  <properties
+      key="SWC type"
+      value="Groep"/>
+  <properties
+      key="SWC subtype"
+      value="Gradaties"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="701fd29e-991b-41f08-4f57-7af58404c5f"/>
+  <properties
+      key="Original ID"
+      value="id-701fd29e991b41f084f577af58404c5f"/>
+  <properties
+      key="Semanticsearch"
+      value="grondstof"/>
+</archimate:Grouping>

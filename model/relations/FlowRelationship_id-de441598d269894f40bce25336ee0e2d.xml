@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-de441598d269894f40bce25336ee0e2d"
+    documentation="regels voor oprichting, administratie etc.">
+  <properties
+      key="Referentie"
+      value="burgerlijk wetboek en wet PO, wet VO en wet EC"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="oprichten en inrichten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Organisatie"/>
+  <properties
+      key="Object ID"
+      value="ee7caf72-5dcd-4d85-9de4-9312ac580e01"/>
+  <properties
+      key="Original ID"
+      value="ee7caf72-5dcd-4d85-9de4-9312ac580e01"/>
+  <properties
+      key="Semanticsearch"
+      value="ee7caf72-5dcd-4d85-9de4-9312ac580e01"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-01b80521844b4b972bda8e1441bad429.xml#id-01b80521844b4b972bda8e1441bad429"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vaststelling schoolplan en schoolgids"
+    id="id-ff4ce568b4db5060b63c93dd2e8fea84"
+    documentation="Het vaststellen van het schoolplan en de schoolgids.">
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="7b82f6ba-1240-4bacb-2270-3bf2e53a223"/>
+  <properties
+      key="Original ID"
+      value="id-7b82f6ba12404bacb22703bf2e53a223"/>
+  <properties
+      key="Semanticsearch"
+      value="vaststelling schoolplan en schoolgids"/>
+</archimate:BusinessFunction>

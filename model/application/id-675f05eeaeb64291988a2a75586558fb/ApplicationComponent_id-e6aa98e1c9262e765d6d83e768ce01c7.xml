@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Corporate LMS"
+    id="id-e6aa98e1c9262e765d6d83e768ce01c7"
+    documentation="Een systeem dat de logistieke en administratieve processen rondom het aanbieden van onderwijs aan medewerkers ondersteunt., zoals:&#xA;* Het beheren en aanbieden van cursussen (catalogus)&#xA;* Ondersteunen inschrijving&#xA;* Registratie van behaalde resultaten">
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Object ID"
+      value="0be0a2cf-8ea9-4473a-e155-4bb002bfa59"/>
+  <properties
+      key="Original ID"
+      value="id-0be0a2cf8ea94473ae1554bb002bfa59"/>
+  <properties
+      key="Semanticsearch"
+      value="corporate lms"/>
+</archimate:ApplicationComponent>

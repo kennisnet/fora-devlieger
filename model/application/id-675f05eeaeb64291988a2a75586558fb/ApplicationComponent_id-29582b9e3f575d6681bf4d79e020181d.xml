@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiebeveiligingssysteem"
+    id="id-29582b9e3f575d6681bf4d79e020181d"
+    documentation="Systeem voor het beheren van de informatiebeveiliging (cybersecurity) van de IT-infrastructuur. &#xA;Zoals of bijvoorbeeld: Intrusion Prevention (IPS) Intrusion Detection (IDS) Dmarcian, DKIM,  Quarantainenet Surffilesender Zivver LastPass Endpoint security (SentinelOne, Clearpass) Firewall Malware preventie/detectie">
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Object ID"
+      value="8ff881c0-1de1-45bc8-0ed8-99f14a3bca4"/>
+  <properties
+      key="Original ID"
+      value="id-8ff881c01de145bc80ed899f14a3bca4"/>
+  <properties
+      key="Semanticsearch"
+      value="informatiebeveiligingssysteem"/>
+</archimate:ApplicationComponent>

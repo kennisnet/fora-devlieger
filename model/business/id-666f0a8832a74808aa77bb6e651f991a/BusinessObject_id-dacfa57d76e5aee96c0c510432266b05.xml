@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eindcijfer"
+    id="id-dacfa57d76e5aee96c0c510432266b05"
+    documentation="Een eindcijfer is een getal dat een cijfermatige uitdrukking geeft aan een eindbeoordeling.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Gebeurtenis"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="0a8b50dd-b830-4ebfa-3aab-51107d54b89"/>
+  <properties
+      key="Original ID"
+      value="id-0a8b50ddb8304ebfa3aab51107d54b89"/>
+  <properties
+      key="Semanticsearch"
+      value="eindcijfer"/>
+  <properties
+      key="Bron"
+      value="FORA-WG Informatiemodel O&amp;O"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Statusdatum"
+      value="1-1-2021"/>
+  <properties
+      key="Sector"
+      value="FO"/>
+</archimate:BusinessObject>

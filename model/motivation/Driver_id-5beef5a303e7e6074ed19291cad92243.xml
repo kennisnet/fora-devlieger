@@ -1,0 +1,20 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Art. 11 WPO - Rapportage vorderingen van leerlingen"
+    id="id-5beef5a303e7e6074ed19291cad92243">
+  <properties
+      key="Verwijzing"
+      value="https://wetten.overheid.nl/jci1.3:c:BWBR0003420&amp;hoofdstuk=I&amp;titeldeel=II&amp;afdeling=1&amp;paragraaf=1&amp;artikel=11"/>
+  <properties
+      key="Juriconnect"
+      value="jci1.3:c:BWBR0003420&amp;hoofdstuk=I&amp;titeldeel=II&amp;afdeling=1&amp;paragraaf=1&amp;artikel=11"/>
+  <properties
+      key="Object ID"
+      value="ff29c152-f0f0-4655a-be49-5dd0f0de49d"/>
+  <properties
+      key="Original ID"
+      value="id-ff29c152f0f04655abe495dd0f0de49d"/>
+  <properties
+      key="Semanticsearch"
+      value="art. 11 wpo - rapportage vorderingen van leerlingen"/>
+</archimate:Driver>

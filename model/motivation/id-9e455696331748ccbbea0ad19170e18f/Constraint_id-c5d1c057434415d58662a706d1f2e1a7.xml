@@ -1,0 +1,21 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OSO Gegevenssets en profielen"
+    id="id-c5d1c057434415d58662a706d1f2e1a7"
+    documentation="OSO is het geheel van afspraken, standaarden en beveiligde verbindingen die de veilige digitale overdracht van studie- en begeleidingsgegevens van een leerling vanuit de leerlingadministratie van de huidige school naar de nieuwe school en voor binnenschoolse overdracht als voorbereiding hierop.">
+  <properties
+      key="Object ID"
+      value="c8263f95-aa1f-420c-9326-74385395e6b9"/>
+  <properties
+      key="Original ID"
+      value="c8263f95-aa1f-420c-9326-74385395e6b9"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Standaard"/>
+  <properties
+      key="Semanticsearch"
+      value="oso gegevenssets en profielen"/>
+</archimate:Constraint>

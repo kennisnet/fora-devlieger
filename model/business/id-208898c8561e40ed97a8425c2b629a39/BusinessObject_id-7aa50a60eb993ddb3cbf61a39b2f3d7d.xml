@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resultaatgegevens (CITO score, studietraject)"
+    id="id-7aa50a60eb993ddb3cbf61a39b2f3d7d"
+    documentation="Score die een student of leerling behaald heeft op een cursus of opleiding.">
+  <properties
+      key="Object ID"
+      value="a8eaa295-09a6-4bfa-9394-120d93210ab4"/>
+  <properties
+      key="Original ID"
+      value="a8eaa295-09a6-4bfa-9394-120d93210ab4"/>
+  <properties
+      key="Semanticsearch"
+      value="resultaatgegevens (cito score, studietraject)"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

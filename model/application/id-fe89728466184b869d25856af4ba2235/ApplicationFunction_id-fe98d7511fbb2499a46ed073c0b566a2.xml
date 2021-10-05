@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitwisseling OKR"
+    id="id-fe98d7511fbb2499a46ed073c0b566a2"
+    documentation="uitwisseling overstapdossier (onderwijskundig rapport)">
+  <properties
+      key="Object ID"
+      value="f4d7d324-65b8-4645-aff6-6784fcdb28f8"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+  <properties
+      key="Original ID"
+      value="f4d7d324-65b8-4645-aff6-6784fcdb28f8"/>
+  <properties
+      key="Semanticsearch"
+      value="uitwisseling okr"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:ApplicationFunction>

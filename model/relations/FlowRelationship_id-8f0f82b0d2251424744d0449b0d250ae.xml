@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8f0f82b0d2251424744d0449b0d250ae"
+    documentation="wetgeving van OCW voor DUO">
+  <properties
+      key="Referentie"
+      value="wet PO, wet VO, wet EC"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="beleid"/>
+  <properties
+      key="Gegevenssoort"
+      value="Instelling, organsiatie en bestuur"/>
+  <properties
+      key="Object ID"
+      value="4e0ab025-1dec-427e-9799-d1bca6a180e5"/>
+  <properties
+      key="Original ID"
+      value="id-4e0ab025-1dec-427e-9799-d1bca6a180e5"/>
+  <properties
+      key="Semanticsearch"
+      value="id-4e0ab025-1dec-427e-9799-d1bca6a180e5"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-584ebf14c9049c775936aefec6dc655c.xml#id-584ebf14c9049c775936aefec6dc655c"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+</archimate:FlowRelationship>

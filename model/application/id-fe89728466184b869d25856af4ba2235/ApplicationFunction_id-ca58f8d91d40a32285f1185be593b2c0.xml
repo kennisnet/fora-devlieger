@@ -1,0 +1,23 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inzien verzuim"
+    id="id-ca58f8d91d40a32285f1185be593b2c0">
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="Object ID"
+      value="9cefb655-a32b-4e31a-12d6-4299066526e"/>
+  <properties
+      key="Original ID"
+      value="id-9cefb655a32b4e31a12d64299066526e"/>
+  <properties
+      key="Semanticsearch"
+      value="inzien verzuim"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

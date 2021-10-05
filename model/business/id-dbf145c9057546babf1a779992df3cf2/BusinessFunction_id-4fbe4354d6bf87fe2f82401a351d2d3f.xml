@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PR en communicatie"
+    id="id-4fbe4354d6bf87fe2f82401a351d2d3f"
+    documentation="Het ervoor zorgdragen dat de onderwijsorganisatie zich op de juiste wijze uit naar interne en externe partijen.">
+  <properties
+      key="Werkingsgebied"
+      value="FO"/>
+  <properties
+      key="Object ID"
+      value="0104072c-34d1-4943-a3b7-73070b445052"/>
+  <properties
+      key="Original ID"
+      value="id-0104072c-34d1-4943-a3b7-73070b445052"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Semanticsearch"
+      value="pr en communicatie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+</archimate:BusinessFunction>

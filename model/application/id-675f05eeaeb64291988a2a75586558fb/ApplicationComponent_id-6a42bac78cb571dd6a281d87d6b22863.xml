@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT-objecten beheersysteem"
+    id="id-6a42bac78cb571dd6a281d87d6b22863"
+    documentation="Systeem voor het beheren van hard- en softwarecomponenten.&#xA;Het systeem ondersteunt het vastleggen van gegevens over IT-gerelateerde gegevens en ondersteunt de IT-beheerorganisatie bij het beheren van de betreffende componenten. Conform de ITIL-terminologie worden componenten vaak aangeduid als &quot;configuratie items&quot; en wordt de verzameling opgeslagen gegevens benoemd als &quot;Configuration Management DataBase&quot;.">
+  <properties
+      key="SWC type"
+      value="Referentiecomponent"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="a67f4af9-d386-4aad9-c8ca-efa4022472f"/>
+  <properties
+      key="Original ID"
+      value="id-a67f4af9d3864aad9c8caefa4022472f"/>
+  <properties
+      key="Semanticsearch"
+      value="it-objecten beheersysteem"/>
+</archimate:ApplicationComponent>

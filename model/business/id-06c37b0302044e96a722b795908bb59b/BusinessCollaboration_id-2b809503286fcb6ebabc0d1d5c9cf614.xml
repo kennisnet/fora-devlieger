@@ -1,0 +1,21 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VO"
+    id="id-2b809503286fcb6ebabc0d1d5c9cf614"
+    documentation="Het voortgezet onderwijs">
+  <properties
+      key="Werkingsgebied"
+      value="Sector VO"/>
+  <properties
+      key="Object ID"
+      value="af807c93-8630-413e-845f-f6928b142c2a"/>
+  <properties
+      key="Original ID"
+      value="af807c93-8630-413e-845f-f6928b142c2a"/>
+  <properties
+      key="Semanticsearch"
+      value="vo"/>
+  <properties
+      key="SWC Type"
+      value="Werkingsgebied"/>
+</archimate:BusinessCollaboration>

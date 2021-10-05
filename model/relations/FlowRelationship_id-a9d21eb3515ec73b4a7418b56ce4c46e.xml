@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a9d21eb3515ec73b4a7418b56ce4c46e"
+    documentation="uitwisseling gegevens met kinderdagverblijven (en gemeente)">
+  <properties
+      key="Referentie"
+      value="nieuwe wet op de kinderdagverblijven plus diverse regelingen zoals onderwijsachterstandsgelden voor VVE, Asscher middelen voor 1 verdieners en gemeentelijke middelen"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="basis en zorg"/>
+  <properties
+      key="Gegevenssoort"
+      value="Leerling"/>
+  <properties
+      key="Object ID"
+      value="f25f5d37-f572-4ec1-921e-322e7f647b1e"/>
+  <properties
+      key="Original ID"
+      value="f25f5d37-f572-4ec1-921e-322e7f647b1e"/>
+  <properties
+      key="Semanticsearch"
+      value="f25f5d37-f572-4ec1-921e-322e7f647b1e"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-2c9515cc27b21c8c9d19e7d28735d8be.xml#id-2c9515cc27b21c8c9d19e7d28735d8be"/>
+</archimate:FlowRelationship>

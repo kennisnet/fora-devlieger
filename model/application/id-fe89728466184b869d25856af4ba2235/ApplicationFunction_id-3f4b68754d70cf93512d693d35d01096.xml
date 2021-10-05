@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bestuursinformatiebeheer"
+    id="id-3f4b68754d70cf93512d693d35d01096"
+    documentation="Het beheren van bestuursinformatie.">
+  <properties
+      key="SWC type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="8fd8e894-259f-413aa-d173-8f7859b0589"/>
+  <properties
+      key="Original ID"
+      value="id-8fd8e894259f413aad1738f7859b0589"/>
+  <properties
+      key="Semanticsearch"
+      value="bestuursinformatiebeheer"/>
+  <properties
+      key="Applicatiefunctiecategorie"
+      value="CoreApplicationFunctions"/>
+</archimate:ApplicationFunction>

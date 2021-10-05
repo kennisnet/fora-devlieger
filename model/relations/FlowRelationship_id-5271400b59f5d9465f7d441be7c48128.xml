@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5271400b59f5d9465f7d441be7c48128"
+    documentation="ministeriële goedkeuring voor school / opleiding">
+  <properties
+      key="Referentie"
+      value="wet op PO art 74., wet VO, wet EC"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="oprichten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Organisatie"/>
+  <properties
+      key="Object ID"
+      value="515df1b0-4549-492f-bfc1-7c88e2fab6c0"/>
+  <properties
+      key="Original ID"
+      value="id-515df1b0-4549-492f-bfc1-7c88e2fab6c0"/>
+  <properties
+      key="Semanticsearch"
+      value="id-515df1b0-4549-492f-bfc1-7c88e2fab6c0"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-584ebf14c9049c775936aefec6dc655c.xml#id-584ebf14c9049c775936aefec6dc655c"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1798418407d773b8ccad68b10593f299.xml#id-1798418407d773b8ccad68b10593f299"/>
+</archimate:FlowRelationship>

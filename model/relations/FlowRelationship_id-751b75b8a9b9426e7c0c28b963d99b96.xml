@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-751b75b8a9b9426e7c0c28b963d99b96"
+    documentation="selectie van onderwijs administratieve systemen">
+  <properties
+      key="Referentie"
+      value="wet PO, art 8.6, art 40b. E.a. wet VO, wet EC ; ROSA: ketenproces constructie en planning toetsen en examineren"/>
+  <properties
+      key="Grondslag"
+      value="wettelijk"/>
+  <properties
+      key="Benaming"
+      value="inrichten"/>
+  <properties
+      key="Gegevenssoort"
+      value="Onderwijs Organisatie"/>
+  <properties
+      key="Object ID"
+      value="e12b7127-4041-4ff7-8230-63e36bb02080"/>
+  <properties
+      key="Original ID"
+      value="e12b7127-4041-4ff7-8230-63e36bb02080"/>
+  <properties
+      key="Semanticsearch"
+      value="e12b7127-4041-4ff7-8230-63e36bb02080"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-dce12943b414197c59b69ef01644c447.xml#id-dce12943b414197c59b69ef01644c447"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-1974e1d55a4b79fe545c5bac251303c0.xml#id-1974e1d55a4b79fe545c5bac251303c0"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgplicht"
+    id="id-d57f4766c678f3c0d274debf9c8a6f0c"
+    documentation="Zorgplicht is de verplichting voor scholen om ervoor te zorgen dat iedere leerling met een extra ondersteuningsbehoefte op een passende onderwijsplek terecht komt.">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Richting"/>
+  <properties
+      key="Domein"
+      value="Passend onderwijs"/>
+  <properties
+      key="Object ID"
+      value="b12fec66-6c9d-4763a-43e8-9bd89330bf6"/>
+  <properties
+      key="Original ID"
+      value="id-b12fec666c9d4763a43e89bd89330bf6"/>
+  <properties
+      key="Semanticsearch"
+      value="zorgplicht"/>
+</archimate:BusinessObject>
