@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijslocatiegebruik"
+    id="id-8f4a8c48712143bcb45e77e262d9784a"
+    documentation="Een locatie waar onderwijs wordt gegeven.&#xD;&#xA;&#xD;&#xA;Meerdere partijen kunnen gebruik maken van een bepaalde onderwijslocatie. Aan dat gebruik kunnen van elkaar afwijkende gegevens en regels hangen. OCW geeft een vestigingserkenning af als er onderwijs voor po en vo op de locatie mag worden aangeboden.">
+  <properties
+      key="Onderwijsbegrippen.nl"
+      value="Nee"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

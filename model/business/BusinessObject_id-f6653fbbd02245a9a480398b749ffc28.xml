@@ -1,0 +1,30 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsbestuur"
+    id="id-f6653fbbd02245a9a480398b749ffc28"
+    documentation="Het schoolbestuur is het orgaan dat de eindverantwoordelijkheid draagt voor beslissingen die te maken hebben met de school en het onderwijs dat gegeven wordt.&#xD;&#xA;&#xD;&#xA;RIO: Onderwijsbestuur&#xD;&#xA;Een orgaan van een rechtspersoon krachtens publiekrecht ingesteld (a-orgaan) of een persoon of college met enig openbaar gezag bekleed (b-orgaan)">
+  <properties
+      key="Onderwijsbegrippen.nl"
+      value="Ja"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Ja"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Bevoegd gezag"/>
+  <properties
+      key="Alias"
+      value="Schoolbestuur"/>
+</archimate:BusinessObject>

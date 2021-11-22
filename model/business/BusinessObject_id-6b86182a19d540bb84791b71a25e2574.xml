@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nevenvestiging"
+    id="id-6b86182a19d540bb84791b71a25e2574"
+    documentation="Een nevenvestiging is een (tijdelijk) schoolgebouw verbonden aan een hoofdvestiging, kan een eigenschool met eigen propgramma zijn en hoeft niet verbonden te zijn aan een hoofdvestiging.&#xD;&#xA;Een nevenvestiging is een andere dan de eerste vestiging van een school of scholengemeenschap die voor bekostiging in aanmerking is gebracht.">
+  <properties
+      key="Onderwijsbegrippen.nl"
+      value="Ja"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Middel"/>
+  <properties
+      key="Domein"
+      value="Huisvesting"/>
+</archimate:BusinessObject>

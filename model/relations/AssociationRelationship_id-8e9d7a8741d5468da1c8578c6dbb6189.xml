@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="behoort tot"
+    id="id-8e9d7a8741d5468da1c8578c6dbb6189"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-8cd68c03ab5d4b2582df64b7ff5dd5a0.xml#id-8cd68c03ab5d4b2582df64b7ff5dd5a0"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-7693d63456c34f4493ff91b317ffd73a.xml#id-7693d63456c34f4493ff91b317ffd73a"/>
+</archimate:AssociationRelationship>

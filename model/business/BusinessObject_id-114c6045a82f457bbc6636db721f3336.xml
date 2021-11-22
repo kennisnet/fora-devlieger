@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samenwerkingsverband passend onderwijs"
+    id="id-114c6045a82f457bbc6636db721f3336"
+    documentation="Het samenwerkingsverband passend onderwijs maakt afspraken over welke begeleiding de reguliere scholen bieden, welke leerlingen een plek krijgen in het speciaal onderwijs en over de verdeling van de ondersteuningsmiddelen">
+  <properties
+      key="Onderwijsbegrippen.nl"
+      value="Ja"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Nee"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Partij"/>
+  <properties
+      key="Domein"
+      value="Passend onderwijs"/>
+</archimate:BusinessObject>

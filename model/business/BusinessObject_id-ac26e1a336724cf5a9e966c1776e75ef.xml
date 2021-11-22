@@ -1,0 +1,29 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vestiging"
+    id="id-ac26e1a336724cf5a9e966c1776e75ef"
+    documentation="De toestemming om op een bepaalde locatie onderwijs te mogen verzorgen.&#xD;&#xA;&#xD;&#xA;Kan (het gebruik van) meerdere onderwijslocaties omvatten">
+  <properties
+      key="Onderwijsbegrippen.nl"
+      value="Nee"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Vertrouwelijkheid"/>
+  <properties
+      key="Persoonsgegevens"/>
+  <properties
+      key="Gegevenscategorie"/>
+  <properties
+      key="Domein"
+      value="Bevoegd gezag"/>
+  <properties
+      key="Sector"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Statusdatum"/>
+</archimate:BusinessObject>
